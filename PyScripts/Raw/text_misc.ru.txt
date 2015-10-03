@@ -1,0 +1,128 @@
+Ailments:
+  Ailment 01: "Без Сознания"#Unconscious
+  Ailment 02: "Кристаллизация"#Diamondized
+  Ailment 03: "Паралич"#Paralyzed
+  Ailment 04: "Тошнота"#Nauseous
+  Ailment 05: "Отравление"#Poisoned
+  Ailment 06: "Солн. Удар"#Sunstroke
+  Ailment 07: "Сопение"#Sniffling
+  Ailment 08: "Гриб"#Mashroomized
+  Ailment 09: "Одержимость"#Possessed
+  Ailment 10: "Тоска по Дому"#Homesick
+Battle Menu:
+  Auto Fight: "Авто-Битва"#Auto Fight
+  Bash: "Бить"
+  Defend: "Защищаться"
+  Do Nothing: "Пропустить"#Do Nothing
+  Goods: "Вещи"#Goods
+  Mirror: "Копировать"#Mirror
+  PSI: "ПСИ"#PSI
+  Pray: "Молиться"
+  Run Away: "Бежать"#Run Away
+  Shoot: "Стрелять"#Shoot
+  Spy: "Изучить"#Spy
+Equip Menu:
+  Arms: '     Руки'
+  Arms Window Title: "Руки"
+  Body: '      Тело'
+  Body Window Title: "Тело"
+  Defense: "Защита"
+  No Equip: '(...)'
+  Offense: "Атака"
+  Other: '     Проч.'
+  Other Window Title: 'Другие'#Others
+  To: 'До:'
+  Unequip: "..."
+  Weapon: '  Оружие'
+  Weapon Window Title: "Оружия"
+Item Menu:
+  Drop: "Брос."#Drop
+  Give: "Дать"#Give
+  Help: "Помщ."#Help!
+  Use: "Исп."#Use
+Menu Action Targets:
+  Where: "Куда?"#Where?
+  Where 2: "Где?"#Where?
+  Which: "Который?"#Which?
+  Who: "Кто?"#Who?
+  Whom: "Кому?"#Whom?
+Other:
+  Lumine Hall Text: I'm ....  It's been a long road getting here...  Soon, I'll be...  Soon,
+    I'll be...  Soon, I'll be...  What will happen to us?  W...what's happening?  My
+    thoughts are being written out on the wall...  or are they?
+  Player Name Prompt: "Пожалуйста, введите ваше имя."#Register your name, please
+Out of Battle Menu:
+  Check: "Проверить"#Check
+  Equip: "Надеть"#Equip
+  Goods: "Вещи"#Goods
+  PSI: "ПСИ"#PSI
+  Status: "Статус"#Status
+  Talk to: "Говорить"#Talk to
+PSI Menu:
+  PP Cost: "Цена ПП"#PP Cost
+  Row Back: "Задний Ряд"#the Back Row
+  Row Front: "Передний Ряд"#the Front Row
+  Row To: ''#'To '
+  To all enemies: "Всех врагов"#To all enemies
+  To all of us: "Всех нас"#To all of us
+  To all of us 2: "Всех нас"#To all of us
+  To enemy: "Врага"#To enemy
+  To one enemy: "Одного врага"#To one enemy
+  To one enemy 2: "Одного Врага"#to One Enemy
+  To one of us: "Одного из нас"#To one of us
+  To one of us 2: "Одного Друга"#to One Friend
+  To row of foes: "Ряд Врагов"#To row of foes
+  himself: "себя"#himself
+PSI Types:
+  Assist: "Вспом."#Assist
+  Offense: "Атака"#Offense
+  Other: "Прочее"#Other
+  Recover: "Лечение"#Recover
+Starting Text:
+  Ask Name 1: "Пожалуйста, назови его."#Please name him.
+  Ask Name 2: "Её тоже."#Name her, too.
+  Ask Name 3: "Назови своего друга."#Name your friend.
+  Ask Name 4: "Назови другого друга."#Name another friend.
+  Ask Name Food: "Любимая еда?"#Favorite homemade food?
+  Ask Name PSI: "Самая любимая вещь?"#What's your favorite thing?
+  Ask Name Pet: "Назови своего питомца."#Name your pet.
+  Confirm All: "Ты уверен?"#Are you sure?
+  Confirm All No: "Не-а"#Nope
+  Confirm All Yes: "Ага"#Yep
+  Confirm Delete: "Ты правда хочешь стереть?"#Are you sure you want to delete?
+  Confirm Delete No: 'Нет'#'No'
+  Confirm Delete Yes: 'Да'#'Yes'
+  Confirm Food: 'Любимая еда:'#'Favorite food:'
+  Confirm PSI: 'Лучшая вешь:'#'Coolest thing:'
+  Continue: "Играть"#Continue
+  Copy: "Копировать"#Copy
+  Copy to where?: "Копиров. куда?"#Copy to where?
+  Delete: "Удалить"#Delete
+  Select Sound: "Выберите установку звука."#Please select sound setting.
+  Select Sound Mono: "Моно"#Mono
+  Select Sound Stereo: "Стерео"#Stereo
+  Select Speed: "Скорость текста?"#Please select text speed.
+  Select Style: "Какой стиль окон тебе [50][50]по душе?"#Which style of windows do you prefer?
+  Set Up: "Настроить"#Set Up
+  Start New Game: "Начать Игру"#Start New Game
+  Text Speed: 'Скр.Текста:'#'Text Speed:'
+  Text Speed Fast: "Быстро"#Fast
+  Text Speed Medium: "Средне"#Medium
+  Text Speed Slow: "Медл."#Slow
+Status Window:
+  Defense: 'Защита:'#'Defense:'
+  Exp. for next level: "Опыт до след. ур."#Exp. for next level.
+  Experience Points: 'Очки Опыта:'#'Experience Points:'
+  Guts: 'Муж.:'#'Guts:'
+  Hit Points: 'Здоровье:'#'Hit Points:'
+  IQ: 'ИТ:'#'IQ:'
+  Level: 'Уров.:'#'Level:'
+  Luck: 'Удч.:'#'Luck:'
+  Offense: 'Атака:'#'Offense:'
+  PSI Prompt: 'Нажмите -А- для инф. о ПСИ.'#'@Press the -A- Button for PSI info.'
+  Psychic Points: 'Очков ПСИ (ПП):'#'Psychic Points:'
+  Speed: 'Скор.:'#'Speed:'
+  Vitality: 'Живуч.:'#'Vitality:'
+Window Titles:
+  Escargo Express Window Title: "Хран. Вещи"#Stored Goods
+  Phone Window Title: 'Звн.:'#'Call:'

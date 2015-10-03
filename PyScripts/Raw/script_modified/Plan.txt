@@ -1,0 +1,27 @@
+data_21.ru.ccs
+>>Edited lines:
+	//Tracy
+	l_0xc66aa4
+	l_0xc66afe
+	l_0xc66b33
+
+data_22.ru.ccs
+>>Edited lines:
+	l_0xc66b97
+	l_0xc66d2b
+	l_0xc66d3e
+	l_0xc66df2
+	l_0xc66e13
+	l_0xc66e40
+	l_0xc66e8a
+	l_0xc66e9f
+
+data_35.ru.ccs
+>>Edited lines:
+	//Various actions
+	l_0xc7c588
+	l_0xc7c59e
+	l_0xc7d947
+	l_0xc7d958
+	l_0xc7d967
+	l_0xc7d991

@@ -460,17 +460,27 @@ l_0xc66a06:
 l_0xc66a83:
     "@(The Golden Statue is glowing strangely...){sound(113)}" end
 
-l_0xc66aa4:
+/*l_0xc66aa4:
     "[06 49 00 {e(data_31.l_0xc7625e)}][06 B4 02 {e(data_22.l_0xc66bc0)}][06 B5 02 {e(data_22.l_0xc66c7d)}][06 78 02 {e(l_0xc66b33)}][06 61 00 {e(data_31.l_0xc76112)}][06 D6 01 {e(l_0xc66afe)}]@Hey,{pause(10)} bro.{pause(20)}  Did the sound wake you up?" next
-    "@Were you freaked out?{wait}{set(flag 470)}" eob
+    "@Were you freaked out?{wait}{set(flag 470)}" eob*/
+l_0xc66aa4:
+    "[06 49 00 {e(data_31.l_0xc7625e)}][06 B4 02 {e(data_22.l_0xc66bc0)}][06 B5 02 {e(data_22.l_0xc66c7d)}][06 78 02 {e(l_0xc66b33)}][06 61 00 {e(data_31.l_0xc76112)}][06 D6 01 {e(l_0xc66afe)}]@[B4][9B],{pause(10)} [92][A2][91][A4][9A][9C].{pause(20)}  [84][96][92][C6] [A4][A0][98][96] [A2][91][99][92][A5][95][9A][9D] [C4][A4][A0][A4] [94][A2][A0][A7][A0][A4]?" next
+    "@[84][C2] [9A][A3][A1][A5][94][91][9D][A3][C6], [95][91]?{wait}{set(flag 470)}" eob
 
-l_0xc66afe:
+/*l_0xc66afe:
     "@Do you think Mom will let me stay up late tonight?" next
-    "@I can't seem to fall back asleep." end
-
-l_0xc66b33:
+    "@I can't seem to fall back asleep." end*/
+l_0xc66afe:
+    "@[7C][91][9C] [A4][C2] [95][A5][9E][91][96][AA][C3], [A2][91][99][A2][96][AA][9A][A4] [9E][9F][96] [9E][91][9E][91] [9F][96] [9D][A0][98][9A][A4][C3][A3][C6] [A3][A1][91][A4][C3]?" next
+    "@[B6] [9F][96] [9E][A0][94][A5] [99][91][A3][9F][A5][A4][C3]." end
+/*l_0xc66b33:
     "@I can only help by keeping your items here..." next
     "@I support you whole-heartedly.{pause(20)}  Don't get yourself knocked off." next
     "@...I will be strong while you're gone." next
+    goto(data_19.l_0xc64672)*/
+l_0xc66b33:
+    "@[B6] [A4][A0][9D][C3][9C][A0] [9E][A0][94][A5] [A4][93][A0][9A] [93][96][C0][9A] [A7][A2][91][9F][9A][A4][C3]..." next
+    "@[B6] [A4][96][92][C6] [A1][A0][95][95][96][A2][98][9A][93][91][C5] [93][A3][96][9E] [A3][96][A2][95][A8][96][9E].{pause(20)}  [7F][96] [95][91][9B] [9A][9E] [A4][96][92][C6] [A1][A0][92][9A][A4][C3]." next
+    "@...[B6] [92][A5][95][A5] [A3][9A][9D][C3][9F][A0][9B] [A2][91][95][9A] [A4][96][92][C6]." next
     goto(data_19.l_0xc64672)
 

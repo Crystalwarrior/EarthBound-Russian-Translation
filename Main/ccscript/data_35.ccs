@@ -75,11 +75,15 @@ l_0xc7c55d:
 l_0xc7c57d:
     call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}" eob
 
+/*l_0xc7c588:
+    "[06 94 02 {e(data_25.l_0xc6bef9)}]@Who are you talking to?" end*/
 l_0xc7c588:
-    "[06 94 02 {e(data_25.l_0xc6bef9)}]@Who are you talking to?" end
+    "[06 94 02 {e(data_25.l_0xc6bef9)}]@[83] [9C][96][9E] [A4][C2] [A2][91][99][94][A0][93][91][A2][9A][93][91][96][AA][C3]?" end
 
+/*l_0xc7c59e:
+    "[06 B0 01 {e(data_09.l_0xc58ebb)}]@No problem here." end*/
 l_0xc7c59e:
-    "[06 B0 01 {e(data_09.l_0xc58ebb)}]@No problem here." end
+    "[06 B0 01 {e(data_09.l_0xc58ebb)}]@[7F][9A][9C][91][9C][9A][A7] [A1][A2][A0][92][9D][96][9E]." end
 
 l_0xc7c5b0:
     "[19 19 00 00]{store_registers}" call(data_36.l_0xc7dc85) "{load_registers}{swap}" eob
@@ -426,20 +430,33 @@ l_0xc7d90d:
 l_0xc7d92a:
     "[06 E2 00 {e(data_36.l_0xc7d9fc)}][06 E3 00 {e(data_36.l_0xc7da23)}][06 E4 00 {e(data_36.l_0xc7da68)}][06 E5 00 {e(data_36.l_0xc7daa1)}]" eob
 
+/*l_0xc7d947:
+    newline
+    "@There is a [1C 05 00] inside![03]" eob*/
 l_0xc7d947:
     newline
-    "@There is a [1C 05 00] inside![03]" eob
+    "@[73][9F][A5][A4][A2][9A] [9F][91][A7][A0][95][9A][A4][A3][C6] [1C 05 00]![03]" eob
 
+/*l_0xc7d958:
+    newline
+    "@[1C 02 00] takes it.{swap}" end*/
 l_0xc7d958:
     newline
-    "@[1C 02 00] takes it.{swap}" end
+    "@[1C 02 00] [9C][9D][91][95][97][A4] [1C 05 00] [93] [A2][C5][9C][99][91][9C].{swap}" end
 
-l_0xc7d967:
+/*l_0xc7d967:
     "[19 10 01]{swap}" newline
     "@[1C 02 00] added the{load_registers} [1C 05 00] " linebreak
-    " to {swap}[1C 02 00]'s stuff.{swap}" end
+    " to {swap}[1C 02 00]'s stuff.{swap}" end*/
+l_0xc7d967:
+    "[19 10 01]{swap}" newline
+    "@[1C 02 00] [92][96][A2][97][A4] {load_registers} [1C 05 00] " linebreak
+    " [9A] [9C][9D][91][95][97][A4] ([96][94][A0]/[96][97]) [93] [A2][C5][9C][99][91][9C] {swap}[1C 02 00].{swap}" end
 
+/*l_0xc7d991:
+    newline
+    "[19 10 01]@But, " call(data_36.l_0xc7e5f3) " has got too much stuff already." end*/
 l_0xc7d991:
     newline
-    "[19 10 01]@But, " call(data_36.l_0xc7e5f3) " has got too much stuff already." end
+    "[19 10 01]@[7F][A0] [A5] " call(data_36.l_0xc7e5f3) " [9A][A4][91][9C] [A3][9D][9A][AA][9C][A0][9E] [9E][9F][A0][94][A0] [93][96][C0][96][9B]." end
 

@@ -19,7 +19,7 @@
   PSI Menu position (Y): 0
   PSI Name: 0
   Strength: alpha
-  Text Address: $ef4e20
+  Text Address: data_60.l_0xef4e20
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -32,7 +32,7 @@
   PSI Menu position (Y): 0
   PSI Name: 0
   Strength: beta
-  Text Address: $ef4e38
+  Text Address: data_60.l_0xef4e38
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -45,7 +45,7 @@
   PSI Menu position (Y): 0
   PSI Name: 0
   Strength: gamma
-  Text Address: $ef4e51
+  Text Address: data_60.l_0xef4e51
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -58,7 +58,7 @@
   PSI Menu position (Y): 0
   PSI Name: 0
   Strength: omega
-  Text Address: $ef4e6a
+  Text Address: data_60.l_0xef4e6a
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -71,7 +71,7 @@
   PSI Menu position (Y): 0
   PSI Name: 1
   Strength: alpha
-  Text Address: $ef4e83
+  Text Address: data_60.l_0xef4e83
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -84,7 +84,7 @@
   PSI Menu position (Y): 0
   PSI Name: 1
   Strength: beta
-  Text Address: $ef4e99
+  Text Address: data_60.l_0xef4e99
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -97,7 +97,7 @@
   PSI Menu position (Y): 0
   PSI Name: 1
   Strength: gamma
-  Text Address: $ef4eb0
+  Text Address: data_60.l_0xef4eb0
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -110,7 +110,7 @@
   PSI Menu position (Y): 0
   PSI Name: 1
   Strength: omega
-  Text Address: $ef4ec7
+  Text Address: data_60.l_0xef4ec7
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -123,7 +123,7 @@
   PSI Menu position (Y): 1
   PSI Name: 2
   Strength: alpha
-  Text Address: $ef4ede
+  Text Address: data_60.l_0xef4ede
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -136,7 +136,7 @@
   PSI Menu position (Y): 1
   PSI Name: 2
   Strength: beta
-  Text Address: $ef4f06
+  Text Address: data_60.l_0xef4f06
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -149,7 +149,7 @@
   PSI Menu position (Y): 1
   PSI Name: 2
   Strength: gamma
-  Text Address: $ef4f2e
+  Text Address: data_60.l_0xef4f2e
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -162,7 +162,7 @@
   PSI Menu position (Y): 1
   PSI Name: 2
   Strength: omega
-  Text Address: $ef4f56
+  Text Address: data_60.l_0xef4f56
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -175,7 +175,7 @@
   PSI Menu position (Y): 2
   PSI Name: 3
   Strength: alpha
-  Text Address: $ef4f7e
+  Text Address: data_60.l_0xef4f7e
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -188,7 +188,7 @@
   PSI Menu position (Y): 2
   PSI Name: 3
   Strength: beta
-  Text Address: $ef4fa6
+  Text Address: data_60.l_0xef4fa6
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -201,7 +201,7 @@
   PSI Menu position (Y): 2
   PSI Name: 3
   Strength: gamma
-  Text Address: $ef4fdc
+  Text Address: data_60.l_0xef4fdc
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -214,7 +214,7 @@
   PSI Menu position (Y): 2
   PSI Name: 3
   Strength: omega
-  Text Address: $ef5013
+  Text Address: data_60.l_0xef5013
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -227,7 +227,7 @@
   PSI Menu position (Y): 1
   PSI Name: 4
   Strength: alpha
-  Text Address: $ef5049
+  Text Address: data_60.l_0xef5049
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -240,7 +240,7 @@
   PSI Menu position (Y): 1
   PSI Name: 4
   Strength: beta
-  Text Address: $ef506b
+  Text Address: data_60.l_0xef506b
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -253,7 +253,7 @@
   PSI Menu position (Y): 1
   PSI Name: 4
   Strength: gamma
-  Text Address: $ef50af
+  Text Address: data_60.l_0xef50af
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -266,7 +266,7 @@
   PSI Menu position (Y): 1
   PSI Name: 4
   Strength: omega
-  Text Address: $ef50e1
+  Text Address: data_60.l_0xef50e1
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -279,7 +279,7 @@
   PSI Menu position (Y): 0
   PSI Name: 5
   Strength: alpha
-  Text Address: $ef5131
+  Text Address: data_60.l_0xef5131
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -292,7 +292,7 @@
   PSI Menu position (Y): 0
   PSI Name: 5
   Strength: omega
-  Text Address: $ef5152
+  Text Address: data_60.l_0xef5152
   Type:
   - offense
   Usability Outside of Battle: unusable
@@ -305,7 +305,7 @@
   PSI Menu position (Y): 0
   PSI Name: 6
   Strength: alpha
-  Text Address: $ef5173
+  Text Address: data_60.l_0xef5173
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -318,7 +318,7 @@
   PSI Menu position (Y): 0
   PSI Name: 6
   Strength: beta
-  Text Address: $ef5189
+  Text Address: data_60.l_0xef5189
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -331,7 +331,7 @@
   PSI Menu position (Y): 0
   PSI Name: 6
   Strength: gamma
-  Text Address: $ef519f
+  Text Address: data_60.l_0xef519f
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -344,7 +344,7 @@
   PSI Menu position (Y): 0
   PSI Name: 6
   Strength: omega
-  Text Address: $ef51bb
+  Text Address: data_60.l_0xef51bb
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -357,7 +357,7 @@
   PSI Menu position (Y): 1
   PSI Name: 7
   Strength: alpha
-  Text Address: $ef51cf
+  Text Address: data_60.l_0xef51cf
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -370,7 +370,7 @@
   PSI Menu position (Y): 1
   PSI Name: 7
   Strength: beta
-  Text Address: $ef51f0
+  Text Address: data_60.l_0xef51f0
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -383,7 +383,7 @@
   PSI Menu position (Y): 1
   PSI Name: 7
   Strength: gamma
-  Text Address: $ef5239
+  Text Address: data_60.l_0xef5239
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -396,7 +396,7 @@
   PSI Menu position (Y): 1
   PSI Name: 7
   Strength: omega
-  Text Address: $ef52a5
+  Text Address: data_60.l_0xef52a5
   Type:
   - recovery
   Usability Outside of Battle: usable
@@ -409,7 +409,7 @@
   PSI Menu position (Y): 0
   PSI Name: 8
   Strength: alpha
-  Text Address: $ef5301
+  Text Address: data_60.l_0xef5301
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -422,7 +422,7 @@
   PSI Menu position (Y): 0
   PSI Name: 8
   Strength: sigma
-  Text Address: $ef5361
+  Text Address: data_60.l_0xef5361
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -435,7 +435,7 @@
   PSI Menu position (Y): 0
   PSI Name: 8
   Strength: beta
-  Text Address: $ef53c0
+  Text Address: data_60.l_0xef53c0
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -448,7 +448,7 @@
   PSI Menu position (Y): 0
   PSI Name: 8
   Strength: omega
-  Text Address: $ef5428
+  Text Address: data_61.l_0xef5428
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -461,7 +461,7 @@
   PSI Menu position (Y): 0
   PSI Name: 9
   Strength: alpha
-  Text Address: $ef548f
+  Text Address: data_61.l_0xef548f
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -474,7 +474,7 @@
   PSI Menu position (Y): 0
   PSI Name: 9
   Strength: sigma
-  Text Address: $ef54e6
+  Text Address: data_61.l_0xef54e6
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -487,7 +487,7 @@
   PSI Menu position (Y): 0
   PSI Name: 9
   Strength: beta
-  Text Address: $ef553c
+  Text Address: data_61.l_0xef553c
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -500,7 +500,7 @@
   PSI Menu position (Y): 0
   PSI Name: 9
   Strength: omega
-  Text Address: $ef55a0
+  Text Address: data_61.l_0xef55a0
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -513,7 +513,7 @@
   PSI Menu position (Y): 1
   PSI Name: 10
   Strength: alpha
-  Text Address: $ef5603
+  Text Address: data_61.l_0xef5603
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -526,7 +526,7 @@
   PSI Menu position (Y): 1
   PSI Name: 10
   Strength: omega
-  Text Address: $ef562e
+  Text Address: data_61.l_0xef562e
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -539,7 +539,7 @@
   PSI Menu position (Y): 2
   PSI Name: 11
   Strength: alpha
-  Text Address: $ef5658
+  Text Address: data_61.l_0xef5658
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -552,7 +552,7 @@
   PSI Menu position (Y): 2
   PSI Name: 11
   Strength: omega
-  Text Address: $ef5687
+  Text Address: data_61.l_0xef5687
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -565,7 +565,7 @@
   PSI Menu position (Y): 1
   PSI Name: 12
   Strength: alpha
-  Text Address: $ef56b9
+  Text Address: data_61.l_0xef56b9
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -578,7 +578,7 @@
   PSI Menu position (Y): 1
   PSI Name: 12
   Strength: omega
-  Text Address: $ef56d0
+  Text Address: data_61.l_0xef56d0
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -591,7 +591,7 @@
   PSI Menu position (Y): 2
   PSI Name: 13
   Strength: alpha
-  Text Address: $ef56eb
+  Text Address: data_61.l_0xef56eb
   Type:
   - recovery
   Usability Outside of Battle: unusable
@@ -604,7 +604,7 @@
   PSI Menu position (Y): 2
   PSI Name: 13
   Strength: omega
-  Text Address: $ef5712
+  Text Address: data_61.l_0xef5712
   Type:
   - recovery
   Usability Outside of Battle: unusable
@@ -617,7 +617,7 @@
   PSI Menu position (Y): 2
   PSI Name: 14
   Strength: alpha
-  Text Address: $ef5739
+  Text Address: data_61.l_0xef5739
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -630,7 +630,7 @@
   PSI Menu position (Y): 2
   PSI Name: 14
   Strength: omega
-  Text Address: $ef574e
+  Text Address: data_61.l_0xef574e
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -643,7 +643,7 @@
   PSI Menu position (Y): 1
   PSI Name: 15
   Strength: alpha
-  Text Address: $ef5766
+  Text Address: data_61.l_0xef5766
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -656,7 +656,7 @@
   PSI Menu position (Y): 1
   PSI Name: 15
   Strength: omega
-  Text Address: $ef5777
+  Text Address: data_61.l_0xef5777
   Type:
   - assist
   Usability Outside of Battle: unusable
@@ -669,7 +669,7 @@
   PSI Menu position (Y): 2
   PSI Name: 16
   Strength: alpha
-  Text Address: $ef578b
+  Text Address: data_61.l_0xef578b
   Type:
   - other
   Usability Outside of Battle: other
@@ -682,7 +682,7 @@
   PSI Menu position (Y): 2
   PSI Name: 16
   Strength: beta
-  Text Address: $ef57ae
+  Text Address: data_61.l_0xef57ae
   Type:
   - other
   Usability Outside of Battle: other

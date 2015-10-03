@@ -1,6 +1,6 @@
 0:
   0:
-  - Text Pointer: $c87b33
+  - Text Pointer: data_43.l_0xc87b33
     Type: object
     X: 21
     Y: 17
@@ -14,7 +14,7 @@
     Type: door
     X: 21
     Y: 14
-  - Text Pointer: $c87b56
+  - Text Pointer: data_43.l_0xc87b56
     Type: object
     X: 21
     Y: 25
@@ -24,7 +24,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c98
+    Text Pointer: data_55.l_0xc99c98
     Type: door
     X: 22
     Y: 14
@@ -38,24 +38,24 @@
     Direction: left
     Event Flag: 0x8279
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 5
     Y: 15
   8:
-  - Text Pointer: $c86279
+  - Text Pointer: data_42.l_0xc86279
     Type: object
     X: 2
     Y: 17
-  - Text Pointer: $c86279
+  - Text Pointer: data_42.l_0xc86279
     Type: object
     X: 4
     Y: 17
-  - Text Pointer: $c86279
+  - Text Pointer: data_42.l_0xc86279
     Type: object
     X: 3
     Y: 18
-  - Text Pointer: $c86279
+  - Text Pointer: data_42.l_0xc86279
     Type: object
     X: 5
     Y: 18
@@ -68,7 +68,7 @@
     Direction: down
     Event Flag: 0x80c4
     Style: 5
-    Text Pointer: $c9b08d
+    Text Pointer: data_57.l_0xc9b08d
     Type: door
     X: 11
     Y: 17
@@ -77,7 +77,7 @@
     Direction: down
     Event Flag: 0x80c4
     Style: 5
-    Text Pointer: $c9b08d
+    Text Pointer: data_57.l_0xc9b08d
     Type: door
     X: 12
     Y: 17
@@ -121,27 +121,27 @@
     X: 2
     Y: 17
   16:
-  - Text Pointer: $c872a6
+  - Text Pointer: data_43.l_0xc872a6
     Type: object
     X: 6
     Y: 13
-  - Text Pointer: $c87ebc
+  - Text Pointer: data_43.l_0xc87ebc
     Type: object
     X: 12
     Y: 13
-  - Text Pointer: $c872e6
+  - Text Pointer: data_43.l_0xc872e6
     Type: object
     X: 18
     Y: 13
-  - Text Pointer: $c87313
+  - Text Pointer: data_43.l_0xc87313
     Type: object
     X: 14
     Y: 21
-  - Text Pointer: $c8734b
+  - Text Pointer: data_43.l_0xc8734b
     Type: object
     X: 10
     Y: 25
-  - Text Pointer: $c8737f
+  - Text Pointer: data_43.l_0xc8737f
     Type: object
     X: 17
     Y: 29
@@ -290,23 +290,23 @@
   - Type: rope
     X: 25
     Y: 11
-  - Text Pointer: $c873ab
+  - Text Pointer: data_43.l_0xc873ab
     Type: object
     X: 5
     Y: 13
-  - Text Pointer: $c873ab
+  - Text Pointer: data_43.l_0xc873ab
     Type: object
     X: 10
     Y: 13
-  - Text Pointer: $c873ab
+  - Text Pointer: data_43.l_0xc873ab
     Type: object
     X: 17
     Y: 13
-  - Text Pointer: $c873ab
+  - Text Pointer: data_43.l_0xc873ab
     Type: object
     X: 22
     Y: 13
-  - Text Pointer: $c87411
+  - Text Pointer: data_43.l_0xc87411
     Type: object
     X: 24
     Y: 26
@@ -316,19 +316,19 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9acae
+    Text Pointer: data_56.l_0xc9acae
     Type: door
     X: 17
     Y: 9
-  - Text Pointer: $c87444
+  - Text Pointer: data_43.l_0xc87444
     Type: object
     X: 21
     Y: 13
-  - Text Pointer: $c87474
+  - Text Pointer: data_43.l_0xc87474
     Type: object
     X: 1
     Y: 21
-  - Text Pointer: $c874a2
+  - Text Pointer: data_43.l_0xc874a2
     Type: object
     X: 6
     Y: 25
@@ -338,7 +338,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae58
+    Text Pointer: data_57.l_0xc9ae58
     Type: door
     X: 5
     Y: 28
@@ -360,7 +360,7 @@
     Direction: down
     Event Flag: 0x80c0
     Style: 1
-    Text Pointer: $c9afe1
+    Text Pointer: data_57.l_0xc9afe1
     Type: door
     X: 2
     Y: 20
@@ -450,7 +450,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 25
     Y: 8
@@ -459,7 +459,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 26
     Y: 9
@@ -468,7 +468,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 27
     Y: 10
@@ -477,7 +477,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 28
     Y: 11
@@ -486,7 +486,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 29
     Y: 12
@@ -495,7 +495,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 30
     Y: 13
@@ -544,7 +544,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99b66
+    Text Pointer: data_55.l_0xc99b66
     Type: door
     X: 14
     Y: 13
@@ -563,7 +563,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9abe6
+    Text Pointer: data_56.l_0xc9abe6
     Type: door
     X: 9
     Y: 11
@@ -572,7 +572,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9ac22
+    Text Pointer: data_56.l_0xc9ac22
     Type: door
     X: 17
     Y: 11
@@ -616,7 +616,7 @@
     Y: 17
   1: null
   2:
-  - Text Pointer: $c87b60
+  - Text Pointer: data_43.l_0xc87b60
     Type: object
     X: 17
     Y: 9
@@ -627,7 +627,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 9
     Y: 6
@@ -655,7 +655,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 17
     Y: 30
@@ -668,7 +668,7 @@
     Direction: left
     Event Flag: 0x1d4
     Style: 4
-    Text Pointer: $c999a1
+    Text Pointer: data_55.l_0xc999a1
     Type: door
     X: 11
     Y: 11
@@ -678,15 +678,15 @@
     Direction: left
     Event Flag: 0x1da
     Style: 4
-    Text Pointer: $c9b225
+    Text Pointer: data_57.l_0xc9b225
     Type: door
     X: 11
     Y: 10
-  - Text Pointer: $c86511
+  - Text Pointer: data_42.l_0xc86511
     Type: object
     X: 26
     Y: 19
-  - Text Pointer: $c86511
+  - Text Pointer: data_42.l_0xc86511
     Type: object
     X: 28
     Y: 19
@@ -714,21 +714,21 @@
   14: null
   15: null
   16:
-  - Text Pointer: $c874d4
+  - Text Pointer: data_43.l_0xc874d4
     Type: object
     X: 4
     Y: 5
   17: null
   18:
-  - Text Pointer: $c87511
+  - Text Pointer: data_43.l_0xc87511
     Type: object
     X: 17
     Y: 1
-  - Text Pointer: $c87546
+  - Text Pointer: data_43.l_0xc87546
     Type: object
     X: 5
     Y: 13
-  - Text Pointer: $c8757d
+  - Text Pointer: data_43.l_0xc8757d
     Type: object
     X: 21
     Y: 17
@@ -821,7 +821,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 1
-    Text Pointer: $c9aa7f
+    Text Pointer: data_56.l_0xc9aa7f
     Type: door
     X: 28
     Y: 0
@@ -872,7 +872,7 @@
     Direction: down
     Event Flag: 0x1d3
     Style: 10
-    Text Pointer: $c99b75
+    Text Pointer: data_55.l_0xc99b75
     Type: door
     X: 15
     Y: 10
@@ -918,13 +918,13 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99a8f
+    Text Pointer: data_55.l_0xc99a8f
     Type: door
     X: 22
     Y: 29
 2:
   0:
-  - Text Pointer: $c876d6
+  - Text Pointer: data_43.l_0xc876d6
     Type: object
     X: 17
     Y: 13
@@ -1001,12 +1001,12 @@
     Type: door
     X: 30
     Y: 9
-  - Text Pointer: $c876f9
+  - Text Pointer: data_43.l_0xc876f9
     Type: object
     X: 1
     Y: 29
   2:
-  - Text Pointer: $c8773b
+  - Text Pointer: data_43.l_0xc8773b
     Type: object
     X: 18
     Y: 13
@@ -1036,24 +1036,24 @@
     Direction: left
     Event Flag: 0x806c
     Style: 4
-    Text Pointer: $efa2c9
+    Text Pointer: data_66.l_0xefa2c9
     Type: door
     X: 21
     Y: 7
-  - Text Pointer: $c86419
+  - Text Pointer: data_42.l_0xc86419
     Type: object
     X: 25
     Y: 9
-  - Text Pointer: $c86419
+  - Text Pointer: data_42.l_0xc86419
     Type: object
     X: 26
     Y: 9
   6:
-  - Text Pointer: $c86431
+  - Text Pointer: data_42.l_0xc86431
     Type: object
     X: 2
     Y: 31
-  - Text Pointer: $c86431
+  - Text Pointer: data_42.l_0xc86431
     Type: object
     X: 4
     Y: 31
@@ -1063,7 +1063,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 28
     Y: 18
@@ -1075,7 +1075,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 21
     Y: 12
@@ -1084,7 +1084,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 23
     Y: 12
@@ -1093,7 +1093,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 25
     Y: 12
@@ -1102,7 +1102,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 27
     Y: 12
@@ -1111,7 +1111,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 29
     Y: 12
@@ -1120,7 +1120,7 @@
     Direction: left
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c5e840
+    Text Pointer: data_16.l_0xc5e840
     Type: door
     X: 31
     Y: 12
@@ -1202,7 +1202,7 @@
     X: 4
     Y: 5
   16:
-  - Text Pointer: $c875b0
+  - Text Pointer: data_43.l_0xc875b0
     Type: object
     X: 25
     Y: 5
@@ -1215,25 +1215,25 @@
     Type: door
     X: 9
     Y: 21
-  - Text Pointer: $c875db
+  - Text Pointer: data_43.l_0xc875db
     Type: object
     X: 9
     Y: 25
   17:
-  - Text Pointer: $c87617
+  - Text Pointer: data_43.l_0xc87617
     Type: object
     X: 22
     Y: 17
-  - Text Pointer: $c87632
+  - Text Pointer: data_43.l_0xc87632
     Type: object
     X: 10
     Y: 25
   18:
-  - Text Pointer: $c87664
+  - Text Pointer: data_43.l_0xc87664
     Type: object
     X: 13
     Y: 9
-  - Text Pointer: $c8768c
+  - Text Pointer: data_43.l_0xc8768c
     Type: object
     X: 12
     Y: 21
@@ -1394,7 +1394,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 13
     Y: 20
@@ -1422,7 +1422,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9ac4d
+    Text Pointer: data_56.l_0xc9ac4d
     Type: door
     X: 25
     Y: 23
@@ -1431,7 +1431,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9ac6f
+    Text Pointer: data_56.l_0xc9ac6f
     Type: door
     X: 29
     Y: 23
@@ -1474,7 +1474,7 @@
     Type: door
     X: 17
     Y: 7
-  - Text Pointer: $c86ad7
+  - Text Pointer: data_42.l_0xc86ad7
     Type: object
     X: 26
     Y: 7
@@ -1568,20 +1568,20 @@
   - Type: rope
     X: 21
     Y: 7
-  - Text Pointer: $c8776e
+  - Text Pointer: data_43.l_0xc8776e
     Type: object
     X: 24
     Y: 9
-  - Text Pointer: $c87798
+  - Text Pointer: data_43.l_0xc87798
     Type: object
     X: 12
     Y: 21
   1:
-  - Text Pointer: $c873dd
+  - Text Pointer: data_43.l_0xc873dd
     Type: object
     X: 17
     Y: 1
-  - Text Pointer: $c877c4
+  - Text Pointer: data_43.l_0xc877c4
     Type: object
     X: 22
     Y: 21
@@ -1604,11 +1604,11 @@
     X: 30
     Y: 21
   2:
-  - Text Pointer: $c877f1
+  - Text Pointer: data_43.l_0xc877f1
     Type: object
     X: 25
     Y: 9
-  - Text Pointer: $c87811
+  - Text Pointer: data_43.l_0xc87811
     Type: object
     X: 16
     Y: 17
@@ -1619,7 +1619,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a1b6
+    Text Pointer: data_56.l_0xc9a1b6
     Type: door
     X: 18
     Y: 20
@@ -1632,16 +1632,16 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 10
     Y: 12
-  - Text Pointer: $c864e6
+  - Text Pointer: data_42.l_0xc864e6
     Type: object
     X: 30
     Y: 19
   9:
-  - Text Pointer: $c864e6
+  - Text Pointer: data_42.l_0xc864e6
     Type: object
     X: 0
     Y: 19
@@ -1698,7 +1698,7 @@
     Y: 18
   16: null
   17:
-  - Text Pointer: $c876b6
+  - Text Pointer: data_43.l_0xc876b6
     Type: object
     X: 21
     Y: 17
@@ -1707,7 +1707,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 1
-    Text Pointer: $c9af4a
+    Text Pointer: data_57.l_0xc9af4a
     Type: door
     X: 26
     Y: 18
@@ -1745,11 +1745,11 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c99a6b
+    Text Pointer: data_55.l_0xc99a6b
     Type: door
     X: 26
     Y: 13
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 10
     Y: 23
@@ -1804,7 +1804,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 15
-    Text Pointer: $c9995d
+    Text Pointer: data_55.l_0xc9995d
     Type: door
     X: 1
     Y: 29
@@ -1823,7 +1823,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 15
-    Text Pointer: $c9ae01
+    Text Pointer: data_57.l_0xc9ae01
     Type: door
     X: 1
     Y: 13
@@ -1878,12 +1878,12 @@
   - Type: rope
     X: 20
     Y: 3
-  - Text Pointer: $c8783f
+  - Text Pointer: data_43.l_0xc8783f
     Type: object
     X: 6
     Y: 17
   1:
-  - Text Pointer: $c87881
+  - Text Pointer: data_43.l_0xc87881
     Type: object
     X: 1
     Y: 1
@@ -1905,43 +1905,43 @@
     Type: door
     X: 22
     Y: 13
-  - Text Pointer: $c878b9
+  - Text Pointer: data_43.l_0xc878b9
     Type: object
     X: 9
     Y: 17
   2:
-  - Text Pointer: $c878e2
+  - Text Pointer: data_43.l_0xc878e2
     Type: object
     X: 5
     Y: 5
-  - Text Pointer: $c8791a
+  - Text Pointer: data_43.l_0xc8791a
     Type: object
     X: 2
     Y: 25
   3: null
   4:
-  - Text Pointer: $c87b70
+  - Text Pointer: data_43.l_0xc87b70
     Type: object
     X: 21
     Y: 11
-  - Text Pointer: $c87b70
+  - Text Pointer: data_43.l_0xc87b70
     Type: object
     X: 23
     Y: 11
-  - Text Pointer: $c87b70
+  - Text Pointer: data_43.l_0xc87b70
     Type: object
     X: 24
     Y: 11
-  - Text Pointer: $c87b70
+  - Text Pointer: data_43.l_0xc87b70
     Type: object
     X: 26
     Y: 11
   5:
-  - Text Pointer: $c863da
+  - Text Pointer: data_42.l_0xc863da
     Type: object
     X: 2
     Y: 3
-  - Text Pointer: $c863da
+  - Text Pointer: data_42.l_0xc863da
     Type: object
     X: 4
     Y: 3
@@ -1950,7 +1950,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a270
+    Text Pointer: data_56.l_0xc9a270
     Type: door
     X: 18
     Y: 4
@@ -1960,7 +1960,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 6
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 8
     Y: 13
@@ -1969,25 +1969,25 @@
     Direction: left
     Event Flag: 0x278
     Style: 6
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 25
     Y: 13
   7: null
   8:
-  - Text Pointer: $c87bf5
+  - Text Pointer: data_43.l_0xc87bf5
     Type: object
     X: 21
     Y: 10
-  - Text Pointer: $c87bf5
+  - Text Pointer: data_43.l_0xc87bf5
     Type: object
     X: 23
     Y: 10
-  - Text Pointer: $c87bf5
+  - Text Pointer: data_43.l_0xc87bf5
     Type: object
     X: 24
     Y: 10
-  - Text Pointer: $c87bf5
+  - Text Pointer: data_43.l_0xc87bf5
     Type: object
     X: 26
     Y: 10
@@ -1997,7 +1997,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 1
     Y: 11
@@ -2006,24 +2006,24 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 13
     Y: 11
   10:
-  - Text Pointer: $c87c57
+  - Text Pointer: data_43.l_0xc87c57
     Type: object
     X: 17
     Y: 18
-  - Text Pointer: $c87c57
+  - Text Pointer: data_43.l_0xc87c57
     Type: object
     X: 19
     Y: 18
-  - Text Pointer: $c87c57
+  - Text Pointer: data_43.l_0xc87c57
     Type: object
     X: 20
     Y: 18
-  - Text Pointer: $c87c57
+  - Text Pointer: data_43.l_0xc87c57
     Type: object
     X: 22
     Y: 18
@@ -2032,7 +2032,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a336
+    Text Pointer: data_56.l_0xc9a336
     Type: door
     X: 17
     Y: 31
@@ -2046,7 +2046,7 @@
     Direction: down
     Event Flag: 0x80bf
     Style: 1
-    Text Pointer: $c9afb6
+    Text Pointer: data_57.l_0xc9afb6
     Type: door
     X: 17
     Y: 10
@@ -2055,7 +2055,7 @@
     Direction: down
     Event Flag: 0x80bf
     Style: 1
-    Text Pointer: $c9afb6
+    Text Pointer: data_57.l_0xc9afb6
     Type: door
     X: 18
     Y: 10
@@ -2089,39 +2089,39 @@
   25: null
   26: null
   27:
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 8
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 9
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 10
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 12
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 13
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 14
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 16
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 17
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 18
     Y: 8
@@ -2186,7 +2186,7 @@
     Direction: down
     Event Flag: 0x1f
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 12
     Y: 27
@@ -2215,7 +2215,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99930
+    Text Pointer: data_55.l_0xc99930
     Type: door
     X: 4
     Y: 10
@@ -2300,7 +2300,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a2ac
+    Text Pointer: data_56.l_0xc9a2ac
     Type: door
     X: 31
     Y: 1
@@ -2310,7 +2310,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 26
     Y: 0
@@ -2319,7 +2319,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 9
     Y: 11
@@ -2328,24 +2328,24 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 5
     Y: 27
   5:
-  - Text Pointer: $c87bcf
+  - Text Pointer: data_43.l_0xc87bcf
     Type: object
     X: 25
     Y: 2
-  - Text Pointer: $c87bcf
+  - Text Pointer: data_43.l_0xc87bcf
     Type: object
     X: 27
     Y: 2
-  - Text Pointer: $c87bcf
+  - Text Pointer: data_43.l_0xc87bcf
     Type: object
     X: 28
     Y: 2
-  - Text Pointer: $c87bcf
+  - Text Pointer: data_43.l_0xc87bcf
     Type: object
     X: 30
     Y: 2
@@ -2355,15 +2355,15 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 15
     Y: 6
-  - Text Pointer: $c86467
+  - Text Pointer: data_42.l_0xc86467
     Type: object
     X: 22
     Y: 19
-  - Text Pointer: $c86467
+  - Text Pointer: data_42.l_0xc86467
     Type: object
     X: 24
     Y: 19
@@ -2373,7 +2373,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 31
     Y: 17
@@ -2383,7 +2383,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a432
+    Text Pointer: data_56.l_0xc9a432
     Type: door
     X: 23
     Y: 13
@@ -2392,15 +2392,15 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a3c5
+    Text Pointer: data_56.l_0xc9a3c5
     Type: door
     X: 11
     Y: 17
-  - Text Pointer: $c864a7
+  - Text Pointer: data_42.l_0xc864a7
     Type: object
     X: 25
     Y: 19
-  - Text Pointer: $c864a7
+  - Text Pointer: data_42.l_0xc864a7
     Type: object
     X: 26
     Y: 19
@@ -2411,7 +2411,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 1
     Y: 15
@@ -2432,39 +2432,39 @@
   25: null
   26: null
   27:
-  - Text Pointer: $c87e37
+  - Text Pointer: data_43.l_0xc87e37
     Type: object
     X: 8
     Y: 8
-  - Text Pointer: $c87e37
+  - Text Pointer: data_43.l_0xc87e37
     Type: object
     X: 9
     Y: 8
-  - Text Pointer: $c87e37
+  - Text Pointer: data_43.l_0xc87e37
     Type: object
     X: 10
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 12
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 13
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 14
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 16
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 17
     Y: 8
-  - Text Pointer: $c87dff
+  - Text Pointer: data_43.l_0xc87dff
     Type: object
     X: 18
     Y: 8
@@ -2514,7 +2514,7 @@
     Type: door
     X: 9
     Y: 27
-  - Text Pointer: $c86b10
+  - Text Pointer: data_42.l_0xc86b10
     Type: object
     X: 14
     Y: 27
@@ -2546,7 +2546,7 @@
     Type: door
     X: 22
     Y: 13
-  - Text Pointer: $c67c40
+  - Text Pointer: data_22.l_0xc67c40
     Type: object
     X: 22
     Y: 24
@@ -2611,7 +2611,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 30
     Y: 29
@@ -2623,16 +2623,16 @@
     Direction: left
     Event Flag: 0x82ea
     Style: 4
-    Text Pointer: $c99b6a
+    Text Pointer: data_55.l_0xc99b6a
     Type: door
     X: 25
     Y: 27
   2:
-  - Text Pointer: $c8634c
+  - Text Pointer: data_42.l_0xc8634c
     Type: object
     X: 1
     Y: 27
-  - Text Pointer: $c8634c
+  - Text Pointer: data_42.l_0xc8634c
     Type: object
     X: 2
     Y: 27
@@ -2643,32 +2643,32 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 15
     Y: 18
-  - Text Pointer: $c86399
+  - Text Pointer: data_42.l_0xc86399
     Type: object
     X: 5
     Y: 27
-  - Text Pointer: $c86399
+  - Text Pointer: data_42.l_0xc86399
     Type: object
     X: 7
     Y: 27
-  - Text Pointer: $c86399
+  - Text Pointer: data_42.l_0xc86399
     Type: object
     X: 8
     Y: 27
-  - Text Pointer: $c86399
+  - Text Pointer: data_42.l_0xc86399
     Type: object
     X: 10
     Y: 27
   5:
-  - Text Pointer: $c87b9e
+  - Text Pointer: data_43.l_0xc87b9e
     Type: object
     X: 0
     Y: 11
-  - Text Pointer: $c87b9e
+  - Text Pointer: data_43.l_0xc87b9e
     Type: object
     X: 2
     Y: 11
@@ -2677,7 +2677,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a306
+    Text Pointer: data_56.l_0xc9a306
     Type: door
     X: 20
     Y: 25
@@ -2687,7 +2687,7 @@
     Direction: down
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 5
     Y: 18
@@ -2696,7 +2696,7 @@
     Direction: down
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 7
     Y: 18
@@ -2705,16 +2705,16 @@
     Direction: left
     Event Flag: 0x278
     Style: 6
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 5
     Y: 25
   7:
-  - Text Pointer: $c86483
+  - Text Pointer: data_42.l_0xc86483
     Type: object
     X: 22
     Y: 3
-  - Text Pointer: $c86483
+  - Text Pointer: data_42.l_0xc86483
     Type: object
     X: 24
     Y: 3
@@ -2723,7 +2723,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 1
-    Text Pointer: $c99a93
+    Text Pointer: data_55.l_0xc99a93
     Type: door
     X: 28
     Y: 21
@@ -2732,7 +2732,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 6
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 8
     Y: 25
@@ -2743,7 +2743,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 17
     Y: 7
@@ -2752,32 +2752,32 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a381
+    Text Pointer: data_56.l_0xc9a381
     Type: door
     X: 1
     Y: 23
   10:
-  - Text Pointer: $c87c1d
+  - Text Pointer: data_43.l_0xc87c1d
     Type: object
     X: 5
     Y: 7
-  - Text Pointer: $c87c1d
+  - Text Pointer: data_43.l_0xc87c1d
     Type: object
     X: 7
     Y: 7
-  - Text Pointer: $c87c1d
+  - Text Pointer: data_43.l_0xc87c1d
     Type: object
     X: 8
     Y: 7
-  - Text Pointer: $c87c1d
+  - Text Pointer: data_43.l_0xc87c1d
     Type: object
     X: 10
     Y: 7
-  - Text Pointer: $c8652a
+  - Text Pointer: data_42.l_0xc8652a
     Type: object
     X: 17
     Y: 19
-  - Text Pointer: $c8652a
+  - Text Pointer: data_42.l_0xc8652a
     Type: object
     X: 18
     Y: 19
@@ -2808,7 +2808,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 9
     Y: 4
@@ -2830,7 +2830,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 30
     Y: 13
@@ -2858,7 +2858,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae16
+    Text Pointer: data_57.l_0xc9ae16
     Type: door
     X: 13
     Y: 24
@@ -2896,7 +2896,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae16
+    Text Pointer: data_57.l_0xc9ae16
     Type: door
     X: 13
     Y: 24
@@ -2924,7 +2924,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c9a1a7
+    Text Pointer: data_56.l_0xc9a1a7
     Type: door
     X: 27
     Y: 26
@@ -2937,11 +2937,11 @@
   5: null
   6: null
   7:
-  - Text Pointer: $c86477
+  - Text Pointer: data_42.l_0xc86477
     Type: object
     X: 13
     Y: 7
-  - Text Pointer: $c86477
+  - Text Pointer: data_42.l_0xc86477
     Type: object
     X: 14
     Y: 7
@@ -2998,7 +2998,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae16
+    Text Pointer: data_57.l_0xc9ae16
     Type: door
     X: 13
     Y: 24
@@ -3027,7 +3027,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae16
+    Text Pointer: data_57.l_0xc9ae16
     Type: door
     X: 13
     Y: 24
@@ -3037,7 +3037,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 22
     Y: 13
@@ -3070,7 +3070,7 @@
     Direction: down
     Event Flag: 0x80be
     Style: 1
-    Text Pointer: $c9af8b
+    Text Pointer: data_57.l_0xc9af8b
     Type: door
     X: 7
     Y: 10
@@ -3079,7 +3079,7 @@
     Direction: down
     Event Flag: 0x80be
     Style: 1
-    Text Pointer: $c9af8b
+    Text Pointer: data_57.l_0xc9af8b
     Type: door
     X: 8
     Y: 10
@@ -3126,7 +3126,7 @@
     Direction: left
     Event Flag: 0x278
     Style: 4
-    Text Pointer: $c9b20e
+    Text Pointer: data_57.l_0xc9b20e
     Type: door
     X: 5
     Y: 27
@@ -3235,7 +3235,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 22
     Y: 24
@@ -3244,7 +3244,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 23
     Y: 24
@@ -3264,7 +3264,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9aaf0
+    Text Pointer: data_56.l_0xc9aaf0
     Type: door
     X: 9
     Y: 12
@@ -3274,7 +3274,7 @@
     Direction: down
     Event Flag: 0x80c1
     Style: 1
-    Text Pointer: $c9b00c
+    Text Pointer: data_57.l_0xc9b00c
     Type: door
     X: 21
     Y: 30
@@ -3283,7 +3283,7 @@
     Direction: down
     Event Flag: 0x80c1
     Style: 1
-    Text Pointer: $c9b00c
+    Text Pointer: data_57.l_0xc9b00c
     Type: door
     X: 22
     Y: 30
@@ -3303,7 +3303,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 26
     Y: 13
@@ -3321,11 +3321,11 @@
   0: null
   1: null
   2:
-  - Text Pointer: $c6d067
+  - Text Pointer: data_26.l_0xc6d067
     Type: object
     X: 17
     Y: 2
-  - Text Pointer: $c6d067
+  - Text Pointer: data_26.l_0xc6d067
     Type: object
     X: 19
     Y: 2
@@ -3505,7 +3505,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9a1b2
+    Text Pointer: data_56.l_0xc9a1b2
     Type: door
     X: 30
     Y: 25
@@ -3572,7 +3572,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 22
     Y: 4
@@ -3581,7 +3581,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 23
     Y: 4
@@ -3622,7 +3622,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c9a1a3
+    Text Pointer: data_56.l_0xc9a1a3
     Type: door
     X: 12
     Y: 2
@@ -3660,7 +3660,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9a123
+    Text Pointer: data_56.l_0xc9a123
     Type: door
     X: 19
     Y: 2
@@ -3673,7 +3673,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 3
     Y: 26
@@ -3720,7 +3720,7 @@
     Direction: left
     Event Flag: 0x8289
     Style: 1
-    Text Pointer: $c99cbc
+    Text Pointer: data_55.l_0xc99cbc
     Type: door
     X: 5
     Y: 17
@@ -3834,7 +3834,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 8
     Y: 19
@@ -3855,7 +3855,7 @@
     Direction: left
     Event Flag: 0x8151
     Style: 1
-    Text Pointer: $c9b17d
+    Text Pointer: data_57.l_0xc9b17d
     Type: door
     X: 2
     Y: 20
@@ -3864,7 +3864,7 @@
     Direction: left
     Event Flag: 0x8151
     Style: 1
-    Text Pointer: $c9b17d
+    Text Pointer: data_57.l_0xc9b17d
     Type: door
     X: 3
     Y: 20
@@ -3874,7 +3874,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b13f
+    Text Pointer: data_57.l_0xc9b13f
     Type: door
     X: 12
     Y: 17
@@ -3883,7 +3883,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b13f
+    Text Pointer: data_57.l_0xc9b13f
     Type: door
     X: 14
     Y: 17
@@ -3892,20 +3892,20 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b13f
+    Text Pointer: data_57.l_0xc9b13f
     Type: door
     X: 16
     Y: 17
   24:
-  - Text Pointer: $c869dd
+  - Text Pointer: data_42.l_0xc869dd
     Type: object
     X: 5
     Y: 23
-  - Text Pointer: $c869dd
+  - Text Pointer: data_42.l_0xc869dd
     Type: object
     X: 7
     Y: 23
-  - Text Pointer: $c869dd
+  - Text Pointer: data_42.l_0xc869dd
     Type: object
     X: 8
     Y: 23
@@ -3929,15 +3929,15 @@
     X: 14
     Y: 22
   26:
-  - Text Pointer: $c8bbd2
+  - Text Pointer: data_45.l_0xc8bbd2
     Type: object
     X: 13
     Y: 24
-  - Text Pointer: $c8bbd2
+  - Text Pointer: data_45.l_0xc8bbd2
     Type: object
     X: 15
     Y: 24
-  - Text Pointer: $c8bbd2
+  - Text Pointer: data_45.l_0xc8bbd2
     Type: object
     X: 17
     Y: 24
@@ -3957,7 +3957,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9ab01
+    Text Pointer: data_56.l_0xc9ab01
     Type: door
     X: 11
     Y: 26
@@ -3967,7 +3967,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9abbd
+    Text Pointer: data_56.l_0xc9abbd
     Type: door
     X: 11
     Y: 26
@@ -3987,7 +3987,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c99e8b
+    Text Pointer: data_56.l_0xc99e8b
     Type: door
     X: 10
     Y: 1
@@ -4135,27 +4135,27 @@
     X: 3
     Y: 13
   22:
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 8
     Y: 8
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 9
     Y: 8
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 10
     Y: 8
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 12
     Y: 8
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 13
     Y: 8
-  - Text Pointer: $c8bb91
+  - Text Pointer: data_45.l_0xc8bb91
     Type: object
     X: 14
     Y: 8
@@ -4233,7 +4233,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 2
     Y: 2
@@ -4242,7 +4242,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 22
     Y: 2
@@ -4252,7 +4252,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 2
     Y: 2
@@ -4261,7 +4261,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 22
     Y: 2
@@ -4271,7 +4271,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 2
     Y: 2
@@ -4332,7 +4332,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 3
     Y: 14
@@ -4342,7 +4342,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c31
+    Text Pointer: data_55.l_0xc99c31
     Type: door
     X: 24
     Y: 16
@@ -4351,7 +4351,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c31
+    Text Pointer: data_55.l_0xc99c31
     Type: door
     X: 26
     Y: 16
@@ -4363,7 +4363,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 10
     Y: 2
@@ -4420,7 +4420,7 @@
     Direction: up
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b037
+    Text Pointer: data_57.l_0xc9b037
     Type: door
     X: 27
     Y: 3
@@ -4569,7 +4569,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 11
     Y: 2
@@ -4578,7 +4578,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 19
     Y: 6
@@ -4588,7 +4588,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 7
     Y: 2
@@ -4705,7 +4705,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 6
     Y: 8
@@ -4714,7 +4714,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 5
     Y: 9
@@ -4723,7 +4723,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 4
     Y: 10
@@ -4732,7 +4732,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 3
     Y: 11
@@ -4741,7 +4741,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 2
     Y: 12
@@ -4750,7 +4750,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c68
+    Text Pointer: data_55.l_0xc99c68
     Type: door
     X: 1
     Y: 13
@@ -4779,7 +4779,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 21
     Y: 8
@@ -4788,7 +4788,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 22
     Y: 9
@@ -4797,7 +4797,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 23
     Y: 10
@@ -4806,7 +4806,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 24
     Y: 11
@@ -4815,7 +4815,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 25
     Y: 12
@@ -4824,7 +4824,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c53
+    Text Pointer: data_55.l_0xc99c53
     Type: door
     X: 26
     Y: 13
@@ -4838,7 +4838,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae73
+    Text Pointer: data_57.l_0xc9ae73
     Type: door
     X: 30
     Y: 9
@@ -4870,7 +4870,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c4f
+    Text Pointer: data_55.l_0xc99c4f
     Type: door
     X: 30
     Y: 25
@@ -5028,7 +5028,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99b3f
+    Text Pointer: data_55.l_0xc99b3f
     Type: door
     X: 9
     Y: 16
@@ -5086,7 +5086,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 0
     Y: 19
@@ -5220,7 +5220,7 @@
     Type: door
     X: 28
     Y: 27
-  - Text Pointer: $c86995
+  - Text Pointer: data_42.l_0xc86995
     Type: object
     X: 2
     Y: 30
@@ -5232,7 +5232,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 25
     Y: 0
@@ -5241,7 +5241,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 26
     Y: 0
@@ -5264,7 +5264,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 24
     Y: 23
@@ -5316,7 +5316,7 @@
     X: 4
     Y: 2
   11:
-  - Text Pointer: $c868ad
+  - Text Pointer: data_42.l_0xc868ad
     Type: object
     X: 10
     Y: 6
@@ -5330,7 +5330,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 24
     Y: 11
@@ -5340,7 +5340,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 8
     Y: 19
@@ -5350,7 +5350,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 16
     Y: 3
@@ -5549,7 +5549,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 21
     Y: 20
@@ -5558,7 +5558,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 22
     Y: 20
@@ -5580,7 +5580,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 12
     Y: 3
@@ -5588,7 +5588,7 @@
   7: null
   8: null
   9:
-  - Text Pointer: $c86900
+  - Text Pointer: data_42.l_0xc86900
     Type: object
     X: 26
     Y: 22
@@ -5600,7 +5600,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9add7
+    Text Pointer: data_57.l_0xc9add7
     Type: door
     X: 20
     Y: 20
@@ -5609,7 +5609,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9add7
+    Text Pointer: data_57.l_0xc9add7
     Type: door
     X: 18
     Y: 22
@@ -5618,7 +5618,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9add7
+    Text Pointer: data_57.l_0xc9add7
     Type: door
     X: 16
     Y: 24
@@ -5628,7 +5628,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9adc7
+    Text Pointer: data_57.l_0xc9adc7
     Type: door
     X: 16
     Y: 2
@@ -5638,7 +5638,7 @@
     Direction: left
     Event Flag: 0x8092
     Style: 6
-    Text Pointer: $c99ffa
+    Text Pointer: data_56.l_0xc99ffa
     Type: door
     X: 3
     Y: 23
@@ -5647,7 +5647,7 @@
     Direction: left
     Event Flag: 0x8092
     Style: 6
-    Text Pointer: $c99ffa
+    Text Pointer: data_56.l_0xc99ffa
     Type: door
     X: 4
     Y: 24
@@ -5657,7 +5657,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 13
     Y: 1
@@ -5666,7 +5666,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 13
     Y: 2
@@ -5676,7 +5676,7 @@
     Direction: left
     Event Flag: 0x828c
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 29
     Y: 9
@@ -5724,7 +5724,7 @@
   22: null
   23: null
   24:
-  - Text Pointer: $c97b35
+  - Text Pointer: data_54.l_0xc97b35
     Type: object
     X: 14
     Y: 17
@@ -5884,7 +5884,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 10
     Y: 11
@@ -5893,7 +5893,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 11
     Y: 11
@@ -6032,31 +6032,31 @@
     X: 22
     Y: 25
   19:
-  - Text Pointer: $c77c84
+  - Text Pointer: data_32.l_0xc77c84
     Type: person
     X: 21
     Y: 13
-  - Text Pointer: $c77c84
+  - Text Pointer: data_32.l_0xc77c84
     Type: person
     X: 22
     Y: 13
   20:
-  - Text Pointer: $c869be
+  - Text Pointer: data_42.l_0xc869be
     Type: object
     X: 17
     Y: 31
-  - Text Pointer: $c869be
+  - Text Pointer: data_42.l_0xc869be
     Type: object
     X: 19
     Y: 31
   21: null
   22: null
   23:
-  - Text Pointer: $c869cb
+  - Text Pointer: data_42.l_0xc869cb
     Type: object
     X: 17
     Y: 27
-  - Text Pointer: $c869cb
+  - Text Pointer: data_42.l_0xc869cb
     Type: object
     X: 19
     Y: 27
@@ -6110,7 +6110,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 21
     Y: 9
@@ -6120,7 +6120,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99b60
+    Text Pointer: data_55.l_0xc99b60
     Type: door
     X: 1
     Y: 4
@@ -6129,7 +6129,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99b60
+    Text Pointer: data_55.l_0xc99b60
     Type: door
     X: 2
     Y: 4
@@ -6152,7 +6152,7 @@
   11: null
   12: null
   13:
-  - Text Pointer: $c86961
+  - Text Pointer: data_42.l_0xc86961
     Type: object
     X: 13
     Y: 14
@@ -6221,35 +6221,35 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 31
     Y: 16
-  - Text Pointer: $c77cb8
+  - Text Pointer: data_32.l_0xc77cb8
     Type: person
     X: 21
     Y: 17
-  - Text Pointer: $c77cb8
+  - Text Pointer: data_32.l_0xc77cb8
     Type: person
     X: 22
     Y: 17
   20:
-  - Text Pointer: $c77cd0
+  - Text Pointer: data_32.l_0xc77cd0
     Type: person
     X: 13
     Y: 9
-  - Text Pointer: $c77cd0
+  - Text Pointer: data_32.l_0xc77cd0
     Type: person
     X: 14
     Y: 9
   21: null
   22: null
   23:
-  - Text Pointer: $c77c5b
+  - Text Pointer: data_32.l_0xc77c5b
     Type: person
     X: 1
     Y: 7
-  - Text Pointer: $c77c5b
+  - Text Pointer: data_32.l_0xc77c5b
     Type: person
     X: 2
     Y: 7
@@ -6258,7 +6258,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 11
     Y: 8
@@ -6267,7 +6267,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 4
-    Text Pointer: $c9b21d
+    Text Pointer: data_57.l_0xc9b21d
     Type: door
     X: 27
     Y: 12
@@ -6278,7 +6278,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 33
-    Text Pointer: $c99ccd
+    Text Pointer: data_55.l_0xc99ccd
     Type: door
     X: 5
     Y: 25
@@ -6287,7 +6287,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 33
-    Text Pointer: $c99ccd
+    Text Pointer: data_55.l_0xc99ccd
     Type: door
     X: 6
     Y: 25
@@ -6295,7 +6295,7 @@
   27: null
   28: null
   29:
-  - Text Pointer: $c7c59e
+  - Text Pointer: data_35.l_0xc7c59e
     Type: object
     X: 24
     Y: 10
@@ -6328,7 +6328,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 17
     Y: 0
@@ -6337,7 +6337,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 18
     Y: 0
@@ -6350,17 +6350,17 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 31
     Y: 2
   - Event Flag: 0x8098
-    Text Pointer: $c9309e
+    Text Pointer: data_50.l_0xc9309e
     Type: switch
     X: 24
     Y: 21
   - Event Flag: 0x8098
-    Text Pointer: $c93029
+    Text Pointer: data_50.l_0xc93029
     Type: switch
     X: 26
     Y: 28
@@ -6370,26 +6370,26 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 0
     Y: 2
-  - Text Pointer: $c87202
+  - Text Pointer: data_43.l_0xc87202
     Type: person
     X: 0
     Y: 12
   - Event Flag: 0x80d9
-    Text Pointer: $c92fc0
+    Text Pointer: data_50.l_0xc92fc0
     Type: switch
     X: 0
     Y: 17
   - Event Flag: 0x8098
-    Text Pointer: $c93067
+    Text Pointer: data_50.l_0xc93067
     Type: switch
     X: 7
     Y: 21
   - Event Flag: 0x8098
-    Text Pointer: $c930ce
+    Text Pointer: data_50.l_0xc930ce
     Type: switch
     X: 5
     Y: 28
@@ -6399,7 +6399,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 24
@@ -6408,7 +6408,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 25
@@ -6417,7 +6417,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 26
@@ -6426,7 +6426,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 27
@@ -6435,7 +6435,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 28
@@ -6444,7 +6444,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 29
@@ -6453,7 +6453,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 30
@@ -6462,7 +6462,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c76
+    Text Pointer: data_55.l_0xc99c76
     Type: door
     X: 22
     Y: 31
@@ -6535,7 +6535,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a08b
+    Text Pointer: data_56.l_0xc9a08b
     Type: door
     X: 5
     Y: 17
@@ -6564,7 +6564,7 @@
     Direction: right
     Event Flag: 0x15e
     Style: 13
-    Text Pointer: $c9b0d7
+    Text Pointer: data_57.l_0xc9b0d7
     Type: door
     X: 5
     Y: 23
@@ -6630,7 +6630,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c9a030
+    Text Pointer: data_56.l_0xc9a030
     Type: door
     X: 30
     Y: 29
@@ -6645,7 +6645,7 @@
     X: 5
     Y: 12
   25:
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 14
     Y: 7
@@ -6664,7 +6664,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99b5c
+    Text Pointer: data_55.l_0xc99b5c
     Type: door
     X: 30
     Y: 12
@@ -6697,7 +6697,7 @@
     X: 1
     Y: 25
   29:
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 10
     Y: 7
@@ -6715,7 +6715,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9aaf0
+    Text Pointer: data_56.l_0xc9aaf0
     Type: door
     X: 27
     Y: 25
@@ -6783,7 +6783,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 14
     Y: 20
@@ -6792,7 +6792,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 15
     Y: 20
@@ -6913,12 +6913,12 @@
     X: 5
     Y: 25
   - Event Flag: 0x15b
-    Text Pointer: $c9312e
+    Text Pointer: data_50.l_0xc9312e
     Type: switch
     X: 5
     Y: 29
   17:
-  - Text Pointer: $c86da8
+  - Text Pointer: data_42.l_0xc86da8
     Type: object
     X: 30
     Y: 17
@@ -7020,7 +7020,7 @@
     Direction: right
     Event Flag: 0x15e
     Style: 13
-    Text Pointer: $c9b0e3
+    Text Pointer: data_57.l_0xc9b0e3
     Type: door
     X: 5
     Y: 23
@@ -7240,7 +7240,7 @@
     Direction: left
     Event Flag: 0x2f4
     Style: 1
-    Text Pointer: $c9aed7
+    Text Pointer: data_57.l_0xc9aed7
     Type: door
     X: 23
     Y: 11
@@ -7251,7 +7251,7 @@
     Direction: down
     Event Flag: 0x80c3
     Style: 1
-    Text Pointer: $c9b062
+    Text Pointer: data_57.l_0xc9b062
     Type: door
     X: 1
     Y: 17
@@ -7312,7 +7312,7 @@
     X: 22
     Y: 31
   11:
-  - Text Pointer: $c87b0b
+  - Text Pointer: data_43.l_0xc87b0b
     Type: object
     X: 30
     Y: 7
@@ -7484,11 +7484,11 @@
     Direction: right
     Event Flag: 0x815c
     Style: 1
-    Text Pointer: $c9af16
+    Text Pointer: data_57.l_0xc9af16
     Type: door
     X: 22
     Y: 25
-  - Text Pointer: $c93181
+  - Text Pointer: data_50.l_0xc93181
     Type: object
     X: 14
     Y: 26
@@ -7517,7 +7517,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99d3d
+    Text Pointer: data_56.l_0xc99d3d
     Type: door
     X: 25
     Y: 7
@@ -7526,7 +7526,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99d3d
+    Text Pointer: data_56.l_0xc99d3d
     Type: door
     X: 26
     Y: 7
@@ -7545,7 +7545,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c99d3c
+    Text Pointer: data_56.l_0xc99d3c
     Type: door
     X: 30
     Y: 21
@@ -7582,7 +7582,7 @@
     Direction: left
     Event Flag: 0x15e
     Style: 13
-    Text Pointer: $c9b0ef
+    Text Pointer: data_57.l_0xc9b0ef
     Type: door
     X: 5
     Y: 23
@@ -7592,7 +7592,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 13
-    Text Pointer: $c9b107
+    Text Pointer: data_57.l_0xc9b107
     Type: door
     X: 9
     Y: 5
@@ -7602,7 +7602,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ada2
+    Text Pointer: data_57.l_0xc9ada2
     Type: door
     X: 10
     Y: 5
@@ -7950,7 +7950,7 @@
     X: 10
     Y: 26
   17:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 30
     Y: 26
@@ -7964,32 +7964,32 @@
     X: 17
     Y: 29
   18:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 4
     Y: 26
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 9
     Y: 26
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 10
     Y: 26
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 21
     Y: 26
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 22
     Y: 26
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 28
     Y: 26
   19:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 2
     Y: 26
@@ -7998,7 +7998,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99d8b
+    Text Pointer: data_56.l_0xc99d8b
     Type: door
     X: 14
     Y: 29
@@ -8035,7 +8035,7 @@
     Direction: left
     Event Flag: 0x15e
     Style: 13
-    Text Pointer: $c9b0fb
+    Text Pointer: data_57.l_0xc9b0fb
     Type: door
     X: 5
     Y: 23
@@ -8063,7 +8063,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9abcf
+    Text Pointer: data_56.l_0xc9abcf
     Type: door
     X: 25
     Y: 26
@@ -8072,7 +8072,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9abcf
+    Text Pointer: data_56.l_0xc9abcf
     Type: door
     X: 29
     Y: 26
@@ -8217,7 +8217,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 30
     Y: 29
@@ -8324,7 +8324,7 @@
     Direction: up
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af3a
+    Text Pointer: data_57.l_0xc9af3a
     Type: door
     X: 24
     Y: 19
@@ -8416,7 +8416,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 13
     Y: 8
@@ -8430,133 +8430,133 @@
     X: 18
     Y: 25
   17:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 22
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 28
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 14
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 20
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 26
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 10
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 16
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 22
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 28
     Y: 14
   18:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 2
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 8
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 24
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 30
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 0
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 6
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 12
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 20
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 26
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 2
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 8
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 24
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 30
     Y: 14
   19:
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 4
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 10
     Y: 2
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 0
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 6
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 12
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 18
     Y: 10
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 4
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 10
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 16
     Y: 14
-  - Text Pointer: $c73796
+  - Text Pointer: data_29.l_0xc73796
     Type: person
     X: 22
     Y: 14
@@ -8586,7 +8586,7 @@
     Direction: right
     Event Flag: 0x808f
     Style: 7
-    Text Pointer: $c9ad7b
+    Text Pointer: data_57.l_0xc9ad7b
     Type: door
     X: 2
     Y: 11
@@ -8632,7 +8632,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 30
     Y: 29
@@ -8882,7 +8882,7 @@
     Direction: down
     Event Flag: 0x80c5
     Style: 1
-    Text Pointer: $c9b0b2
+    Text Pointer: data_57.l_0xc9b0b2
     Type: door
     X: 1
     Y: 26
@@ -8891,7 +8891,7 @@
     Direction: down
     Event Flag: 0x80c5
     Style: 1
-    Text Pointer: $c9b0b2
+    Text Pointer: data_57.l_0xc9b0b2
     Type: door
     X: 2
     Y: 26
@@ -8901,12 +8901,12 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 5
     Y: 5
   15:
-  - Text Pointer: $c87941
+  - Text Pointer: data_43.l_0xc87941
     Type: object
     X: 8
     Y: 13
@@ -8943,7 +8943,7 @@
   - Type: rope
     X: 21
     Y: 24
-  - Text Pointer: $c87961
+  - Text Pointer: data_43.l_0xc87961
     Type: object
     X: 10
     Y: 25
@@ -8957,7 +8957,7 @@
     X: 21
     Y: 27
   16:
-  - Text Pointer: $c87995
+  - Text Pointer: data_43.l_0xc87995
     Type: object
     X: 6
     Y: 21
@@ -8987,7 +8987,7 @@
     Y: 30
   20: null
   21:
-  - Text Pointer: $c86a25
+  - Text Pointer: data_42.l_0xc86a25
     Type: object
     X: 13
     Y: 7
@@ -9028,7 +9028,7 @@
     X: 29
     Y: 23
   22:
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 14
     Y: 7
@@ -9065,7 +9065,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 13
-    Text Pointer: $c9b107
+    Text Pointer: data_57.l_0xc9b107
     Type: door
     X: 26
     Y: 13
@@ -9191,11 +9191,11 @@
   2: null
   3: null
   4:
-  - Text Pointer: $c865cb
+  - Text Pointer: data_42.l_0xc865cb
     Type: object
     X: 19
     Y: 15
-  - Text Pointer: $c865cb
+  - Text Pointer: data_42.l_0xc865cb
     Type: object
     X: 21
     Y: 15
@@ -9235,40 +9235,40 @@
     Direction: left
     Event Flag: 0xd3
     Style: 4
-    Text Pointer: $c99acc
+    Text Pointer: data_55.l_0xc99acc
     Type: door
     X: 22
     Y: 16
-  - Text Pointer: $c87cb8
+  - Text Pointer: data_43.l_0xc87cb8
     Type: object
     X: 1
     Y: 17
-  - Text Pointer: $c87cb8
+  - Text Pointer: data_43.l_0xc87cb8
     Type: object
     X: 3
     Y: 17
-  - Text Pointer: $c87cb8
+  - Text Pointer: data_43.l_0xc87cb8
     Type: object
     X: 4
     Y: 17
-  - Text Pointer: $c87cb8
+  - Text Pointer: data_43.l_0xc87cb8
     Type: object
     X: 6
     Y: 17
   9:
-  - Text Pointer: $c87cd9
+  - Text Pointer: data_43.l_0xc87cd9
     Type: object
     X: 9
     Y: 26
-  - Text Pointer: $c87cd9
+  - Text Pointer: data_43.l_0xc87cd9
     Type: object
     X: 11
     Y: 26
-  - Text Pointer: $c87cd9
+  - Text Pointer: data_43.l_0xc87cd9
     Type: object
     X: 12
     Y: 26
-  - Text Pointer: $c87cd9
+  - Text Pointer: data_43.l_0xc87cd9
     Type: object
     X: 14
     Y: 26
@@ -9282,11 +9282,11 @@
     X: 19
     Y: 26
   10:
-  - Text Pointer: $c8661b
+  - Text Pointer: data_42.l_0xc8661b
     Type: object
     X: 1
     Y: 27
-  - Text Pointer: $c8661b
+  - Text Pointer: data_42.l_0xc8661b
     Type: object
     X: 2
     Y: 27
@@ -9442,11 +9442,11 @@
     Type: door
     X: 30
     Y: 1
-  - Text Pointer: $c879c5
+  - Text Pointer: data_43.l_0xc879c5
     Type: object
     X: 18
     Y: 2
-  - Text Pointer: $c879fe
+  - Text Pointer: data_43.l_0xc879fe
     Type: object
     X: 9
     Y: 21
@@ -9469,7 +9469,7 @@
     Type: door
     X: 18
     Y: 1
-  - Text Pointer: $c87a1d
+  - Text Pointer: data_43.l_0xc87a1d
     Type: object
     X: 14
     Y: 13
@@ -9516,7 +9516,7 @@
     Type: door
     X: 1
     Y: 13
-  - Text Pointer: $c86dfb
+  - Text Pointer: data_42.l_0xc86dfb
     Type: object
     X: 18
     Y: 23
@@ -9525,7 +9525,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9a09d
+    Text Pointer: data_56.l_0xc9a09d
     Type: door
     X: 5
     Y: 25
@@ -9539,7 +9539,7 @@
     Type: door
     X: 5
     Y: 11
-  - Text Pointer: $c86ab3
+  - Text Pointer: data_42.l_0xc86ab3
     Type: object
     X: 13
     Y: 11
@@ -9576,7 +9576,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 13
-    Text Pointer: $c9b107
+    Text Pointer: data_57.l_0xc9b107
     Type: door
     X: 1
     Y: 13
@@ -9585,7 +9585,7 @@
     Direction: down
     Event Flag: 0x808e
     Style: 13
-    Text Pointer: $c9ad26
+    Text Pointer: data_57.l_0xc9ad26
     Type: door
     X: 26
     Y: 13
@@ -9667,7 +9667,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a56a
+    Text Pointer: data_56.l_0xc9a56a
     Type: door
     X: 10
     Y: 6
@@ -9859,7 +9859,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c9a01a
+    Text Pointer: data_56.l_0xc9a01a
     Type: door
     X: 23
     Y: 22
@@ -9868,7 +9868,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c9a01a
+    Text Pointer: data_56.l_0xc9a01a
     Type: door
     X: 24
     Y: 23
@@ -9877,7 +9877,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c9a01a
+    Text Pointer: data_56.l_0xc9a01a
     Type: door
     X: 25
     Y: 24
@@ -9887,7 +9887,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99d6a
+    Text Pointer: data_56.l_0xc99d6a
     Type: door
     X: 30
     Y: 13
@@ -9896,7 +9896,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 13
     Y: 27
@@ -9961,7 +9961,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9adee
+    Text Pointer: data_57.l_0xc9adee
     Type: door
     X: 30
     Y: 29
@@ -10093,7 +10093,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 6
     Y: 24
@@ -10219,7 +10219,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c83
+    Text Pointer: data_55.l_0xc99c83
     Type: door
     X: 18
     Y: 16
@@ -10228,7 +10228,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99c83
+    Text Pointer: data_55.l_0xc99c83
     Type: door
     X: 19
     Y: 16
@@ -10268,7 +10268,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9ae59
+    Text Pointer: data_57.l_0xc9ae59
     Type: door
     X: 8
     Y: 11
@@ -10307,7 +10307,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 21
     Y: 20
@@ -10347,7 +10347,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 5
     Y: 16
@@ -10374,19 +10374,19 @@
   5: null
   6: null
   7:
-  - Text Pointer: $c87c8c
+  - Text Pointer: data_43.l_0xc87c8c
     Type: object
     X: 5
     Y: 10
-  - Text Pointer: $c87c8c
+  - Text Pointer: data_43.l_0xc87c8c
     Type: object
     X: 7
     Y: 10
-  - Text Pointer: $c87c8c
+  - Text Pointer: data_43.l_0xc87c8c
     Type: object
     X: 8
     Y: 10
-  - Text Pointer: $c87c8c
+  - Text Pointer: data_43.l_0xc87c8c
     Type: object
     X: 10
     Y: 10
@@ -10409,11 +10409,11 @@
     X: 15
     Y: 22
   8:
-  - Text Pointer: $c86663
+  - Text Pointer: data_42.l_0xc86663
     Type: object
     X: 18
     Y: 15
-  - Text Pointer: $c86663
+  - Text Pointer: data_42.l_0xc86663
     Type: object
     X: 20
     Y: 15
@@ -10576,7 +10576,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c99d24
+    Text Pointer: data_56.l_0xc99d24
     Type: door
     X: 30
     Y: 29
@@ -10586,7 +10586,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99da6
+    Text Pointer: data_56.l_0xc99da6
     Type: door
     X: 6
     Y: 13
@@ -10628,7 +10628,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 24
     Y: 6
@@ -10640,7 +10640,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 21
     Y: 15
@@ -10665,7 +10665,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 13
     Y: 9
@@ -10674,7 +10674,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 5
     Y: 11
@@ -10735,7 +10735,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a604
+    Text Pointer: data_56.l_0xc9a604
     Type: door
     X: 13
     Y: 2
@@ -10749,16 +10749,16 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 24
     Y: 20
   14:
-  - Text Pointer: $c86554
+  - Text Pointer: data_42.l_0xc86554
     Type: object
     X: 13
     Y: 23
-  - Text Pointer: $c86554
+  - Text Pointer: data_42.l_0xc86554
     Type: object
     X: 14
     Y: 23
@@ -10768,7 +10768,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 23
     Y: 23
@@ -10824,7 +10824,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c9a0b6
+    Text Pointer: data_56.l_0xc9a0b6
     Type: door
     X: 26
     Y: 29
@@ -10834,7 +10834,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c99d92
+    Text Pointer: data_56.l_0xc99d92
     Type: door
     X: 11
     Y: 10
@@ -10843,7 +10843,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c99d92
+    Text Pointer: data_56.l_0xc99d92
     Type: door
     X: 12
     Y: 11
@@ -10852,7 +10852,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 12
-    Text Pointer: $c99d92
+    Text Pointer: data_56.l_0xc99d92
     Type: door
     X: 13
     Y: 12
@@ -10890,7 +10890,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c99dce
+    Text Pointer: data_56.l_0xc99dce
     Type: door
     X: 6
     Y: 13
@@ -10909,7 +10909,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c99fe0
+    Text Pointer: data_56.l_0xc99fe0
     Type: door
     X: 30
     Y: 13
@@ -11015,7 +11015,7 @@
     Direction: left
     Event Flag: 0xd3
     Style: 4
-    Text Pointer: $c9a139
+    Text Pointer: data_56.l_0xc9a139
     Type: door
     X: 31
     Y: 27
@@ -11026,7 +11026,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 14
     Y: 4
@@ -11053,7 +11053,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 22
     Y: 25
@@ -11091,7 +11091,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 18
     Y: 9
@@ -11147,7 +11147,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 27
     Y: 10
@@ -11156,7 +11156,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 18
     Y: 25
@@ -11203,7 +11203,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 27
     Y: 26
@@ -11214,7 +11214,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 25
     Y: 1
@@ -11280,7 +11280,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 2
     Y: 20
@@ -11289,7 +11289,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9af82
+    Text Pointer: data_57.l_0xc9af82
     Type: door
     X: 3
     Y: 20
@@ -11299,7 +11299,7 @@
     Direction: left
     Event Flag: 0x80d5
     Style: 4
-    Text Pointer: $c9a0b7
+    Text Pointer: data_56.l_0xc9a0b7
     Type: door
     X: 25
     Y: 3
@@ -11313,11 +11313,11 @@
     Type: door
     X: 10
     Y: 23
-  - Text Pointer: $c86568
+  - Text Pointer: data_42.l_0xc86568
     Type: object
     X: 21
     Y: 29
-  - Text Pointer: $c86568
+  - Text Pointer: data_42.l_0xc86568
     Type: object
     X: 22
     Y: 29
@@ -11361,7 +11361,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 13
     Y: 9
@@ -11370,7 +11370,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 22
     Y: 25
@@ -11417,7 +11417,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 18
     Y: 9
@@ -11464,7 +11464,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 27
     Y: 10
@@ -11473,7 +11473,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 22
     Y: 25
@@ -11526,7 +11526,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 23
     Y: 26
@@ -11538,7 +11538,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99e9b
+    Text Pointer: data_56.l_0xc99e9b
     Type: door
     X: 17
     Y: 18
@@ -11562,7 +11562,7 @@
   4: null
   5: null
   6:
-  - Text Pointer: $c87a50
+  - Text Pointer: data_43.l_0xc87a50
     Type: object
     X: 8
     Y: 25
@@ -11703,7 +11703,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 17
@@ -11712,7 +11712,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 18
@@ -11777,7 +11777,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 26
     Y: 17
@@ -11787,17 +11787,17 @@
   2: null
   3: null
   4:
-  - Text Pointer: $c86689
+  - Text Pointer: data_42.l_0xc86689
     Type: object
     X: 18
     Y: 27
-  - Text Pointer: $c86689
+  - Text Pointer: data_42.l_0xc86689
     Type: object
     X: 20
     Y: 27
   5: null
   6:
-  - Text Pointer: $c87a6f
+  - Text Pointer: data_43.l_0xc87a6f
     Type: object
     X: 12
     Y: 9
@@ -11909,7 +11909,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99cf6
+    Text Pointer: data_55.l_0xc99cf6
     Type: door
     X: 26
     Y: 20
@@ -12020,23 +12020,23 @@
     Type: door
     X: 25
     Y: 7
-  - Text Pointer: $c866dd
+  - Text Pointer: data_42.l_0xc866dd
     Type: object
     X: 29
     Y: 9
-  - Text Pointer: $c866dd
+  - Text Pointer: data_42.l_0xc866dd
     Type: object
     X: 30
     Y: 9
-  - Text Pointer: $c866f3
+  - Text Pointer: data_42.l_0xc866f3
     Type: object
     X: 21
     Y: 31
-  - Text Pointer: $c866f3
+  - Text Pointer: data_42.l_0xc866f3
     Type: object
     X: 22
     Y: 31
-  - Text Pointer: $c866f3
+  - Text Pointer: data_42.l_0xc866f3
     Type: object
     X: 24
     Y: 31
@@ -12047,7 +12047,7 @@
     Direction: left
     Event Flag: 0x8073
     Style: 7
-    Text Pointer: $c99f91
+    Text Pointer: data_56.l_0xc99f91
     Type: door
     X: 9
     Y: 17
@@ -12203,7 +12203,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99eb9
+    Text Pointer: data_56.l_0xc99eb9
     Type: door
     X: 1
     Y: 0
@@ -12212,7 +12212,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99eb9
+    Text Pointer: data_56.l_0xc99eb9
     Type: door
     X: 1
     Y: 1
@@ -12221,7 +12221,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99eb9
+    Text Pointer: data_56.l_0xc99eb9
     Type: door
     X: 1
     Y: 2
@@ -12344,7 +12344,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a783
+    Text Pointer: data_56.l_0xc9a783
     Type: door
     X: 1
     Y: 17
@@ -12354,7 +12354,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a7e4
+    Text Pointer: data_56.l_0xc9a7e4
     Type: door
     X: 21
     Y: 20
@@ -12364,17 +12364,17 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a83d
+    Text Pointer: data_56.l_0xc9a83d
     Type: door
     X: 5
     Y: 8
   25: null
   26:
-  - Text Pointer: $c87155
+  - Text Pointer: data_43.l_0xc87155
     Type: object
     X: 17
     Y: 18
-  - Text Pointer: $c87176
+  - Text Pointer: data_43.l_0xc87176
     Type: object
     X: 29
     Y: 18
@@ -12387,16 +12387,16 @@
     Type: door
     X: 5
     Y: 21
-  - Text Pointer: $c871b2
+  - Text Pointer: data_43.l_0xc871b2
     Type: object
     X: 15
     Y: 25
-  - Text Pointer: $c871cd
+  - Text Pointer: data_43.l_0xc871cd
     Type: object
     X: 27
     Y: 25
   27:
-  - Text Pointer: $c87194
+  - Text Pointer: data_43.l_0xc87194
     Type: object
     X: 9
     Y: 18
@@ -12405,7 +12405,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b15f
+    Text Pointer: data_57.l_0xc9b15f
     Type: door
     X: 27
     Y: 22
@@ -12414,7 +12414,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b15f
+    Text Pointer: data_57.l_0xc9b15f
     Type: door
     X: 27
     Y: 23
@@ -12423,11 +12423,11 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b15f
+    Text Pointer: data_57.l_0xc9b15f
     Type: door
     X: 27
     Y: 24
-  - Text Pointer: $c871e9
+  - Text Pointer: data_43.l_0xc871e9
     Type: object
     X: 7
     Y: 25
@@ -12436,7 +12436,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b15f
+    Text Pointer: data_57.l_0xc9b15f
     Type: door
     X: 27
     Y: 25
@@ -12488,7 +12488,7 @@
     X: 29
     Y: 28
   30:
-  - Text Pointer: $c86d59
+  - Text Pointer: data_42.l_0xc86d59
     Type: object
     X: 14
     Y: 7
@@ -12501,7 +12501,7 @@
     Type: door
     X: 17
     Y: 7
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 30
     Y: 7
@@ -12620,7 +12620,7 @@
     Y: 15
   18: null
   19:
-  - Text Pointer: $c8672d
+  - Text Pointer: data_42.l_0xc8672d
     Type: object
     X: 30
     Y: 15
@@ -12629,12 +12629,12 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a89b
+    Text Pointer: data_56.l_0xc9a89b
     Type: door
     X: 13
     Y: 27
   20:
-  - Text Pointer: $c8672d
+  - Text Pointer: data_42.l_0xc8672d
     Type: object
     X: 0
     Y: 15
@@ -12672,28 +12672,28 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a8b2
+    Text Pointer: data_56.l_0xc9a8b2
     Type: door
     X: 19
     Y: 25
   23:
-  - Text Pointer: $c86787
+  - Text Pointer: data_42.l_0xc86787
     Type: object
     X: 1
     Y: 3
-  - Text Pointer: $c86787
+  - Text Pointer: data_42.l_0xc86787
     Type: object
     X: 2
     Y: 3
-  - Text Pointer: $c867c5
+  - Text Pointer: data_42.l_0xc867c5
     Type: object
     X: 13
     Y: 15
-  - Text Pointer: $c867c5
+  - Text Pointer: data_42.l_0xc867c5
     Type: object
     X: 14
     Y: 15
-  - Text Pointer: $c867c5
+  - Text Pointer: data_42.l_0xc867c5
     Type: object
     X: 16
     Y: 15
@@ -12712,7 +12712,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9a8e0
+    Text Pointer: data_56.l_0xc9a8e0
     Type: door
     X: 13
     Y: 1
@@ -12744,7 +12744,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 11
     Y: 22
@@ -12753,7 +12753,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 13
     Y: 24
@@ -12819,7 +12819,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99ec9
+    Text Pointer: data_56.l_0xc99ec9
     Type: door
     X: 15
     Y: 24
@@ -12828,7 +12828,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99ec9
+    Text Pointer: data_56.l_0xc99ec9
     Type: door
     X: 15
     Y: 25
@@ -12837,7 +12837,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99ec9
+    Text Pointer: data_56.l_0xc99ec9
     Type: door
     X: 15
     Y: 26
@@ -12846,7 +12846,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99ec9
+    Text Pointer: data_56.l_0xc99ec9
     Type: door
     X: 15
     Y: 27
@@ -12855,7 +12855,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99ec9
+    Text Pointer: data_56.l_0xc99ec9
     Type: door
     X: 15
     Y: 28
@@ -12871,11 +12871,11 @@
     X: 5
     Y: 11
   20:
-  - Text Pointer: $c87d1f
+  - Text Pointer: data_43.l_0xc87d1f
     Type: object
     X: 20
     Y: 3
-  - Text Pointer: $c87d1f
+  - Text Pointer: data_43.l_0xc87d1f
     Type: object
     X: 22
     Y: 3
@@ -12931,7 +12931,7 @@
     Direction: down
     Event Flag: 0x8154
     Style: 0
-    Text Pointer: $c9aa1c
+    Text Pointer: data_56.l_0xc9aa1c
     Type: door
     X: 31
     Y: 6
@@ -12988,7 +12988,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 24
@@ -12997,7 +12997,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 25
@@ -13006,7 +13006,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 26
@@ -13015,7 +13015,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 27
@@ -13024,7 +13024,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 28
@@ -13052,7 +13052,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b11e
+    Text Pointer: data_57.l_0xc9b11e
     Type: door
     X: 30
     Y: 13
@@ -13070,12 +13070,12 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b12a
+    Text Pointer: data_57.l_0xc9b12a
     Type: door
     X: 30
     Y: 29
   27:
-  - Text Pointer: $c8683d
+  - Text Pointer: data_42.l_0xc8683d
     Type: object
     X: 18
     Y: 8
@@ -13141,7 +13141,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 7
-    Text Pointer: $c9adf2
+    Text Pointer: data_57.l_0xc9adf2
     Type: door
     X: 13
     Y: 7
@@ -13195,7 +13195,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 1
     Y: 29
@@ -13221,7 +13221,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 10
     Y: 20
@@ -13230,7 +13230,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 9
     Y: 21
@@ -13253,46 +13253,46 @@
   18: null
   19: null
   20:
-  - Text Pointer: $c86813
+  - Text Pointer: data_42.l_0xc86813
     Type: object
     X: 17
     Y: 7
-  - Text Pointer: $c86813
+  - Text Pointer: data_42.l_0xc86813
     Type: object
     X: 18
     Y: 7
   21:
-  - Text Pointer: $c87d94
+  - Text Pointer: data_43.l_0xc87d94
     Type: object
     X: 17
     Y: 3
-  - Text Pointer: $c87d94
+  - Text Pointer: data_43.l_0xc87d94
     Type: object
     X: 19
     Y: 3
-  - Text Pointer: $c87d94
+  - Text Pointer: data_43.l_0xc87d94
     Type: object
     X: 20
     Y: 3
-  - Text Pointer: $c87d94
+  - Text Pointer: data_43.l_0xc87d94
     Type: object
     X: 22
     Y: 3
   22: null
   23:
-  - Text Pointer: $c87db4
+  - Text Pointer: data_43.l_0xc87db4
     Type: object
     X: 13
     Y: 7
-  - Text Pointer: $c87db4
+  - Text Pointer: data_43.l_0xc87db4
     Type: object
     X: 15
     Y: 7
-  - Text Pointer: $c87db4
+  - Text Pointer: data_43.l_0xc87db4
     Type: object
     X: 16
     Y: 7
-  - Text Pointer: $c87db4
+  - Text Pointer: data_43.l_0xc87db4
     Type: object
     X: 18
     Y: 7
@@ -13351,11 +13351,11 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 30
     Y: 13
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 10
     Y: 23
@@ -13410,7 +13410,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9adee
+    Text Pointer: data_57.l_0xc9adee
     Type: door
     X: 30
     Y: 13
@@ -13438,7 +13438,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 18
     Y: 9
@@ -13485,7 +13485,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b12e
+    Text Pointer: data_57.l_0xc9b12e
     Type: door
     X: 18
     Y: 9
@@ -13498,7 +13498,7 @@
     Type: door
     X: 9
     Y: 27
-  - Text Pointer: $c86cb4
+  - Text Pointer: data_42.l_0xc86cb4
     Type: object
     X: 14
     Y: 27
@@ -13521,7 +13521,7 @@
     X: 1
     Y: 29
   31:
-  - Text Pointer: $c86e3d
+  - Text Pointer: data_42.l_0xc86e3d
     Type: object
     X: 13
     Y: 11
@@ -13569,7 +13569,7 @@
   13: null
   14: null
   15:
-  - Text Pointer: $c62d23
+  - Text Pointer: data_18.l_0xc62d23
     Type: object
     X: 22
     Y: 30
@@ -13620,11 +13620,11 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 22
     Y: 13
-  - Text Pointer: $c86ab2
+  - Text Pointer: data_42.l_0xc86ab2
     Type: object
     X: 10
     Y: 23
@@ -13680,7 +13680,7 @@
     Direction: down
     Event Flag: 0x0
     Style: 10
-    Text Pointer: $c9b221
+    Text Pointer: data_57.l_0xc9b221
     Type: door
     X: 22
     Y: 13
@@ -13722,7 +13722,7 @@
     Type: door
     X: 9
     Y: 27
-  - Text Pointer: $c86cf4
+  - Text Pointer: data_42.l_0xc86cf4
     Type: object
     X: 14
     Y: 27
@@ -13771,7 +13771,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 0
@@ -13780,7 +13780,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 1
@@ -13789,7 +13789,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 2
@@ -13798,7 +13798,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 3
@@ -13807,7 +13807,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 4
@@ -13816,7 +13816,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 5
@@ -13825,7 +13825,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 6
@@ -13834,7 +13834,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 7
@@ -13858,7 +13858,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 0
@@ -13867,7 +13867,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 1
@@ -13876,7 +13876,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 2
@@ -13885,7 +13885,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 3
@@ -13894,7 +13894,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 4
@@ -13903,7 +13903,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 5
@@ -13912,7 +13912,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 6
@@ -13921,7 +13921,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 7
@@ -13931,7 +13931,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 0
@@ -13940,7 +13940,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 1
@@ -13949,7 +13949,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 2
@@ -13958,7 +13958,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 3
@@ -13967,7 +13967,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 4
@@ -13976,7 +13976,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 5
@@ -13985,7 +13985,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 6
@@ -13994,7 +13994,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 16
     Y: 7
@@ -14061,7 +14061,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 25
     Y: 24
@@ -14070,7 +14070,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 26
     Y: 25
@@ -14079,7 +14079,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 27
     Y: 26
@@ -14088,7 +14088,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 28
     Y: 27
@@ -14097,7 +14097,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 29
     Y: 28
@@ -14106,7 +14106,7 @@
     Direction: right
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99eb8
+    Text Pointer: data_56.l_0xc99eb8
     Type: door
     X: 30
     Y: 29
@@ -14116,7 +14116,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 0
@@ -14125,7 +14125,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 1
@@ -14134,7 +14134,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 2
@@ -14143,7 +14143,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 3
@@ -14152,7 +14152,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 4
@@ -14161,7 +14161,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 5
@@ -14170,7 +14170,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 6
@@ -14179,7 +14179,7 @@
     Direction: right
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c9b10b
+    Text Pointer: data_57.l_0xc9b10b
     Type: door
     X: 15
     Y: 7
@@ -14189,7 +14189,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 6
     Y: 24
@@ -14198,7 +14198,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 5
     Y: 25
@@ -14207,7 +14207,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 4
     Y: 26
@@ -14216,7 +14216,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 3
     Y: 27
@@ -14225,7 +14225,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 2
     Y: 28
@@ -14234,7 +14234,7 @@
     Direction: left
     Event Flag: 0x2f9
     Style: 1
-    Text Pointer: $c99ed9
+    Text Pointer: data_56.l_0xc99ed9
     Type: door
     X: 1
     Y: 29
@@ -14246,7 +14246,7 @@
     Direction: right
     Event Flag: 0x821d
     Style: 7
-    Text Pointer: $c6fae5
+    Text Pointer: data_27.l_0xc6fae5
     Type: door
     X: 26
     Y: 5
@@ -14256,7 +14256,7 @@
     Direction: left
     Event Flag: 0x0
     Style: 1
-    Text Pointer: $c99d05
+    Text Pointer: data_55.l_0xc99d05
     Type: door
     X: 1
     Y: 9
@@ -14295,7 +14295,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 25
     Y: 24
@@ -14304,7 +14304,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 26
     Y: 25
@@ -14313,7 +14313,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 27
     Y: 26
@@ -14322,7 +14322,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 28
     Y: 27
@@ -14331,7 +14331,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 29
     Y: 28
@@ -14340,7 +14340,7 @@
     Direction: right
     Event Flag: 0x80d3
     Style: 1
-    Text Pointer: $c99c4b
+    Text Pointer: data_55.l_0xc99c4b
     Type: door
     X: 30
     Y: 29

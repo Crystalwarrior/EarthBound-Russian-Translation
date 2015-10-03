@@ -7,8 +7,10 @@
 command e(label) "{long label}"
 
 // Text Data
+/*l_0xc66b97:
+    "@Someone's knocking at the door.{pause(20)}  What an annoying knock!" end*/
 l_0xc66b97:
-    "@Someone's knocking at the door.{pause(20)}  What an annoying knock!" end
+    "@[7C][A4][A0]-[A4][A0] [93] [95][93][96][A2][C3] [A3][A4][A5][A9][9A][A4][A3][C6].{pause(20)}  [7C][91][9C][A0][9B] [9F][91][95][A0][96][95][9D][9A][93][C2][9B] [A3][A4][A5][9C]!" end
 
 l_0xc66bc0:
     "@Hey bro... you're here for the [1C 05 B8],{pause(15)} aren't you?" linebreak
@@ -41,37 +43,62 @@ l_0xc66cc1:
     "[1D 03 FF][1B 02 {e(l_0xc66d2b)}]@Here's the <[1C 05 AF].>{pause(20)}  What are you going to use it for?" next
     "@Sorry.{pause(20)}  I'm not supposed to inquire about a customer's private matters.[03][1D 0E 00 AF]{sound(116)}{pause(60)}{unset(flag 693)}" eob
 
+/*l_0xc66d2b:
+    "@It seems you have too many items to carry!" end*/
 l_0xc66d2b:
-    "@It seems you have too many items to carry!" end
+    "@[85] [A4][96][92][C6] [A3][9D][9A][AA][9C][A0][9E] [9E][9F][A0][94][A0] [93][96][C0][96][9B]!" end
 
-l_0xc66d3e:
+/*l_0xc66d3e:
     "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@What was that noise?" next
     "@[1C 02 01],{pause(15)} you don't seem scared.{pause(20)}  Are you nuts?" next
     "@And now you want to go check it out?{pause(15)}  ...oh{pause(15)} ...okay." next
     "@You'll sneak out of your room anyway,{pause(15)} even if I asked you not to." next
-    "@At least change out of your jammies before you go.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
+    "@At least change out of your jammies before you go.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob*/
+l_0xc66d3e:
+    "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@[89][A4][A0] [C4][A4][A0] [92][C2][9D] [99][91] [AA][A5][9E]?" next
+    "@[1C 02 01],{pause(15)} [A4][96][92][96], [A1][A0][A7][A0][95][A5], [9F][96] [A3][A4][A2][91][AA][9F][A0].{pause(20)}" linebreak
+    "[84][C2] [A3] [A5][9E][91] [A3][A0][AA][97][9D]?" next
+    "@[7A] [A4][96][A1][96][A2][C3] [A4][96][92][96] [A7][A0][A9][96][A4][A3][C6] [A1][A0][9B][A4][9A] [A4][A5][95][91] [9A] [A1][A2][A0][93][96][A2][9A][A4][C3]?{pause(15)}" linebreak
+    "...[9F][A5]{pause(15)} ...[9D][91][95][9F][A0]." next
+    "@[84][C2] [93][A3][97] [A2][91][93][9F][A0] [93][C2][A3][9C][A0][9D][C3][99][9F][96][AA][C3] [9A][99] [A3][93][A0][96][9B] [9C][A0][9E][9F][91][A4][C2],{pause(15)}" next
+    "[95][91][98][96] [96][A3][9D][9A] [C6] [A4][96][92][C6] [A1][A0][A1][A2][A0][AA][A5] [9F][96] [95][96][9D][91][A4][C3] [C4][A4][A0][94][A0]." next
+    "@[87][A0][A4][C6] [92][C2] [A1][96][A2][96][A0][95][96][9F][C3][A3][C6] [93][A0] [A9][A4][A0]-[9F][9A][92][A5][95][C3] [A1][A0][A1][A2][9A][9D][9A][A9][9F][96][96].[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
 
+/*l_0xc66df2:
+    "@Be careful!{pause(20)}  Come home as soon as you can." end*/
 l_0xc66df2:
-    "@Be careful!{pause(20)}  Come home as soon as you can." end
+    "@[72][A5][95][C3] [A0][A3][A4][A0][A2][A0][98][96][9F]!{pause(20)}  [73][A0][99][A2][91][C0][91][9B][A3][C6] [95][A0][9E][A0][9B] [9C][91][9C] [9E][A0][98][9F][A0] [A3][9C][A0][A2][96][96]." end
 
-l_0xc66e13:
+/*l_0xc66e13:
     "@What was that noise?" next
-    "@You don't seem scared at all.{pause(20)}  Be careful!" end
+    "@You don't seem scared at all.{pause(20)}  Be careful!" end*/
+l_0xc66e13:
+    "@[89][A4][A0] [C4][A4][A0] [92][C2][9D] [99][91] [AA][A5][9E]?" next
+    "@[84][96][92][96], [A1][A0][A7][A0][95][A5], [93][A0][A0][92][C0][96] [9F][96] [A3][A4][A2][91][AA][9F][A0].{pause(20)}  [81][A0][A0][A3][A4][A0][A2][A0][98][9F][96][96] [A4][91][9E]!" end
 
-l_0xc66e40:
+/*l_0xc66e40:
     "@Welcome home,{pause(15)} [1C 02 01]." next
     "@It's not necessary to talk about it tonight." next
     "@It's late,{pause(20)} scoot off to bed now." linebreak
-    "[19 02]Yes" eob
+    "[19 02]Yes" eob*/
+l_0xc66e40:
+    "@[83] [93][A0][99][93][A2][91][C0][96][9F][9A][96][9E],{pause(15)} [1C 02 01]." next
+    "@[84][96][92][96] [9F][96] [A3][A4][A0][9A][A4] [94][A0][93][A0][A2][9A][A4][C3] [A0][92] [C4][A4][A0][9E] [A3][96][94][A0][95][9F][C6] [9F][A0][A9][C3][C5]." next
+    "@[85][98][96] [A1][A0][99][95][9F][A0],{pause(20)} [92][96][94][9A] [A3][9C][A0][A2][96][96] [93] [A1][A0][A3][A4][96][9D][C3]." linebreak
+    "[19 02][75][91]" eob
 
+/*l_0xc66e8a:
+    " [19 02]No" eob*/
 l_0xc66e8a:
-    " [19 02]No" eob
+    " [19 02][7F][96][A4]" eob
 
 l_0xc66e90:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc66eca)} {e(l_0xc66e9f)}]" goto(l_0xc66e9f)
 
+/*l_0xc66e9f:
+    "@Oh,{pause(15)} [1C 02 01].{pause(20)}  You don't understand the importance of a good night's sleep!" end*/
 l_0xc66e9f:
-    "@Oh,{pause(15)} [1C 02 01].{pause(20)}  You don't understand the importance of a good night's sleep!" end
+    "@[80][A7],{pause(15)} [1C 02 01].{pause(20)}  [84][C2] [9F][96] [A1][A0][9F][9A][9E][96][AA][C3] [93][A3][96][9B] [93][91][98][9F][A0][A3][A4][9A] [A7][A0][A2][A0][AA][96][94][A0] [A3][9F][91]!" end
 
 l_0xc66eca:
     "{window_closeall}[1F 07 03]{set(flag 295)}{set(flag 469)}{set(flag 530)}{unset(flag 474)}{set(flag 473)}{set(flag 468)}{set(flag 749)}{unset(flag 11)}{unset(flag 517)}[1F 15 6A 00 79 02 01][1F 61]{pause(120)}[1F EB FF 06][1F 15 6A 00 FD 02 01][1F 61][1F 21 51]{pause(180)}[1F 15 B5 01 0B 03 FF][1F 21 C4][1F E5 FF]{pause(1)}[1F 1F B5 01 06][1F EC FF 01]" eob

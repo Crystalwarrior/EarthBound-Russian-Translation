@@ -57,11 +57,11 @@ l_0xc66d2b:
 l_0xc66d3e:
     "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@[89][A4][A0] [C4][A4][A0] [92][C2][9D] [99][91] [AA][A5][9E]?" next
     "@[1C 02 01],{pause(15)} [A4][96][92][96], [A1][A0][A7][A0][95][A5], [9F][96] [A3][A4][A2][91][AA][9F][A0].{pause(20)}" linebreak
-    "[84][C2] [A3] [A5][9E][91] [A3][A0][AA][97][9D]?" next
+    "  [84][C2] [A3] [A5][9E][91] [A3][A0][AA][97][9D]?" next
     "@[7A] [A4][96][A1][96][A2][C3] [A4][96][92][96] [A7][A0][A9][96][A4][A3][C6] [A1][A0][9B][A4][9A] [A4][A5][95][91] [9A] [A1][A2][A0][93][96][A2][9A][A4][C3]?{pause(15)}" linebreak
-    "...[9F][A5]{pause(15)} ...[9D][91][95][9F][A0]." next
+    "  ...[9F][A5]{pause(15)} ...[9D][91][95][9F][A0]." next
     "@[84][C2] [93][A3][97] [A2][91][93][9F][A0] [93][C2][A3][9C][A0][9D][C3][99][9F][96][AA][C3] [9A][99] [A3][93][A0][96][9B] [9C][A0][9E][9F][91][A4][C2],{pause(15)}" next
-    "[95][91][98][96] [96][A3][9D][9A] [C6] [A4][96][92][C6] [A1][A0][A1][A2][A0][AA][A5] [9F][96] [95][96][9D][91][A4][C3] [C4][A4][A0][94][A0]." next
+    "  [95][91][98][96] [96][A3][9D][9A] [C6] [A4][96][92][C6] [A1][A0][A1][A2][A0][AA][A5] [9F][96] [95][96][9D][91][A4][C3] [C4][A4][A0][94][A0]." next
     "@[87][A0][A4][C6] [92][C2] [A1][96][A2][96][A0][95][96][9F][C3][A3][C6] [93][A0] [A9][A4][A0]-[9F][9A][92][A5][95][C3] [A1][A0][A1][A2][9A][9D][9A][A9][9F][96][96].[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
 
 /*l_0xc66df2:
@@ -103,103 +103,179 @@ l_0xc66e9f:
 l_0xc66eca:
     "{window_closeall}[1F 07 03]{set(flag 295)}{set(flag 469)}{set(flag 530)}{unset(flag 474)}{set(flag 473)}{set(flag 468)}{set(flag 749)}{unset(flag 11)}{unset(flag 517)}[1F 15 6A 00 79 02 01][1F 61]{pause(120)}[1F EB FF 06][1F 15 6A 00 FD 02 01][1F 61][1F 21 51]{pause(180)}[1F 15 B5 01 0B 03 FF][1F 21 C4][1F E5 FF]{pause(1)}[1F 1F B5 01 06][1F EC FF 01]" eob
 
+/*l_0xc66f20:
+    "@Don't you know what time it is?!{pause(20)}  Get yer butt home,{pause(15)} pronto!" end*/
 l_0xc66f20:
-    "@Don't you know what time it is?!{pause(20)}  Get yer butt home,{pause(15)} pronto!" end
+    "@[82][91][99][93][96] [A4][C2] [9F][96] [99][9F][91][96][AA][C3], [9C][A0][A4][A0][A2][C2][9B] [A9][91][A3]?!{pause(20)}  [7A][95][9A] [95][A0][9E][A0][9B],{pause(15)} [92][96][99] [A1][A2][A0][9E][96][95][9D][96][9F][9A][C6]!" end
 
-l_0xc66f4a:
+/*l_0xc66f4a:
     "@I want to return home,{pause(15)} but the road is closed." next
-    "@People are taking this meteorite situation too seriously!" end
+    "@People are taking this meteorite situation too seriously!" end*/
+l_0xc66f4a:
+    "@[B6] [A7][A0][A9][A5] [95][A0][9E][A0][9B],{pause(15)} [9F][A0] [95][A0][A2][A0][94][91] [99][91][94][A0][A2][A0][98][96][9F][91]." next
+    "@[7D][C5][95][9A] [93][A0][A3][A1][A2][9A][9F][9A][9E][91][C5][A4] [C4][A4][A5] [A3][9A][A4][A5][91][A8][9A][C5] [A3] [9E][96][A4][96][A0][A2][9A][A4][A0][9E] [A3][9D][9A][AA][9C][A0][9E] [A3][96][A2][C3][97][99][9F][A0]!" end
 
-l_0xc66f90:
+/*l_0xc66f90:
     "@Don't panic!{pause(20)}  It's just a...{pause(20)} what?!... meteorite that...{pause(20)} who?!... fell." next
-    "@I just wanna...{pause(15)} what?!{pause(20)} ...go home..." end
+    "@I just wanna...{pause(15)} what?!{pause(20)} ...go home..." end*/
+l_0xc66f90:
+    "@[72][96][99] [A1][91][9F][9A][9C][9A]!{pause(20)}  [B4][A4][A0] [93][A3][96][94][A0] [9D][9A][AA][C3]...{pause(20)} [A9][A4][A0]?!... [9E][96][A4][96][A0][A2][9A][A4], [9C][A0][A4][A0][A2][C2][9B]...{pause(20)} [9C][A4][A0]?!... [A5][A1][91][9D]." next
+    "@[B6] [A1][A2][A0][A3][A4][A0] [A7][A0][A9][A5]...{pause(15)} [A9][A4][A0]?!{pause(20)} ...[A1][A0][9B][A4][9A] [95][A0][9E][A0][9B]..." end
 
-l_0xc66fe2:
+/*l_0xc66fe2:
     "@Onett police are infamous for closing roads if something is going on." next
-    "@We are going for the world record..." end
+    "@We are going for the world record..." end*/
+l_0xc66fe2:
+    "@[81][A0][9D][9A][A8][9A][C6] [80][9F][96][A4][A4] [A3][9D][91][93][9A][A4][A3][C6] [99][91][9C][A2][C2][A4][9A][96][9E] [95][A0][A2][A0][94][9A], [96][A3][9D][9A] [93][95][A2][A5][94] [9C][91][9C][91][C6]-[A4][A0] [A1][96][A2][96][95][A2][C6][94][91]." next
+    "@[7E][C2] [9A][95][97][9E] [9F][91] [9E][9A][A2][A0][93][A0][9B] [A2][96][9C][A0][A2][95]..." end
 
-l_0xc67026:
+/*l_0xc67026:
     "@Did you hear the big bang?{pause(20)}" linebreak
     "  I think a meteorite landed nearby." next
     "@I want to be the first to see it.{pause(15)}  Okay?" next
-    "@I am going to try to be the first to get there..." end
+    "@I am going to try to be the first to get there..." end*/
+l_0xc67026:
+    "@[84][C2] [A3][9D][C2][AA][91][9D] [C4][A4][A0][A4] [92][A0][9D][C3][AA][A0][9B] [93][99][A2][C2][93]?{pause(20)}" linebreak
+    "  [7E][9F][96] [9C][91][98][96][A4][A3][C6], [A9][A4][A0] [9E][96][A4][96][A0][A2][9A][A4] [A5][A1][91][9D] [A1][A0][92][9D][9A][99][A0][A3][A4][9A]." next
+    "@[B6] [92][A5][95][A5] [A1][96][A2][93][C2][9E], [9C][A4][A0] [96][94][A0] [A5][93][9A][95][9A][A4].{pause(15)}  [81][A0][9F][C6][A4][9F][A0]?" next
+    "@[B6] [A1][A0][A1][A2][A0][92][A5][C5] [A1][96][A2][93][C2][9E] [A4][A5][95][91] [A1][A0][A1][91][A3][A4][C3]..." end
 
-l_0xc67089:
+/*l_0xc67089:
     "@A meteorite has landed,{pause(15)} the Sharks are running wild in town," next
     "@you kids are wandering around,{pause(15)} and,{pause(15)} I'm hungry...{pause(20)}" linebreak
-    "  I hate my job!" end
+    "  I hate my job!" end*/
+l_0xc67089:
+    "@[84][A0][9D][C3][9C][A0] [A9][A4][A0] [A5][A1][91][9D] [9E][96][A4][96][A0][A2][9A][A4],{pause(15)} [71][9C][A5][9D][C2] [A4][96][A2][A2][A0][A2][9A][99][9A][A2][A5][C5][A4] [9F][91][AA] [94][A0][A2][A0][95]," next
+    "@[93][C2] [95][96][A4][9A][AA][9C][9A] [A4][A5][A4] [92][A2][A0][95][9A][A4][96],{pause(15)} [9A],{pause(15)} [C6] [94][A0][9D][A0][95][9F][C2][9B]...{pause(20)}" linebreak
+    "  [7F][96][9F][91][93][9A][98][A5] [A3][93][A0][C5] [A2][91][92][A0][A4][A5]!" end
 
-l_0xc670e6:
+/*l_0xc670e6:
     "[06 D8 01 {e(l_0xc67130)}]@It's dangerous to go to the hilltop." next
-    "@Even if I advise you not to go,{pause(15)} it won't stop you,{pause(15)} will it?" end
+    "@Even if I advise you not to go,{pause(15)} it won't stop you,{pause(15)} will it?" end*/
+l_0xc670e6:
+    "[06 D8 01 {e(l_0xc67130)}]@[7A][95][A4][9A] [9F][91] [93][96][A2][AA][9A][9F][A5] [A7][A0][9D][9E][91] [A3][9D][9A][AA][9C][A0][9E] [A0][A1][91][A3][9F][A0]." next
+    "@[7F][A0] [95][91][98][96] [96][A3][9D][9A] [C6] [A4][96][92][96] [A1][A0][A3][A0][93][96][A4][A5][C5] [A4][A5][95][91] [9F][96] [9A][95][A4][9A],{pause(15)} [A4][96][92][C6] [C4][A4][A0] [9F][96] [A0][A3][A4][91][9F][A0][93][9A][A4],{pause(15)} [9F][96][A1][A2][91][93][95][91] [9D][9A]?" end
 
-l_0xc67130:
+/*l_0xc67130:
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." next
     "@If I yawn like this...{pause(20)} it looks like I'm goofing off." next
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." linebreak
-    "  ...yes,{pause(15)} it does..." end
+    "  ...yes,{pause(15)} it does..." end*/
+l_0xc67130:
+    "@[71]{pause(5)}[91]{pause(5)}[91]{pause(5)}[91]{pause(5)}[91]{pause(5)}[A7]{pause(15)}--[A7]..." next
+    "@[7C][A0][94][95][91] [C6] [A4][91][9C] [99][96][93][91][C5]...{pause(20)} [93][C2][94][9D][C6][95][9A][A4], [92][A5][95][A4][A0] [C6] [9D][96][9F][A4][C6][9B][9F][9A][A9][91][C5]." next
+    "@[71]{pause(5)}[91]{pause(5)}[91]{pause(5)}[91]{pause(5)}[91]{pause(5)}[A7]{pause(15)}--[A7]..." linebreak
+    "  ...[95][91],{pause(15)} [A4][91][9C] [9A] [96][A3][A4][C3]..." end
 
+/*l_0xc67194:
+    "@Hey, you!{pause(15)}  Don't you know what time it is?" end*/
 l_0xc67194:
-    "@Hey, you!{pause(15)}  Don't you know what time it is?" end
+    "@[B4][9B], [A4][C2]!{pause(15)}  [82][91][99][93][96] [A4][C2] [9F][96] [99][9F][91][96][AA][C3], [9C][A0][A4][A0][A2][C2][9B] [A9][91][A3]?" end
 
-l_0xc671ad:
+/*l_0xc671ad:
     "@Clear out. Get out of my way." linebreak
     "  Clear out. Get out of my way." linebreak
     "  Clear out. Get out of my way." next
     "@Clear out. Of way out get my" next
     "@Whoops,{pause(15)} my mistake...{pause(20)}" linebreak
-    "  I mean <get out of my way!>" end
+    "  I mean <get out of my way!>" end*/
+l_0xc671ad:
+    "@[85][95][91][9D][9A][A4][96][A3][C3]. [81][A2][A0][A9][C3] [A3] [95][A0][A2][A0][94][9A]." linebreak
+    "  [85][95][91][9D][9A][A4][96][A3][C3]. [81][A2][A0][A9][C3] [A3] [95][A0][A2][A0][94][9A]." linebreak
+    "  [85][95][91][9D][9A][A4][96][A3][C3]. [81][A2][A0][A9][C3] [A3] [95][A0][A2][A0][94][9A]." next
+    "@[85][95][91][9D][9A][A4][96][A3][C3]. [75][A0][A9][C3] [A3] [A1][A0][A2][A0][94][9A]." next
+    "@[85][A1][A3],{pause(15)} [9E][A0][C6] [93][9A][9F][91]...{pause(20)}" linebreak
+    "  [B6] [9A][9E][96][9D] [93][93][9A][95][A5] <[A1][A2][A0][A9][C3] [A3] [95][A0][A2][A0][94][9A]!>" end
 
+/*l_0xc67229:
+    "@Shh.{pause(15)}  Shh!" end*/
 l_0xc67229:
-    "@Shh.{pause(15)}  Shh!" end
+    "@[84][A3][A3].{pause(15)}  [84][A3][A3]!" end
 
-l_0xc67237:
+/*l_0xc67237:
     "@Nice timing,{pause(15)} [1C 02 01].{pause(20)}  Will you do something about Pokey?" next
     "@He's driving me nuts.{pause(20)}  Are you two friends?" linebreak
-    "[19 02]Yes" eob
+    "[19 02]Yes" eob*/
+l_0xc67237:
+    "@[7C][91][9C] [A2][91][99] [9C][A3][A4][91][A4][9A],{pause(15)} [1C 02 01].{pause(20)}  [7E][A0][98][96][AA][C3] [A3][95][96][9D][91][A4][C3] [A9][A4][A0]-[9F][9A][92][A5][95][C3] [9F][91][A3][A9][97][A4] [81][A0][A2][9C][9A]?" next
+    "@[80][9F] [9E][96][9F][C6] [A3] [A5][9E][91] [A3][93][A0][95][9A][A4].{pause(20)}  [73][C2] [98][96] [95][A2][A5][99][C3][C6], [95][91]?" linebreak
+    "[19 02][75][91]" eob
 
+/*l_0xc67286:
+    " [19 02]No" eob*/
 l_0xc67286:
-    " [19 02]No" eob
+    " [19 02][7F][96][A4]" eob
 
 l_0xc6728c:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc672cc)} {e(l_0xc6729b)}]" goto(l_0xc6729b)
 
-l_0xc6729b:
+/*l_0xc6729b:
     "@You're not friends,{pause(15)} but aren't you neighbors?" next
-    "@C'mon,{pause(15)} help me out here!" end
+    "@C'mon,{pause(15)} help me out here!" end*/
+l_0xc6729b:
+    "@[73][C2] [9F][96] [95][A2][A5][98][9A][A4][96],{pause(15)} [9F][A0] [A2][91][99][93][96] [93][C2] [9F][96] [A3][A0][A3][96][95][9A]?" next
+    "@[7F][A5] [95][91][93][91][9B] [98][96],{pause(15)} [93][C2][A2][A5][A9][9A] [9E][96][9F][C6] [A4][A5][A4]!" end
 
+/*l_0xc672cc:
+    "@And you live in the house next to his...{pause(20)}  I see..." end*/
 l_0xc672cc:
-    "@And you live in the house next to his...{pause(20)}  I see..." end
+    "@[7A] [A4][C2] [A4][91][9C] [98][96] [96][94][A0] [A3][A0][A3][96][95]...{pause(20)}  [81][A0][9F][C6][A4][9F][A0]..." end
 
-l_0xc672eb:
+
+/*l_0xc672eb:
     "@That meteorite looks different than usual." next
     "@It's strange and marvelous...{pause(20)} as well as mysterious..." linebreak
-    "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end
+    "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end*/
+l_0xc672eb:
+    "@[B4][A4][A0][A4] [9E][96][A4][96][A0][A2][9A][A4] [93][C2][94][9D][C6][95][9A][A4] [9A][9F][91][A9][96]." next
+    "@[80][9F] [A3][A4][A2][91][9F][9F][C2][9B] [9A] [A5][95][9A][93][9A][A4][96][9D][C3][9F][C2][9B]...{pause(20)} [91] [A4][91][9C] [98][96] [99][91][94][91][95][A0][A9][9F][C2][9B]..." linebreak
+    "  {pause(20)}[A5]{pause(5)}[A5]{pause(5)}[A5]{pause(5)}[A5]{pause(5)}[A5]!..." end
 
-l_0xc67349:
+/*l_0xc67349:
     "[06 D8 01 {e(l_0xc6739f)}]@Hey,{pause(15)} [1C 02 01]." next
     "@Don't be rubberneckin'.{pause(20)}  You're gettin' in the cops,{pause(15)} oops..." next
     "@I mean officer's way!" next
+    "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)*/
+l_0xc67349:
+    "[06 D8 01 {e(l_0xc6739f)}]@[B4][9B],{pause(15)} [1C 02 01]." next
+    "@[87][93][91][A4][9A][A4] [A4][A5][A4] [94][9D][91][99][96][A4][C3].{pause(20)}  [84][C2] [9E][96][AA][91][96][AA][C3] [9C][A0][A1][91][9E],{pause(15)} [A5][A1][A3]..." next
+    "@[84][A0] [96][A3][A4][C3], [A1][A0][9D][9A][A8][96][9B][A3][9C][9A][9E]!" next
     "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)
 
-l_0xc6739f:
+/*l_0xc6739f:
     "@You can go home now." next
     "@Tomorrow{pause(5)} I,{pause(15)} Pokey,{pause(15)} will tell you more about the strange meteorite." next
-    "@I'm fine here,{pause(15)} but you're bugging the officers!" end
+    "@I'm fine here,{pause(15)} but you're bugging the officers!" end*/
+l_0xc6739f:
+    "@[84][C2] [9E][A0][98][96][AA][C3] [9A][95][A4][9A] [95][A0][9E][A0][9B]." next
+    "@[79][91][93][A4][A2][91]{pause(5)} [B6],{pause(15)} [81][A0][A2][9C][9A],{pause(15)} [A2][91][A3][A3][9C][91][98][A5] [A4][96][92][96] [93][A3][97] [A0] [A3][A4][A2][91][9F][9F][A0][9E] [9E][96][A4][96][A0][A2][9A][A4][96]." next
+    "@[83][A0] [9E][9F][A0][9B] [93][A3][97] [93][A1][A0][A2][C6][95][9C][96],{pause(15)} [9F][A0] [A4][C2] [A2][91][99][95][A2][91][98][91][96][AA][C3] [A1][A0][9D][9A][A8][96][9B][A3][9C][9A][A7]!" end
 
-l_0xc673f9:
+//Picky
+/*l_0xc673f9:
     "[06 D8 01 {e(l_0xc674aa)}][06 02 00 {e(l_0xc67412)}]@Oh,{pause(15)} hi." next
+    goto(l_0xc67412)*/
+l_0xc673f9:
+    "[06 D8 01 {e(l_0xc674aa)}][06 02 00 {e(l_0xc67412)}]@[80],{pause(15)} [A1][A2][9A][93][96][A4]." next
     goto(l_0xc67412)
 
-l_0xc67412:
+/*l_0xc67412:
     "@Pokey,{pause(5)} my brother, ran out of here to chase after a police car." next
     "@He said{pause(5)} <Picky,{pause(15)} you should stay home.>{pause(15)}  So I'm home watching our house." next
-    "@Mom and Dad aren't home yet.{pause(20)}  They went out to an elegant restaurant.{wait}{set(flag 2)}" eob
+    "@Mom and Dad aren't home yet.{pause(20)}  They went out to an elegant restaurant.{wait}{set(flag 2)}" eob*/
+l_0xc67412:
+    "@[81][A0][A2][9C][9A],{pause(5)} [9E][A0][9B] [92][A2][91][A4], [93][C2][92][96][98][91][9D] [A0][A4][A3][C5][95][91] [9A] [A1][A0][94][9F][91][9D][A3][C6] [99][91] [A1][A0][9D][9A][A8][96][9B][A3][9C][A0][9B] [9E][91][AA][9A][9F][A0][9B]." next
+    "@[80][9F] [A3][9C][91][99][91][9D]{pause(5)} <[81][9A][9C][9A],{pause(15)} [A4][96][92][96] [A3][A4][A0][9A][A4] [A0][A3][A4][91][A4][C3][A3][C6] [95][A0][9E][91].>{pause(15)}  [7A] [93][A0][A4] [C6] [99][91] [95][A0][9E][A0][9E] [A3][9E][A0][A4][A2][C5]." next
+    "@[7E][91][9E][91] [9A] [81][91][A1][91] [96][C0][97] [9F][96] [95][A0][9E][91].{pause(20)}  [80][9F][9A] [A1][A0][AA][9D][9A] [93] [C4][9D][96][94][91][9F][A4][9F][C2][9B] [A2][96][A3][A4][A0][A2][91][9F].{wait}{set(flag 2)}" eob
 
-l_0xc674aa:
+/*l_0xc674aa:
     "@I'm so sleepy..." next
     "@Mom and Dad haven't gotten back from town yet." next
-    "@Pokey ran out,{pause(15)} and he hasn't returned.{pause(20)}  I'm thinking about going to bed." end
+    "@Pokey ran out,{pause(15)} and he hasn't returned.{pause(20)}  I'm thinking about going to bed." end*/
+l_0xc674aa:
+    "@[B6] [A0][A9][96][9F][C3] [A3][A0][9F][9F][C2][9B]..." next
+    "@[7E][91][9E][91] [9A] [81][91][A1][91] [96][C0][97] [9F][96] [93][96][A2][9F][A5][9D][9A][A3][C3] [9A][99] [94][A0][A2][A0][95][91]." next
+    "@[81][A0][A2][9C][9A] [A5][92][96][98][91][9D],{pause(15)} [9A] [A0][9F] [96][C0][97] [9F][96] [93][96][A2][9F][A5][9D][A3][C6].{pause(20)}  [B6] [9F][91][95][A5][9E][C2][93][91][C5] [A1][A0][9B][A4][9A] [A1][A0][A3][A1][91][A4][C3]." end
 
 l_0xc67501:
     "{music(124)}[1F 15 2F 01 6E 02 01][1F 61]{pause(30)}{window_open(1)}{music(155)}@It's been a long time,{pause(15)}" linebreak

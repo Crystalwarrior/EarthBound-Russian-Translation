@@ -471,7 +471,7 @@ l_0xc66aa4:
     "@Do you think Mom will let me stay up late tonight?" next
     "@I can't seem to fall back asleep." end*/
 l_0xc66afe:
-    "@[7C][91][9C] [A4][C2] [95][A5][9E][91][96][AA][C3], [A2][91][99][A2][96][AA][9A][A4] [9E][9F][96] [9E][91][9E][91] [9F][96] [9D][A0][98][9A][A4][C3][A3][C6] [A3][A1][91][A4][C3]?" next
+    "@[7C][91][9C] [A4][C2] [95][A5][9E][91][96][AA][C3], [A2][91][99][A2][96][AA][9A][A4] [9E][9F][96] [9E][91][9E][91] [9F][96] [A3][A1][91][A4][C3]?" next
     "@[B6] [9F][96] [9E][A0][94][A5] [99][91][A3][9F][A5][A4][C3]." end
 /*l_0xc66b33:
     "@I can only help by keeping your items here..." next

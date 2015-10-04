@@ -57,11 +57,11 @@ l_0xc66d2b:
 l_0xc66d3e:
     "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@Что это был за шум?" next
     "@[1C 02 01],{pause(15)} тебе, походу, не страшно.{pause(20)}" linebreak
-    "Ты с ума сошёл?" next
+    "  Ты с ума сошёл?" next
     "@И теперь тебе хочется пойти туда и проверить?{pause(15)}" linebreak
-    "...ну{pause(15)} ...ладно." next
+    "  ...ну{pause(15)} ...ладно." next
     "@Ты всё равно выскользнешь из своей комнаты,{pause(15)}" next
-    "даже если я тебя попрошу не делать этого." next
+    "  даже если я тебя попрошу не делать этого." next
     "@Хотя бы переоденься во что-нибудь поприличнее.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
 
 /*l_0xc66df2:
@@ -103,103 +103,179 @@ l_0xc66e9f:
 l_0xc66eca:
     "{window_closeall}[1F 07 03]{set(flag 295)}{set(flag 469)}{set(flag 530)}{unset(flag 474)}{set(flag 473)}{set(flag 468)}{set(flag 749)}{unset(flag 11)}{unset(flag 517)}[1F 15 6A 00 79 02 01][1F 61]{pause(120)}[1F EB FF 06][1F 15 6A 00 FD 02 01][1F 61][1F 21 51]{pause(180)}[1F 15 B5 01 0B 03 FF][1F 21 C4][1F E5 FF]{pause(1)}[1F 1F B5 01 06][1F EC FF 01]" eob
 
+/*l_0xc66f20:
+    "@Don't you know what time it is?!{pause(20)}  Get yer butt home,{pause(15)} pronto!" end*/
 l_0xc66f20:
-    "@Don't you know what time it is?!{pause(20)}  Get yer butt home,{pause(15)} pronto!" end
+    "@Разве ты не знаешь, который час?!{pause(20)}  Иди домой,{pause(15)} без промедления!" end
 
-l_0xc66f4a:
+/*l_0xc66f4a:
     "@I want to return home,{pause(15)} but the road is closed." next
-    "@People are taking this meteorite situation too seriously!" end
+    "@People are taking this meteorite situation too seriously!" end*/
+l_0xc66f4a:
+    "@Я хочу домой,{pause(15)} но дорога загорожена." next
+    "@Люди воспринимают эту ситуацию с метеоритом слишком серьёзно!" end
 
-l_0xc66f90:
+/*l_0xc66f90:
     "@Don't panic!{pause(20)}  It's just a...{pause(20)} what?!... meteorite that...{pause(20)} who?!... fell." next
-    "@I just wanna...{pause(15)} what?!{pause(20)} ...go home..." end
+    "@I just wanna...{pause(15)} what?!{pause(20)} ...go home..." end*/
+l_0xc66f90:
+    "@Без паники!{pause(20)}  Это всего лишь...{pause(20)} что?!... метеорит, который...{pause(20)} кто?!... упал." next
+    "@Я просто хочу...{pause(15)} что?!{pause(20)} ...пойти домой..." end
 
-l_0xc66fe2:
+/*l_0xc66fe2:
     "@Onett police are infamous for closing roads if something is going on." next
-    "@We are going for the world record..." end
+    "@We are going for the world record..." end*/
+l_0xc66fe2:
+    "@Полиция Онетт славится закрытием дороги, если вдруг какая-то передряга." next
+    "@Мы идём на мировой рекорд..." end
 
-l_0xc67026:
+/*l_0xc67026:
     "@Did you hear the big bang?{pause(20)}" linebreak
     "  I think a meteorite landed nearby." next
     "@I want to be the first to see it.{pause(15)}  Okay?" next
-    "@I am going to try to be the first to get there..." end
+    "@I am going to try to be the first to get there..." end*/
+l_0xc67026:
+    "@Ты слышал этот большой взрыв?{pause(20)}" linebreak
+    "  Мне кажется, что метеорит упал поблизости." next
+    "@Я буду первым, кто его увидит.{pause(15)}  Понятно?" next
+    "@Я попробую первым туда попасть..." end
 
-l_0xc67089:
+/*l_0xc67089:
     "@A meteorite has landed,{pause(15)} the Sharks are running wild in town," next
     "@you kids are wandering around,{pause(15)} and,{pause(15)} I'm hungry...{pause(20)}" linebreak
-    "  I hate my job!" end
+    "  I hate my job!" end*/
+l_0xc67089:
+    "@Только что упал метеорит,{pause(15)} Акулы терроризируют наш город," next
+    "@вы детишки тут бродите,{pause(15)} и,{pause(15)} я голодный...{pause(20)}" linebreak
+    "  Ненавижу свою работу!" end
 
-l_0xc670e6:
+/*l_0xc670e6:
     "[06 D8 01 {e(l_0xc67130)}]@It's dangerous to go to the hilltop." next
-    "@Even if I advise you not to go,{pause(15)} it won't stop you,{pause(15)} will it?" end
+    "@Even if I advise you not to go,{pause(15)} it won't stop you,{pause(15)} will it?" end*/
+l_0xc670e6:
+    "[06 D8 01 {e(l_0xc67130)}]@Идти на вершину холма слишком опасно." next
+    "@Но даже если я тебе посоветую туда не идти,{pause(15)} тебя это не остановит,{pause(15)} неправда ли?" end
 
-l_0xc67130:
+/*l_0xc67130:
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." next
     "@If I yawn like this...{pause(20)} it looks like I'm goofing off." next
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." linebreak
-    "  ...yes,{pause(15)} it does..." end
+    "  ...yes,{pause(15)} it does..." end*/
+l_0xc67130:
+    "@А{pause(5)}а{pause(5)}а{pause(5)}а{pause(5)}а{pause(5)}х{pause(15)}--х..." next
+    "@Когда я так зеваю...{pause(20)} выглядит, будто я лентяйничаю." next
+    "@А{pause(5)}а{pause(5)}а{pause(5)}а{pause(5)}а{pause(5)}х{pause(15)}--х..." linebreak
+    "  ...да,{pause(15)} так и есть..." end
 
+/*l_0xc67194:
+    "@Hey, you!{pause(15)}  Don't you know what time it is?" end*/
 l_0xc67194:
-    "@Hey, you!{pause(15)}  Don't you know what time it is?" end
+    "@Эй, ты!{pause(15)}  Разве ты не знаешь, который час?" end
 
-l_0xc671ad:
+/*l_0xc671ad:
     "@Clear out. Get out of my way." linebreak
     "  Clear out. Get out of my way." linebreak
     "  Clear out. Get out of my way." next
     "@Clear out. Of way out get my" next
     "@Whoops,{pause(15)} my mistake...{pause(20)}" linebreak
-    "  I mean <get out of my way!>" end
+    "  I mean <get out of my way!>" end*/
+l_0xc671ad:
+    "@Удалитесь. Прочь с дороги." linebreak
+    "  Удалитесь. Прочь с дороги." linebreak
+    "  Удалитесь. Прочь с дороги." next
+    "@Удалитесь. Дочь с пороги." next
+    "@Упс,{pause(15)} моя вина...{pause(20)}" linebreak
+    "  Я имел ввиду <прочь с дороги!>" end
 
+/*l_0xc67229:
+    "@Shh.{pause(15)}  Shh!" end*/
 l_0xc67229:
-    "@Shh.{pause(15)}  Shh!" end
+    "@Тсс.{pause(15)}  Тсс!" end
 
-l_0xc67237:
+/*l_0xc67237:
     "@Nice timing,{pause(15)} [1C 02 01].{pause(20)}  Will you do something about Pokey?" next
     "@He's driving me nuts.{pause(20)}  Are you two friends?" linebreak
-    "[19 02]Yes" eob
+    "[19 02]Yes" eob*/
+l_0xc67237:
+    "@Как раз кстати,{pause(15)} [1C 02 01].{pause(20)}  Можешь сделать что-нибудь насчёт Порки?" next
+    "@Он меня с ума сводит.{pause(20)}  Вы же друзья, да?" linebreak
+    "[19 02]Да" eob
 
+/*l_0xc67286:
+    " [19 02]No" eob*/
 l_0xc67286:
-    " [19 02]No" eob
+    " [19 02]Нет" eob
 
 l_0xc6728c:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc672cc)} {e(l_0xc6729b)}]" goto(l_0xc6729b)
 
-l_0xc6729b:
+/*l_0xc6729b:
     "@You're not friends,{pause(15)} but aren't you neighbors?" next
-    "@C'mon,{pause(15)} help me out here!" end
+    "@C'mon,{pause(15)} help me out here!" end*/
+l_0xc6729b:
+    "@Вы не дружите,{pause(15)} но разве вы не соседи?" next
+    "@Ну давай же,{pause(15)} выручи меня тут!" end
 
+/*l_0xc672cc:
+    "@And you live in the house next to his...{pause(20)}  I see..." end*/
 l_0xc672cc:
-    "@And you live in the house next to his...{pause(20)}  I see..." end
+    "@И ты так же его сосед...{pause(20)}  Понятно..." end
 
-l_0xc672eb:
+
+/*l_0xc672eb:
     "@That meteorite looks different than usual." next
     "@It's strange and marvelous...{pause(20)} as well as mysterious..." linebreak
-    "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end
+    "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end*/
+l_0xc672eb:
+    "@Этот метеорит выглядит иначе." next
+    "@Он странный и удивительный...{pause(20)} а так же загадочный..." linebreak
+    "  {pause(20)}у{pause(5)}у{pause(5)}у{pause(5)}у{pause(5)}у!..." end
 
-l_0xc67349:
+/*l_0xc67349:
     "[06 D8 01 {e(l_0xc6739f)}]@Hey,{pause(15)} [1C 02 01]." next
     "@Don't be rubberneckin'.{pause(20)}  You're gettin' in the cops,{pause(15)} oops..." next
     "@I mean officer's way!" next
+    "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)*/
+l_0xc67349:
+    "[06 D8 01 {e(l_0xc6739f)}]@Эй,{pause(15)} [1C 02 01]." next
+    "@Хватит тут глазеть.{pause(20)}  Ты мешаешь копам,{pause(15)} упс..." next
+    "@То есть, полицейским!" next
     "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)
 
-l_0xc6739f:
+/*l_0xc6739f:
     "@You can go home now." next
     "@Tomorrow{pause(5)} I,{pause(15)} Pokey,{pause(15)} will tell you more about the strange meteorite." next
-    "@I'm fine here,{pause(15)} but you're bugging the officers!" end
+    "@I'm fine here,{pause(15)} but you're bugging the officers!" end*/
+l_0xc6739f:
+    "@Ты можешь идти домой." next
+    "@Завтра{pause(5)} Я,{pause(15)} Порки,{pause(15)} расскажу тебе всё о странном метеорите." next
+    "@Со мной всё впорядке,{pause(15)} но ты раздражаешь полицейских!" end
 
-l_0xc673f9:
+//Picky
+/*l_0xc673f9:
     "[06 D8 01 {e(l_0xc674aa)}][06 02 00 {e(l_0xc67412)}]@Oh,{pause(15)} hi." next
+    goto(l_0xc67412)*/
+l_0xc673f9:
+    "[06 D8 01 {e(l_0xc674aa)}][06 02 00 {e(l_0xc67412)}]@О,{pause(15)} привет." next
     goto(l_0xc67412)
 
-l_0xc67412:
+/*l_0xc67412:
     "@Pokey,{pause(5)} my brother, ran out of here to chase after a police car." next
     "@He said{pause(5)} <Picky,{pause(15)} you should stay home.>{pause(15)}  So I'm home watching our house." next
-    "@Mom and Dad aren't home yet.{pause(20)}  They went out to an elegant restaurant.{wait}{set(flag 2)}" eob
+    "@Mom and Dad aren't home yet.{pause(20)}  They went out to an elegant restaurant.{wait}{set(flag 2)}" eob*/
+l_0xc67412:
+    "@Порки,{pause(5)} мой брат, выбежал отсюда и погнался за полицейской машиной." next
+    "@Он сказал{pause(5)} <Пики,{pause(15)} тебе стоит остаться дома.>{pause(15)}  И вот я за домом смотрю." next
+    "@Мама и Папа ещё не дома.{pause(20)}  Они пошли в элегантный ресторан.{wait}{set(flag 2)}" eob
 
-l_0xc674aa:
+/*l_0xc674aa:
     "@I'm so sleepy..." next
     "@Mom and Dad haven't gotten back from town yet." next
-    "@Pokey ran out,{pause(15)} and he hasn't returned.{pause(20)}  I'm thinking about going to bed." end
+    "@Pokey ran out,{pause(15)} and he hasn't returned.{pause(20)}  I'm thinking about going to bed." end*/
+l_0xc674aa:
+    "@Я очень сонный..." next
+    "@Мама и Папа ещё не вернулись из города." next
+    "@Порки убежал,{pause(15)} и он ещё не вернулся.{pause(20)}  Я надумываю пойти поспать." end
 
 l_0xc67501:
     "{music(124)}[1F 15 2F 01 6E 02 01][1F 61]{pause(30)}{window_open(1)}{music(155)}@It's been a long time,{pause(15)}" linebreak

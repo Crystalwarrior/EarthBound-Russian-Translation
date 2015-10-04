@@ -1,0 +1,4139 @@
+                                                 i
+                                                M2
+                                    XMM         M
+                                    MMMMi      MX
+                                   2M80@MB    @M
+                                   MMMMWWMM   M
+                                     XMMMMMM M
+                                          :MMMWM@08Sr
+                                            M7MMMMMMMMMM8
+                                           M   MMM0888@M
+                                          .M     MM@00Ma
+                                          Mr      rMMMM
+                                          M          2
+                                         ;M
+                                 i7aZZ8ZZSa28Xi
+                            ,XZZ2XXXr;r;;;;r77SZB@a:
+                          rZSS7;rr;ir;r;;;i;i;iiiiXZWS
+                         aSXrr;;r;r7;;;;;;i;;;i;;i:irXaX
+                        ;;;7r7rr77Xrrr;;;r;;;ri;;;;iiirX2i
+                      BMM.rrr;Xr77;;:ii;;ir;;;ir;;::;ii:rX;
+                     MMMM 777r77r:  .       .irrr;r;r;;;irSX
+                     M07 :7rr77X;iMMMMMMMMMWX ,r;;;;;;;;;;;XS
+                    i. :;7777Xr7;7MMMMMMMMMMM@;rrrr;;r;r;;;;7X
+                    M@:7rX7r77rX7,   iSa0@MM@,irrri;rr;;;rr;r2,
+                   aMM,7XXXXXS7X;,X;. .      :rrr7X7;;r7rrr;rXa
+      rMMMMMa     .7; ,ii;rrrXXS;MMMM;7777r7r7X7rrrr7rrr;;7rr;S.
+            ,B@8 .S;i:;;iiii:;rrrSMWrr77777777;X777rr7r77;r;rrXS
+               aSX7;;ir;;;ri;;,i;;iii7XXX7XXXX7X77r777777rr7rr7a
+           702Xr;;r;r;rr;;r;;ri;irr7XX7X7XXXXXX7SX777X777r7rrr7Z;
+         .ZS7r7X7rrrr;;;r;;;;r;;riiXXXXXX7XXXXr;r;r;i::iii;;;;;XX
+     WMZ00XX77r7XrX7777rr7;;r;r;;;i;XXSXX77X7XXW0880808a2Xri:,::7
+        aX77777X7XX7r7Xr77r7rr;;ri;;XXSSXSSS2SS8aa22aa2aZBWMMMMMMi
+        W7XXX7XXSSXSXXrXX77rr7rrrr7;72a2SS227Xr;;;;;r;ii:::,, .:aS;
+        WX7S77X7SXSSXXXX7XX77777XX7r722S2SXXSX728i;rrr7777r77rr;2
+        @2XXXXSSSS2SX2SXXXXXXX77SXX7X2SSSSSXXXSWMM@Si:i;rr77rr7S2
+        rB2XSXXSSS2222SS2XSSXXXXXX7X2Z22X2SSSXXXrirWMM0::;rr7r7a.
+         i02XX2SSSS2S2SSSSS7XXXX77XSaa2aS2SSS2SXXXr;::2MMX,i;722
+           WBaXXXSX2S2SSX7X7XXr7;:r2Z222SaX2SSXXSXX7Xri:iWMZ,:2
+            :ZZX;rrr7SXX777;iiir8MSaa2a22222S2XXXSXXX77Xr:.8M8i
+               MM800;ii;ii;r@MMM8SX2aS222S2SS2SSXSXSXXXXX7riiMM
+              a7:aZ8MMM@MMMWS;:irXSSS222SSX2SSSX7XXSSXXXX7rrS
+              88rXr7r7r77SS2a8ZZXX20MMW0a2SXXSS2XXSSXXXXrr77a
+               MMM@@WWWBBBMMMMMMMMM: .r0MMM@0aZSa22a222XX77XZ
+                  XZMMMMMMMMM@82;          :BS2Z8ZZZ2X7rr7;;Sa
+                                            MZZ2SX77rrrrr7rrXZ
+                                            M8rr;;;;r;7rrXr;SZ
+                                            iMSXXXXXS7XX7X7XB7
+                                              MMMMB00080BBMMa
+                                              XZ80@W@a:
+
+
+                         E  A  R  T  H  B  O  U  N  D
+
+                                The Game Script
+                                  -----------
+                         by TIDQ (Email at the bottom)
+
+
+=================
+Table of Contents
+-----------------
+
+For ease of use, hit Ctrl+F to search for a specific section name or number.
+You can also search directly for a game quote.
+
+1.0 Introduction
+2.0 Onett
+3.0 Twoson
+4.0 Threed
+5.0 Winters
+6.0 Threed Part 2
+   6.1 Coffee Break
+7.0 The Desert and Fourside
+8.0 Moonside and the Monkey Cave
+9.0 Fourside Part 2
+10.0 The Trip to Summers
+11.0 Dalaam
+12.0 Summers Part 2
+13.0 Scaraba Desert
+14.0 Deep Darkness and Stonehenge
+   14.1 Tea Break
+15.0 Lost Underworld
+16.0 Magicant
+17.0 The Phase Distorter
+18.0 Giygas
+19.0 Aftermath
+20.0 Mr. Saturn Quotes
+21.0 Miscellany
+   21.1 Legal Stuff
+   21.2 Emailing Me
+   21.3 Version History
+   21.4 Special Thanks
+
+
++=============================================================================+
+&                             1.0 Introduction                                &
++-----------------------------------------------------------------------------+
+
+This FAQ is a transcribed game script of the major quotes from Earthbound for
+the Super Nintendo, the English version of the RPG Mother 2 in Japan. Every
+word of it was hand-typed by me. The intended purpose is to serve as a
+reference to dialogue from any point in the game quickly and easily.
+
+This is NOT a FAQ to help answer gameplay questions. There are plenty of other
+FAQs that do that really well. This FAQ will contain spoilers, obviously, so
+be forewarned.
+
+For simplicity purposes, all the main characters will be referred to as their
+official names: Ness, Paula, Jeff, Poo, as well as King the dog. Favorite food,
+however, will simply be replaced with "(favorite food)." The part of the game
+that deals with the player's name will simply become "(player)." I have used
+apostrophes to replace the dots that precede every message in the game.
+
+For those a little unfamiliar with the game, Ness is a silent protagonist. He
+has almost no dialogue, and most of the speech in the game is of people
+speaking to him. When we're first introduced to Jeff and Poo, they temporarily
+become silent protagonists as well, until they meet up with Ness.
+
+For now, all nonessential dialogue, such as from random townspeople, is being
+omitted. If there's a large enough demand, maybe that'll change. The one
+exception to this is Mr. Saturn. At the end of the guide, I have set aside a
+section for Mr. Saturn quotes.
+
+I ask that people do not lift my guide or portions of my guide without asking
+my permission or without giving me credit.
+
+Now, without further ado, I present the story of Earthbound.
+
+
++=============================================================================+
+&                                  2.0 Onett                                  &
++-----------------------------------------------------------------------------+
+
+The year is 199X
+
+
+Onett, a small town in Eagleland
+
+
+Ness's house
+
+
+(Pokey)
+'Hey, Ness.
+'Don't be rubberneckin'. You're gettin' in the cops, oops...
+'I mean officer's way!
+'You can go home now.
+'Tomorrow I, Pokey, will tell you more about the strange meteorite.
+'I'm fine here, but you're bugging the officers!
+
+
+(Mom)
+'Welcome home, Ness.
+'It's not necessary to talk about it tonight.
+'It's late, scoot off to bed now.
+  >>Yes
+  >>No
+
+If "No":
+'Oh, Ness. You don't understand the importance of a good night's sleep!
+
+
+Later that night...
+
+
+(Pokey)
+'Hey! L-L-Listen to what I've got to say!
+'When I took Picky to the place where the meteorite landed...
+'Oh! Good evening ma'am. You're looking lovely as usual. *snicker*
+'Anyway, as I was saying,
+'the police that were guarding the meteorite landing left suddenly
+'to deal with the Sharks. You know the Sharks, they're the local ruffians,
+'and they were really going wild. Suddenly, I noticed that Picky was gone.
+'I blame the cops... it certainly wasn't my fault at all.
+'When my dad gets back, I know I'm gonna get it...
+'You're my bestest friend. Won't YOU help me find Picky?
+  >>Yes
+  >>No
+
+If "No":
+'If you refuse me, I'll say something that'll cut you like a knife.
+'Will you come with me?
+  >>Yes
+  >>No
+
+If "No":
+'Okay, okay... I won't say anything to hurt you.
+'Will you please come with me?
+  >>Yes
+  >>No
+
+{Repeats until "Yes"}
+
+'Ok, good buddy! Let's blow this popsicle stand...
+'Before we go, why don't you say "goodbye" to your mom. Don't you agree, ma'am?
+
+
+(Mom)
+'I know that the dog is unreliable, but you should take King along.
+'The Cracked Bat in Tracy's room could help out at a time like this...
+'No matter what anyone says, you're a courageous, strong boy.
+'You're my very own natural born fighter...You'll go far...
+'Remember to "Go for it!"
+'But, I think you should change out of your jammies before you leave.
+
+
+(Pokey)
+'All right! You go out in front, and I'll follow at a safe distance.
+'Let's get going!
+'(Pokey joins you.)
+
+
+(Ringing Phone)
+'Ness answered the phone.
+'Hello, it's your dad.
+'"Work to exhaustion when you're young..."
+'Have you ever heard of a weird saying like this?
+'Just remember, I'm always behind you 100%. Don't be afraid.
+'I know that you're brave. You can do it!
+'Don't forget to call me periodically during your adventure.
+'I can make a record of your progress when you call me.
+'Oh yeah, I deposited $30 into your bank account.
+'Do you have your ATM card?
+'Withdraw your money from any cash machine and buy whatever you need.
+'Good Luck, m'boy! I feel like such a hero!
+'What? Well, the father of a hero, at least. Wa ha ha!
+'Slam! Beeeeeeeep!
+
+
+(King)
+'(Do you want me to go with you?)
+  >>Yes
+  >>No
+
+If "No":
+'(Oh, I get it. You just wanted to talk to me because I'm so lovable.)
+
+If "Yes":
+'(I guess I have no choice. Let's go.)
+'King joins you.
+
+
+(King)
+'Awooooof!
+'(If I knew this was going to be such a scary place,
+'I wouldn't have come along... I'm outta here!)
+
+
+(Picky)
+'Wha-!
+'Oh!
+'You woke me up...
+'Pokey! I've been looking all over for you...
+'You see, Pokey got scared and ran away...
+'Well, I'm glad that you're okay at least...
+'Let's go home now. I bet Mom and Dad are worried sick about us.
+'Geez! Sometimes I wonder which one of us is the real big brother.
+'(Picky joins you.)
+
+
+(Pokey or Picky)
+'Ness!
+'Do you hear a buzzing that sounds like a bee flying around?
+  >>Yes
+  >>No
+
+If "No":
+'Oh c'mon... You must hear it...
+
+If "Yes":
+'Yes! You can hear it!
+
+
+(Bee)
+'A bee I am
+'not...
+'I'm from 10 years in the future.
+'And,
+'in the future, all is devastation...
+'Giygas, the universal cosmic destroyer,
+'send all to the horror of eternal darkness...
+'.....
+'However, you must listen!
+'Where I am from,
+'there is a well-known legend that has been handed down from ancient times.
+'It says "When the chosen boy reaches the point, he will find the light.
+'The passing of time will shatter the nightmare rock
+'and will reveal the path of light."
+'You see, it is my opinion that you are that boy, Ness.
+'This I believe...
+'.....
+'Giygas' monstrous plan must have been set in motion somewhere on Earth...
+'If you start to confront the enemy immediately,
+'you may have time to counter the evil intentions of Giygas.
+'Three things are of the utmost importance: wisdom, courage, and friendship.
+'...The legends from the ancient times tell of three boys and a girl
+'who defeat Giygas.
+'...I will tell you more later.
+'Go now! And do not be anxious about the future.
+'You have much work to do, Ness.
+'Did you listen to what I told you?
+  >>Yes
+  >>No
+
+If "No":
+'I hate to go over it again, but I guess I'll start over...
+'We'll be here 'til sunrise!
+
+{Repeat until "Yes"}
+
+'Thank you for listening to my long story.
+'You are as exceptional as I expected you to be...
+'Buzz Buzz now joins you.
+
+
+(Pokey)
+'Ness!
+'It looks like you're really in a lot of trouble this time...
+'Three boys, he said? ...Uhhh...
+'I'm not one of those three, am I?...
+'...'Cause... I'm not into this kind of thing at all...
+'Geez. My heart is almost pounding right out of my chest!...
+
+
+(Starman Junior)
+'It's been a long time, Buzz Buzz.
+'You've been successful at foiling Master Giygas' plans.
+'But... Buzz Buzz, you must now surrender.
+'You're not longer a hero, but just a useless insect.
+'I'll stomp you hard!
+
+
+(Buzz Buzz)
+'Whew!... I was taking a big chance there...
+'He came from 10 years in the future to kill me, so we can't relax yet!
+'From now on, you'll be fighting enemies sent by Giygas,
+'as well as humans who have evil thoughts.
+'They'll definitely make trouble during your adventure!
+'Animals are also becoming violent
+'due to Giygas' influence over the evil in their minds!
+'It is the truth, so listen!
+
+
+(Pokey's Dad)
+'I'm really sorry that my kids troubled you so much...
+'Both of you are really going to get it now!
+
+'By the way, I would be happy if you left sometime soon.
+'I'm tired of your family living next door.
+'We've loaned your father a lot of money.
+'It may have been a hundred thousand dollars or more...
+'Well, I guess it really could have been less,
+'but because of the loan, my family and I now live in poverty!
+
+
+(Pokey's Mom)
+'My husband is much too lenient with the children.
+'Oh well, nice guys finish last. That's the story of our life...
+
+'Ayaaaeee!
+'I think it's a dung beetle! I'll smash your guts out!
+
+
+(Buzz Buzz)
+'Agh! *gasp* I was...
+'...much weaker than I thought...
+'So you must now begin your adventure...
+'see...
+'you...
+'Oh, I just remembered...
+'Listen to my final words...
+'To defeat Giygas, your own power must unite with the Earth's...
+'the Earth will then channel your power and multiply it...
+'There are eight points that you must visit. Make these places your own...
+'Each of these locations is "Your Sanctuary."
+'One of them is near Onett. It is called "Giant Step."
+'Go there first...
+'Do you understand?
+  >>Yes
+  >>No
+
+If "No":
+'...I see.
+'I apologize. I guess I didn't explain it well enough...
+
+{Repeat until "Yes"}
+
+'All right.
+'You are a very intelligent young man... and...
+'Oh! The pain!... Everything is getting dark...
+'urgh!... *Gasp*...
+'Before I pass on, I want to give you something...
+'It is the Sound Stone.
+'You can record the melodies from the eight "Your Sanctuary" locations
+'into this stone. It is an awesome item...
+'By the way... I'm almost gone,
+'but did you want to hear the story one more time?
+
+If "Yes":
+'Oh, okay...
+
+{Repeat until "No"}
+
+'Good!
+'It's already dawn outside...
+'But it doesn't matter to me. I'm fading fast...
+'Argh! *Gasp*
+'(Ness got the Sound Stone.)
+
+
+(Shark A)
+'It was you! YOU beat up my buddy, didn't you?
+'You'd better just beat it!
+
+(Shark B)
+'Hey kid! Do you wanna become a member?
+  >>Yes
+  >>No
+
+If "Yes":
+'Come back after you finish EarthBound!
+
+If "No":
+'Don't be such a snob!
+
+
+(Frank)
+'.....
+'...I'm Frank. You are?
+'C'mon, can't you at least say your name?
+
+
+(Frank)
+'"Fail-proof" Frank can't be beaten.
+'Puff, puff, puff And this is "Frankystein Mark II."
+
+
+(Frank)
+'...This is my first defeat.
+'"Fail-proof" Frank is now just "failure" Frank.
+'I know you've been asking around, so I'll tell you about Giant Step.
+'It... seems... to be quite a powerful spot.
+'Some kind of special power is stored there
+'that allows certain people to perform wondrous feats.
+'However... a monster sucked up all the energy at that spot.
+'It's difficult to get to Giant Step. That's all I know...
+'I suggest you collect more information on your own.
+'The entrance to the path leading to Giant STep is
+'behind the touring entertainers' shack.
+'Pirkle, the Mayor of Onett, has a key to the shack.
+'Ness, you've become stronger than I! Your adventure is just beginning...
+
+
+(Pirkle)
+'Hey hey hey! I'm Mayor B.H. Pirkle. It's so nice to meet you.
+'You beat up the town bullies,
+'punched them out big time, kicked their butts, bit their heads off,
+'spit in their eyes, and made them wet their pants.
+'Then you forced them to promise not to make any more trouble. Thank you!
+'What? You want a key to the touring entertainers' shack?
+'For someone as great as you, giving you the key could help keep the town
+peaceful.
+'However, if you encounter a dangerous situation,
+'please don't ask me to take any responsibility.
+'I'll be able to avoid any responsibility, right?
+  >>Yes
+  >>No
+
+If "No":
+'I'm a very important man in these parts. Do you think I'm important?
+  >>Yes
+  >>No
+
+If "No":
+'Look, I'm the big cheese around here,
+'and a brat like you should realize when someone is trying to be nice.
+
+If "Yes" to either:
+'You're such a smart kid... Here's the key to the shack.
+'(Ness got the Key to the shack.)
+
+
+(Titanic Ant)
+'You finally got here.
+'This is the first "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Giant Step)
+'Ness caught a glimpse of a small, cute puppy.
+'Ness's Sound Stone recorded the melody of Giant Step.
+
+
+(Cop)
+'Hey you, the board says "Do Not Enter." Couldn't you read it?
+  >>Yes
+  >>No
+
+If "No":
+'What a rebellious kid! Come to the Onett Police Station later!
+
+
+(Dream)
+'.....
+'Ness?
+'...
+'Ness
+'...Ness...
+'I'm a friend who you have never met before...
+'My name is Paula.
+'Can you hear me calling you?
+'I am Paula...
+'...
+'.....
+
+
+(Captain Strong)
+'Why is the road to Twoson closed? An emergency, of course.
+'At times like this, kids like you should be playing Nintendo games.
+'Anyway, are you sure you want to go to Twoson?
+  >>Yes
+  >>No
+
+If "No":
+'Well then, perhaps you should just crawl back to your shack, little mister.
+
+If "Yes":
+'Okay, *chortle* Follow me.
+
+'Show me what you got...
+'See if you can get past five of my best men...
+
+
+(Cop 1)
+'Eeeeyah!
+'Hey, small fry! You must be shaking in your boots!
+
+(Cop 1)
+'You're tough. You should join the police force!
+
+
+(Cop 2)
+'Your average policeman is stronger than any super hero!
+
+(Cop 2)
+'Oh... you won...
+
+
+(Cop 3)
+'Don't let the Mayor's compliments give you a big head...
+'Bring it on, fat boy!
+
+(Cop 3)
+'Let's do this again sometime...
+'Next time, I'll take you out with my nuclear suplex attack!
+
+
+(Cop 4)
+'C'mon! I'm going to take you apart right here, right now, baby!
+
+(Cop 4)
+'Grrr... I lost...
+
+
+(Cop 5)
+'That's it, buddy...
+'You can forget about me, I'm going to call for my boss!
+
+
+(Captain Strong)
+'There is no way I can beat you in a straight competition, so...
+'get ready for my "Super Ultra Mambo-Tango-Foxtrot martial arts!"
+
+(Captain Strong)
+'I didn't think you would do so well against the mighty Onett police force...
+'You want me to open the road to Twoson?
+'Hang on for a sec, I'll radio my staff and give them the word...
+'*Beep, beep* ...*Click*... *Rrrr*
+'*Click* Strong here... do you read me?
+'...*Krrrr* ...Hey!...
+'...It's me, Captain Strong!...
+'Okay, listen, a kid named Ness will be there in a few minutes...
+'He's a kid in a red cap... I want you to open the road to Twoson for him...
+'I know that...
+'I know that!...
+'Don't ask me why, just do it! That's an order! ...Strong out...
+'Well kid, I'm not going to question you now,
+'but I do want to see you again...
+'Good luck!
+
+
++=============================================================================+
+&                                 3.0 Twoson                                  &
++-----------------------------------------------------------------------------+
+
+(Everdred)
+'Wah ha ha ha ha! Why don't we chat later-after we've locked horns!
+
+(Everdred)
+'Yes, I'm Everdred, boss of Burglin Park.
+'When I jumped off the roof, I twisted my ankle.
+'Anyway, I lost and nothing will change that.
+'You know, you're pretty strong.
+'Yeah, I know that you want to find out about a girl named Paula.
+'She went off to a secret hideout in the Peaceful Rest Valley.
+'A chubby boy and a weird guy in a blue outfit have kidnapped her, though.
+'They said that they were going to make Paula some sort of human sacrifice.
+'They were definitely hard-core strange.
+'You know, she might be gone already. You'd better hurry.
+'If you save Paula, be sure to come back here, okay? Don't forget!
+
+(Paula's Dad)
+'So, you wanna see Paula?
+'Many come here to see her miraculous powers, but they're just leeches.
+'So... are you from a TV station, or what?
+  >>Yes
+  >>No
+
+If "Yes":
+'Please leave.
+'My daughter doesn't want to talk to media monkeys like you.
+
+If "No":
+'To meet you or not to meet you can only be decided by Paula.
+'Paula has said that she would only meet with a boy named Ness.
+'So you're Ness!
+'You're the one that was in Paula's dream.
+'You will save the world!
+'Let me go call Paula.
+
+'She doesn't seem to be here.
+'I wonder where she went? I'm sorry, could you come back later?
+
+
+(Apple Kid)
+'Well, I have sort of neglected doing my housework...
+'I know it's a bit of a pig sty, but anyway...
+'I'm Apple Kid.
+'I haven't taken a bath in quite a while, so I may be kind of stinky.
+'By the way, I'm starving. Do you have something to eat?
+'If you do, can I have some?
+  >>Yes
+  >>No
+
+If "No":
+'Well, go ahead and make yourself comfortable anyway. You can flop down
+anywhere.
+
+If "Yes":
+'What can you give me?
+
+If choose a non-food:
+'Please choose something edible... I'm not a garbage can, you know.
+
+If choose a food dish:
+'Thanks. You seem very nice. Uh, I wonder if...
+'Maybe you would like to invest some money in my inventions?
+  >>Yes
+  >>No
+
+If "No," then talk again:
+'It seems like you are expecting something from me.
+'Maybe you would like to invest some money in my inventions?
+  >>Yes
+  >>No
+
+If "Yes":
+'Yes! Yes! Yes! Oh. Excuse me. I mean thank you!
+'By the way, I could really use $200.
+  >>Yes
+  >>No
+
+If "Yes" but insufficient money:
+'Oh, you don't have any money, do you?
+
+If "Yes":
+'Thank you. I won't let you down.
+
+
+(Mouse)
+'I am a mouse. No one has given me a name yet.
+'You took care of my master.
+'In return, I want to give you this. Please take it and say nothing.
+'(Ness got the Receiver phone).
+'Oh! I must be in your way! *zziipp!*
+
+
+(Pencil Statue)
+'(For some weird reason,
+'a pencil-shaped iron statue is blocking the path.)
+
+
+(Receiver Phone)
+'Hello... this is Apple Kid.
+'I've just finished work on this great invention!
+'Get over here as fast as you can! This thing is soooo cool!
+'See you soon! Slam! Beeeep...
+
+
+(Dream)
+'.....
+'Ness!
+'I...Paula...
+'I am Paula...
+'Can you hear me calling you?
+'Help!
+'Come and help me!
+'Um, I don't know where I am...
+'I can hear water running in the distance...
+'Ness, please help me!
+
+
+(Paula's Dad)
+'P P P Paula! Where are you? It's time for a yummy piece of pie!
+
+
+(Apple Kid)
+'I'm feeling really out of it because I've been working all night,
+'but finally the Pencil eraser is ready.
+'This machine will eradicate all pencil-shaped figures in just one second.
+'It's incredibly powerful. Just don't use it near a shop that sells pencils.
+'Here, it's yours now.
+'(Ness got the Pencil eraser.)
+'If I invent some other brilliant item, I'll call you.
+
+
+(Paula)
+'...Who?...
+'...Are you Ness?
+'Ness! I'm so glad it's you.
+'I had a dream that a boy named Ness was my destiny.
+'I know it's hard to believe.
+'Therefore, I knew you would rescue me.
+'If you didn't come, I would have had to try to bust out of here.
+'You can't open the door.
+'You'll have to get the key from Carpainter. He's got it hidden away.
+'I heard Carpainter can control lightning.
+'In that case, you should wear this Franklin badge, okay?
+'(Ness got the Franklin badge.)
+'I'll wait here until you return.
+'Come back here and get me out once you defeat Carpainter.
+'Don't worry about me, just kick butt like I know you can!
+
+
+(Pokey)
+'Hey Ness! You're just here to bother me, aren't you.
+'You can call me Master Pokey,
+'since Mr. Carpainter made me an important person in Happy-Happyism.
+'You should join us, but I know you won't... I'm glad I joined...
+'I'm not going to fight you, but these guys will... Later potater...
+
+
+(Mr. Carpainter)
+'Thanks for coming! I've been waiting for you.
+'I need your assistance to help make the world blue
+'and change it into a happy and peaceful society.
+'Will you be my right-hand assistant?
+  >>Yes
+  >>No
+
+Either answer:
+'You fool, I have drawn you into my trap.
+'Carpainter's lightning was reflected by the Franklin Badge.
+
+(Mr. Carpainter)
+'Do you see the Mani Mani Statue behind me...
+'Since I got the statue, I have been doing peculiar things.
+'Please forgive me, if you can... I just wanted to have a normal life.
+'I apologize to everyone.
+'Here's the key to open the jail in the mountain cabin where Paula is being
+held.
+'Take the key and go.
+'(Ness got the Key to the cabin.)
+
+
+(Pokey)
+'What a horrible nightmare. I somehow woke up.
+'Ness, let's be friends again.
+'Please answer me. I promise to be good. ...uh ...okay?
+'Hah! I lied! See you, sucker!
+
+
+(Paula)
+'Thank you, Ness!
+'You're just like I imagined you would be...
+'I'm sure that some people in Twoson are worried about me...
+'Getting back there may be dangerous,
+'but we can do it if we combine our strength.
+'I'm able to use a little psychic power that is actually pretty deadly...
+'Let's head back to Twoson!
+'Paula joined you.
+
+
+(Mondo Mole)
+'You finally got here.
+'This is the second "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Lilliput Steps)
+'Ness briefly had a vision of a baby in a red cap.
+'Ness's Sound Stone recorded the melody of Lilliput Steps.
+
+
+(Paula's Dad)
+'Oh Paula!
+'Ness, thank you so much!
+'You must be the boy who will save the world, like in Paula's dream.
+'Paula, I'm sure you'd be a big help to Ness.
+'It's not every day a father lets his daughtre embark on a journey to save the
+world!
+
+(Paula)
+'Dad, don't worry about me.
+'Ness and I will be able to take care of ourselves.
+'In Threed, the next town, we'll meet another friend.
+'If the three of us can combine our power, no one can beat us.
+'Now wipe your eyes, blow your nose, and smile before we take off.
+
+(Paula's Dad)
+'Goodbye Paula. Don't worry, I won't cry anymore...
+
+(Thug)
+'Hello? Ness?
+'Everdred is looking for you.
+'He's got something for you.
+
+
+(Everdred)
+'I was going to ask you to be my partner,
+'but I know you'll refuse. It's written all over your face.
+'If you accepted, I was going to give you some money.
+'Actually, I can't keep the money now anyway. Let me give this to you.
+'It's 10,000 dollars.
+'Use the money any way you like. You cannot refuse my generosity. Just accept
+it.
+'Now I plan on looking for the evil Mani Mani Statue.
+'that Lier X. Agerate unearthed in Onett.
+'I'll see you at another time, in another space.
+'(Ness got the Wad of bills.)
+
+
+(Runaway Five Member)
+'Hey, ya came with Paula!
+'Then you deserve a present, playboy.
+'Here's a Backstage pass. You can get into our shows with this!
+'(Ness got the Backstage pass.)
+
+
+(Poochyfud)
+'Yipes! You surprised me. Now I'm not sure what to do.
+'I got the money, of course, and now the Runaway Five are free to leave.
+'I've got no complaints now that I have my money.
+
+
+(Runaway Five Member 1)
+'Well, what do you know?
+'This little nipper took us from a nightmare to a dream...
+
+(Runaway Five Member 2)
+'Ow! That means we can get out of this dump!
+
+(Runaway Five Member 3)
+'I'm a good driver. C'mon, I'll show you.
+
+(Runaway Five Member 4)
+'All right, let's move on to the next town.
+'I'm sure our ol' hunk o' junk will get us there...
+
+(Runaway Five Member 5)
+'I didn't make a spectacle of myself, did I?
+
+
+(Runaway Five Member)
+'Let's go to Threed!
+'Our tour bus is too loud for any ghosts to bother us.
+'Do you want a ride?
+  >>Yes
+  >>No
+
+If "No":
+'If ya change your mind, come back anytime.
+
+If "Yes":
+'Oh yeah! Let's go! Get on the bus!
+
+
+(Tour Bus)
+'Okay, guys, here we go!
+'Hey, sidewalk! Get out of my way!
+
+
++=============================================================================+
+&                                 4.0 Threed                                  &
++-----------------------------------------------------------------------------+
+
+
+(Runaway Five Member)
+'Looks like we have to say goodbye for now.
+'This town seems pretty gloomy,
+'but I'm sure you can light up the place with your own little brand of
+sunshine...
+
+(Runaway Five Member)
+'Hope to see you again sometime.
+'Look for us to be singing at some theater in Fourside...
+
+(Zombie Guards)
+'(He stares into your soul.)
+'(He looks you over.)
+
+
+'(Oh, oh... you're losing consciousness...
+'What could be the fate of Ness and his friend?)
+
+
+(Door)
+'The door is locked.
+
+
+(Paula)
+'I'm calling out to you who I've never met...
+'I'm calling our friend who we've never met..
+'Jeff! Jeff! We need your help!
+'I am Paula and I am with another friend, Ness...
+'We are trying to contact you...
+
+
++=============================================================================+
+&                                 5.0 Winters                                 &
++-----------------------------------------------------------------------------+
+
+
+Winters, a small country to the North
+
+
+Snow Wood Boarding House
+
+
+(Paula)
+'I am Paula, and I am with another friend, Ness...
+'We are trying to contact you...
+'If you hear me, please wake up and... head south!
+'Only you, though far away, can save us, Jeff...
+'Please hear my call and begin heading south...
+'Jeff! You are a friend who we've never met...
+'But you are our one and only hope!...
+
+
+(Tony)
+'Jeff, where are you going in the middle of the night?
+'You know the dorm rules, right?
+'If you get caught, you'll get punished big time...
+'W... what's wrong, Jeff.
+'...All right.
+'There must be some reason that I don't understand. I won't stop you.
+'But it's dangerous to leave without takign anything along.
+'Hey, I think there's some stuff in the locker room that you should get.
+'I'll help you get out of here...
+'(Tony joined you.)
+
+
+(Maxwell)
+'Oh, Jeff and Tony. You startled me.
+'Are you looking for a late night snack?
+'I'm having some trouble with my project.
+'If only Jeff's father, Dr. Andonuts, were here.
+'He'd be able to provide a great deal of help.
+'I heard he's an astounding person.
+'He was the first leader of our Ultra Science Club...
+'I heard he's greater than Einstien or Heisenberg.
+'Rumor has it he's also very strange.
+'If you're heading to the locker room, take this key along.
+'It's a little bent though.
+'(Jeff got the Key to the locker.)
+'If you leave, call me, and I'll record your adventure.
+'It's like saving the game. Ah, ha, ha, ha, ha.
+
+
+(Locker)
+'(The key is bent and doesn't fit into the key hole!)
+
+
+(Maxwell)
+'Hah, ha, ha. The key didn't work, did it?
+'I thought that might be the case. So I just invented the...
+'"Machine that Opens Doors, especially when you have a slightly bad key."
+'Sorry for the inconvenience.
+'(Jeff got the Bad key machine.)
+'If you are Dr. Andonut's son,
+'you should be able to repair small tools and make them useful.
+'Just try to keep a positive attitude.
+
+
+(Tony)
+'Okay, now use me as a step and climb over the gate.
+'Well... I'll say goodbye for now.
+'I don't know where you're going or why,
+'but remember, we are best friends forever.
+
+
+(Woman)
+'There's a monkey at the entrance. Take the monkey. He's really noisy.
+'If you buy a pack of bubble gum, you can have the monkey for free.
+'Otherwise, he will cost you a buck. So, do you want him?
+  >>Yes
+  >>No
+
+If "No":
+'You absolutely, positively should buy him. You know what I mean?
+
+If "Yes":
+'Thanks! The monkey's yours.
+'(Jeff got the Pak of bubble gum.)
+
+
+(Bubble Monkey)
+'Uku kyee (Gimme some gum.)
+'(The monkey got a piece of bubble gum from Jeff and blew a bubble!)
+'(The Bubble Monkey joins you.)
+
+
+(Cook)
+'I'm the cook for the Tessie-Watching club.
+'How about some stew?
+  >>Yes
+  >>No
+
+If "No":
+'You're full, aren't you?
+
+If "Yes":
+'No, no. There's no need to pay me.
+
+
+(Dream)
+'You are a friend who I have never met before...
+'Jeff...
+'Head south...
+'I am Paula...
+'If you hear this message, go to the south...
+
+
+(Bubble Monkey)
+'Kya kyi kya kyoo. (Give me some gum now.)
+'Kaki kuke ko. (I'll take care of everything.)
+
+
+(Bubble Monkey)
+'(The bubble monkey took a piece of bubble gum,
+'chewed it and started blowing.)
+
+
+(Bubble Monkey)
+'Kye uki kukyi (Now she's my type...)
+'Ki kukkyo uke (I think I'll ask her for a date!)
+
+
+(Brickroad)
+'Maybe it was too easy...?
+'My name's Brickroad, the dungeon developer.
+'I've devoted my life to making dungeons.
+'Well, by combining my skills and Dr. Andonuts intelligence,
+'I can become "Dungeon Man,"
+'the first combination of human and dungeon in history.
+'Let's meet again once I have become dungeon man.
+'...Would you like to get a good night's rest?
+  >>Yes
+  >>No
+
+If "No":
+'You don't want to rest?
+
+If "Yes":
+'Take care. Come back again.
+
+
+(Dr. Andonuts)
+'Mr. Brickroad, the dungeon maker referred you, right?
+'And not only that... What? Who? My son? Oh... I... can't... I can't believe
+it...
+'You're Jeff, my son. It's been maybe 10 years since I last saw you.
+'I'm so glad you're such a healthy boy.
+'Uh, those glasses look good on you.
+'How about a donut?
+  >>Yes
+  >>No
+
+If "No":
+'Ah... fine, fine.
+
+If "Yes":
+'Well, I was only offering... I'd also like a donut right about now.
+
+If either answer:
+'Have you already checked out Stonehenge?
+  >>Yes
+  >>No
+
+If either answer:
+'Well, at least I asked...
+'Mmmm... mmhmm okay.
+'By the way, why are you here?
+'Oh, I see.
+'That girl named Paula must have sensed I was here.
+'Okay, I'll try to help you out.
+'I'm trying to make a Phase Distorter that can connect two points in space and
+time.
+'It's still incomplete.
+'I'll let you use another invention I call the Sky Runner.
+'It's a little bit old but it'll certainly help.
+'When you board, always listen for the message that comes from your
+destination.
+'You'll get there for sure if you listen to the message.
+'The round machine over there is the Sky Runner.
+'What do you think? Isn't it neat? Get in!'
+'Let's get together again in 10 years or so.
+
+
+(Dr. Andonuts)
+'What happened? It's not moving!
+'Hey! What don't you try pressing the button on the controller!
+
+
++=============================================================================+
+&                              6.0 Threed Part 2                              &
++-----------------------------------------------------------------------------+
+
+BOOM
+
+
+(Jeff)
+'Man, oh, man, did that ever scare me!...
+'The Sky Runner... I guess it took a little damage while landing...
+'Oh well...
+'You don't have to explain a thing... I'm Jeff.
+'I came because you called me.
+'I'm not really strong, really near-sighted, kind of shy,
+'and I tend to be a little reckless. This is just the way I am...
+'I hope you want me to be your friend... okay?
+  >>Yes
+  >>No
+
+If "No":
+'...So why did you call me? Are you just making fun of me?
+
+{Repeat until "Yes"}
+
+'All right! Let's get back to the journey, then!
+'Jeff joined you.
+
+
+(Boogey Tent)
+'Gaaoooorrgg!!!
+
+
+(Receiver Phone)
+'Hello, this is Apple Kid.
+'I just wanted to let you know that I finished a pretty unique invention.
+'I'm not sure if it will help you or not...
+'It's called "Zombie Paper," and it can be used to trap zombies.
+'It works kind of like fly paper...
+'All you need to do is place the paper on the floor of a tent or something...
+'You've seen at least one tent around, right?....
+'and then the zombies get stuck to the paper
+'when they move around inside the tent.
+'You can catch a lot of zombies this way... In fact,
+'I bet you could get rid of all the zombies
+'that are terrorizing the area with this paper!
+'Anyway, I just asked teh Mach Pizza delivery man
+'to deliver the Zombie Paper to you, Ness.
+'You should get it pretty soon.
+'I've never actually seen a zombie, but if there really are any,
+'Zombie Paper would be very useful...
+'I'll be calling you if I come up with anything else...
+'*Click!* Beeeeep!
+
+
+(Mach Pizza Delivery Man)
+'While delivering pizza, this weird guy asked me to help him out...
+'He wanted me to deliver this to someone named Ness
+'...who is wandering around Threed.
+'No one else knows about this, right?
+'Let's just pretend that you're Ness, and I'll give this to you.
+'Oh! Hello, Ness!
+'Just go along with me on this one, okay.
+'I made the decision that you're Ness, no matter what...
+'(Ness got the Zombie Paper.)
+'That's right, Ness... *wink, wink*
+'I've done my duty and given you Apple Kid's thingamajig...
+'Well, goodbye!...
+
+
+(Mini Barf)
+'Gyork! Gyork!
+'Since you had "Fly Honey," I considered you a friend.
+'But actually, you're just a commoner! I am the mortal enemy of your kind.
+
+(Mini Barf)
+'I wanted to get your Fly Honey and gulp it down.
+'Master Belch and I love Fly Honey. Gyorg Gyorg!...
+
+
+(Mr. Saturn)
+'BaSE... SEcREt.
+'BaSE BEHinD GRaPEfRUit fallS.
+'PaSSwORD? i tEll.
+'BElcH man say
+'"Say PaSSwORD."
+'tHEn StanD Still,
+'wait fOR tHREE minUtES.
+
+
+(Secret Base)
+'Say the password!
+'Okay... you may enter.
+
+
+(Slimy Little Pile)
+'Did you bring some "Fly Honey"?
+'It's Master Belch's favorite.
+  >>Yes
+  >>No
+
+If "Yes":
+'Ok, you may pass through.
+'Hey, be careful! Be sure you don't drop it!
+
+If "No":
+'Then, why are you here?!
+
+
+(Belch)
+'Buuurp!
+'So you are Ness?
+'...I see... Gyork! Gyork! Gyork!
+'There's a prophecy that a boy will destroy Master Giygas.
+'Heeg! Heeg! Heeg! You make me laugh so hard...
+'If Master Giygas is scared of someone...
+'he would have to be worse than the greatest evil...
+'Garg! Ga! Garg! Ga! Ga! Ga!
+'I'll take you down big time, so get ready for the worst fight of your life!
+'Gha Gha Gha! Get ready to feel the pain of true nausea!
+'Ghe Ghe! Come on, let's go!
+
+(Belch)
+'Looks like it was an even fight... Buurp!
+'But, Master Giygas has managed to get the Mani Mani statue into Fourside.
+'The city will soon be in worse condition than living in your own puke!
+'Suffer, spanky! Gha, Gha, Gha, Gha, Gha!
+'Buuuurp!
+
+
+(Trillionage Sprout)
+'You finally got here.
+'This is the third "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Milky Well)
+'Ness thought he heard his mother from far away... she said
+'"Be a thoughtful, strong boy..."
+'Ness's Sound Stone recorded the melody of the Milky Well.
+
+
+________________
+6.1 Coffee Break
+
+    You've traveled very far from
+    home...
+
+    Do you remember how your long
+    and winding journey began with
+    someone pounding at your door?
+    It was Pokey, the worst person in
+    your neighborhood, who knocked
+    on the door that fateful night.
+
+    On your way, you have walked,
+    thought and fought. Yet through
+    all this, you have never lost your
+    courage. You have grown steadily
+    stronger, though you have
+    experienced the pain of battle
+    many times.
+
+    You are no longer alone in your
+    adventure, Paula who is
+    steadfast, kand and even pretty,
+    is always at your side.
+    Jeff is with you as well.
+    Though he is timid, he came from
+    a distant land to help you.
+    Ness, as you certainly
+    know by now, you are not a
+    regular young man... You have
+    an awesome destiny to fulfill.
+
+    The journey from this point will
+    be long, and it will be more
+    difficult than anything you have
+    undergone to this point. Yet, I
+    know you will be all right. When
+    good battles evil, which side do
+    you believe wins? Do you have
+    faith that good is triumphant?
+
+    One thing you must never lose is
+    courage. If you believe in the
+    goal you are striving for, you will
+    be courageous. There are many
+    difficult times ahead, but you
+    must keep your sense of humor,
+    work through the tough
+    situations and enjoy yourself.
+
+    When you have finished this cup
+    of coffee, your adventure will
+    begin again. NExt you must pass
+    though a vast desert and
+    proceed to the big city of
+    Fourside.
+
+       Ness...
+          Paula...
+             Jeff...
+
+    I wish you luck...
+
+
++=============================================================================+
+&                         7.0 The Desert and Fourside                         &
++-----------------------------------------------------------------------------+
+
+(Gerardo)
+'This hole's great! Good hole, good hole, good hole...
+'First, someone asked me to dig for buried gold.
+'I began to feel like I was obligated to find it.
+'Man, am I starving.
+'Do you have any food you can spare?
+  >>Yes
+  >>No
+
+If "No":
+'The humanitarian thing is to help people out when they're hungry.
+'Although I hate it, Pizza would work for me...
+
+If "Yes":
+'Seems like you have a lot of stuff.
+'What are you gonna give me?
+
+If not edible:
+'Come on! I can't eat this.
+
+If edible:
+'Thank you. If I find the gold, I'll give it to you.
+
+
+(Topolla Manager)
+'So, you're a Runaway Five fan, huh?
+'What?
+'Excuse me?
+'No, no!
+'This band owes me a million bucks.
+'If they break their contract, they'll be in deep doodoo with the police.
+'The police would probably say, "Hey, you guys!" or something like that...
+'Unless you're able to pay a million dollars on their behalf?
+'You'd have to find buried gold,
+'or you would never be able to pay such a huge sum of money.
+'Ho ho ho...
+'Ho ho ho ho ho ho ho!
+
+
+(Bouncer)
+'When Ness arrives, the Runaway Five told me to let him in.
+'So please come in.
+
+
+(MC)
+'Have I got a bombshell for you tonight, kids!
+'aaaaaAAAAAH!!!
+'Ka-Boom!! The Runaway Five!!! Yeah!!
+'3-- 2-- 1--GO!
+
+
+(Mole)
+'I'm one of the masters of this hole.
+'There are five masters in all. We are all moles, of course.
+'I believe I am the third strongest amongst us.
+'Take your best shot!
+
+
+(Mole)
+'I'm really the third strongest master.
+'I'll destroy you now!
+
+
+(Mole)
+'My strength falls between the second and fourth strongest masters.
+'Do you wanna test me?
+
+
+(Mole)
+'I'm truly the third strongest master of this hole.
+'I'll demonstrate the power of being third to you!
+
+
+(Mole)
+'Ha ha ha.
+'You've fought the strongest master of this hole,
+'the second strongest master of this hole,
+'the fourth strongest master of this hole,
+'and the weakest master of this hole!
+'I'm truly the third strongest master of this hole.
+'Now you see the true advantage of being third!
+
+
+(Gerardo)
+'You've gotten rid of the monster?!
+'Good job.
+'Ok, from here on, just let me dig... You'll see, I'll find the buried gold!
+'Before I start digging I'm going to set a careful plan of action...
+
+
+(George)
+'Ness! Greetings!
+'I'm George, Gerardo Montague's brother.
+'Gerardo is in his mine,
+'but he hasn't found any buried treasure yet.
+'We did, however, find a diamond instead.
+'Gerardo told me to give it to Ness.
+'Here it is... please take it.
+'(Ness got the Diamond.)
+'Well, I've got to go...
+'I'm busy working at the other mine... busy, busy, busy!
+
+
+(Topolla Manager)
+'Yaaaieeee!!
+'That that that Diamond... you're going to pay with that Diamond?!
+'O... o... okay, th... that's fine. I'll rip up this contract.
+'*rrrrrip!*
+'Don't tell anyone about the Diamond...
+'Now the Runaway Five are free!
+'...You should thank me.
+'That Diamond is worth maybe... MAYBE... $50.
+'So I gave you a bargain.
+'(Thump, thump... Thump, thump!
+'I made lots of money...)
+
+(Runaway Five Member 1)
+'Sorry about bein' such troublemakers!
+
+(Runaway Five Member 2)
+'We won't be so gullible anymore... Well, our fans are waitin', baby...
+
+(Runaway Five Member 3)
+'Let's just do this one last show and then get outta here...
+
+(Runaway Five Member 4)
+'All right! Thanks again!
+
+(Runaway Five Member 5)
+'Money, that's what I want. Money, that's what is hot. Money, that's what I
+want.
+'Money, it's what we ain't got 'cept freedom, freedom,
+'freedom is what we've really sought!
+'Money, that's what I want. Money, that's what is hot. Money, that's what I
+want...
+
+
+(Store Loudspeaker)
+'Your attention please,
+'would the customer from Onett, Mr. Ness,
+'please proceed to the office on the fourth floor.
+'That was customer Ness, 4th floor office...
+'Gwaaaaaaaaagh!
+
+
+(Store Loudspeaker)
+'Ness, Customer Ness, please hurry to Paula...
+'Gwaaaaaaargh!
+
+
+(Store Loudspeaker)
+'Ness, Customer Ness...
+'Gwaagh! Gwaargh!!
+
+
+(Dept. Store Spook)
+'Gwaaagh, Gwarrrgh!.
+'You finally made it.
+'This department store is gonna be your grave! Gwaaagh.
+'You will be gone, and you'll be burning in...
+'Well, you'll go to heaven!
+
+(Dept. Store Spook)
+'...Even thought you could beat me...
+'Master Giygas will avenge me...
+'At this moment, Paula should be...Monotoli...
+'Gwaaaaarrrrgh!!
+
+
+(Waitress)
+'There's a loud noise outside.
+'Must be the seventh inning stretch,
+'and the fans are singing "Take me out to the ballgame" at the stadium.
+
+
+(Man)
+'Don't cut in front of me!
+'If you give me somethin', I'll let you have my spot.
+'Will you give me somethin'?
+  >>Yes
+  >>No
+
+If "No":
+'Then stay right there where you're too short to see a thing!
+
+If "Yes":
+'So what do I get?
+'Are you sure?
+  >>Yes
+  >>No
+
+If "No":
+'If you don't want to give me somethin',
+'don't say you're gonna give me somethin'...
+'So what do I get?
+
+If "Yes":
+'All right, take my place.
+
+
+(Everdred)
+'.....
+'*Wheeze, wheeze*...
+'.....
+'Aren't you Ness...?
+'...I can't see too well...
+'Everything's blurry... You are Ness, aren't you?
+'It's me, we met in Twoson... Everdred from Burglin Park.
+'You must remember. I'm the best thief around.
+'That... Carpainter in Happy Happy Village was hiding something...
+'*wheeze, wheeze*... strange.
+'I stole it, and thought about selling it in the big city...
+'An old, city-wise man called it Mani Mani.
+'It's a strange-colored, doll-looking thing.
+'...Ohh...*wheeze*, I'm in pain.
+'...and
+'.....
+'Monotoli tricked me and stole it... from me!
+'He tricked a thief!
+'He wanted me out of the way because I knew his secret...
+'He gets his evil power from that statue!
+'...Listen!
+'I'll tell you only once.
+'At the cafe, check... behind... the counter...
+'...*Gasp*...
+'I said I'd tell you only once...
+'But if you insist, I'll tell you once more...
+'...*gasp, gasp*
+'Do do do you wanna hear it again?
+  >>Yes
+  >>No
+
+If "Yes":
+'I've told you twice already
+'But if you insist, I'll say it again.
+'D... D... do... you wanna hear it again?
+  >>Yes
+  >>No
+
+If "Yes":
+'I'm not that nice of a guy. Besides. I'm slipping away...
+
+If either answer:
+'...Before I go, here's my last haiku poem:
+'When on your way out
+'Be sure that you say goodbye
+'then lock the door tight.
+'This is my final request... Don't follow me.
+'I must be on my way...
+'Whoa...
+'So... long!
+
+
++=============================================================================+
+&                      8.0 Moonside and the Monkey Cave                       &
++-----------------------------------------------------------------------------+
+
+(Behind the Counter)
+'???
+
+
+(Teleporter)
+'Hello!
+'And... good-bye!
+
+
+(Guard)
+'The Mani Mani Statue is up ahead, but I'm going to stop you right here.
+'Don't even think about getting past me,
+''cause you aren't with a guy
+'whose eyebrows are connected and who also has a gold tooth.
+
+
+(Connected Eyebrow Guy)
+'Can you see me?
+  >>Yes
+  >>No
+
+If "Yes":
+'Ha ha. You can't?
+'You're definitely not from around here.
+'Hee hee. Get going now. Here's your hat, what's your hurry...
+
+If "No":
+'Ha ha. You can, huh?
+'He he. You've become a real Moonsidian, haven't you?
+
+
+(Teleporter)
+'What the...? You're looking for some kind of door?
+'Well, you're not gonna find one!
+'So, get out of my face, loser...
+'I have no patience when people interrupt me while I'm busy doing nothing.
+
+
+(Connected Eyebow Guy)
+'He he ha! It's me! You can see me, right?
+'There's something interesting about you, so I'm going to follow you.
+'Don't worry, though... Heh heh...
+'If you get into a fight, I'll stay out of it...
+
+(Connected Eyebow Guy)
+'He he ha! It's me! You can see me, right?
+
+(Connected Eyebrow Guy)
+'Don't you wish you had a gold tooth like mine? Nyuk.
+
+(Connected Eyebrow Guy)
+'*Smile*Smile*
+'Heh heh.
+
+(Connected Eyebrow Guy)
+'Uh... Heh heh... Yo!
+'Don't you think my eyebrows rock?
+'Check'em out... they're connected!
+
+
+(Guard)
+'The Mani Mani Statue is up ahead, but I'm going to stop you right here.
+'Huzzah! You really surprised me!
+'You're the man whose eyebrows are connected and who has a gold tooth!
+'How about we dump these kids and go get something to drink?!
+
+
+(Monotoli)
+'Don't do anything to me! I am... I am not Monotoli!
+
+
+(Mani Mani)
+'(It is a golden statue that you have seen before.)
+
+'(The Mani Mani statue was actually a device that created illusions.
+'The illusion device was destroyed.)
+
+
+(Receiver Phone)
+'Hello, this is Apple Kid.
+'I've come up with another wacky invention that I think has real potential.
+'Maybe you won't, but anyway...
+'it's called the "Gourmet Yogurt Machine."
+'It makes many different flavors of yogurt.
+'The only problem is, right now,
+'it can only make trout-flavored yogurt...
+'So, I'm having the machine delivered to you via Escargo Express.
+'It's coming "Neglected Class."
+'Hopefully, you'll get it soon. Yeah, everything is...
+'(Kaboooom!)
+'Uh, I'vegotsomeproblemsheregottago, bye!
+
+
+(Monkey)
+'Kikye uke kya (I'm not a delivery man.)
+'Keke ku iokki kokyo (I can't remember if we've met.)
+'Ky ukki ukki ko (Talah Rama just finished fasting)
+'Kyu ukyo uki (and now wants to meet you)
+'Uko uke kauike (at the west end of Dusty Dunes desert)
+'Kekoi kiko ukkeke (in a cave with lots of monkeys.)
+'Kokyu uke ku akki (I'll use my teleportation to...)
+'Kya (Bye!)
+
+
+(Delivery Man)
+'*Crash*
+'Ooops!
+'*Crunch*
+'Ooops!
+'...Greetings! (It's Escargo Express's neglected class.)
+'Whew! I just got here from the Dusty Dune desert.
+'There was this sunbathing guy,
+'and he told me about a cave with lots of monkeys... or was it orangutans?
+'Anyway, he said... well... uh... I forgot.
+'Yup, I forgot... actually I forgot the stuff I was supposed to deliver, too.
+'I think it was some weird machine to make trout-flavored yogurt.
+'Yeah, I forgot it at the desert...
+'I'm not going back that way, so don't ask me to get the package...
+'I mean, it's your package, right?
+'So YOU go get it!
+'Go on, get out of here.
+'Maybe that thing I forgot is important to you...
+'So... have a good time in the desert!...
+
+
+(Maid)
+'Hello!
+'I heard you talking about trout-flavored yogurt.
+'I'm a maid who serves Mr. Monotoli,
+'and I'm looking for trout-flavored yogurt to give our special guest.
+'If you know anything about it, please tell me!
+'I've been searching and searching...
+
+
+(Monkey)
+'Ukippkyako Ukikiki?
+'(Do you have a Skip sandwich?)
+'Ukii Ukieki...
+'(I'll move away if you give me one.)
+'Ukiki?
+'(Can you give me one?)
+  >>Yes
+  >>No
+
+If "No" or not a Skip Sandwich:
+'Uki, Ukyakikya
+'(I won't move.)
+
+If "Yes":
+'Ukippu Kyako!
+'(A Skip sandwich!)
+
+
+(Monkey)
+'Ukyakki KyaKye
+'(I'd like to have a Protein drink.)
+'Kya Kya?
+'(Can you give me one?)
+  >>Yes
+  >>No
+
+If "No" or not a Protein drink:
+'KyaKya Kyokyokyo?
+'('Cause I'm still a kid?)
+
+If "Yes":
+'Gulp, gulp... Bliekki!
+'(Gulp, gulp... Bliekki!)
+
+
+(Monkey)
+'Meow Meow fss fss fssss?
+'(What strange chattering for a monkey.)
+'Coo coo pepepe.
+'(If I eat a Fresh Egg, I recover some health.)
+'Croak croak breeeeeep?
+'(If you have one, can I have one?)
+  >>Yes
+  >>No
+
+If "No" or not a Fresh Egg:
+'Bow wow ruff ruff bark!
+'(Fine, I'll just be a weird monkey.)
+
+If "Yes":
+'Gulp, gulp... Ukiki!
+'(Gulp, gulp... See!)
+
+
+(Monkey)
+'Kiki kikkeki!
+'(Oh, I wanna measure something!)
+'Kiki kiku eki!
+'(But I don't have a Ruler...)
+'Kuki keikuki?
+'(Do you have one I may borrow?)
+  >>Yes
+  >>No
+
+If "No" or not a Ruler:
+'Kiki Kikurek ki!
+'(No measuring!)
+
+If "Yes":
+'Kikki ekruiki!
+'(Finally, I can measure my own tail!)
+
+
+(Monkey)
+'Kyuie
+'(One of my friends can use the teleport.)
+'Kyu? Kyikki?
+'(What? You've never heard of it?)
+'Kyukyu Kyui
+'(Then, I'll give you King banana.)
+'Kyu Ukyukui?
+'(That didn't make sense, did it? But, anyway, I'm attractive, don't you
+think?)
+'(Ness got the King banana.)
+
+
+(Monkey)
+'If you have a Pizza, please give me one.
+'...Ukiki Ukkike
+'(...Woops, I spoke to you in the human's language.)
+'Ukiki Ukkike
+'(If you have a Pizza, please give me one.)
+  >>Yes
+  >>No
+
+If "No" or not a Pizza:
+'Kye...
+'(Darn...)
+
+If "Yes":
+'Ukki Ukikii!
+'(Great, pizza time!)
+
+
+(Monkey)
+'Ukie Ukikikie
+'(I am Man K. Man.)
+'Ukie Ukikikie
+'(To me the most interesting thing is the King banana.)
+'Ukie Ukikikie
+'(What? Are you giving me a present?)
+  >>Yes
+  >>No
+
+If "No" or not a King banana:
+'Uki...
+'(Tight wad...)
+
+If "Yes":
+'Ukie!
+'(Oh, I've died and gone to monkey heaven!)
+
+
+(Monkey)
+'Uikkie Uiki Uki
+'(Let's get to the point. Give me a Hamburger.)
+  >>Yes
+  >>No
+
+If "No" or not a Hamburger:
+'Uiki Uikki
+'(Ok, shove off then.)
+
+If "Yes":
+'Uikki Uiki Uiki Uiki
+'(I'm very grateful to you.)
+
+
+(Monkey)
+'Kikiki Kiki!
+'(I wanna eat a Picnic lunch!)
+'Kikiki Kiki
+'(If you grant my wish, I might open the entrance.)
+'Kikiki Kiki?
+'(Will you give me a Picnic lunch?)
+  >>Yes
+  >>No
+
+If "No" or not a Picnic lunch:
+'Kikiki Kiki!
+(I wanna eat a Picnic lunch!)
+
+If "Yes":
+'Kikie!
+'(Great!)
+
+
+(Monkey)
+'Uki Ukikie
+'(Doesn't it feel hot in here? My fur's all sweaty!)
+'Ukie Kikukie
+'(Maybe you don't usually keep a Wet twoel, but)
+'Ukke Ukiki Ukkikie?
+'(if you have one, will you share it with me?)
+  >>Yes
+  >>No
+
+If "No" or not a Wet towel:
+'Ukie Ukie Ukikie
+'(Anyway, it is humid in here.)
+
+If "Yes":
+'Ukokkie? Ukike?
+'(Do you have one? Thank you!)
+
+
+(Monkey)
+'Unkikie! Uukiuki!
+'(I love hamburgers!)
+'Ukie Unkikie...
+'(The monkey next to me loves hamburgers too...)
+'Uuu. Unkikkie Uki?
+'(If you have a Hamburger, will you please give it to me?)
+  >>Yes
+  >>No
+
+If "No" or not a Hamburger:
+'.....
+'(.....)
+
+If "Yes":
+'Unkikie!
+'(Hamburger!)
+
+
+'Unkikkie Uuki Uki!
+'(I love hamburgers!)
+'Ukie Unkikie...
+'(The monkey next to me loves hamburgers too...)
+'Uuu. Unkikkie Uki?
+'(If you have a Hamburger, will you please give it to me?)
+  >>Yes
+  >>No
+
+If "No" or not a Hamburger:
+'.....
+'(.....)
+
+If "Yes":
+'Unkikkie!
+'(Hamburger!)
+
+
+(Monkey)
+'Ukkkin Uki Uki Ukkin
+'(Oooooooo..., I'm Monkonna. I wanna eat a tasty Pizza.)
+'Ukkyou kikinkyou
+'(If you have some, will you give it to me?)
+  >>Yes
+  >>No
+
+If "No" or not a Pizza:
+'Uki Ukiekkiki!
+'(You useless monkey hater!)
+
+If "Yes":
+'Ukkin Ukkikeen
+'(Hah, Monkonna's happy.)
+
+
+(Monkey)
+'Kyakyako Kyakie
+'(Somewhere amongst all these rooms...)
+'Ukkiki Kyako Kyakki
+'(you should be able to obtain Dragonite.)
+'Ukyakki Kikiyakoke?
+'(Do you think Dragonite is really made from dragons?)
+'KyokeKyoke Ukyokie
+'(By the way, I'll give you a Fresh Egg.)
+'Ukyakyokyo Kiekyo
+'(If you run out, just come back and I'll give you as many eggs as you want.)
+
+
+(Talah Rama)
+'The truth of space and time moves through the universe like a wave...
+'Truth speaks through space and matter and makes itself known to human beings.
+'I was waiting for you, and you came. This was destined to happen.
+'In truth, all is pre-determined...
+'Ness, Paula, Jeff, and Poo,
+'when these four powers gather,
+'twisted space will bring back peace to the world.
+'Do you understand?
+'It doesn't matter. Proceed as you wish.
+'Open the treasure box and take what is inside with you.
+'...Did you come in search of this?
+'Someone left it behind in this hole.
+'(Ness got the Yogurt dispenser.)
+'The adventure that lies ahead won't be easy.
+'I'll give you a special skill to help you move through space as you wish.
+'Learn the skill from the monkey over there...
+'Would you like to learn this special power?
+  >>Yes
+  >>No
+
+If "No":
+'Ha ha ha. That's your prerogative.
+'Be sure that you do not talk to the monkey, and go.
+
+If "Yes":
+'Ha ha ha. That's wonderful!
+'Speak to the monkey over there.
+
+
+(Monkey)
+'Kyakyekyai kya
+'(I'll teach you teleportation.)
+'Kyakyakya
+'(Let's go outside.)
+
+
+(Monkey)
+'Hikikki.
+'(Follow me, like this way.)
+
+(Monkey)
+'Kyakya Kyokyo
+'(Ok, I'll do a teacher's demonstration.)
+'Kyakyakyak Kyakkya
+'(If you learn this, you can go anywhere you've been previously.)
+'Kyakkyaki kiki
+'(You can go there instantly.)
+'Kyakki Kyaki
+'(This skill can't be used in a room or underground, though.)
+
+'Ukkie
+'(I went to Fourside and returned.)
+'Kyaakyakkya
+'(I showed you the basic, straight course,
+'but you can also build up enough speed while turning, if you have enough
+room.)
+'Ukkikie
+'(Ok! Why don't you try it, young man!)
+'Ness learned how to use PSI Teleportatin.
+'Kyaho!
+'(Great! Okay, the teacher is going home now.)
+
+
++=============================================================================+
+&                             9.0 Fourside Part 2                             &
++-----------------------------------------------------------------------------+
+
+
+(Maid)
+'I kept asking around for Trout-flavored yogurt, but...
+'What? You have a "Yogurt dispenser"?
+'May I have it?
+'(Before you could answer, she took the "Yogurt dispenser.")
+'Now I can make Trout-flavored yogurt for my guests.
+'...You are so kind, I'll make some for you.
+'My room's on the 48th floor. Don't forget to drop by!
+'My room's on the 48th floor. Don't forget to drop by!
+
+
+(Elevator Operator)
+'This elevator is only for Master Pokey's use.
+'It goes directly to the 47th floor.
+'Quit staring at my hips... why don't you stand somewhere else instead of
+behind me?
+
+
+(Elevator Operator)
+'Shhh! Quiet! Aren't you Ness?
+'Mr. Monotoli's maid, Electra, told me about you.
+'I'll take you to Mr. Monotoli's office on the 48th floor.
+'Only you may go.
+
+
+(Clumsy Robot)
+'Ping! Clankety clankety...
+'Rattle, rattle dwourrrrr!...
+'Squeeeek, tweet tweet... CLANK!!
+
+
+'All of a sudden, some guys rushed into the room!
+'It was the Runaway Five!
+'Lucky quickly ducked behind the robot!
+'"I flipped the switch, and it stopped."
+'"Ha ha ha hah... Geez, what a loser robot. It was so easy to stop!"
+'"That was quick thinking!"
+
+
+(Monotoli)
+'Stop! That's enough! Please stop!
+'I give up! I really do!
+
+
+(Paula)
+'...Ness!
+'You finally made it here!
+'...I'm fine.
+'I believed you'd come and save me.
+'Mr. Monotoli isn't really a bad person.
+'Take some time to listen to him.
+
+
+(Monotoli)
+'Look at my skinny arms, thin body, and gray hair...
+'I've become so weak since I lost the Mani Mani Statue.
+'I'm sorry I kidnapped Paula.
+'I haven't done anything to her.
+'...Paula is a nice girl.
+'Paula.
+'Return to Ness.
+'I'm sorry I've created so much trouble for you.
+'(Paula joins you.)
+'.....
+'I'll tell you everything.
+'The Mani Mani Statue creates an illusion.
+'It attracts evil spirits and weakens your heart.
+'The power scared me so much, I hid the statue in the warehouse at Jackie's
+Cafe.
+'I often went there to pray.
+'.....
+'Cryptic words appeared to me while I was in the illusion.
+'Ness, your name appeared in the cryptic messages.
+'"Stop Ness, and do so by your own hand."
+'Or...
+'"Don't let them go to Summers."
+'Or...
+'"Make sure they know nothing of the Pyramid"...
+'I don't fully understand the messages,
+'but someone obviously doesn't want you to go to Summers.
+'...Evil... Giygas... or something.... I could hear the name...
+'Anyway, the evil side would be in trouble if you visit Summers...
+'Oh! On the contrary, you should definitely go to Summers,
+'especially because they don't want you to make it there.
+'.....
+'...Would you like to hear the whole story again?
+  >>Yes
+  >>No
+
+{Repeat until "No"}
+
+'Summers is located across the ocean. Take my helicopter.
+'I'll open the door to my heliport.
+'You must go on!
+'Ness!
+'This is your destiny.
+'Paula, it's time we said goodbye.
+'Take care.
+
+
+(Pokey)
+'Ness, you pin-headed idiot, you're just a half-step too slow!
+'I'm getting outta here!
+'Since Monotoli has become a pain, old man again, I have no more use for him.
+'This helicopter will really come in handy.
+'Looks like you're the world-class loser again!
+
+
+(Paula)
+'.....
+'Oooh... I was a little dizzy, but now I'm okay.
+'...to get to Summers... we need to go back to Threed.
+'Yep, somehow I know that's where we must go...
+
+
+(Runaway Five Member)
+'Wow! You guys did a lot while I was in the bathroom! Ha ha ha ha...
+'You want to get to Threed as soon as possible?
+'We can take you to Threed in our tour bus.
+'I'll get the bus and wait for you just outside the building...
+
+
+(Receiver Phone)
+'Hello! How are you? This is Apple Kid.
+'I think I'm a real genius... In fact, I know I'm a genius.
+'Why? Well, I have discovered the primary enemy of you and of all humanity.
+'We have to fight and defeat this being...
+'To do so, we need to invent a machine called the "Phase Distorter."
+'I've got to find the wandering scientist,
+'Dr. Andonuts, and make the distorter. So, I may be gone for a while.
+'Later... *click*
+
+
+(Elevator Operator)
+'Are you a friend of the Runaway Five?
+'Would an autograph be asking for too much?
+  >>Yes
+  >>No
+
+If either answer:
+'I don't mean your autograph, silly.
+
+
+(Elevator Operator)
+'This elevator is going down.
+'Look, don't stand behind me and stare at my hips!
+
+
+(Receiver Phone)
+'Hello! This is Orange Kid.
+'Sorry I haven't called lately.
+'I'm still working on the way to change boiled eggs into raw eggs.
+'It's taking longer than I thought...
+'I'm going to really work at it, though... talk to me later.
+'*click*
+
+
+(Runaway Five Member)
+'Okay! You can get on the bus now...
+
+
+(Tour Bus)
+'All right... on to Threed!
+
+
++=============================================================================+
+&                          10.0 The Trip to Summers                           &
++-----------------------------------------------------------------------------+
+
+
+(Runaway Five Member)
+'All right. We're gone now.
+'If you get lonely, imagine the Runaway Five singing somewhere far,
+'far away...
+'By the way, why did you need to come back here?
+'You must have forgotten some very important item or gadget here...
+'How's that for a guess? Am I close?
+'Well, you don't have to tell me...
+'See you later and good luck!
+{Not an exact quote.}
+
+
+(Jeff)
+'Ah! Here's the problem, and it's not too tough to fix.
+'Hang on for a second or two...
+'There!
+'That should do it!
+'Now, if we board, the Sky Runner will take us back to Winters.
+'With Dr. Andonuts' help, I can modify the machine to fly to Summers.
+'...If Dad, I mean Dr. Andonuts,
+'is not available, I'll have to figure it out by myself.
+'Anyway, let's go back to the lab in Winters.
+'...That's it... Go, machine, go!
+
+
+(Bubble Monkey's Wife)
+'Kekye koo kikkro (Thanks for taking care of my husband the other day...)
+'(Oh yes, we finally tied the knot...)
+'Kooki kekye ki!
+'(Honey, don't just stand there with your mouth open, say hello!)
+
+
+(Bubble Monkey)
+'Krikko kyakya (So...)
+'Kekroo kyaki (You passed by a cave north of Stonehenge.
+'Don't you ever wonder what's inside?)
+'Kikkyo kukru ki (Can't seem to stop thinking about it!)
+'Keke kike (Go and see what's there!)
+'Kyoke kyakroo koo (We're going to get out of here.
+'We're still newlyweds, you know... Bye-bye!)
+
+
+(Dr. Andonuts)
+'Oh! You surprised me!
+'You're Ness, aren't you?
+'Jeff wets his bed sometimes. But other than that, he's a good boy.
+'Take care of yourself and Jeff!...
+'The Bubble Monkey said there's a cave north of Stonehenge.
+'I've known about it for a long time.
+'The locals call the area "Rainy Circle," but I haven't been there.
+'I wonder what's inside the cave... I uh, huh... I understand...
+'While you're checking out that place, I'll work on remodeling the Sky Runner.
+'Oh yes, yes. My co-worker, Big Foot, dislikes violence.
+'He's such a nice guy, and he loves people.
+'He often shares his beef jerky with me...
+
+
+(Shrooom!)
+'You finally got here.
+'This is the fourth "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Rainy Circle)
+'Ness caught a whiff of (favorite food), but just for a second.
+'Ness's Sound Stone recorded the melody of the Rainy Circle.
+
+
+(Dr. Andonuts)
+'Oh, Ness!
+'Jeff wets his bed sometimes. But other than that, he's a good boy.
+'Take care of yourself and Jeff!...
+'Hmm...
+'...It looks like you found something out.
+'I finished remodeling the Sky Runner.
+'You can leave for Summers whenever you wish.
+'It shouldn't break this time... Well, maybe...
+
+
+BOOM
+
+
+(Dreadlocked Man)
+'Do you know the Stoic Club, in Summers?
+'You need to call a secret reservation if you want to get in.
+'What?
+'Yeah, I'll give you the secret number.
+'I warn you though, it's a strange place...
+
+
+(Receiver Phone)
+'Hello, Jeff?
+'Oh, happy day!
+'I finally got a hold of you...
+'Oh, Jeff!
+'Hi, it's me--Tony.
+'I'm collecting player's names for a school project.
+'You know, players just like you!
+'That's right, you--the one holding the controller.
+'Would you register your name, please?
+'Don't spell your name wrong!
+
+'Thanks, game player!
+'Thank you very much!
+'Is this correct?
+
+'I apologize for any trouble this may have caused you.
+'Don't put my friend Jeff in any dangerous situations, okay?
+'I worry about him.
+'I really do...
+'Well, talk to you later...
+'...Jeff...
+'I hope that I can see you again when you are feeling up to it...
+'From T-O-N-Y...
+'You got that?
+'Well I've been on the phone too long...
+'Gotta go...
+'Good luck...
+'Take care...
+'So long...
+'This time, I'm really gonna hang up.
+'Goodbye.
+'*Beeeeep*
+
+
+(Sailor)
+'Do you want to ride my boat?
+  >>Yes
+  >>No
+
+If either answer:
+'I don't feel like sending a ship out.
+'I'm worried about my wife...
+'I'm not afraid of the Kraken!
+'.....
+'My wife's totally ignoring her Magic cake business.
+'These days she spends her time hanging out in a strange club.
+'We no longer have any mutual interests to discuss.
+'Is our relationship over?
+'...*Sigh*
+
+
+(Phone)
+'Hello, this is the Stoic Club.
+'Oh, Ness, sir! Would you like to make a reservation?
+'Certainly.
+'We are looking forward to having you here. Thank you.
+'Click! Beep-beep-beep...
+
+
+(Man)
+'You know, I really want to eat some Magic cake.
+'It's a mysterious work of art... I can't get that cake off my mind.
+'There's only one woman who can make Magic cake...
+'She's hanging out at this club.
+'Yeah, she's over there at the entrance...
+'Anyway, the absolute irony and study of self-identification is...
+'Blah, blah, blah...
+'I don't know what to do!
+
+
+(Sailor's Wife)
+'I've finally awakened the inner me, the true self.
+'The patrons of this club are able to stare into their own soul hard
+'enough to burn a hole in their psyche.
+'I'm now comfortable enough to stare at the real me, the true self,
+'and burn the impression into my super-ego.
+'I want to be in this comfort zone at any time, all the time or at no time.
+'My id is telling me...
+'What? What? Magic cake?
+'You came all this way just to eat my Magic cake?
+  >>Yes
+  >>No
+
+If "No":
+'Okay then, don't get in my way while I search for the little girl within me...
+
+If "Yes":
+'I see... okay...
+'Why don't you stop by a little cart out on the beach later?
+
+
+(Sailor's Wife)
+'I don't know who told you.
+'You came from far off just to eat my Magic cake?...
+'I thought making cakes would be the best career for me.
+'Dig in!
+'I used all leftover materials. This is a very special Magic cake!
+
+
+'(Ness had a dream, it was a very clear, and a very strange, dream.)
+
+
++=============================================================================+
+&                                 11.0 Dalaam                                 &
++-----------------------------------------------------------------------------+
+
+Dalaam, in the Far East
+
+
+The palace of Poo
+
+   The Crown Prince
+
+
+(Master)
+'Prince Poo, the time has now come for you to undertake your final trial.
+'Go to the "Place of Emptiness" and endure this final test.
+'I am praying for your success in this final stage of your training.
+
+
+(Old Man)
+'You have nice eyes.
+'...You must be Prince Poo.
+'Long ago, I completed Mu Training.
+'I want to show you a higher level of intelligence...
+'However, I'm still realizing and learning this high level...
+'I'll see you again. So long!
+
+
+(Girl)
+'Ah! Prince Poo...
+'I am a messenger from your master...
+'He sent me to tell you that you must stop your meditation immediately.
+'Prince Poo!
+'You must come back with me instead of staying in a place such as this.
+'You Master wishes it... please rise, Prince...
+'Your highness, you must give up this trial for now... believe what I say,
+'it is the truth...
+
+
+(Spirit)
+'Prince Poo...
+'I am the spirit of your ancient lineage.
+'To complete your trial, I am going to break your legs.
+'You will lose the use of them.
+'Do you accept this?
+  >>Yes
+  >>No
+
+If "Yes":
+'So, Prince Poo...
+'you cannot walk, as your legs are broken.
+'Next, I will tear your arms off...
+'I shall then take your arms and feed them to the crows.
+'The taking of your arms...
+'Do you accept this?
+  >>Yes
+  >>No
+
+If "Yes":
+'Ah, Prince Poo...
+'Without legs and arms, you can only lie there...
+'Now, I'll cut your ears off.
+'You do not mind my taking your hearing away, do you?
+'Do you accept this?
+  >>Yes
+  >>No
+
+If "Yes":
+'(So, Prince Poo.
+'No legs, no arms and no sound...
+'By floating words through the air, I must ask you...
+'Do you care if I take your eyes?
+'Do you want to live in eternal darkness?
+'I shall steal your sight...
+'Do you accept this?)
+  >>Yes
+  >>No
+
+If "Yes":
+'(So, Prince Poo.
+'Now, I can only communicate directly with your mind.
+'Your mind is all you have left...
+'In the end, I will take your mind,
+'though you probably don't want to allow that, do you?
+'So... you can't answer? You can't even move?
+'Are you sad, are you lonely?
+'If you lose your mind, you also lose any feelings of sadness...
+'Do you accept this?
+'I will take your mind, Prince Poo, know that I will possess it...)
+
+
+(Man)
+'Prince Poo!
+'You have now completed your training!
+'The old Master must be so pleased!
+'Hurry, now, and return to the palace.
+
+
+(Master)
+'I am proud.
+'You have completed your Mu training.
+'There is nothing more to teach you from the holy writings.
+'Prince Poo,
+'I shall relay a message to you from Eternity.
+'The evil entity that controls all wickedness is preparing for
+'the greatest struggle of all time...
+'The only ones who can challenge the entity are three boys and one girl.
+'Once named Ness is the leader of the four.
+'One of the boys is you, Prince Poo.
+'Now that you've completed your training, search out Ness at once.
+'For all beings, for the earth herself.
+'I pray for growth in the might of the four.
+
+
++=============================================================================+
+&                             12.0 Summers Part 2                             &
++-----------------------------------------------------------------------------+
+
+
+(Poo)
+'My name is Poo. I am the one who will fight beside you.
+'I am the servant of Ness. I will obey Ness.
+'Ness! My life is in your hands.
+'Poo joined you.
+
+
+(Mr. Fork)
+'...mumble, mumble...
+'Why would Mr. Spoon from the Fourside museum try to call me?
+'I bet he just wants to brag about something...
+'Well, let him try... I wonder what he wants to tell me?
+'Bah! I dare him to try and upstage me...
+'Oh! Pardon me... I was just talking to myself... *cough*
+
+
+(Museum Curator)
+'This room is being remodeled, so I can't show it to you...
+'Oh, the samurai kid is here.
+'Will he be giving me that gem?
+  >>Yes
+  >>No
+
+If "Yes":
+'You're such a good student.
+'I'm impressed by your passion for learning. Come in.
+
+If "No":
+'Excuse me?
+'So, what he just handed me is not a gem.
+'Hah ha ha.
+'I'm going to really enjoy the "cookie" that I just got.
+'Let's pretend this conversation never took place...
+'While I'm pretending, you go on in...
+
+
+(Poo)
+'(Poo read the Hieroglyphs!)
+'"To fight against invaders, we built this pyramid fortress.
+'However, our efforts were futile, and we lost.
+'Nonetheless, our pyramid was protected by the gods of Scaraba.
+'The invaders will be reborn every millenium and will attack again.
+'Even now, the invaders hide beyond space and time and build their evil
+stronghold.
+'A place out of time is beyond the Dark, and is even farther beyond the Lost
+Underworld.
+'The Deep Darkness is shrouded, it is without light.
+'Only one with the Hawk eye can pierce the dark.
+'The Sphinx now watches over everything,
+'waiting for the coming of a truly brave hero.
+'   .
+  4   3
+   2 5
+'Dance in front of the Sphinx!"
+
+'Ness! Let's go to Scaraba. The pyramid is the key!
+
+
+(Museum Curator)
+'Wait one second.
+'Here's a picture of the hieroglyphs just for you.
+'It's a reward for studying so hard.
+'(Ness got the Hieroglyph copy.)
+'Use it in your Human Civilization class.
+'Ha ha ha!
+
+
+(Ringing Phone)
+'Hello!
+'Is this Mr. Fork of the Scaraba Cultural Museum?...
+'It doesn't sound like you...
+'Well, I'll quickly tell you my story, 'cause I'm busy, busy, busy!
+'I found something so extraordinary that mere words could not do it justice.
+'What do you mean "who am I"?
+'Don't you recognize my voice?
+'It's me, Mr. Spoon from the Fourside Museum of Natural History!
+'Look Mr. Fork, I'm not exaggerating this find!
+'I'm telling you...
+'It's fantastic!...
+'It's outrageous!...
+'*Click* Beeeeep
+
+
+(Mr. Spoon)
+'Do you want to know about something "extraordinary"?
+'.....
+'Hmmmm...
+'...You know, there's a new singer named Venus at the Topolla Theater.
+'Could you bring me her autograph on an eraser?
+'Then, I'll show you something "extraordinary."
+'...Oh, if you can get her autograph on anything, don't worry about the
+eraser...
+'I don't care if the autograph is written on toilet paper...
+
+
+(MC)
+'Oh, baby baby baaabyyy!
+'Don't make me hurt so bad!
+'These guys are all stone cold gone for you...
+'Ow!! ...You cute, sexy thing, you!...
+'Baby, sing to me!... Sing to me only!... Baby!! Venus!
+'Just sing, and I can die a happy man!... Baby!!...
+'I wanna hold you tight!... Venus!... Baby!...
+'*Boo, hoo, hoo* ...Venus!... *sob* *sob*
+
+
+(Guard)
+'Ah, you're a friend of the Runaway Five...
+'Did you come to see Miss Venus? Come inside quickly.
+'Don't let the other fans see you enter.
+
+
+(Venus)
+'Oh, you want an autograph?
+'Okay, I'll give you my autograph on this banana peel...
+'Here you go.
+'(Ness got the Signed banana.)
+'Oh, and this is a bonus...
+'Smack!
+
+
+(Mr. Spoon)
+'You got it!
+'That banana peel has an authentic "Venus" autograph?
+'Yup, there's no doubt about it!
+'Now for my promise.
+'I'll tell you about something "extraordinary."
+'In the next room, there is a light shining from far, far below the manhole.
+'There, I found a huge, monster rat!
+'I'm not trying to pull your leg...
+'I'll let you go there and check it out yourself.
+
+
+(Plague Rat of Doom)
+'You finally got here.
+'This is the fifth "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Magnet Hill)
+'Ness saw a baby's bottle, but just for an instant.
+'Ness's Sound Stone recorded the melody of Magnet Hill.
+
+
+(Rabbit Statues)
+'Ness used the Carrot key.
+'(How strange! The rabbits and carrots disappeared all at once!)
+
+
+(Thunder and Storm)
+'You finally got here.
+'This is the sixth "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Pink Cloud)
+'Ness has a short vision of seeing his mother when she was young.
+'Ness's Sound Stone recorded the melody of the Pink Cloud.
+
+
+(Sailor)
+'Thank you! You made my wife wake up.
+'She quit talking about all that serious crap...
+'Yeah! Let's work hard!
+'If you're courageous, get on this boat.
+'You'll probably see the Kraken and experience getting seasick!
+'After all, it could only cost you your life, and you got that for free!
+'Luck will determine the outcome of this voyage.
+'So, do you want to sail the seas to Scaraba?
+'Twenty bucks per person is fine with me.
+  >>Yes
+  >>No
+
+If "No":
+'I understand.
+'Stay here and shiver in fear for your future!
+'Ha ha ha ha ha ha!
+
+If "Yes":
+'Ready! We're reckless, baby!
+'Bon Voyage!
+
+'WAAAAIT! Wait! Wait...
+'I need to stop the boat.
+'It's been a long time since I was out on the open sea, so I feel seasick...
+'Oh, man, what am I going to do? A sailor who gets seasick?
+'So how come you guys are all right?
+'So... that bald guy over there...
+'your buddy, right?... He came from Dalaam?
+'You guys must be quite the adventurers!
+'Hahaha! I'm feeling much better now!
+'Anchors aweigh!
+
+'H... h... here it coooomes!
+
+(Sailor)
+'Oh, man!
+'I thought you guys were just everyday little kids,
+'but you defeated the Kraken!
+'I also helped in the battle...
+'I threw my slippers at the beast... Maybe you didn't notice.
+
+
++=============================================================================+
+&                             13.0 Scaraba Desert                             &
++-----------------------------------------------------------------------------+
+
+
+(Sphinx)
+'Are you a thief, a warrior, or one who has come to see my majesty?
+'You must decide what you really are. Therefore, what will you do?
+
+'Warriors, enter now. Search for the Hawk eye.
+
+
+'(Someone must have stepped on a switch!)
+'(It sounds like something up above is moving.)
+
+
+'(There is something on the platform.
+'Do you want to get it?)
+  >>Yes
+  >>No
+
+If "No":
+'(Wasn't it the whole reason you came here?)
+
+If "Yes":
+'(Ness got the Hawk eye.)
+
+
+(Old Man)
+'Well done.
+'You have made it!
+'We finally meet, Prince Poo.
+'The stars foretold that I would meet you here...
+'So, now it's the time to show you the way of the Starstorm...
+'For a while, you must live far away from your friends and live with me.
+'Do you understand?
+'...There's only one answer.
+'I must stop you here even if you don't want to.
+'Stay with me for a while, do you understand?!
+
+(Poo)
+'It is important that I study and learn the "Starstorm"...
+'It will be most helpful to us.
+'Once I learn it, I'll meet up with you, Ness.
+'Trust me... I will see you again.
+
+(Old Man)
+'It depends on Poo's efforts. That will determine the reuniting of the group.
+'Be faithful, and wait until the time comes!
+
+
+(Native)
+'I'm not sure if it was the "Dungeon Man," but...
+'there is a strange looking tower to the northwest.
+'...This key I picked up a little while ago shall maybe open the tower.
+'You may have it, I do not need it.
+'(Ness got the Key to the tower.)
+
+
+'Ness used the Key to the tower.
+'(The key worked to open the door.
+You may enter.)
+
+
+(Brick Road)
+'Welcome!
+'Long time, no see.
+'Mr. Jeff, we met in Winters a long time ago.
+'I'm Brick Road.
+'Dr. Andonuts finally made me Dungeon Man.
+'If you want, I'll come with you guys for a while.
+'The "Return Hole" is over there.
+'Jump in that hole and then walk out.
+
+
+(Brick Road)
+'Guargh! Oh no! I... am...
+'getting caught in the palm trees! Mmm... I cannot move.
+'Well, if I cannot move, it is okay.
+'Ness, it makes me sad,
+'but I must say goodbye here, at my eternal resting place.
+
+
+(Native)
+'A scary place called Deep Darkness is on the other side of the river.
+'The monsters are very strong and you can lose your health
+'just by wandering in the swamp.
+'Do you want to cross the river, even though you know it's a stupid idea?
+
+If "No":
+'It was stupid of me to ask.
+'Let's watch the sunset over Deep Darkness together from here.
+
+If "Yes":
+'The swamp is bottomless.
+'Even if you're swimming, you'll be dragged in.
+'It is a different story if you have a submarine.
+
+
+(Brick Road)
+'A submarine?
+'I believe... that I have on in my old vehicle collection.
+'Please enter...
+
+
+(Brick Road)
+'There's an old submarine in the back of the dungeon.
+'It can be used to cross the river.
+'There's a "Goodbye Exit" ...over there.
+'It will take you to the submarine.
+'Don't make a mistake on which exit you take.
+'You need to take the "Goodbye Exit!" Hope to see you again!
+
+
+(Jeff)
+'(Jeff checked the broken submarine.)
+'Yes! It can still work.
+
+'(Ness and his friends carried out the submarine that Jeff fixed.)
+
+
++=============================================================================+
+&                      14.0 Deep Darkness and Stonehenge                      &
++-----------------------------------------------------------------------------+
+
+
+(Belch)
+'You may have forgotten, but *Buuuuurp!*...
+'I'm the return of Belch!
+'I've fought you before.
+'Peeeeyouuu!
+'Don't you remember my ripe odor?
+'Belch has trained more and has returned much stronger.
+'Buuuurp! Belch has also changed his name to Puke!...
+'Barf! vomit! barf, barf! chuck! chuck!
+'Drown to death in puke!
+'Don't you think that's an incredibly masculine taunt to throw at you?
+
+
+'Suddenly, Poo swooped down from the sky!
+'Poo used his new power, PSI Starstorm!
+
+
+(Tenda Chief)
+'...We're all shy.
+'Rumor, I heard a book to fix shyness, there is.
+'Where?
+'Don't know.
+'Just a rumor.
+
+
+(Receiver Phone)
+'Hello, it's been a while since we talked... this is Apple Kid.
+'We're having beautiful weather here...
+'I'm now at Dr. Andonuts lab in Winters.
+'The doctor doesn't seem to be around right now,
+'but I'm just working on my Eraser Eraser Machine...
+'!  !!!!!
+'Hey! Oh no! What are you doing to me?
+'Who are you ?!!!... *click*
+
+
+(Receiver Phone)
+'Ness, I haven't talked with you in ages! This is Orange Kid.
+'We're finally coming near to the end of our research on...
+'how to change a boiled egg back into a raw egg.
+'By the way, Apple Kid is missing.
+'He left here saying that he was going to see Dr. Andonuts in Winters,
+'and he never came back.
+'I was hopinh to borrow the book "Overcoming Shyness" from him,
+'but suddenly, he disappeared...
+'I haven't read the book, so I'm not very good at talking... sorry.
+'I'm also working hard on my invention, so I hope you'll understand.
+'Say hello to your friends for me!
+'*click*
+
+
+(Bubble Monkey)
+'Ki-kye-kye-kye-kiii.
+'(Yep, I have some cheeeewing gum!)
+
+
+(Mouse)
+'I've been waiting for you.
+'My master, Apple Kid completed this "Eraser Eraser Machine."
+'While he was calling you, he was kidnapped. He felt like this...!!!!!
+'I was there, but was helpless. Sorry about that.
+'Anyway, take this machine.
+'(Ness got the Eraser eraser.)
+
+
+(Starman Deluxe)
+'You're much stronger *whirr* than our intelligence indicated...
+'We were not *beep* prepared for that eventuality...
+'The prophecy from the *click* Apple of Enlightenment may be true...
+'but you must not *whirr* underestimate us.
+
+
+'When you defeated the Starman DX, the Stonehenge base ceased functioning.
+
+
+(Apple Kid)
+'I expected there to be about a seven percent chance that you'd rescue me.
+'I just thought it was a good opportunity to meet Mr. Saturn.
+'I also got to meet Dr. Andonuts... See you.
+'What?
+'You're looking for the book "Overcoming Shyness"?
+'I returned it to the Onett library.
+'Please use the book to help the shy Tenda tribe.
+'...Anyway, because I knew you, I had an incredible experience... wow!
+'I was kidnapped by some of Giygas' toadies.
+
+
+(Boy)
+'Oh, hi Ness.
+'It's another nice day. What? You'd like the book "Overcoming Shyness"?
+'I've read it. It's a great book. So you want to overcome shyness also?
+'You should be able to find it on the bookcase.
+
+
+'(You found the book "Overcoming Shyness"!)
+'(Ness got the Shyness book.)
+
+
+(Tenda Chief)
+'.....!
+'Book!
+'Can fix shyness.
+'Thanks.
+'Relax.
+'I'll read to everyone.
+'Oh!
+'Just holding this book in my hands makes me feel like
+'I'm overcoming my shyness already!
+'I'll really take the time to read it to everyone!
+
+'(The leader of the Tenda tribe read "Overcoming Shyness" to everyone.)
+
+'Chat, Chat whisper, whisper
+'I'd like to give you some "Tendakraut" in return.
+'"Tendakraut" is a type of dish that all Tenda like.
+
+'It stinks, but it tastes wonderful.
+'Ness lends the leader of the Tenda tribe the book "Overcoming Shyness."
+'(Ness got the Tendakraut.)
+
+'Hey, you! I have a happy little question for you...
+'.....
+'(player)...
+'(player),
+'are you sure this is the correct player's name?
+'If it's not right, you can change it...
+'Guy Incognito,
+'Are you sure it's what you want?
+'Are you happy with the name?
+  >>Yes
+  >>No
+
+If "No":
+'Here's your chance to change it...
+
+If "Yes":
+'Are you absolutely certain?
+
+{Repeat until "Yes"}
+
+'Yeah, I thought that you had made up your mind...
+
+
+(Tenda)
+'Powerful... I...
+'so... show... everyone...
+'Huuuup! I got it! I got it! Eeeee yeah!!!
+
+
+(Electro Specter)
+'You finally got here.
+'This is the seventh "Your Sanctuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+I'm Ness... It's been a long road getting here... Soon, I'll be... Soon, I'll
+be... Soon, I'll be... What will happen to us? W...what's happening? My
+thoughts are being written out on the wall... or are they?
+
+
+(Lumine Hall)
+'Ness saw a vision of his father holding him.'
+'Ness's Sound Stone recorded the melody of Lumine Hall.
+
+______________
+14.1 Tea Break
+
+
+    Like a great tapestry, vertical and
+    horizontal threads have met and
+    become intertwined, creating a
+    huge, beautiful image.
+
+
+    You may have cursed this never-
+    ending journey. You have known
+    injury and defeat, but you have
+    struggled on to reach this place.
+    Your in-born intelligence and
+    courage have helped bring you
+    here. You have believed in your
+    friends, and as a group, you have
+    supported each other. Have you
+    ever stopped to consider how
+    much your power has grown?
+    Now, you could fell enemies in
+    Onett and Twoson with one
+    blow. As you certainly know,
+    you cannot turn back. Giygas,
+    the arch field of the universe, is
+    growing frightened of you and
+    your power. He is searching for
+    ways to end your journey.
+
+
+    From here, the challenge grows
+    and your adventure will take you
+    beyond anything you ever
+    imagined. You are drawing near
+    to Giygas. Remember when you
+    are suffering hardships, your
+    enemy is also struggling.
+
+
+    By the way, do you know where
+    Pokey went? When this cup of
+    tea is finished, your adventure will
+    continue. Your destiny pulls you
+    in the right direction. Believe in
+    yourself and press forward.
+
+
+    Ness!
+
+         Paula!
+
+               Jeff!
+
+                     Poo!
+
+
+
+    I wish you luck...
+
+
++=============================================================================+
+&                            15.0 Lost Underworld                             &
++-----------------------------------------------------------------------------+
+
+(Tenda)
+'You guys smell really good! *sniff, sniff, sniff*
+'Who am I? I'm a Tenda!
+
+(Tenda)
+'Hey! What are you doing inside our dinosaur cage?
+'I'm going to open the door, and you get out of there right now!
+'I'm the boss, so I will let you out.
+'Thank you for the Tendakraut.
+'(Ness's Tendakraut was stolen.)
+'(The awful smell surrounding the group is now gone.)
+
+
+(Stone)
+'You finally came, Ness.
+'Finally, you talk to me.
+'Listen Ness.
+'I'm going to tell you something very important.
+'You may want to take notes.
+'Ready?
+'You're the chosen one.
+'Your destiny is not only yours...
+'It's the destiny of the whole universe.
+'There will be a time in which all of you in the universe will overlap each
+other.
+'It's not necessary to understand now.
+'Do you remember "Giant Step" in Onett?
+'That is one of "Your Sanctuary."
+'It is a spot which gives you power
+'and allows you to realize all your skills.
+'There was a monster that protected it.
+'The monster was influenced by a power of the place.
+'You must have beaten those monsters.
+'You must reach all of the eight power spots in the world...
+'When the Sound Stone records the melodies of all eight power spots,
+'you can finally see "Your World."
+'I'll tell you all of the power spots.
+'1. "Giant Step" in Onett.
+'2. "Lilliput Steps" in Peaceful Rest Valley near Twoson.
+'3. "Milky Well" in Grapefruit Falls in Saturn Valley.
+'4. "Rainy Circle" found by Jeff in Winters.
+'5. "Magnet Hill" at the edge of the city of Fourside.
+'6. "Pink Cloud" which Poo knows.
+'7. and... "Lumine Hole" where the shining lichen lives in the cave.
+'8. A new place is now going to be opened up to you.
+'"Fire Spring," located southwest of here.
+'Listen to the melodies of all eight power spots.
+'If you do not fail, you may upset Giygas' plans...
+'Understand, Ness?
+'The time will come.
+'The time when the destiny of you and the whole universe will overlap...
+'It is fast approaching.
+
+
+(Carbon Dog)
+'You finally got here.
+'This is the eighth "Your Sancuary" location. But it's mine now.
+'Take it from me, if you dare...
+
+
+(Fire Spring)
+'Ness had the feeling that he was being watched by himself as a baby.
+'Ness's Sound Stone recorded the melody of the Fire Spring.
+
+
++=============================================================================+
+&                                16.0 Magicant                                &
++-----------------------------------------------------------------------------+
+
+
+'Ness... Hmmm...
+'I think Ness is the right name for him.
+'Ness... he smiled just from hearing his own name.
+'Do you think he likes the name?
+'Try putting that red cap on him.
+'Ha ha ha! It's too big, but it looks good on him...
+'I hope King won't be jealous of the baby.
+'Let's celebrate with some (favorite food).
+'The baby will grow up to be a hard worker just like you.
+'I don't think he needs to be rich or famous.
+'but I want him to be a thoughtful, strong boy.
+'That's odd... the baby bottle that he pointed at seemed to move a little
+bit...
+'Hmmm....
+
+
+(Ness's Nightmare)
+'(I'm the evil part of your brain.
+'You can't beat me.
+'Because you are the one who forced me into being...)
+
+
+'(Ness heard a familiar voice at the center of the Sea of Eden.)
+'Giygas' goal is to destroy you.
+'Listen carefully!
+'Everything in the universe could be destroyed at the hands of Giygas.
+'But he and his followers are also in trouble.
+'The Apple of Enlightenment has foretold
+'that Giygas' attempt will fail.
+'It is because of the existence of a boy named Ness.
+'...That's me!
+'Listen.
+'Free your mind and KNOW what you must do!
+'Your destiny has already been decided.
+'You... I... where should we go?
+'You know feep within the reaches of your mind.
+'...S ...Sat... ...Saturn
+'.....
+'Saturn Valley... yes...
+'Go to the valley where the Mr. Saturn live.
+'...You'll get something new there.
+'Soon, Magicant will be no more. We must be quick!
+'(Ness really heard his own voice.
+'Go to Saturn Valley!
+'Go to Saturn Valley now!)
+
+'Ness was filled with the Power of Giant Step!
+'Ness's Speed increased by 5!
+'Ness's Vitality increased by 5!
+'Ness was filled with the Power of the Lilliput Steps!
+'Ness's Guts increased by 5!
+'Ness's Luck increased by 5!
+'Ness was filled with the Power of the Milky Well!
+'Ness's Speed increased by 5!
+'Ness's IQ increased by 5!
+'Ness was filled with the Power of Magnet Hill!
+'Ness's Vitality increased by 5!
+'Ness's Luck increased by 5!
+'Ness was filled with the Power of the Rainy Circle!
+'Ness's Guts increased by 5!
+'Ness's IQ increased by 5!
+'Ness was filled with the Power of the Pink Cloud!
+'Ness's Speed increased by 5!
+'Ness's Guts increased by 5!
+'Ness was filled with the Power of the Lumine Hole!
+'Ness's Luck increased by 5!
+'Ness's IQ increased by 5!
+'Ness was filled with the Power of the Fire Spring!
+'Ness's Speed increased by 5!
+'Ness's Luck increased by 5!
+'Instantly, Ness's mind cleared,
+'and he realized that he had possessed great power!
+'At that moment, Ness's psychic powers radically expanded!
+'Ness gained 200,000 experience!
+
+'Ness made all of the hidden powers his own.
+'Ness absorbed the power of the land into his heart, and Magicant was no more.
+'Now you can wake up. Your friends are waiting for you.
+'It is time to get up.
+
+
++=============================================================================+
+&                          17.0 The Phase Distorter                           &
++-----------------------------------------------------------------------------+
+
+
+'The Sound Stone that Ness used to have is now gone.
+
+
+(Paula)
+'What happened, Ness? You've been unconscious for a long time...
+
+
+(Jeff)
+'You kept saying something...
+
+
+(Poo)
+'...Saturn Valley? What's waiting for us there?
+'Anyway, we need to teleport...
+
+
+(Dr. Andonuts)
+'Yahah! The Mr. Saturns are incredible folk.
+'And Apple Kid... He is a most exceptional young man,
+'very different from other kids.
+'...Well, anyway... The prototype Phase Distorter has been stolen.
+'Someone resembling a pig wearing clothes took Mr. Saturn captive
+'and stole the device!
+
+
+(Dr. Andonuts)
+'Hmmm... it doesn't work. One thing is missing...
+'But that one material cannot normally be found on the earth.
+'The material I'm thinking of came from a meteorite
+'that fell when I was much younger.
+'Have you seen a meteorite anywhere recently?
+  >>Yes
+  >>No
+
+If "No":
+'Hmmm... so are we just going to wait for a meteorite
+'to suddenly fall from the sky?
+'Mmm... you haven't seen a meteorite... Hm... think for a minute...
+
+{Repeat until "Yes"}
+
+'Eureka! That's it!
+'With even just a piece of the meteorite, I can synthesize the material
+Zexonyte.
+'...I doubt that your mortal enemy Giygas,
+'or whatever, will allow you to go to Onett and get a piece of the meteorite.
+'By now, Onett is in his evil hands.
+'You must go, though, so take every possible precaution.
+'The Mr. Saturns have introduced some of their new developments at their shop.
+'Please check them out before you leave.
+'...I wonder what Onett is like at this point in time?...
+
+
+'There is something shiny that you can reach.
+'Do you want to try and get it?
+  >>Yes
+  >>No
+
+If "Yes":
+'(Ness got the Meteorite piece.)
+
+
+(Dr. Andonuts)
+'Ah, yes! This is fantastic! What?
+'Well, I've never actually seen this incredibly rare element before...
+'It is very intriguing.
+'All right, leave everything to us, and you get some rest.
+'This is getting most fascinating!
+
+
+(Dr. Andonuts)
+'Finally, it's complete!
+'The Phase Distorter, version two,
+'is equipped with two new features.
+'First, it can repair your biological functions.
+'Second, it can save your progress.
+'Don't be afraid, get right in!
+'...There is just one thing, though...
+'You might not be able to return. So, make sure you are optimally outfitted.
+'Are you ready to go?
+  >>Yes
+  >>No
+
+If "No":
+'Even if you're not 100%, perfectly, completely ready...
+'Well, you should be as prepared as possible. It would be for the best.
+'Without careful preparation, you would be in big trouble.
+'I just want to make sure you're ready.
+'Let me know when your preparations are complete.
+
+'Good. At last, the time has come.
+'Are you ready?
+  >>Yes
+  >>No
+
+If "Yes":
+'Remember, the Phase Distorter, version 2,
+'is equipped with two new features.
+'First, it can repair your biological functions.
+'Second, it can save your progress.
+'Don't be afraid! Get right in!
+
+
+(Old Man)
+'Greetings! So, you are finally here!
+'Excellent! You are truly excellent!
+'There is only a little time left! I'll give you the last power.
+'I must go now...
+'(Poo became conscious of PSI Starstorm Omega!)
+
+
+(Mr. Saturn)
+'KiDnaPPED. i waS. BOinG!
+'KiDnaPPER. BaD GUy.
+'Bad GUy GOnE. zOOm!
+'wHERE? tO tHE PaSt.
+'DinG, DinG!
+
+
+(Apple Kid)
+'The Phase Distorter has been completed.
+'We could finish it quickly because of Mr. Saturn's incredible scientific
+skill...
+
+
+(Dr. Andonuts)
+'Giygas is attacking from our exact location,
+'but he is attacking from many years in the past.
+
+
+(Apple Kid)
+'You must warp to the past and fight, but...
+
+
+(Dr. Andonuts)
+'This is very hard for me to tell you, but...
+
+
+(Dr. Andonuts)
+'In order to defeat Giygas, who is attacking from the past,
+'you must warp to the past.
+'This can be done by way of the "Phase Distorter 3."
+'However, the machine cannot warp living things, I mean lifeforms.
+'Life is demolished in the process of warping.'
+'The only way to accomplish the time travel is
+'to transfer your brain "program" into a robot,
+'and send the robot to the past.
+'...The transfer means that your spirit will go with the robot
+'while your body is left behind...
+'I cannot promise that your spirit will come back after the battle in the past.
+'Yes, you must understand that the four of you are the chosen ones.
+'Do you still wish to face Giygas by travelling to the past?
+  >>Yes
+  >>No
+
+If "No":
+'Yes, it's natural to feel as you go.
+'The only thing left is the destruction of our planet...
+
+If "Yes":
+'...Hmmm ...you accept this while knowing
+'that you may not be able to return to your current form,
+'right?
+  >>Yes
+  >>No
+
+If "Yes":
+'...Yes... I see... You have really set your mind on this...
+'Let me take a good look at you now...
+'Ness, please give me that red cap...
+'Ready... stand by...
+
+
+(Dr. Andonuts)
+'Ness! Paula! Poo!
+'Jeff!... my son...
+'There is no turning back now.
+'Ness, activate the Phase Distorter 3 by your own hand,
+'thereby following your own destiny...
+'Will you do so?
+  >>Yes
+  >>No
+
+If "No":
+'...I see...
+'Jeff! You do it!
+  >>Yes
+  >>No
+
+If "No":
+'Oh, you lost your nerve...
+'Ness! It is up to you...
+  >>Yes
+  >>No
+
+{Repeat until "Yes"}
+
+'Only a few people know of your amazing courage,
+'but the number of people you save through that bravery is immense.
+'I feel very fortunate...
+'to be present at the beginning of this monumental undertaking...
+
+
++=============================================================================+
+&                                 18.0 Giygas                                 &
++-----------------------------------------------------------------------------+
+
+
+(Pokey)
+'Ness! Are you surprised?
+'It's me, Pokey.
+'I assist only the strong and able!
+'That's Pokey.
+'You guys look pathetic!
+'The Apple of Enlightenment has already made a prediction.
+'...But I won't let what the Apple of Enlightenment predicted take place.
+'You guys will be beaten by Giygas.
+'Giygas will be stronger, a more powerful entity than any other!
+'Why?
+''Cause of me.
+'I was led by Giygas, and now I'm here.
+'The Apple of Enlightenment couldn't predict this.
+'Master Giygas. No, Giygas is no longer the wielder of Evil.
+'He has become the embodiment of Evil itself...
+'which he cannot control on his own.
+'He is the Evil Power.
+
+
+(Pokey)
+'I understand you guys are already claiming to be heroes.
+'Well, it is a gazillion years too early for you to oppose Giygas!
+'You must feel pretty stupid to keep fighting without even knowing
+'what Giygas looks like!
+'If you were to ever see Giygas, you'd be so petrified with fear,
+'you'd never be able to run away!
+'...That's how scary it is!
+'So, do you want me to turn off the "Devil's Machine?"
+'Well, prepare to be amazed!
+
+'So, isn't this terrifying?
+'I'm terrified, too.
+'Giygas cannot think rationally any more,
+'and he isn't even aware of what he is doing now.
+'His own mind was destroyed by his incredible power.
+'What an all-mighty idiot!
+'Yep, that's what he is!
+'Heh heh heh heh...
+
+
+(Giygas)
+'...Ness...
+
+'.....Ness...
+
+
+(Pokey)
+'Heh heh heh heh. You must really be at the end of your rope.
+'In this bizarre dimension, you four are the only force fighting for justice...
+'And here you stand,
+'waiting to be burned up with all the rest of the garbage of this universe...
+'Haaaaah! That's so sad. I can't help but shed a tear.
+'You know, my heart is beating incredibly fast,
+'...I must be experiencing absolute terror!
+'Do you want to scream for help here in the dark?!
+'Ha ha ha ha ha!
+'Why not call your mommy, Ness!
+'Say, "Mommy! Daddy! I'm so frightened! I think I'm gonna wet my pants!"
+'I know you have telepahty, or something, so just try and call for help,
+'you pathetically weak heroes of so-called justice!
+'No one will help you now!
+'Ha ha ha haah...
+'Don't worry, your pitiful suffering with be over soon.
+
+
+(Giygas)
+'"I'm h...a...p...p...y..."
+
+
+(Paula)
+'"...Please give us strength,
+'If it is possible... Please..."
+'"Somebody...... help us."
+
+
+'(All of the Mr. Saturns felt a new, startling feeling
+'they had never experienced before,
+'and they all started praying for the safety of Ness and his friends.)
+
+'Giygas' defenses became unstable.
+
+
+(Giygas)
+'"It's not right... not... right...
+'I feel g...o...o...d...."
+
+
+(Paula)
+'"...Please give us strength!
+'Anyone who can hear our plea. Help us!"
+
+
+'(Suddenly, one of the Runaway Five felt something stop him,
+'and he prayed fervently for the safety of Ness and his friends.)
+
+
+(Giygas)
+'"I feel g...o...o...d...
+'I'm h...a...p...p...y...
+'...friends..."
+
+
+(Paula)
+'"...Please give us strength!
+'Speed this prayer to all the people of earth!"
+
+
+'(Paula's father thought he somehow heard his daughter's voice,
+'and prayed sincerely for the safety of Paula and her friends.
+
+
+(Giygas)
+'Ahh, Grr, Ohhh...
+'I'm h...a...p...p...y...
+'Ness, Ness, Ness, Ness, Ness, Ness, Ness, Ness, Ness, Ness, Ness, Ness...
+
+
+(Paula)
+'"...Please give us strength!
+'Anyone who can hear our plea... Help us."
+
+
+'(Suddenly, Tony felt anxious about Jeff,
+'and he prayed strongly for the safety of Jeff and his friends.)
+
+
+(Giygas)
+'"Arrgh! Yaagh!...
+'It hurts, Ness...
+'Arrgh! Yaagh!..."
+
+
+(Paula)
+'"...Please grant us power!
+'Anyone who can hear our plea... Help us."
+
+
+'(A young woman in Dalaam woke from a dream in which Prince Poo died,
+'and she began to pray for the well-being of Poo and his friends.)
+
+
+(Giygas)
+'"It's not right... not right... not right...
+'Ahh, Grr, Ohhh...
+'Ness!"
+
+
+(Paula)
+'"...Please grant us strength!
+'Anyone who can hear our plea... We ask for this."
+
+
+'(Suddenly, Frank recalled Ness's shining young face,
+'and began to pray diligently for the safety of Ness and his friends.)
+
+
+(Giygas)
+'"Ness!
+'Ness!
+'...go...b...a...c...k...."
+
+
+(Paula)
+'"...Please grant us power!
+'Speed this prayer to all the people of the earth..."
+
+
+'(Suddenly, Ness's mother felt terribly uneasy,
+'and she began to pray for the safetly of her son and his friends.)
+
+
+(Giygas)
+'"Ness!
+'Ahh, Grr, Ohhh...
+'I feel g...o...o...d..."
+
+
+(Paula)
+'I can't think of anyone else...
+'...Someone, anyone... Please help us."
+
+'(Paula's call was absorbed by the darkness.)
+
+
+(Paula)
+'"Someone... can you hear me?!
+'Please, give us strength!"
+
+
+'Paula and her friends' calls touched the heart of (player).
+'((player) prayed for the kids.)
+'((player) kept praying.)
+'((player) kept praying.)
+'((player) kept praying.)
+
+
+(Pokey)
+'Ness! Now, I... well... It's going to seem like I'm running away.
+'But perhaps I'll just sneak away to another era to think about my next plan.
+'It's a good bet that we will see each other again...
+'All right! I'll be seeing you!
+'So now which one of us do you think is the cool guy?!
+
+
+'The war against Giygas is over...
+
+
++=============================================================================+
+&                               19.0 Aftermath                                &
++-----------------------------------------------------------------------------+
+
+
+(Poo)
+'Our travels together end here.
+'I must return to Dalaam, and use this experience for the good of my country.
+'Ness, Paula, Jeff...
+'Let me demonstrate a strange power before I go. I realized this power as a
+child.
+'PSI Farewell! Now!
+'I'll see you again someday!
+
+
+(Jeff)
+'Paula, Ness...
+'It was great to hang out with you guys. It really was.
+'I'm glad that I had the chance to use some of the theories
+'that I have been studying so hard.
+'It's remarkable.
+'.....
+'If...
+'Just maybe...
+'Well, if you two get hitched someday,
+'maybe I'll be the one that fixes your broken electronic appliances.
+'.....
+'I'm going to stay here for a while and see if I can learn more from Dr.
+Andonuts.
+'I mean, from my dad.
+'...So it looks like this is good bye for now, my friends.
+
+
+(Paula)
+'Ness, will you escort me home?
+  >>Yes
+  >>No
+
+If "No":
+'Well then, I'll escort you!
+
+
+(Paula)
+'Ness... Thank you for escorting me home.
+'.....
+'...There was something I wanted to tell you, but I've forgotten it.
+'I'm sure I'll remember by the time I see you again.
+'Well, I guess this is it...
+'Good-bye.
+'Uhhh... ...So long
+'...See ya.
+'...Bye.
+
+
+(Mom)
+'Wow, you've become such a strong, young man.
+'I'd like to hear all of your stories,
+'but I don't want to annoy you as soon as you walk through the door.
+'After all your chats with people you met on your adventure are finally over,
+'please come back here.
+'The photo-man brought an album by.
+'I'd like to look at it with you...
+
+
+(Mom)
+'Did you finish doing everything that you wanted to?
+  >>Yes
+  >>No
+
+If "No":
+'You'd better do everything, because once you start looking at the album,
+'you can't stop!
+
+If "Yes":
+'Okay! Now you can finally share your incredible experiences with me...
+'You did so well!
+
+
+(Picky)
+'A letter arrived from my brother, Pokey... it is addressed to Ness.
+'There's no stamp, and it's not time for the mailman to come...
+'Anyway, I brought it over.
+'It says, "come and get me, loser!
+'Spankety, spankety, spankety."
+'...I wonder where he is?
+
+
+THE END... ?
+
+
+
++=============================================================================+
+&                           20.0 Mr. Saturn Quotes                            &
++-----------------------------------------------------------------------------+
+
+Although I am not including most non-essential text in the game script, I have
+set aside a section for Mr. Saturn quotes, because well, he's Mr. Saturn. The
+following is a list of every Mr. Saturn quotation in the game.
+
+
+___________________
+Happy Happy Village
+
+
+'i nOt sURE. BOinG!
+'fRiEnDS
+'in vallEy BEHinD tHREED.
+'DinG! DinG!
+
+
+'OH, Hi HO.
+
+
+___________________________________
+Saturn Valley Before Belch's Defeat
+
+
+'wE fEEl GROOvE!
+'Hi HO. mE mR. SatURn.
+'tHis PlacE, all aRE mR. SatURn.
+
+
+'DO yOU want SlUmBER?
+  >>Yes
+  >>No
+
+If "No":
+'kay-O.
+
+If "Yes":
+'kay-O.
+'HEaltHfUl anD DanDy!
+
+
+'i'm DR. SatuRn. ZOOm!
+'anD i can REPaiR yOUR BODy.
+'BOinG!
+'DO yOU want mE
+'tO OPERatE On yOU? DinG?
+  >>Yes
+  >>No
+
+If "Yes":
+'yOU aaaaaaall fiXED UP.
+'GOODy! BOinG!
+
+'HEaltHy, HEaltHy.
+
+If "No":
+'aRE yOU kay-O?
+'if yOU all RiGHt, tHat'S GReat.
+'zOOmER!
+
+
+'OncE UPOn a timE,
+'wE wERE many, many.
+'EvERyDay, SlOwly
+'aRE lESS, lESS.
+'wHy? Hmmmm... BOinG!
+
+
+'wE lOOk likE samE!
+'i GivE yOU SPEcial tHinG.
+'nOt nOw, ZOOm!
+'i GivE yOU On tHE way Back, BOinG!
+'ByE latER!
+
+
+'BaSE... SEcREt.
+'BaSE BEHinD GRaPEfRUit fallS.
+'PaSSwORD? i tEll.
+'BElcH man say
+'"Say PaSSwORD."
+'tHEn StanD Still,
+'wait fOR tHREE minUtES.
+
+
+'SO BOinG! yOU HavE 380 DOllaRS,
+'wE tRaDE "SEcREt HERB."
+'SO BOinG!
+'yOU HavE 1780 DOllaRS,
+'wE tRaDE "HORn Of lifE."
+
+
+'ScaRy, ScaRy GUy, BOinG!
+'GRaPEfRUit fallS!
+'ScaRy, Sick, BaRfy...
+'GO anD... la la la!
+'DinG! ScaRy!
+
+
+'tHREED iS ZOmBiE fUll!
+'i Saw! BaD Stink BEHinD fallS!
+'ZOOm!
+
+
+'lOtS Of fRiEnDS...
+'takEn BEHinD fallS...
+'wHy? wHy? BOinG!
+
+
+____________
+Belch's Base
+
+
+'tiRED.
+'BUt SO GOOD. DinG!
+
+
+'aH! SOOOO... HOnESt!
+'SmilE. BOinG!
+
+
+'i EScaPED.
+'ZOOm!
+'BUURP!
+'BOinG!
+'GOODy!
+'BUUURP!
+
+
+'yOU wORn DOwn?
+'aHHH... BOinG!
+'BUUURP! BaRf!
+'Stinky! PEEEE-yEUUU!
+
+
+__________________________________
+Saturn Valley After Belch's Defeat
+
+
+'GO in HOt SPRinG.
+'waSH BaRf Off yOU BODy!
+
+
+'lOnGER laDDER!
+'can GO tO HOt SPRinGS!
+
+
+'DRink cOffEE BEfORE GO?
+'Say yES tO mE?
+'Say nO tO mE?
+  >>Yes
+  >>No
+
+If "No":
+'wHy yOU Say nO?
+
+If "Yes":
+'BOttOmS UP! BOinG!
+
+
+(Sign)
+'HOlE 'milky wEll.'
+'wHat tHiS... DinG!
+'DinG!
+
+
+'aPPREciatE!
+'i SO HaPPy, HaPPy, HaPPy...
+'ZOOm!
+
+
+'all HOmE! ZOOm!
+
+
+'aPPREciatE!
+
+
+'yOU wait tHREE minUtES!
+'ZOOm!
+'yOU cOmE HERE tO wait
+'tHREE minUtES? nO?
+
+
+'nO ScaRED.
+
+
+'HERE iS PRESEnt.
+'I HanD yOU cUP Of lifEnOODlES.
+'I HanD yOU mR. SatURn cOin.
+'i nO HanD yOU
+'my StaG BEEtlE...
+'OH! tEaSE yOU!
+'i HavE nO SOmEtHinG.
+
+
+'i tHink nEw tHinGS...
+'DifficUlt tHinGs... fROm nOw...
+
+
+'DEliciOUS. nESS!
+'yOU GOOD namE.
+'wE nO namE! BOinG!
+'...all HavE samE namE!
+
+
+'OH! OH! *wHEEZE*
+'BREatHE iS SOOOOO GOOD!
+
+
+'imPRESSED!
+'SOmEDay, SOmEtimE wE HElP yOU.
+
+
+_______________
+Stonehenge Base
+
+
+'KiDnaPPED. HaPPy.
+'REScUED.
+'I GivE yOU RiBBOn.
+
+
+____________________________
+Saturn Valley After Magicant
+
+
+'i DO wHat i Say...
+'cROSS HEaRt...
+
+
+'zOOm!
+
+
+'EUREKa! DinG!
+
+
+'maKE nEw tHinG!
+'mUSt maKE! DaDDy! BOinG!
+
+
+'DanCE iS OvER...
+
+
+'DaKOta!
+
+
+'SwEEt fRESH fEEl.
+
+
+_______________
+Lost Underworld
+
+
+'KiDnaPPED. i waS. BOinG!
+'KiDnaPPER. BaD GUy.
+'Bad GUy GOnE. zOOm!
+'wHERE? tO tHE PaSt.
+'DinG, DinG!
+
+
+'wE HERE tOO. BoinG!
+
+
+____________________
+After Beating Giygas
+
+
+'waS SCaRED.
+'nOw Kay-O. i StROnG.
+'BOinG!
+
+
+'HaPPy. BOinG.
+'mORE HaPPy. DinG DinG.
+'mUCH mORE HaPPy. BOO BOO'S.
+'BiG BiG HaPPy. zOOOOOm!
+
+
+'i wiSH fall in lOvE...
+
+
+'HEaltHfUll!
+
+
+'BEll RinGS DinG, DinG. BOinG!
+
+
+'Hi, yOU. {In Happy Happy Village}
+
+___________________
+Saturn Valley Store
+
+
+'Hi Hi Hi. yOU cOmE BUyinG?
+'yOU can SEll, tOO.
+'i, mR. SatURn, BOinG
+'can DO all fOR yOU.
+'wHat DO yOU want ZOOm?
+  >>Buy
+  >>Sell
+
+If "Buy":
+wHat yOU BUyinG ZOOm?
+
+'tHE (item)?
+'wHicH yOU caRRy tHiS BURDEn?
+
+If confirming:
+'OH, yOU tHank.
+
+If cancelling:
+'if yOU nOt GOnna BUy,
+'DOn't BUy ZOOm!
+
+'EQUiP HERE?
+  >>Yes
+  >>No
+
+If "Yes":
+'(item)?
+'UHH, tHat OnE iS (price).
+'wHat tHink yOU aBOUt
+'tHat PRicE... ZOOm?
+
+If "Sell":
+'yOU want tO sEll mE tHinGS
+'at mE BOinG?
+
+'tHE (item)?
+'tHE mOSt Us Pay tHat is (price).
+'tHat kay-O On yOU?
+'DinG! DinG!
+
+If cancelling:
+'OH JOy! ZOOOOOm!
+
+'iS tHERE anytHinG ZOOm
+'ElSE nEED?
+  >>Yes
+  >>No
+
+If "Yes":
+'wHat nEXt, BOinG?
+  >>Buy
+  >>Sell
+
+If "No," and no transaction:
+'tHank yOU. BOinG!
+
+If "No," after a transaction:
+'OH, yOU tHank!
+
+
++=============================================================================+
+&                              21.0 Miscellany                                &
++-----------------------------------------------------------------------------+
+
+_______________
+21.1 Legal Stuff
+
+This FAQ is Copyright 2005 by me. Any publishing of this FAQ without my
+explicit permission will be in a world of trouble, and I will find out if that
+happens. Earthbound is the Copyright product of Nintendo. I am not in anyway
+affiliated with the company or its employees.
+
+_______________
+21.2 Emailing Me
+
+I'd love to hear any commentary or questions about the Script. I can be reached
+at tasteless@gmail.com
+
+If there is something missing or wrong with the Script, please feel free to
+email me the correction and I'll try to fix it. The text for the last part of
+the Giygas battle is a little off because the text goes off the screen as fast
+as I could type it.
+
+Do NOT ask me where to get a copy of the ROM. These emails will go straight 
+into the trash.
+
+
+___________________
+21.3 Version History
+
+1/10/05 - v1.0  First and complete version of the game script is submitted to
+                GameFAQs, along with the complete list of Mr. Saturn quotes.
+
+
+__________________
+21.4 Special Thanks
+
+Special Thanks goes out to Ape Studios/HAL Laboratory for making a great game
+and providing the script which I have humbly ripped off.
+
+Thanks also goes out to GameFAQs for being one of the greatest resources on
+the internet.
+
+_____________________________________________________
+Earthbound Game Script (c) 2005 John "TIDQ" Robertson

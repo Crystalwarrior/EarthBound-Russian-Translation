@@ -374,7 +374,7 @@ l_0xc74fde:
 l_0xc74fec:
     "{window_open(1)}@Я знаю, что наша собака не очень то и надёжная,{pause(15)} но тебе стоит взять [1C 01 03] с собой." next
     "@Треснувшая Бита в комнате Трэйси может помочь тебе в такое время..." next
-    "@Независимо от того, что кто-либо говорит,{pause(15)} ты храбрый,{pause(15)} сильный мальчик." next
+    "@Что-бы кто-либо не говорил,{pause(15)} ты храбрый,{pause(15)} сильный мальчик." next
     "@Ты мой самый дорогой прирождённый боец...Ты достигнешь далёких высот..." next
     "@Помни, что тебе надо{pause(15)} <Действовать!>{set(flag 94)}[06 ED 02 {e(l_0xc750b3)}]{wait}{window_closeall}{pause(1)}" eob
 
@@ -383,7 +383,7 @@ l_0xc74fec:
     "@But,{pause(15)} I think you should change out of your jammies before you leave.{wait}{window_closeall}{pause(1)}{unset(flag 749)}[1F 21 C4]" eob*/
 l_0xc750b3:
     next
-    "@Но мне кажется,{pause(15)} что тебе стоит переодеть пижаму перед уходом.{wait}{window_closeall}{pause(1)}{unset(flag 749)}[1F 21 C4]" eob
+    "@Но я думаю,{pause(15)} что тебе стоит переодеть пижаму перед уходом.{wait}{window_closeall}{pause(1)}{unset(flag 749)}[1F 21 C4]" eob
 
 /*l_0xc750e3: //Line below is a mistranslation - it should be something more along the lines of "Yep, looking good, Ness!" or "Yes honey, you look cool" -- source: http://earthboundcentral.com/2011/06/m2-vs-earthbound-specifics/
     "[06 49 00 {e(data_31.l_0xc7547d)}][06 78 02 {e(l_0xc7533c)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc75124)}][06 D1 00 {e(l_0xc75124)}]@Yeah,{pause(15)} sure,{pause(15)} you're cool!{pause(20)}  Whatever..." end

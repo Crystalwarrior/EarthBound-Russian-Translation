@@ -106,13 +106,13 @@ l_0xc66eca:
 /*l_0xc66f20:
     "@Don't you know what time it is?!{pause(20)}  Get yer butt home,{pause(15)} pronto!" end*/
 l_0xc66f20:
-    "@Разве ты не знаешь, который час?!{pause(20)}  Иди домой,{pause(15)} без промедления!" end
+    "@Разве ты не знаешь, который час?!{pause(20)}  Иди домой,{pause(15)} немедленно!" end
 
 /*l_0xc66f4a:
     "@I want to return home,{pause(15)} but the road is closed." next
     "@People are taking this meteorite situation too seriously!" end*/
 l_0xc66f4a:
-    "@Я хочу домой,{pause(15)} но дорога загорожена." next
+    "@Мне нужно вернуться домой,{pause(15)} но дорога загорожена." next
     "@Люди воспринимают эту ситуацию с метеоритом слишком серьёзно!" end
 
 /*l_0xc66f90:
@@ -126,7 +126,7 @@ l_0xc66f90:
     "@Onett police are infamous for closing roads if something is going on." next
     "@We are going for the world record..." end*/
 l_0xc66fe2:
-    "@Полиция Онетт славится закрытием дороги, если вдруг какая-то передряга." next
+    "@Полиция Онетт славится закрытием дороги по малейшему поводу." next
     "@Мы идём на мировой рекорд..." end
 
 /*l_0xc67026:
@@ -228,7 +228,7 @@ l_0xc672cc:
     "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end*/
 l_0xc672eb:
     "@Этот метеорит выглядит иначе." next
-    "@Он странный и удивительный...{pause(20)} а так же загадочный..." linebreak
+    "@Он странный и удивительный...{pause(20)} и ещё он загадочный..." linebreak
     "  {pause(20)}у{pause(5)}у{pause(5)}у{pause(5)}у{pause(5)}у!..." end
 
 /*l_0xc67349:
@@ -238,7 +238,7 @@ l_0xc672eb:
     "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)*/
 l_0xc67349:
     "[06 D8 01 {e(l_0xc6739f)}]@Эй,{pause(15)} [1C 02 01]." next
-    "@Хватит тут глазеть.{pause(20)}  Ты мешаешь копам,{pause(15)} упс..." next
+    "@Хватит тут глазеть.{pause(20)}  Ты мешаешь копам,{pause(15)} ой..." next
     "@То есть, полицейским!" next
     "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)
 
@@ -266,7 +266,7 @@ l_0xc673f9:
 l_0xc67412:
     "@Порки,{pause(5)} мой брат, выбежал отсюда и погнался за полицейской машиной." next
     "@Он сказал{pause(5)} <Пики,{pause(15)} тебе стоит остаться дома.>{pause(15)}  И вот я за домом смотрю." next
-    "@Мама и Папа ещё не дома.{pause(20)}  Они пошли в элегантный ресторан.{wait}{set(flag 2)}" eob
+    "@Мамы и папы ещё нет дома.{pause(20)}  Они пошли в элегантный ресторан.{wait}{set(flag 2)}" eob
 
 /*l_0xc674aa:
     "@I'm so sleepy..." next
@@ -389,14 +389,18 @@ l_0xc67aeb:
 l_0xc67b5e:
     "@It's you again." end
 
+/*l_0xc67b67:
+    "@(Treasure Hunter!{pause(20)}  This is Lier X. Agerate's house!)" end*/
 l_0xc67b67:
-    "@(Treasure Hunter!{pause(20)}  This is Lier X. Agerate's house!)" end
+    "@(Искатель Сокровищ!{pause(20)}  Дом Лгуна Приврательского!)" end
 
 l_0xc67b91:
     "@(Looks like quite a piece of work...)" end
 
+/*l_0xc67bad:
+    "@Do Not Enter" end*/
 l_0xc67bad:
-    "@Do Not Enter" end
+    "@Не Входить" end
 
 l_0xc67bb9:
     "@I heard there's a guy who stops to read each bulletin board he encounters." next

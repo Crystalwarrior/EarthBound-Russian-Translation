@@ -1,455 +1,428 @@
 /*
  * EarthBound Text Dump
- * Time: 17:20:59 - 27/09/2015
+ * Time: 11:01:02 - 10/09/2015
  * Generated using CCScriptWriter.
  */
 
 command e(label) "{long label}"
 
 // Text Data
-l_0xc73e2a:
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc73ee9)}]{counter(2)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc73e4b)}]@Love!" end
-
-l_0xc73e4b:
-    "@I maybe wrong,{pause(15)} but I feel like you're being accompanied by a cute girl." end
-
-l_0xc73e7d:
-    "@You...{pause(20)} seem to be gaining self confidence or something..." next
-    "@During your trip,{pause(15)} were you popular everywhere you went?" next
-    "@...I'm jealous.{pause(15)}  I wish I was popular like you..." end
-
-l_0xc73ee9:
-    "@How did you find this hide out?" next
-    "@[1C 01 08] must have told you about it." end
-
-l_0xc73f0f:
-    "[06 49 00 {e(l_0xc740ad)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc73fe9)}][06 4D 00 {e(l_0xc73fbc)}]@I'll give you my [1C 05 4C]," next
-    "@I know you've wanted it for a long time." next
-    "@It's the best cap for someone really brave like you." next
-    goto(l_0xc73f6c)
-
-l_0xc73f6c:
-    "[1D 03 FF][1B 02 {e(l_0xc73f83)}][1D 0E 00 4C]" call(data_36.l_0xc7dccf) "{set(flag 77)}" end
-
-l_0xc73f83:
+l_0xc50000:
     newline
-    "{sound(5)}@Ah!{pause(20)}  You can't carry anything else." next
-    "@You should either sell or throw away some junk and come back." end
+    "[06 E2 00 {e(l_0xc51ccb)}][06 E3 00 {e(l_0xc51b12)}][06 E4 00 {e(data_11.l_0xc5bb76)}][06 E5 00 {e(data_11.l_0xc5bb76)}][06 E6 00 {e(data_10.l_0xc5baa4)}][06 E7 00 {e(data_11.l_0xc5bb76)}][06 E8 00 {e(data_10.l_0xc5baa4)}][06 E9 00 {e(l_0xc51b12)}][06 EA 00 {e(l_0xc5211e)}][06 EB 00 {e(data_10.l_0xc5b625)}][06 EC 00 {e(data_11.l_0xc5bc70)}][06 ED 00 {e(data_11.l_0xc5bef9)}][06 EE 00 {e(data_12.l_0xc5cd18)}][06 EF 00 {e(l_0xc51b12)}][06 F0 00 {e(l_0xc51b12)}][06 F1 00 {e(l_0xc51b12)}][06 F2 00 {e(l_0xc51b12)}][06 F3 00 {e(data_01.l_0xc52d94)}][06 F4 00 {e(data_10.l_0xc5baa4)}][06 F5 00 {e(l_0xc51b12)}][06 F6 00 {e(data_13.l_0xc5d050)}][06 F7 00 {e(data_11.l_0xc5c32a)}][06 F8 00 {e(data_02.l_0xc530a2)}][06 F9 00 {e(data_02.l_0xc530a2)}][06 FA 00 {e(data_02.l_0xc530a2)}][06 FB 00 {e(l_0xc51b12)}][06 FC 00 {e(l_0xc51b12)}][06 FD 00 {e(data_12.l_0xc5c71f)}][06 FE 00 {e(data_01.l_0xc52d94)}][06 FF 00 {e(data_10.l_0xc5baa4)}][06 00 01 {e(l_0xc5211e)}][06 01 01 {e(l_0xc51b12)}][06 02 01 {e(data_10.l_0xc5baa4)}][06 03 01 {e(l_0xc51b12)}][06 04 01 {e(l_0xc51eea)}][06 05 01 {e(data_11.l_0xc5bb76)}][06 06 01 {e(data_12.l_0xc5ce22)}][06 07 01 {e(data_01.l_0xc52d94)}][06 08 01 {e(data_11.l_0xc5c1e5)}][06 09 01 {e(data_01.l_0xc522ef)}][06 0A 01 {e(data_11.l_0xc5bd92)}][06 0B 01 {e(data_01.l_0xc524f7)}][06 0C 01 {e(data_13.l_0xc5cf67)}][06 0D 01 {e(data_12.l_0xc5ca56)}][06 0E 01 {e(data_12.l_0xc5c845)}][06 0F 01 {e(data_01.l_0xc527c7)}][06 44 01 {e(data_11.l_0xc5c05f)}][06 45 01 {e(data_01.l_0xc52acc)}][06 46 01 {e(data_01.l_0xc52d94)}][06 DE 01 {e(data_11.l_0xc5bef9)}][06 55 02 {e(data_12.l_0xc5c59e)}][06 56 02 {e(data_12.l_0xc5cbc0)}][06 57 02 {e(data_10.l_0xc5b3ba)}][06 58 02 {e(l_0xc51b12)}][06 8D 02 {e(data_01.l_0xc52d94)}][06 DB 02 {e(data_02.l_0xc5341d)}][06 DC 02 {e(data_10.l_0xc5b896)}][06 DD 02 {e(data_12.l_0xc5c96a)}]" eob
 
-l_0xc73fbc:
-    "@I'd like to go on an adventure with you once I become a little stronger." end
-
-l_0xc73fe9:
-    "[06 4D 00 {e(l_0xc74046)}]@I'll give you my [1C 05 4C]," next
-    "@I know [1C 01 08] wanted it for a long time." next
-    "@Putting this cap on will make you stronger.{pause(15)}  Yep,{pause(5)} yep,{pause(5)} yep!" next
-    goto(l_0xc73f6c)
-
-l_0xc74046:
-    "@Are you [1C 01 08]'s friend?" next
-    "@Did he ever talk about me?" next
-    "[19 02]Yes" eob
-
-l_0xc7406a:
-    "[19 02]No" eob
-
-l_0xc7406f:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74096)} {e(l_0xc7407e)}]" goto(l_0xc7407e)
-
-l_0xc7407e:
-    "@Maybe he didn't talk much about his friends." end
-
-l_0xc74096:
-    "@Oh!{pause(20)}  That's the [1C 01 08] I know...!" end
-
-l_0xc740ad:
-    "@[1C 01 08],{pause(15)} I've been thinking about our gang's name." next
-    "@It's <We'll laugh about it tomorrow.>" next
-    "@Do you like it?" linebreak
-    "[19 02]Yes" eob
-
-l_0xc740f8:
-    "[19 02]No" eob
-
-l_0xc740fd:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74141)} {e(l_0xc7410c)}]" goto(l_0xc7410c)
-
-l_0xc7410c:
-    "@...Okay.{pause(30)}  Laugh doesn't really mean <laugh.>" next
-    "@It means <chuckle.>" end
-
-l_0xc74141:
-    "@My philosophy is <peace to all men>!" next
-    "@Really? You like it?{pause(20)}  I knew you would understand." end
-
-l_0xc74180:
-    "{isset(flag 469)}[1B 02 {e(l_0xc74207)}][06 14 00 {e(l_0xc7436c)}]@Hey,{pause(10)} [1C 01 08]!" next
-    "@I was too busy to investigate,{pause(15)} but I heard a child's voice on the hilltop." next
-    "@I'm a busy man,{pause(15)} but when I do a job,{pause(15)} I do it well.{pause(20)}  I'm a{pause(10)} man{pause(5)}'s man." end
-
-/*l_0xc74207:
-    "[06 0A 00 {e(l_0xc7434d)}]@Hey [1C 01 08],{pause(15)} hiya buddy!" next
-    "@A meteorite fell down and went boom!{pause(20)}  It was a real mess for a while." next
-    "@I was fine because I always eat garlic and work out to help make my body stronger." next
-    "@However,{pause(15)} the weaker citizens probably fainted." next
-    "@I also want to tell you...{pause(15)} whoops!" next
-    "@I almost told you about my..." next
-    "@Uh,{pause(15)} by the way [1C 01 08],{pause(15)} did you check my billboard?" next
-    "@I wrote the message myself." next
-    "@That's my real job,{pause(15)} you know... I'm a billboard guy." next
-    "@Why don't you check out my work?{wait}{set(flag 10)}" eob*/
-l_0xc74207:
-    "[06 0A 00 {e(l_0xc7434d)}]@Эй [1C 01 08],{pause(15)} здоров, дружище!" next
-    "@Метеорит упал и прозвучал громкий <бум>!{pause(20)}  До этого был настоящий беспорядок." next
-    "@Я был в порялке, потому что я всегдя ем чеснок и делаю зарядку чтобы стать сильнее." next
-    "@Правда,{pause(15)} граждане послабее наверняка упали в обморок." next
-    "@Я также хочу тебе рассказать о...{pause(15)} ой!" next
-    "@Я почти рассказал тебе о своей..." next
-    "@Эм,{pause(15)} кстати, [1C 01 08],{pause(15)} ты видел мой указатель?" next
-    "@Я написал сообщение сам." next
-    "@Знаешь,{pause(15)} это и есть моя работа... Я пишу указатели." next
-    "@Почему бы тебе не оценить мою работу?{wait}{set(flag 10)}" eob
-
-/*l_0xc7434d:
-    "@Sigh.{pause(20)}  I wonder when the cops will leave..." end*/
-l_0xc7434d:
-    "@Эх.{pause(20)}  Когда же эти копы уйдут..." end
-
-/*l_0xc7436c:
-    "@[1C 01 08], buddy... I have something to tell you,{pause(15)} and only you." next
-    "@Can you come visit me later,{pause(15)} alone?{sound(114)}" end*/
-l_0xc7436c:
-    "@[1C 01 08], приятель... Мне нужно тебе кое-что сказать,{pause(15)} и только тебе." next
-    "@Ты можешь прийти ко мне попозже,{pause(15)} в одиночку?{sound(114)}" end
-
-l_0xc743b0:
-    "{unset(flag 36)}{set(flag 39)}{window_open(1)}@Hey you,{pause(15)} the board says{pause(15)} <Do Not Enter.>{pause(20)}  Couldn't you read it?" next
-    "[19 02]Yes" eob
-
-l_0xc743ef:
-    "[19 02]No" eob
-
-l_0xc743f4:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74431)} {e(l_0xc74403)}]" goto(l_0xc74403)
-
-l_0xc74403:
-    "@What a rebellious kid!{pause(15)}  Come to the Onett Police Station later!{wait}{window_closeall}" eob
-
-l_0xc74431:
-    "@So you just didn't want to read the sign, huh kid..." next
-    "@Get yer butt to the Onett Police Station later!{wait}{window_closeall}" eob
-
-l_0xc74475:
-    "[06 49 00 {e(l_0xc74578)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc74509)}][19 10 01]{rtoarg}@[1C 02 00],{pause(15)} I'm doing watch-out duty for the hideout." next
-    "@Can you take over?" linebreak
-    "[19 02]Yes" eob
-
-l_0xc744c3:
-    "[19 02]No" eob
-
-l_0xc744c8:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc744e6)} {e(l_0xc744d7)}]" goto(l_0xc744d7)
-
-l_0xc744d7:
-    "@You're busy.{pause(15)}  I understand." end
-
-l_0xc744e6:
-    "@Just kidding.{pause(15)}  Being watch-out is my job." end
-
-l_0xc74509:
-    "@Ah!" next
-    "@So you've realized that this is our hideout?" linebreak
-    "[19 02]Yes" eob
-
-l_0xc74531:
-    "[19 02]No" eob
-
-l_0xc74536:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74565)} {e(l_0xc74545)}]" goto(l_0xc74545)
-
-l_0xc74545:
-    "@(Oh!...{pause(20)}  Hmmm)" next
-    "@This is not a hideout!" end
-
-l_0xc74565:
-    "@I must totally stand out..." end
-
-l_0xc74578:
-    "@[1C 01 08], that rocks!" next
-    "@Yesterday,{pause(15)} I finally became a hideout member.{pause(20)}  Please come back and visit." end
-
-l_0xc745b9:
-    "[06 6C 00 {e(l_0xc7460b)}]@I heard there's a big foot print on the hilltop behind this shack." next
-    "@I haven't seen it myself...{pause(15)}  It's just a rumor." end
-
-l_0xc7460b:
-    "@Uh, huh.{pause(15)}  The big foot print is called Giant Step.{pause(20)}  What a way cool name!" end
-
-l_0xc74646:
-    "[19 19 00 00]{swap}{result_is(170)}[1B 02 {e(data_35.l_0xc7c6b6)}][19 23 80 00 01 01 00][1F 16 80 00 00][19 23 A2 00 01 01 00][1F 16 A2 00 00]@Yep,{pause(15)} that's the key!{pause(20)}  Hurry and open the door." end
-
-l_0xc74690:
-    "[06 6C 00 {e(l_0xc7472f)}]@This shack was locked by someone from City Hall,{pause(15)} so we can't use it." next
-    "@The reason it was closed was 'cause a punk named Frank may have trashed the place." next
-    "@What a drag." next
-    "@We can't even change our clothes,{pause(15)} and hotels are too expensive..." end
-
-l_0xc7472f:
-    "[06 4E 00 {e(l_0xc747dc)}]@Wow.{pause(15)}  You opened the door!{pause(15)}  All right!" next
-    "@Here's a trinket for good luck.{pause(15)}  It's the [1C 05 36]!" next
-    "[1D 03 FF][1B 02 {e(l_0xc74787)}][1D 0E 00 36]" call(data_36.l_0xc7dccf) "{set(flag 78)}" end
-
-l_0xc74787:
+l_0xc50198:
     newline
-    "{sound(5)}@I decided that..." next
-    "@you have too many items to carry, and are unable to carry more." next
-    "@After you've organized your items why don't you come back." end
+    "[06 E2 00 {e(l_0xc51cef)}][06 E3 00 {e(l_0xc51b28)}][06 E4 00 {e(data_11.l_0xc5bb9a)}][06 E5 00 {e(data_11.l_0xc5bb9a)}][06 E6 00 {e(data_10.l_0xc5bab4)}][06 E7 00 {e(data_11.l_0xc5bb9a)}][06 E8 00 {e(data_10.l_0xc5bab4)}][06 E9 00 {e(l_0xc51b28)}][06 EA 00 {e(l_0xc52130)}][06 EB 00 {e(data_10.l_0xc5b666)}][06 EC 00 {e(data_11.l_0xc5bcc2)}][06 ED 00 {e(data_11.l_0xc5bf87)}][06 EE 00 {e(data_12.l_0xc5cd29)}][06 EF 00 {e(l_0xc51b28)}][06 F0 00 {e(l_0xc51b28)}][06 F1 00 {e(l_0xc51b28)}][06 F2 00 {e(l_0xc51b28)}][06 F3 00 {e(data_02.l_0xc52dcc)}][06 F4 00 {e(data_10.l_0xc5bab4)}][06 F5 00 {e(l_0xc51b28)}][06 F6 00 {e(data_13.l_0xc5d06d)}][06 F7 00 {e(data_11.l_0xc5c39e)}][06 F8 00 {e(data_02.l_0xc530fc)}][06 F9 00 {e(data_02.l_0xc530fc)}][06 FA 00 {e(data_02.l_0xc530fc)}][06 FB 00 {e(l_0xc51b28)}][06 FC 00 {e(l_0xc51b28)}][06 FD 00 {e(data_12.l_0xc5c74c)}][06 FE 00 {e(data_02.l_0xc52dcc)}][06 FF 00 {e(data_10.l_0xc5bab4)}][06 00 01 {e(l_0xc52130)}][06 01 01 {e(l_0xc51b28)}][06 02 01 {e(data_10.l_0xc5bab4)}][06 03 01 {e(l_0xc51b28)}][06 04 01 {e(l_0xc51f2c)}][06 05 01 {e(data_11.l_0xc5bb9a)}][06 06 01 {e(data_12.l_0xc5cec0)}][06 07 01 {e(data_02.l_0xc52dcc)}][06 08 01 {e(data_11.l_0xc5c203)}][06 09 01 {e(data_01.l_0xc5230c)}][06 0A 01 {e(data_11.l_0xc5bde0)}][06 0B 01 {e(data_01.l_0xc52546)}][06 0C 01 {e(data_13.l_0xc5cf82)}][06 0D 01 {e(data_12.l_0xc5cab4)}][06 0E 01 {e(data_12.l_0xc5c86c)}][06 0F 01 {e(data_01.l_0xc52809)}][06 44 01 {e(data_11.l_0xc5c0ad)}][06 45 01 {e(data_01.l_0xc52b37)}][06 46 01 {e(data_02.l_0xc52dcc)}][06 DE 01 {e(data_11.l_0xc5bf87)}][06 55 02 {e(data_12.l_0xc5c5dd)}][06 56 02 {e(data_12.l_0xc5cbdc)}][06 57 02 {e(data_10.l_0xc5b3eb)}][06 58 02 {e(l_0xc51b28)}][06 8D 02 {e(data_02.l_0xc52dcc)}][06 DB 02 {e(data_02.l_0xc53454)}][06 DC 02 {e(data_10.l_0xc5b8d6)}][06 DD 02 {e(data_12.l_0xc5c99a)}]" eob
 
-l_0xc747dc:
-    "@Do you like traveling too?" end
+l_0xc50330:
+    newline
+    "[06 E2 00 {e(l_0xc51cfa)}][06 E3 00 {e(l_0xc51b31)}][06 E4 00 {e(data_11.l_0xc5bbb2)}][06 E5 00 {e(data_11.l_0xc5bbb2)}][06 E6 00 {e(data_10.l_0xc5babd)}][06 E7 00 {e(data_11.l_0xc5bbb2)}][06 E8 00 {e(data_10.l_0xc5babd)}][06 E9 00 {e(l_0xc51b31)}][06 EA 00 {e(l_0xc52139)}][06 EB 00 {e(data_10.l_0xc5b674)}][06 EC 00 {e(data_11.l_0xc5bcca)}][06 ED 00 {e(data_11.l_0xc5bf8e)}][06 EE 00 {e(data_12.l_0xc5cd2f)}][06 EF 00 {e(l_0xc51b31)}][06 F0 00 {e(l_0xc51b31)}][06 F1 00 {e(l_0xc51b31)}][06 F2 00 {e(l_0xc51b31)}][06 F3 00 {e(data_02.l_0xc52de8)}][06 F4 00 {e(data_10.l_0xc5babd)}][06 F5 00 {e(l_0xc51b31)}][06 F6 00 {e(data_13.l_0xc5d08d)}][06 F7 00 {e(data_11.l_0xc5c456)}][06 F8 00 {e(data_02.l_0xc5310f)}][06 F9 00 {e(data_02.l_0xc5310f)}][06 FA 00 {e(data_02.l_0xc5310f)}][06 FB 00 {e(l_0xc51b31)}][06 FC 00 {e(l_0xc51b31)}][06 FD 00 {e(data_12.l_0xc5c755)}][06 FE 00 {e(data_02.l_0xc52de8)}][06 FF 00 {e(data_10.l_0xc5babd)}][06 00 01 {e(l_0xc52139)}][06 01 01 {e(l_0xc51b31)}][06 02 01 {e(data_10.l_0xc5babd)}][06 03 01 {e(data_01.l_0xc52d8c)}][06 04 01 {e(l_0xc51f45)}][06 05 01 {e(data_11.l_0xc5bbb2)}][06 06 01 {e(data_12.l_0xc5cec8)}][06 07 01 {e(data_02.l_0xc52de8)}][06 08 01 {e(data_11.l_0xc5c210)}][06 09 01 {e(data_01.l_0xc52312)}][06 0A 01 {e(data_11.l_0xc5be00)}][06 0B 01 {e(data_01.l_0xc5256c)}][06 0C 01 {e(data_13.l_0xc5cf8a)}][06 0D 01 {e(data_12.l_0xc5cad0)}][06 0E 01 {e(data_12.l_0xc5c876)}][06 0F 01 {e(data_01.l_0xc52836)}][06 44 01 {e(data_11.l_0xc5c0cb)}][06 45 01 {e(data_01.l_0xc52b67)}][06 46 01 {e(data_02.l_0xc52de8)}][06 DE 01 {e(data_11.l_0xc5bf8e)}][06 55 02 {e(data_12.l_0xc5c5f3)}][06 56 02 {e(data_12.l_0xc5cc35)}][06 57 02 {e(data_10.l_0xc5b3f6)}][06 58 02 {e(l_0xc51b31)}][06 8D 02 {e(data_02.l_0xc52de8)}][06 DB 02 {e(data_02.l_0xc5346f)}][06 DC 02 {e(data_10.l_0xc5b8df)}][06 DD 02 {e(data_12.l_0xc5c9a4)}]" eob
 
-l_0xc747ed:
-    "[06 49 00 {e(l_0xc7488d)}][06 09 00 {e(l_0xc74874)}][06 FF 01 {e(l_0xc7484f)}]" goto(l_0xc74802)
+l_0xc504c8:
+    newline
+    "[06 E2 00 {e(l_0xc51d20)}][06 E3 00 {e(l_0xc51b39)}][06 E4 00 {e(data_11.l_0xc5bbce)}][06 E5 00 {e(data_11.l_0xc5bbce)}][06 E6 00 {e(data_11.l_0xc5bac5)}][06 E7 00 {e(data_11.l_0xc5bbce)}][06 E8 00 {e(data_11.l_0xc5bac5)}][06 E9 00 {e(l_0xc51b39)}][06 EA 00 {e(l_0xc52154)}][06 EB 00 {e(data_10.l_0xc5b69d)}][06 EC 00 {e(data_11.l_0xc5bcd2)}][06 ED 00 {e(data_11.l_0xc5bf95)}][06 EE 00 {e(data_12.l_0xc5cd51)}][06 EF 00 {e(l_0xc51b39)}][06 F0 00 {e(l_0xc51b39)}][06 F1 00 {e(l_0xc51b39)}][06 F2 00 {e(l_0xc51b39)}][06 F3 00 {e(data_02.l_0xc52e0d)}][06 F4 00 {e(data_11.l_0xc5bac5)}][06 F5 00 {e(l_0xc51b39)}][06 F6 00 {e(data_13.l_0xc5d0aa)}][06 F7 00 {e(data_11.l_0xc5c4e3)}][06 F8 00 {e(data_02.l_0xc5311f)}][06 F9 00 {e(data_02.l_0xc5311f)}][06 FA 00 {e(data_02.l_0xc5311f)}][06 FB 00 {e(l_0xc51b39)}][06 FC 00 {e(l_0xc51b39)}][06 FD 00 {e(data_12.l_0xc5c765)}][06 FE 00 {e(data_02.l_0xc52e0d)}][06 FF 00 {e(data_11.l_0xc5bac5)}][06 00 01 {e(l_0xc52154)}][06 01 01 {e(l_0xc51b39)}][06 02 01 {e(data_11.l_0xc5bac5)}][06 03 01 {e(l_0xc51b39)}][06 04 01 {e(l_0xc51f62)}][06 05 01 {e(data_11.l_0xc5bbce)}][06 06 01 {e(data_12.l_0xc5ced0)}][06 07 01 {e(data_02.l_0xc52e0d)}][06 08 01 {e(data_11.l_0xc5c22e)}][06 09 01 {e(data_01.l_0xc52339)}][06 0A 01 {e(data_11.l_0xc5be16)}][06 0B 01 {e(data_01.l_0xc52574)}][06 0C 01 {e(data_13.l_0xc5cf9b)}][06 0D 01 {e(data_12.l_0xc5caec)}][06 0E 01 {e(data_12.l_0xc5c88a)}][06 0F 01 {e(data_01.l_0xc52855)}][06 44 01 {e(data_11.l_0xc5c0e3)}][06 45 01 {e(data_01.l_0xc52b82)}][06 46 01 {e(data_02.l_0xc52e0d)}][06 DE 01 {e(data_11.l_0xc5bf95)}][06 55 02 {e(data_12.l_0xc5c61a)}][06 56 02 {e(data_12.l_0xc5cc53)}][06 57 02 {e(data_10.l_0xc5b405)}][06 58 02 {e(l_0xc51b39)}][06 8D 02 {e(data_02.l_0xc52e0d)}][06 DB 02 {e(data_02.l_0xc5348a)}][06 DC 02 {e(data_10.l_0xc5b8eb)}][06 DD 02 {e(data_12.l_0xc5c9ae)}]" eob
 
-l_0xc74802:
-    "@A library is a nice place to learn stuff." next
-    "@I got a lot of info about EarthBound." next
-    "@You can borrow maps for nothing!" end
+l_0xc50660:
+    newline
+    "[06 E2 00 {e(l_0xc51d31)}][06 E3 00 {e(l_0xc51b49)}][06 E4 00 {e(data_11.l_0xc5bbdc)}][06 E5 00 {e(data_11.l_0xc5bbdc)}][06 E6 00 {e(data_11.l_0xc5bad3)}][06 E7 00 {e(data_11.l_0xc5bbdc)}][06 E8 00 {e(data_11.l_0xc5bad3)}][06 E9 00 {e(l_0xc51b49)}][06 EA 00 {e(l_0xc52163)}][06 EB 00 {e(data_10.l_0xc5b6af)}][06 EC 00 {e(data_11.l_0xc5bcdd)}][06 ED 00 {e(data_11.l_0xc5bfa1)}][06 EE 00 {e(data_12.l_0xc5cd64)}][06 EF 00 {e(l_0xc51b49)}][06 F0 00 {e(l_0xc51b49)}][06 F1 00 {e(l_0xc51b49)}][06 F2 00 {e(l_0xc51b49)}][06 F3 00 {e(data_02.l_0xc52e1c)}][06 F4 00 {e(data_11.l_0xc5bad3)}][06 F5 00 {e(l_0xc51b49)}][06 F6 00 {e(data_13.l_0xc5d0c9)}][06 F7 00 {e(data_11.l_0xc5c4ee)}][06 F8 00 {e(data_02.l_0xc53134)}][06 F9 00 {e(data_02.l_0xc53134)}][06 FA 00 {e(data_02.l_0xc53134)}][06 FB 00 {e(l_0xc51b49)}][06 FC 00 {e(l_0xc51b49)}][06 FD 00 {e(data_12.l_0xc5c76f)}][06 FE 00 {e(data_02.l_0xc52e1c)}][06 FF 00 {e(data_11.l_0xc5bad3)}][06 00 01 {e(l_0xc52163)}][06 01 01 {e(l_0xc51b49)}][06 02 01 {e(data_11.l_0xc5bad3)}][06 03 01 {e(l_0xc51b49)}][06 04 01 {e(l_0xc51f74)}][06 05 01 {e(data_11.l_0xc5bbdc)}][06 06 01 {e(data_12.l_0xc5cedc)}][06 07 01 {e(data_02.l_0xc52e1c)}][06 08 01 {e(data_11.l_0xc5c23b)}][06 09 01 {e(data_01.l_0xc5234d)}][06 0A 01 {e(data_11.l_0xc5be24)}][06 0B 01 {e(data_01.l_0xc52583)}][06 0C 01 {e(data_13.l_0xc5cfa6)}][06 0D 01 {e(data_12.l_0xc5cafe)}][06 0E 01 {e(data_12.l_0xc5c896)}][06 0F 01 {e(data_01.l_0xc52860)}][06 44 01 {e(data_11.l_0xc5c0f3)}][06 45 01 {e(data_01.l_0xc52b8d)}][06 46 01 {e(data_02.l_0xc52e1c)}][06 DE 01 {e(data_11.l_0xc5bfa1)}][06 55 02 {e(data_12.l_0xc5c63a)}][06 56 02 {e(data_12.l_0xc5cc63)}][06 57 02 {e(data_10.l_0xc5b426)}][06 58 02 {e(l_0xc51b49)}][06 8D 02 {e(data_02.l_0xc52e1c)}][06 DB 02 {e(data_02.l_0xc5349f)}][06 DC 02 {e(data_10.l_0xc5b8f8)}][06 DD 02 {e(data_12.l_0xc5c9b7)}]" eob
 
-l_0xc7484f:
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc74802)}]@What a cute, yellow backpack.{wait}{set(flag 9)}" eob
+l_0xc507f8:
+    newline
+    "[06 E2 00 {e(l_0xc51d39)}][06 E3 00 {e(l_0xc51b57)}][06 E4 00 {e(data_11.l_0xc5bbe4)}][06 E5 00 {e(data_11.l_0xc5bbe4)}][06 E6 00 {e(data_11.l_0xc5badb)}][06 E7 00 {e(data_11.l_0xc5bbe4)}][06 E8 00 {e(data_11.l_0xc5badb)}][06 E9 00 {e(l_0xc51b57)}][06 EA 00 {e(l_0xc5216b)}][06 EB 00 {e(data_10.l_0xc5b6b7)}][06 EC 00 {e(data_11.l_0xc5bce5)}][06 ED 00 {e(data_11.l_0xc5bfb0)}][06 EE 00 {e(data_12.l_0xc5cd73)}][06 EF 00 {e(l_0xc51b57)}][06 F0 00 {e(l_0xc51b57)}][06 F1 00 {e(l_0xc51b57)}][06 F2 00 {e(l_0xc51b57)}][06 F3 00 {e(data_02.l_0xc52e24)}][06 F4 00 {e(data_11.l_0xc5badb)}][06 F5 00 {e(l_0xc51b57)}][06 F6 00 {e(data_13.l_0xc5d0df)}][06 F7 00 {e(data_11.l_0xc5c4fd)}][06 F8 00 {e(data_02.l_0xc53144)}][06 F9 00 {e(data_02.l_0xc53144)}][06 FA 00 {e(data_02.l_0xc53144)}][06 FB 00 {e(l_0xc51b57)}][06 FC 00 {e(l_0xc51b57)}][06 FD 00 {e(data_12.l_0xc5c77e)}][06 FE 00 {e(data_02.l_0xc52e24)}][06 FF 00 {e(data_11.l_0xc5badb)}][06 00 01 {e(l_0xc5216b)}][06 01 01 {e(l_0xc51b57)}][06 02 01 {e(data_11.l_0xc5badb)}][06 03 01 {e(l_0xc51b57)}][06 04 01 {e(l_0xc51f7c)}][06 05 01 {e(data_11.l_0xc5bbe4)}][06 06 01 {e(data_12.l_0xc5cee4)}][06 07 01 {e(data_02.l_0xc52e24)}][06 08 01 {e(data_11.l_0xc5c252)}][06 09 01 {e(data_01.l_0xc52355)}][06 0A 01 {e(data_11.l_0xc5be34)}][06 0B 01 {e(data_01.l_0xc5258b)}][06 0C 01 {e(data_13.l_0xc5cfae)}][06 0D 01 {e(data_12.l_0xc5cb12)}][06 0E 01 {e(data_12.l_0xc5c89e)}][06 0F 01 {e(data_01.l_0xc52868)}][06 44 01 {e(data_11.l_0xc5c10f)}][06 45 01 {e(data_01.l_0xc52b9b)}][06 46 01 {e(data_02.l_0xc52e24)}][06 DE 01 {e(data_11.l_0xc5bfb0)}][06 55 02 {e(data_12.l_0xc5c64d)}][06 56 02 {e(data_12.l_0xc5cc83)}][06 57 02 {e(data_10.l_0xc5b42e)}][06 58 02 {e(l_0xc51b57)}][06 8D 02 {e(data_02.l_0xc52e24)}][06 DB 02 {e(data_02.l_0xc534a7)}][06 DC 02 {e(data_10.l_0xc5b900)}][06 DD 02 {e(data_12.l_0xc5c9c2)}]" eob
 
-l_0xc74874:
-    "@It's a good idea to talk to lots of people." end
+l_0xc50990:
+    newline
+    "[06 E2 00 {e(l_0xc51d45)}][06 E3 00 {e(l_0xc51b6a)}][06 E9 00 {e(l_0xc51b6a)}][06 EA 00 {e(l_0xc5217a)}][06 EB 00 {e(data_10.l_0xc5b6ca)}][06 EF 00 {e(l_0xc51b6a)}][06 F0 00 {e(l_0xc51b6a)}][06 F1 00 {e(l_0xc51b6a)}][06 F2 00 {e(l_0xc51b6a)}][06 F3 00 {e(data_02.l_0xc52e3a)}][06 F5 00 {e(l_0xc51b6a)}][06 F8 00 {e(data_02.l_0xc53161)}][06 F9 00 {e(data_02.l_0xc53161)}][06 FA 00 {e(data_02.l_0xc53161)}][06 FB 00 {e(l_0xc51b6a)}][06 FC 00 {e(l_0xc51b6a)}][06 FE 00 {e(data_02.l_0xc52e3a)}][06 00 01 {e(l_0xc5217a)}][06 01 01 {e(l_0xc51b6a)}][06 03 01 {e(l_0xc51b6a)}][06 04 01 {e(l_0xc51f91)}][06 07 01 {e(data_02.l_0xc52e3a)}][06 09 01 {e(data_01.l_0xc52361)}][06 0B 01 {e(data_01.l_0xc525a4)}][06 0F 01 {e(data_01.l_0xc52885)}][06 45 01 {e(data_01.l_0xc52baa)}][06 46 01 {e(data_02.l_0xc52e3a)}][06 57 02 {e(data_10.l_0xc5b43c)}][06 58 02 {e(l_0xc51b6a)}][06 8D 02 {e(data_02.l_0xc52e3a)}][06 DB 02 {e(data_02.l_0xc534b6)}][06 DC 02 {e(data_10.l_0xc5b910)}]" eob
 
-l_0xc7488d:
-    "[06 97 02 {e(l_0xc748be)}]@If she's in a good mood,{pause(15)} a lady in the library will kiss you." end
+l_0xc50a72:
+    newline
+    "[06 E2 00 {e(l_0xc51d5b)}][06 E3 00 {e(l_0xc51b7e)}][06 E9 00 {e(l_0xc51b7e)}][06 EA 00 {e(l_0xc52189)}][06 EB 00 {e(data_10.l_0xc5b6e2)}][06 EF 00 {e(l_0xc51b7e)}][06 F0 00 {e(l_0xc51b7e)}][06 F1 00 {e(l_0xc51b7e)}][06 F2 00 {e(l_0xc51b7e)}][06 F3 00 {e(data_02.l_0xc52e59)}][06 F5 00 {e(l_0xc51b7e)}][06 F8 00 {e(data_02.l_0xc53172)}][06 F9 00 {e(data_02.l_0xc53172)}][06 FA 00 {e(data_02.l_0xc53172)}][06 FB 00 {e(l_0xc51b7e)}][06 FC 00 {e(l_0xc51b7e)}][06 FE 00 {e(data_02.l_0xc52e59)}][06 00 01 {e(l_0xc52189)}][06 01 01 {e(l_0xc51b7e)}][06 03 01 {e(l_0xc51b7e)}][06 04 01 {e(l_0xc51fa7)}][06 07 01 {e(data_02.l_0xc52e59)}][06 09 01 {e(data_01.l_0xc52371)}][06 0B 01 {e(data_01.l_0xc525bb)}][06 0F 01 {e(data_01.l_0xc52893)}][06 45 01 {e(data_01.l_0xc52bbd)}][06 46 01 {e(data_02.l_0xc52e59)}][06 57 02 {e(data_10.l_0xc5b447)}][06 58 02 {e(l_0xc51b7e)}][06 8D 02 {e(data_02.l_0xc52e59)}][06 DB 02 {e(data_02.l_0xc534c8)}][06 DC 02 {e(data_10.l_0xc5b92c)}]" eob
 
-l_0xc748be:
-    "@Hey!{pause(15)}  You have lipstick on your cheek." end
+l_0xc50b54:
+    newline
+    "[06 E2 00 {e(l_0xc51d7b)}][06 E3 00 {e(l_0xc51b9d)}][06 E9 00 {e(l_0xc51b9d)}][06 EA 00 {e(l_0xc521aa)}][06 EB 00 {e(data_10.l_0xc5b70b)}][06 EF 00 {e(l_0xc51b9d)}][06 F0 00 {e(l_0xc51b9d)}][06 F1 00 {e(l_0xc51b9d)}][06 F2 00 {e(l_0xc51b9d)}][06 F3 00 {e(data_02.l_0xc52e85)}][06 F5 00 {e(l_0xc51b9d)}][06 F8 00 {e(data_02.l_0xc531ba)}][06 F9 00 {e(data_02.l_0xc531ba)}][06 FA 00 {e(data_02.l_0xc531ba)}][06 FB 00 {e(l_0xc51b9d)}][06 FC 00 {e(l_0xc51b9d)}][06 FE 00 {e(data_02.l_0xc52e85)}][06 00 01 {e(l_0xc521aa)}][06 01 01 {e(l_0xc51b9d)}][06 03 01 {e(l_0xc51b9d)}][06 04 01 {e(l_0xc51fc8)}][06 07 01 {e(data_02.l_0xc52e85)}][06 09 01 {e(data_01.l_0xc5238f)}][06 0B 01 {e(data_01.l_0xc525e6)}][06 0F 01 {e(data_01.l_0xc528bf)}][06 45 01 {e(data_01.l_0xc52bdd)}][06 46 01 {e(data_02.l_0xc52e85)}][06 57 02 {e(data_10.l_0xc5b468)}][06 58 02 {e(l_0xc51b9d)}][06 8D 02 {e(data_02.l_0xc52e85)}][06 DB 02 {e(data_02.l_0xc534e9)}][06 DC 02 {e(data_10.l_0xc5b94d)}]" eob
 
-l_0xc748d8:
-    "[06 49 00 {e(l_0xc74999)}]@(I'm not an enemy.{pause(20)}  I'm just a friendly mole." next
-    "@I'll tell you how to distinguish between your friends and enemies." next
-    "@It's easy to tell an enemy just by looking at them." next
-    "@Enemies look like humans with weird-colored faces.{pause(15)}  Beware of them." next
-    "@However... you can't get more powerful if you avoid your enemies.)" end
+l_0xc50c36:
+    newline
+    "[06 E2 00 {e(l_0xc51d96)}][06 E3 00 {e(l_0xc51bb7)}][06 E4 00 {e(data_11.l_0xc5bbf2)}][06 E5 00 {e(data_11.l_0xc5bbf2)}][06 E6 00 {e(data_11.l_0xc5bae8)}][06 E7 00 {e(data_11.l_0xc5bbf2)}][06 E8 00 {e(data_11.l_0xc5bae8)}][06 E9 00 {e(l_0xc51bb7)}][06 EA 00 {e(l_0xc521d3)}][06 EB 00 {e(data_10.l_0xc5b72d)}][06 EC 00 {e(data_11.l_0xc5bcf4)}][06 ED 00 {e(data_11.l_0xc5bfbf)}][06 EE 00 {e(data_12.l_0xc5cd7f)}][06 EF 00 {e(l_0xc51bb7)}][06 F0 00 {e(l_0xc51bb7)}][06 F1 00 {e(l_0xc51bb7)}][06 F2 00 {e(l_0xc51bb7)}][06 F3 00 {e(data_02.l_0xc52eb2)}][06 F4 00 {e(data_11.l_0xc5bae8)}][06 F5 00 {e(l_0xc51bb7)}][06 F6 00 {e(data_13.l_0xc5d104)}][06 F7 00 {e(data_11.l_0xc5c50d)}][06 F8 00 {e(data_02.l_0xc531ea)}][06 F9 00 {e(data_02.l_0xc531ea)}][06 FA 00 {e(data_02.l_0xc531ea)}][06 FB 00 {e(l_0xc51bb7)}][06 FC 00 {e(l_0xc51bb7)}][06 FD 00 {e(data_12.l_0xc5c78a)}][06 FE 00 {e(data_02.l_0xc52eb2)}][06 FF 00 {e(data_11.l_0xc5bae8)}][06 00 01 {e(l_0xc521d3)}][06 01 01 {e(l_0xc51bb7)}][06 02 01 {e(data_11.l_0xc5bae8)}][06 03 01 {e(l_0xc51bb7)}][06 04 01 {e(l_0xc51fe7)}][06 05 01 {e(data_11.l_0xc5bbf2)}][06 06 01 {e(data_12.l_0xc5cef0)}][06 07 01 {e(data_02.l_0xc52eb2)}][06 08 01 {e(data_11.l_0xc5c268)}][06 09 01 {e(data_01.l_0xc523be)}][06 0A 01 {e(data_11.l_0xc5be45)}][06 0B 01 {e(data_01.l_0xc52603)}][06 0C 01 {e(data_13.l_0xc5cfba)}][06 0D 01 {e(data_12.l_0xc5cb1e)}][06 0E 01 {e(data_12.l_0xc5c8aa)}][06 0F 01 {e(data_01.l_0xc528eb)}][06 44 01 {e(data_11.l_0xc5c125)}][06 45 01 {e(data_01.l_0xc52c00)}][06 46 01 {e(data_02.l_0xc52eb2)}][06 DE 01 {e(data_11.l_0xc5bfbf)}][06 55 02 {e(data_12.l_0xc5c65c)}][06 56 02 {e(data_12.l_0xc5cc8f)}][06 57 02 {e(data_10.l_0xc5b48c)}][06 58 02 {e(l_0xc51bb7)}][06 8D 02 {e(data_02.l_0xc52eb2)}][06 DB 02 {e(data_02.l_0xc53515)}][06 DC 02 {e(data_10.l_0xc5b971)}][06 DD 02 {e(data_12.l_0xc5c9ce)}]" eob
 
-l_0xc74999:
-    "@(You listened to my advise and fought courageously.{pause(15)}  You rock!)" end
+l_0xc50dce:
+    newline
+    "[06 E2 00 {e(l_0xc51db0)}][06 E3 00 {e(l_0xc51bc0)}][06 E4 00 {e(data_11.l_0xc5bbfb)}][06 E5 00 {e(data_11.l_0xc5bbfb)}][06 E6 00 {e(data_11.l_0xc5baf1)}][06 E7 00 {e(data_11.l_0xc5bbfb)}][06 E8 00 {e(data_11.l_0xc5baf1)}][06 E9 00 {e(l_0xc51bc0)}][06 EA 00 {e(l_0xc521dc)}][06 EB 00 {e(data_10.l_0xc5b746)}][06 EC 00 {e(data_11.l_0xc5bcfd)}][06 ED 00 {e(data_11.l_0xc5bfc7)}][06 EE 00 {e(data_12.l_0xc5cd97)}][06 EF 00 {e(l_0xc51bc0)}][06 F0 00 {e(l_0xc51bc0)}][06 F1 00 {e(l_0xc51bc0)}][06 F2 00 {e(l_0xc51bc0)}][06 F3 00 {e(data_02.l_0xc52ed7)}][06 F4 00 {e(data_11.l_0xc5baf1)}][06 F5 00 {e(l_0xc51bc0)}][06 F6 00 {e(data_13.l_0xc5d120)}][06 F7 00 {e(data_11.l_0xc5c521)}][06 F8 00 {e(data_02.l_0xc53212)}][06 F9 00 {e(data_02.l_0xc53212)}][06 FA 00 {e(data_02.l_0xc53212)}][06 FB 00 {e(l_0xc51bc0)}][06 FC 00 {e(l_0xc51bc0)}][06 FD 00 {e(data_12.l_0xc5c7ae)}][06 FE 00 {e(data_02.l_0xc52ed7)}][06 FF 00 {e(data_11.l_0xc5baf1)}][06 00 01 {e(l_0xc521dc)}][06 01 01 {e(l_0xc51bc0)}][06 02 01 {e(data_11.l_0xc5baf1)}][06 03 01 {e(l_0xc51bc0)}][06 04 01 {e(l_0xc51ff8)}][06 05 01 {e(data_11.l_0xc5bbfb)}][06 06 01 {e(data_12.l_0xc5cef9)}][06 07 01 {e(data_02.l_0xc52ed7)}][06 08 01 {e(data_11.l_0xc5c27f)}][06 09 01 {e(data_01.l_0xc523cb)}][06 0A 01 {e(data_11.l_0xc5be4e)}][06 0B 01 {e(data_01.l_0xc52622)}][06 0C 01 {e(data_13.l_0xc5cfd5)}][06 0D 01 {e(data_12.l_0xc5cb29)}][06 0E 01 {e(data_12.l_0xc5c8c8)}][06 0F 01 {e(data_01.l_0xc528f9)}][06 44 01 {e(data_11.l_0xc5c13e)}][06 45 01 {e(data_01.l_0xc52c1c)}][06 46 01 {e(data_02.l_0xc52ed7)}][06 DE 01 {e(data_11.l_0xc5bfc7)}][06 55 02 {e(data_12.l_0xc5c67a)}][06 56 02 {e(data_12.l_0xc5ccae)}][06 57 02 {e(data_10.l_0xc5b4d7)}][06 58 02 {e(l_0xc51bc0)}][06 8D 02 {e(data_02.l_0xc52ed7)}][06 DB 02 {e(data_02.l_0xc5352c)}][06 DC 02 {e(data_10.l_0xc5b97e)}][06 DD 02 {e(data_12.l_0xc5c9e7)}]" eob
 
-l_0xc749c7:
-    "[06 40 00 {e(l_0xc749ef)}]@The arcade is full of Sharks.{pause(20)}  I can't play there." end
+l_0xc50f66:
+    newline
+    "[06 E2 00 {e(l_0xc51dcb)}][06 E3 00 {e(l_0xc51bde)}][06 E4 00 {e(data_11.l_0xc5bc0d)}][06 E5 00 {e(data_11.l_0xc5bc0d)}][06 E6 00 {e(data_11.l_0xc5bb02)}][06 E7 00 {e(data_11.l_0xc5bc0d)}][06 E8 00 {e(data_11.l_0xc5bb02)}][06 E9 00 {e(l_0xc51bde)}][06 EA 00 {e(l_0xc521ec)}][06 EB 00 {e(data_10.l_0xc5b76f)}][06 EC 00 {e(data_11.l_0xc5bd0c)}][06 ED 00 {e(data_11.l_0xc5bfd3)}][06 EE 00 {e(data_12.l_0xc5cdb3)}][06 EF 00 {e(l_0xc51bde)}][06 F0 00 {e(l_0xc51bde)}][06 F1 00 {e(l_0xc51bde)}][06 F2 00 {e(l_0xc51bde)}][06 F3 00 {e(data_02.l_0xc52ef5)}][06 F4 00 {e(data_11.l_0xc5bb02)}][06 F5 00 {e(l_0xc51bde)}][06 F6 00 {e(data_13.l_0xc5d148)}][06 F7 00 {e(data_11.l_0xc5c536)}][06 F8 00 {e(data_02.l_0xc53259)}][06 F9 00 {e(data_02.l_0xc53259)}][06 FA 00 {e(data_02.l_0xc53259)}][06 FB 00 {e(l_0xc51bde)}][06 FC 00 {e(l_0xc51bde)}][06 FD 00 {e(data_12.l_0xc5c7b9)}][06 FE 00 {e(data_02.l_0xc52ef5)}][06 FF 00 {e(data_11.l_0xc5bb02)}][06 00 01 {e(l_0xc521ec)}][06 01 01 {e(l_0xc51bde)}][06 02 01 {e(data_11.l_0xc5bb02)}][06 03 01 {e(l_0xc51bde)}][06 04 01 {e(l_0xc5201d)}][06 05 01 {e(data_11.l_0xc5bc0d)}][06 06 01 {e(data_13.l_0xc5cf0a)}][06 07 01 {e(data_02.l_0xc52ef5)}][06 08 01 {e(data_11.l_0xc5c2a5)}][06 09 01 {e(data_01.l_0xc523ef)}][06 0A 01 {e(data_11.l_0xc5be6f)}][06 0B 01 {e(data_01.l_0xc5264b)}][06 0C 01 {e(data_13.l_0xc5cfdf)}][06 0D 01 {e(data_12.l_0xc5cb33)}][06 0E 01 {e(data_12.l_0xc5c8d8)}][06 0F 01 {e(data_01.l_0xc52938)}][06 44 01 {e(data_11.l_0xc5c161)}][06 45 01 {e(data_01.l_0xc52c3d)}][06 46 01 {e(data_02.l_0xc52ef5)}][06 DE 01 {e(data_11.l_0xc5bfd3)}][06 55 02 {e(data_12.l_0xc5c68a)}][06 56 02 {e(data_12.l_0xc5ccbd)}][06 57 02 {e(data_10.l_0xc5b507)}][06 58 02 {e(l_0xc51bde)}][06 8D 02 {e(data_02.l_0xc52ef5)}][06 DB 02 {e(data_02.l_0xc53562)}][06 DC 02 {e(data_10.l_0xc5b994)}][06 DD 02 {e(data_12.l_0xc5c9f2)}]" eob
 
-l_0xc749ef:
-    "@Hurray!{pause(15)}  The Sharks are gone from the arcade!{pause(15)}  Now I can go in..." next
-    "@Except I don't have any money to play the games..." end
+l_0xc510fe:
+    newline
+    "[06 E2 00 {e(l_0xc51e14)}][06 E3 00 {e(l_0xc51c03)}][06 E9 00 {e(l_0xc51c03)}][06 EA 00 {e(l_0xc5222e)}][06 EB 00 {e(data_10.l_0xc5b799)}][06 EF 00 {e(l_0xc51c03)}][06 F0 00 {e(l_0xc51c03)}][06 F1 00 {e(l_0xc51c03)}][06 F2 00 {e(l_0xc51c03)}][06 F3 00 {e(data_02.l_0xc52f4a)}][06 F5 00 {e(l_0xc51c03)}][06 F8 00 {e(data_02.l_0xc5328f)}][06 F9 00 {e(data_02.l_0xc5328f)}][06 FA 00 {e(data_02.l_0xc5328f)}][06 FB 00 {e(l_0xc51c03)}][06 FC 00 {e(l_0xc51c03)}][06 FE 00 {e(data_02.l_0xc52f4a)}][06 00 01 {e(l_0xc5222e)}][06 01 01 {e(l_0xc51c03)}][06 03 01 {e(l_0xc51c03)}][06 04 01 {e(l_0xc52059)}][06 07 01 {e(data_02.l_0xc52f4a)}][06 09 01 {e(data_01.l_0xc5241d)}][06 0B 01 {e(data_01.l_0xc526a2)}][06 0F 01 {e(data_01.l_0xc52972)}][06 45 01 {e(data_01.l_0xc52c81)}][06 46 01 {e(data_02.l_0xc52f4a)}][06 57 02 {e(data_10.l_0xc5b541)}][06 58 02 {e(l_0xc51c03)}][06 8D 02 {e(data_02.l_0xc52f4a)}][06 DB 02 {e(data_02.l_0xc535d3)}][06 DC 02 {e(data_10.l_0xc5b9c1)}]" eob
 
-l_0xc74a3d:
-    "[06 0C 00 {e(l_0xc74ad6)}][06 0D 00 {e(l_0xc74ad6)}]" goto(l_0xc74a4b)
+l_0xc511e0:
+    newline
+    "[06 E2 00 {e(l_0xc51e1f)}][06 E3 00 {e(l_0xc51c0e)}][06 E9 00 {e(l_0xc51c0e)}][06 EA 00 {e(data_01.l_0xc5223c)}][06 EB 00 {e(data_10.l_0xc5b7a6)}][06 EF 00 {e(l_0xc51c0e)}][06 F0 00 {e(l_0xc51c0e)}][06 F1 00 {e(l_0xc51c0e)}][06 F2 00 {e(l_0xc51c0e)}][06 F3 00 {e(data_02.l_0xc52f5f)}][06 F5 00 {e(l_0xc51c0e)}][06 F8 00 {e(data_02.l_0xc532b3)}][06 F9 00 {e(data_02.l_0xc532b3)}][06 FA 00 {e(data_02.l_0xc532b3)}][06 FB 00 {e(l_0xc51c0e)}][06 FC 00 {e(l_0xc51c0e)}][06 FE 00 {e(data_02.l_0xc52f5f)}][06 00 01 {e(data_01.l_0xc5223c)}][06 01 01 {e(l_0xc51c0e)}][06 03 01 {e(l_0xc51c0e)}][06 04 01 {e(l_0xc5206d)}][06 07 01 {e(data_02.l_0xc52f5f)}][06 09 01 {e(data_01.l_0xc5242b)}][06 0B 01 {e(data_01.l_0xc526b8)}][06 0F 01 {e(data_01.l_0xc52989)}][06 45 01 {e(data_01.l_0xc52c9b)}][06 46 01 {e(data_02.l_0xc52f5f)}][06 57 02 {e(data_10.l_0xc5b551)}][06 58 02 {e(l_0xc51c0e)}][06 8D 02 {e(data_02.l_0xc52f5f)}][06 DB 02 {e(data_02.l_0xc535df)}][06 DC 02 {e(data_10.l_0xc5b9d1)}]" eob
 
-l_0xc74a4b:
-    "@A girl named [1C 01 1E] lives in Twoson." next
-    "@Her mother runs a preschool out of their home." next
-    "@I can't remember the name of the school,{pause(15)} but I heard" linebreak
-    "  [1C 01 1E]'s really special." next
-    "@Why is she special?" next
-    "@I forgot to ask.{pause(15)}  Oh, well..." end
+l_0xc512c2:
+    newline
+    "[06 E2 00 {e(l_0xc51e4a)}][06 E3 00 {e(l_0xc51c38)}][06 E9 00 {e(l_0xc51c38)}][06 EA 00 {e(data_01.l_0xc52261)}][06 EB 00 {e(data_10.l_0xc5b7cd)}][06 EF 00 {e(l_0xc51c38)}][06 F0 00 {e(l_0xc51c38)}][06 F1 00 {e(l_0xc51c38)}][06 F2 00 {e(l_0xc51c38)}][06 F3 00 {e(data_02.l_0xc52f94)}][06 F5 00 {e(l_0xc51c38)}][06 F8 00 {e(data_02.l_0xc532fa)}][06 F9 00 {e(data_02.l_0xc532fa)}][06 FA 00 {e(data_02.l_0xc532fa)}][06 FB 00 {e(l_0xc51c38)}][06 FC 00 {e(l_0xc51c38)}][06 FE 00 {e(data_02.l_0xc52f94)}][06 00 01 {e(data_01.l_0xc52261)}][06 01 01 {e(l_0xc51c38)}][06 03 01 {e(l_0xc51c38)}][06 04 01 {e(l_0xc5209b)}][06 07 01 {e(data_02.l_0xc52f94)}][06 09 01 {e(data_01.l_0xc5244f)}][06 0B 01 {e(data_01.l_0xc526e5)}][06 0F 01 {e(data_01.l_0xc529d2)}][06 45 01 {e(data_01.l_0xc52cd4)}][06 46 01 {e(data_02.l_0xc52f94)}][06 57 02 {e(data_10.l_0xc5b572)}][06 58 02 {e(l_0xc51c38)}][06 8D 02 {e(data_02.l_0xc52f94)}][06 DB 02 {e(data_02.l_0xc53615)}][06 DC 02 {e(data_10.l_0xc5b9fe)}]" eob
 
-l_0xc74ad6:
-    "[06 7E 02 {e(l_0xc74a4b)}][06 08 03 {e(l_0xc74a4b)}]{counter(2)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc74a4b)}]@Ah, it's you...{pause(20)}  I've seen you in the newspaper." next
-    "@Aren't you the extraordinary girl from Twoson?" linebreak
-    "[19 02]Yes" eob
+l_0xc513a4:
+    newline
+    "[06 E2 00 {e(l_0xc51e67)}][06 E3 00 {e(l_0xc51c41)}][06 E9 00 {e(l_0xc51c41)}][06 EA 00 {e(data_01.l_0xc52272)}][06 EB 00 {e(data_10.l_0xc5b7f2)}][06 EF 00 {e(l_0xc51c41)}][06 F0 00 {e(l_0xc51c41)}][06 F1 00 {e(l_0xc51c41)}][06 F2 00 {e(l_0xc51c41)}][06 F3 00 {e(data_02.l_0xc52fb6)}][06 F5 00 {e(l_0xc51c41)}][06 F8 00 {e(data_02.l_0xc53312)}][06 F9 00 {e(data_02.l_0xc53312)}][06 FA 00 {e(data_02.l_0xc53312)}][06 FB 00 {e(l_0xc51c41)}][06 FC 00 {e(l_0xc51c41)}][06 FE 00 {e(data_02.l_0xc52fb6)}][06 00 01 {e(data_01.l_0xc52272)}][06 01 01 {e(l_0xc51c41)}][06 03 01 {e(l_0xc51c41)}][06 04 01 {e(l_0xc520a2)}][06 07 01 {e(data_02.l_0xc52fb6)}][06 09 01 {e(data_01.l_0xc52469)}][06 0B 01 {e(data_01.l_0xc5270f)}][06 0F 01 {e(data_01.l_0xc529e0)}][06 45 01 {e(data_01.l_0xc52ced)}][06 46 01 {e(data_02.l_0xc52fb6)}][06 57 02 {e(data_10.l_0xc5b591)}][06 58 02 {e(l_0xc51c41)}][06 8D 02 {e(data_02.l_0xc52fb6)}][06 DB 02 {e(data_02.l_0xc53645)}][06 DC 02 {e(data_10.l_0xc5ba07)}]" eob
 
-l_0xc74b36:
-    "[19 02]No" eob
+l_0xc51486:
+    newline
+    "[06 E2 00 {e(l_0xc51e81)}][06 E3 00 {e(l_0xc51c56)}][06 E9 00 {e(l_0xc51c56)}][06 EA 00 {e(data_01.l_0xc52288)}][06 EB 00 {e(data_10.l_0xc5b807)}][06 EF 00 {e(l_0xc51c56)}][06 F0 00 {e(l_0xc51c56)}][06 F1 00 {e(l_0xc51c56)}][06 F2 00 {e(l_0xc51c56)}][06 F3 00 {e(data_02.l_0xc52ffa)}][06 F5 00 {e(l_0xc51c56)}][06 F8 00 {e(data_02.l_0xc53363)}][06 F9 00 {e(data_02.l_0xc53363)}][06 FA 00 {e(data_02.l_0xc53363)}][06 FB 00 {e(l_0xc51c56)}][06 FC 00 {e(l_0xc51c56)}][06 FE 00 {e(data_02.l_0xc52ffa)}][06 00 01 {e(data_01.l_0xc52288)}][06 01 01 {e(l_0xc51c56)}][06 03 01 {e(l_0xc51c56)}][06 04 01 {e(l_0xc520b9)}][06 07 01 {e(data_02.l_0xc52ffa)}][06 09 01 {e(data_01.l_0xc52485)}][06 0B 01 {e(data_01.l_0xc52732)}][06 0F 01 {e(data_01.l_0xc52a09)}][06 45 01 {e(data_01.l_0xc52d03)}][06 46 01 {e(data_02.l_0xc52ffa)}][06 57 02 {e(data_10.l_0xc5b5b1)}][06 58 02 {e(l_0xc51c56)}][06 8D 02 {e(data_02.l_0xc52ffa)}][06 DB 02 {e(data_02.l_0xc5366d)}][06 DC 02 {e(data_10.l_0xc5ba28)}]" eob
 
-l_0xc74b3b:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74b6c)} {e(l_0xc74b4a)}]" goto(l_0xc74b4a)
+l_0xc51568:
+    newline
+    "[06 E2 00 {e(l_0xc51e95)}][06 E3 00 {e(l_0xc51c6e)}][06 E4 00 {e(data_11.l_0xc5bc23)}][06 E5 00 {e(data_11.l_0xc5bc23)}][06 E6 00 {e(data_11.l_0xc5bb22)}][06 E7 00 {e(data_11.l_0xc5bc23)}][06 E8 00 {e(data_11.l_0xc5bb22)}][06 E9 00 {e(l_0xc51c6e)}][06 EA 00 {e(data_01.l_0xc52299)}][06 EB 00 {e(data_10.l_0xc5b826)}][06 EC 00 {e(data_11.l_0xc5bd49)}][06 ED 00 {e(data_11.l_0xc5c025)}][06 EE 00 {e(data_12.l_0xc5cdc0)}][06 EF 00 {e(l_0xc51c6e)}][06 F0 00 {e(l_0xc51c6e)}][06 F1 00 {e(l_0xc51c6e)}][06 F2 00 {e(l_0xc51c6e)}][06 F3 00 {e(data_02.l_0xc53018)}][06 F4 00 {e(data_11.l_0xc5bb22)}][06 F5 00 {e(l_0xc51c6e)}][06 F6 00 {e(data_13.l_0xc5d178)}][06 F7 00 {e(data_11.l_0xc5c564)}][06 F8 00 {e(data_02.l_0xc5338f)}][06 F9 00 {e(data_02.l_0xc5338f)}][06 FA 00 {e(data_02.l_0xc5338f)}][06 FB 00 {e(l_0xc51c6e)}][06 FC 00 {e(l_0xc51c6e)}][06 FD 00 {e(data_12.l_0xc5c7f1)}][06 FE 00 {e(data_02.l_0xc53018)}][06 FF 00 {e(data_11.l_0xc5bb22)}][06 00 01 {e(data_01.l_0xc52299)}][06 01 01 {e(l_0xc51c6e)}][06 02 01 {e(data_11.l_0xc5bb22)}][06 03 01 {e(l_0xc51c6e)}][06 04 01 {e(l_0xc520cf)}][06 05 01 {e(data_11.l_0xc5bc23)}][06 06 01 {e(data_13.l_0xc5cf1c)}][06 07 01 {e(data_02.l_0xc53018)}][06 08 01 {e(data_11.l_0xc5c2c6)}][06 09 01 {e(data_01.l_0xc5249a)}][06 0A 01 {e(data_11.l_0xc5beb3)}][06 0B 01 {e(data_01.l_0xc52750)}][06 0C 01 {e(data_13.l_0xc5d00c)}][06 0D 01 {e(data_12.l_0xc5cb67)}][06 0E 01 {e(data_12.l_0xc5c916)}][06 0F 01 {e(data_01.l_0xc52a2a)}][06 44 01 {e(data_11.l_0xc5c192)}][06 45 01 {e(data_01.l_0xc52d1e)}][06 46 01 {e(data_02.l_0xc53018)}][06 DE 01 {e(data_11.l_0xc5c025)}][06 55 02 {e(data_12.l_0xc5c6c3)}][06 56 02 {e(data_12.l_0xc5ccca)}][06 57 02 {e(data_10.l_0xc5b5ce)}][06 58 02 {e(l_0xc51c6e)}][06 8D 02 {e(data_02.l_0xc53018)}][06 DB 02 {e(data_02.l_0xc53687)}][06 DC 02 {e(data_10.l_0xc5ba5b)}][06 DD 02 {e(data_12.l_0xc5ca04)}]" eob
 
-l_0xc74b4a:
-    "@I see...{pause(20)}  Maybe you're not especially special." end
+l_0xc51700:
+    newline
+    "[06 E2 00 {e(l_0xc51ea9)}][06 E3 00 {e(l_0xc51c87)}][06 E4 00 {e(data_11.l_0xc5bc3c)}][06 E5 00 {e(data_11.l_0xc5bc3c)}][06 E6 00 {e(data_11.l_0xc5bb36)}][06 E7 00 {e(data_11.l_0xc5bc3c)}][06 E8 00 {e(data_11.l_0xc5bb36)}][06 E9 00 {e(l_0xc51c87)}][06 EA 00 {e(data_01.l_0xc522aa)}][06 EB 00 {e(data_10.l_0xc5b84e)}][06 EC 00 {e(data_11.l_0xc5bd59)}][06 ED 00 {e(data_11.l_0xc5c033)}][06 EE 00 {e(data_12.l_0xc5cdd8)}][06 EF 00 {e(l_0xc51c87)}][06 F0 00 {e(l_0xc51c87)}][06 F1 00 {e(l_0xc51c87)}][06 F2 00 {e(l_0xc51c87)}][06 F3 00 {e(data_02.l_0xc53063)}][06 F4 00 {e(data_11.l_0xc5bb36)}][06 F5 00 {e(l_0xc51c87)}][06 F6 00 {e(data_13.l_0xc5d1c7)}][06 F7 00 {e(data_11.l_0xc5c572)}][06 F8 00 {e(data_02.l_0xc533b6)}][06 F9 00 {e(data_02.l_0xc533b6)}][06 FA 00 {e(data_02.l_0xc533b6)}][06 FB 00 {e(l_0xc51c87)}][06 FC 00 {e(l_0xc51c87)}][06 FD 00 {e(data_12.l_0xc5c804)}][06 FE 00 {e(data_02.l_0xc53063)}][06 FF 00 {e(data_11.l_0xc5bb36)}][06 00 01 {e(data_01.l_0xc522aa)}][06 01 01 {e(l_0xc51c87)}][06 02 01 {e(data_11.l_0xc5bb36)}][06 03 01 {e(l_0xc51c87)}][06 04 01 {e(l_0xc520e1)}][06 05 01 {e(data_11.l_0xc5bc3c)}][06 06 01 {e(data_13.l_0xc5cf30)}][06 07 01 {e(data_02.l_0xc53063)}][06 08 01 {e(data_11.l_0xc5c2de)}][06 09 01 {e(data_01.l_0xc524b8)}][06 0A 01 {e(data_11.l_0xc5bec1)}][06 0B 01 {e(data_01.l_0xc52776)}][06 0C 01 {e(data_13.l_0xc5d01e)}][06 0D 01 {e(data_12.l_0xc5cb7b)}][06 0E 01 {e(data_12.l_0xc5c92a)}][06 0F 01 {e(data_01.l_0xc52a5c)}][06 44 01 {e(data_11.l_0xc5c1a7)}][06 45 01 {e(data_01.l_0xc52d38)}][06 46 01 {e(data_02.l_0xc53063)}][06 DE 01 {e(data_11.l_0xc5c033)}][06 55 02 {e(data_12.l_0xc5c6e3)}][06 56 02 {e(data_12.l_0xc5ccea)}][06 57 02 {e(data_10.l_0xc5b5e2)}][06 58 02 {e(l_0xc51c87)}][06 8D 02 {e(data_02.l_0xc53063)}][06 DB 02 {e(data_02.l_0xc536c1)}][06 DC 02 {e(data_10.l_0xc5ba69)}][06 DD 02 {e(data_12.l_0xc5ca10)}]" eob
 
-l_0xc74b6c:
-    "@<Can I have your autograph?>{pause(20)} is an airheaded question.{pause(15)}  I won't ask you for it." end
+l_0xc51898:
+    newline
+    "[06 E2 00 {e(l_0xc51eb6)}][06 E3 00 {e(l_0xc51c95)}][06 E9 00 {e(l_0xc51c95)}][06 EA 00 {e(data_01.l_0xc522ba)}][06 EB 00 {e(data_10.l_0xc5b860)}][06 EF 00 {e(l_0xc51c95)}][06 F0 00 {e(l_0xc51c95)}][06 F1 00 {e(l_0xc51c95)}][06 F2 00 {e(l_0xc51c95)}][06 F3 00 {e(data_02.l_0xc53072)}][06 F5 00 {e(l_0xc51c95)}][06 F8 00 {e(data_02.l_0xc533d5)}][06 F9 00 {e(data_02.l_0xc533d5)}][06 FA 00 {e(data_02.l_0xc533d5)}][06 FB 00 {e(l_0xc51c95)}][06 FC 00 {e(l_0xc51c95)}][06 FE 00 {e(data_02.l_0xc53072)}][06 00 01 {e(data_01.l_0xc522ba)}][06 01 01 {e(l_0xc51c95)}][06 03 01 {e(l_0xc51c95)}][06 04 01 {e(l_0xc520f1)}][06 07 01 {e(data_02.l_0xc53072)}][06 09 01 {e(data_01.l_0xc524c5)}][06 0B 01 {e(data_01.l_0xc52788)}][06 0F 01 {e(data_01.l_0xc52a82)}][06 45 01 {e(data_01.l_0xc52d54)}][06 46 01 {e(data_02.l_0xc53072)}][06 57 02 {e(data_10.l_0xc5b5f0)}][06 58 02 {e(l_0xc51c95)}][06 8D 02 {e(data_02.l_0xc53072)}][06 DB 02 {e(data_02.l_0xc536d2)}][06 DC 02 {e(data_10.l_0xc5ba78)}]" eob
 
-l_0xc74ba9:
-    "@What?{pause(20)}  You want to meet our boss,{pause(10)} Frank?" next
-    "@He's in the backyard of the game arcade,{pause(15)} thinking about peace and love." next
-    "@You might want to visit him." end
+l_0xc5197a:
+    newline
+    "[06 E2 00 {e(l_0xc51ec4)}][06 E3 00 {e(l_0xc51ca3)}][06 E4 00 {e(data_11.l_0xc5bc4c)}][06 E5 00 {e(data_11.l_0xc5bc4c)}][06 E6 00 {e(data_11.l_0xc5bb46)}][06 E7 00 {e(data_11.l_0xc5bc4c)}][06 E8 00 {e(data_11.l_0xc5bb46)}][06 E9 00 {e(l_0xc51ca3)}][06 EA 00 {e(data_01.l_0xc522ca)}][06 EB 00 {e(data_10.l_0xc5b86d)}][06 EC 00 {e(data_11.l_0xc5bd62)}][06 ED 00 {e(data_11.l_0xc5c03c)}][06 EE 00 {e(data_12.l_0xc5cdf2)}][06 EF 00 {e(l_0xc51ca3)}][06 F0 00 {e(l_0xc51ca3)}][06 F1 00 {e(l_0xc51ca3)}][06 F2 00 {e(l_0xc51ca3)}][06 F3 00 {e(data_02.l_0xc5307d)}][06 F4 00 {e(data_11.l_0xc5bb46)}][06 F5 00 {e(l_0xc51ca3)}][06 F6 00 {e(data_13.l_0xc5d1ed)}][06 F7 00 {e(data_12.l_0xc5c57b)}][06 F8 00 {e(data_02.l_0xc533e5)}][06 F9 00 {e(data_02.l_0xc533e5)}][06 FA 00 {e(data_02.l_0xc533e5)}][06 FB 00 {e(l_0xc51ca3)}][06 FC 00 {e(l_0xc51ca3)}][06 FD 00 {e(data_12.l_0xc5c80d)}][06 FE 00 {e(data_02.l_0xc5307d)}][06 FF 00 {e(data_11.l_0xc5bb46)}][06 00 01 {e(data_01.l_0xc522ca)}][06 01 01 {e(l_0xc51ca3)}][06 02 01 {e(data_11.l_0xc5bb46)}][06 03 01 {e(l_0xc51ca3)}][06 04 01 {e(l_0xc520fa)}][06 05 01 {e(data_11.l_0xc5bc4c)}][06 06 01 {e(data_13.l_0xc5cf3d)}][06 07 01 {e(data_02.l_0xc5307d)}][06 08 01 {e(data_11.l_0xc5c2e7)}][06 09 01 {e(data_01.l_0xc524d2)}][06 0A 01 {e(data_11.l_0xc5becd)}][06 0B 01 {e(data_01.l_0xc52796)}][06 0C 01 {e(data_13.l_0xc5d02d)}][06 0D 01 {e(data_12.l_0xc5cb88)}][06 0E 01 {e(data_12.l_0xc5c933)}][06 0F 01 {e(data_01.l_0xc52a92)}][06 44 01 {e(data_11.l_0xc5c1be)}][06 45 01 {e(data_01.l_0xc52d5f)}][06 46 01 {e(data_02.l_0xc5307d)}][06 DE 01 {e(data_11.l_0xc5c03c)}][06 55 02 {e(data_12.l_0xc5c6ec)}][06 56 02 {e(data_12.l_0xc5ccf5)}][06 57 02 {e(data_10.l_0xc5b5fe)}][06 58 02 {e(l_0xc51ca3)}][06 8D 02 {e(data_02.l_0xc5307d)}][06 DB 02 {e(data_02.l_0xc536e1)}][06 DC 02 {e(data_10.l_0xc5ba86)}][06 DD 02 {e(data_12.l_0xc5ca1e)}]" eob
 
-l_0xc74c07:
-    "[06 28 00 {e(data_35.l_0xc7c588)}][06 40 00 {e(l_0xc74c85)}]@Hey kid!{pause(20)}  Do you wanna become a member?" linebreak
-    "[19 02]Yes" eob
+l_0xc51b12:
+    "@[79 95 A2 91 93 A3 A4 93 A5 9B A4 96]!" linebreak
+    "  [89 96 9E 50 9E A0 94 A5 50 A1 A0 9E A0 A9 C3]?" linebreak
+    eob
 
-l_0xc74c35:
-    "[19 02]No" eob
+l_0xc51b28:
+    "@[83 A1 91 A3 9A 92 A0]." end
 
-l_0xc74c3a:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc74c6c)} {e(l_0xc74c49)}]" goto(l_0xc74c49)
+l_0xc51b31:
+    "@[81 A2 9A A7 A0 95 9A A4 96 50 96 C0 97]." end
 
-l_0xc74c49:
-    "@Don't be such a snob![03]" call(data_23.l_0xc683f4) "[1B 03 {e(data_23.l_0xc683de)}][1F 1E 01 00 06]{set(flag 40)}" eob
+l_0xc51b39:
+    "@[73 91 9E 50 A9 A4 A0 5D 9F 9A 92 A5 95 C3]" linebreak
+    "  [9F A5 98 9F A0]?[03]" eob
 
-l_0xc74c6c:
-    "@Come back after you finish EarthBound!" end
+l_0xc51b49:
+    "@[1C 05 00]?" linebreak
+    "  [87 A0 A2 A0 AA A0]." next
+    eob
 
-l_0xc74c85:
-    "@Hello!" end
+l_0xc51b57:
+    "@[7C A4 A0 50 9A 99 50 93 91 A3 50 A1 A0 9F 96 A3 97 A4 50 C4 A4 A0]?[03]" eob
 
-l_0xc74c8a:
-    "[06 6D 01 {e(data_35.l_0xc7c588)}]{window_open(1)}[06 40 00 {e(l_0xc74ce8)}]@It was you!{pause(20)}  YOU beat up my buddy,{pause(15)} didn't you?" next
-    "@You'd better just beat it![03]{window_closeall}" call(data_23.l_0xc683ed) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 02 00 7B 02]{set(flag 365)}" eob
+l_0xc51b6a:
+    "@[83 A1 91 A3 9A 92 A0].  [81 A2 9A 9E 96 A2 9A A4 96 50 C4 A4 A0 50 99 95 96 A3 C3]?" linebreak
+    eob
 
-l_0xc74ce8:
-    "@Yeah?{wait}{window_closeall}[1F F1 02 00 0C 00]" eob
+l_0xc51b7e:
+    "@[1C 05 00] [A3 A4 A0 9A A4]" linebreak
+    " {swap}$[1C 0A 00 00 00 00]?" next
+    eob
 
-l_0xc74cf7:
-    "[06 40 00 {e(l_0xc74d41)}]@Uh huh... Uh huh..." next
-    "@You sound like a real whiner to me." next
-    "@Don't get lippy,{pause(10)} or I'll kick your butt!" end
+l_0xc51b9d:
+    "@[1C 02 00] [9A 50 C4 A4 91 50 93 96 C0 C3 50 9F 96 A3 A0 93 9E 96 A3 A4 9A 9E C2]." next
+    "@[73 C2 50 93 A3 97 50 A2 91 93 9F A0 50 A7 A0 A4 9A A4 96 50 96 97 50 9C A5 A1 9A A4 C3]?" linebreak
+    eob
 
-l_0xc74d41:
-    "@You sure are strong!{pause(20)}  You got me,{pause(15)} at least..." end
+l_0xc51bb7:
+    "@[81 A2 9A A7 A0 95 9A A4 96 50 96 C0 97]." next
+    eob
 
-l_0xc74d5e:
-    "@Spit spit spit{pause(15)}" linebreak
-    "  Saliva spit spit{pause(15)}" linebreak
-    "  Do you want some gum?" next
-    "@Get yer own,{pause(15)} twit." end
+l_0xc51bc0:
+    "@[7A 99 93 9A 9F 9A A4 96], [9F A0],{pause(15)} [C4 9E 9E],{pause(15)} [A5 50 93 91 A3 50 9F 96 95 A0 A3 A4 91 A4 A0 A9 9F A0 50 95 96 9F 96 94]." next
+    eob
 
-l_0xc74d9f:
-    "@To tell you the truth," next
-    "@I like drinking tea and eating fresh vegetables," next
-    "@but that doesn't fit my super cool image." next
-    "@I guess I just have to accept this about myself." end
+l_0xc51bde:
+    "@[72 A0 C5 A3 C3], [93 C2 50 9F 96 50 A3 9E A0 98 96 A4 96 50 C4 A4 A0 50 9F 96 A3 A4 9A]." next
+    "@[7E A0 98 96 A4], [A1 A2 A0 95 91 95 9A A4 96 50 9F 96 9F A5 98 9F C2 96 50 93 91 9E 50 93 96 C0 9A]?" linebreak
+    eob
 
-l_0xc74e14:
-    "[06 40 00 {e(l_0xc74e61)}]@Frank has an incredibly powerful weapon." next
-    "@If you get your hands on it,{pause(15)} I bet you can stand against any enemy." end
+l_0xc51c03:
+    "@[89 A4 A0 50 98 96 9D 91 96 A4 96 50 A1 A2 A0 95 91 A4 C3]?[03]" eob
 
-l_0xc74e61:
-    "@So you're a real Rambo-type guy?" next
-    "@I don't think so." end
+l_0xc51c0e:
+    "@[1C 05 00]?" linebreak
+    "  [79 91 50 C4 A4 A5 50 93 96 C0 C3 50 C6 50 95 91 9E 50 93 91 9E]" linebreak
+    "  {swap}$[1C 0A 00 00 00 00]." next
+    "@[73 91 A3 50 C4 A4 A0 50 A5 A3 A4 A2 A0 9A A4]?" linebreak
+    eob
 
-l_0xc74e83:
-    call(data_13.l_0xc5d24b) eob
+l_0xc51c38:
+    "@[81 A2 9A A7 A0 95 9A A4 96 50 96 C0 97]." next
+    eob
 
-l_0xc74e89:
-    call(data_13.l_0xc5d257) eob
+l_0xc51c41:
+    "@[7F 96 50 95 A5 9E 91 C5], [A9 A4 A0 50 93 C2 50 9E A0 98 96 A4 96 50 A9 A4 A0 5D 9D 9A 92 A0 50 A1 A2 A0 95 91 A4 C3]." next
+    eob
 
-l_0xc74e8f:
-    "[19 10 01]{result_is(1)}[1B 02 {e(l_0xc74ef1)}]@Hey,{pause(15)} I know your hard-earned cash is important to you," next
-    "@but you should call your mom." next
-    "@She's probably got an ulcer from worrying about you." end
+l_0xc51c56:
+    "@[7A 99 93 9A 9F 9A A4 96], [9F A0 50 9F 91 A3 50 9F 96 50 9A 9F A4 96 A2 96 A3 A5 96 A4] [1C 05 00]." next
+    eob
 
-l_0xc74ef1:
-    "@The younger manager of this shop has a strange way of talking..." next
-    "@Anyway,{pause(15)} be sure to pick up some items that would be helpful in the future," next
-    "@not just stuff you need right now." end
+l_0xc51c6e:
+    "@[83 A1 91 A3 9A 92 A0]." next
+    eob
 
-/*l_0xc74f56:
-    "[06 5F 00 {e(l_0xc74fde)}][06 5E 00 {e(l_0xc750e3)}][06 60 00 {e(l_0xc74fec)}][06 62 00 {e(l_0xc74fb6)}][06 61 00 {e(l_0xc74fb6)}]@My land!{pause(20)}  Who could be knocking at the door at this time of night?" next
-    "@Would you answer it?" end*/
-l_0xc74f56:
-    "[06 5F 00 {e(l_0xc74fde)}][06 5E 00 {e(l_0xc750e3)}][06 60 00 {e(l_0xc74fec)}][06 62 00 {e(l_0xc74fb6)}][06 61 00 {e(l_0xc74fb6)}]@Боже мой!{pause(20)}  Кто может стучаться в дверь так поздно ночью?" next
-    "@Ты можешь им открыть?" end
+l_0xc51c78:
+    "@[83 A1 91 A3 9A 92 A0 50 99 91 50 A1 A0 9C A5 A1 9C A5]." next
+    eob
 
-/*l_0xc74fb6:
-    "@Pokey's waiting for you.{pause(20)}  You should listen to what he has to say." end*/
-l_0xc74fb6:
-    "@Порки ждёт тебя.{pause(20)}  Тебе стоит выслушать, что он хочет сказать." end
+l_0xc51c87:
+    "@[73 91 9E 50 A9 A4 A0 5D 9F 9A 92 A5 95 C3 50 9F A5 98 9F A0]?" linebreak
+    eob
 
-/*l_0xc74fde:
-    "@Could you get that?" end*/
-l_0xc74fde:
-    "@Ты можешь ответить?" end
+l_0xc51c95:
+    "@[89 A4 A0 50 92 C2 50 93 C2 50 A7 A0 A4 96 9D 9A 50 96 C0 97]?" linebreak
+    eob
 
-/*l_0xc74fec:
-    "{window_open(1)}@I know that the dog is unreliable,{pause(15)} but you should take [1C 01 03] along." next
-    "@The Cracked Bat in Tracy's room could help out at a time like this..." next
-    "@No matter what anyone says,{pause(15)} you're a courageous,{pause(15)} strong boy." next
-    "@You're my very own natural born fighter...You'll go far..." next
-    "@Remember to{pause(15)} <Go for it!>{set(flag 94)}[06 ED 02 {e(l_0xc750b3)}]{wait}{window_closeall}{pause(1)}" eob*/
-l_0xc74fec:
-    "{window_open(1)}@Я знаю, что наша собака не очень то и надёжная,{pause(15)} но тебе стоит взять [1C 01 03] с собой." next
-    "@Треснувшая Бита в комнате Трэйси может помочь тебе в такое время..." next
-    "@Независимо от того, что кто-либо говорит,{pause(15)} ты храбрый,{pause(15)} сильный мальчик." next
-    "@Ты мой самый дорогой прирождённый боец...Ты достигнешь далёких высот..." next
-    "@Помни, что тебе надо{pause(15)} <Действовать!>{set(flag 94)}[06 ED 02 {e(l_0xc750b3)}]{wait}{window_closeall}{pause(1)}" eob
+l_0xc51ca3:
+    "@[81 A0 A7 A0 98 96], [1C 02 00] [92 A0 9D C3 AA 96 50 9F 96 50 9E A0 98 96 A4 50 9F 9A A9 96 94 A0 50 9F 96 A3 A4 9A]." next
+    "@[7E A0 98 96 A4], [9C A4 A0 5D 9F 9A 92 A5 95 C3 50 95 A2 A5 94 A0 9B 50 A1 A0 9F 96 A3 97 A4 50 C4 A4 A0]?" linebreak
+    eob
 
-/*l_0xc750b3:
-    next
-    "@But,{pause(15)} I think you should change out of your jammies before you leave.{wait}{window_closeall}{pause(1)}{unset(flag 749)}[1F 21 C4]" eob*/
-l_0xc750b3:
-    next
-    "@Но мне кажется,{pause(15)} что тебе стоит переодеть пижаму перед уходом.{wait}{window_closeall}{pause(1)}{unset(flag 749)}[1F 21 C4]" eob
+l_0xc51ccb:
+    "@[79 95 A2 91 93 A3 A4 93 A5 9B A4 96], [99 91 A7 A0 95 9A A4 96]!" next
+    "@[89 96 94 A0 50 98 96 9D 91 96 A4 96]?" linebreak
+    eob
 
-/*l_0xc750e3: //Line below is a mistranslation - it should be something more along the lines of "Yep, looking good, Ness!" or "Yes honey, you look cool" -- source: http://earthboundcentral.com/2011/06/m2-vs-earthbound-specifics/
-    "[06 49 00 {e(data_31.l_0xc7547d)}][06 78 02 {e(l_0xc7533c)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc75124)}][06 D1 00 {e(l_0xc75124)}]@Yeah,{pause(15)} sure,{pause(15)} you're cool!{pause(20)}  Whatever..." end
-*/
-l_0xc750e3:
-    "[06 49 00 {e(data_31.l_0xc7547d)}][06 78 02 {e(l_0xc7533c)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc75124)}][06 D1 00 {e(l_0xc75124)}]@Да, сынок,{pause(15)} отлично выглядишь!" end
+l_0xc51cef:
+    "@[80 94 A2 A0 9E 9F A0 96 50 A3 A1 91 A3 9A 92 A0]!" end
 
-l_0xc75124:
-    "[19 10 01]{rtoarg}{result_is(1)}[1B 03 {e(l_0xc75176)}][19 10 01]{rtoarg}@Any friend of [1C 02 01] is welcome in our home..." next
-    "@I think it's great the way you kids have been working together." end
+l_0xc51cfa:
+    "@[73 C2 50 9F 96 50 92 A5 95 96 A4 96 50 9F 9A A9 96 94 A0 50 A1 A0 9C A5 A1 91 A4 C3]?" next
+    "@[71 A7], [93 C2 50 A2 91 99 92 9A 9D 9A 50 9E 9F 96 50 A3 96 A2 95 A8 96]." end
 
-l_0xc75176:
-    "[06 02 02 {e(l_0xc75262)}]{isset(flag 104)}[1B 02 {e(l_0xc751f1)}]@You're back!{pause(20)}  Don't bother yourself with talking now,{pause(15)} you look too tired." next
-    "@Mothers understand these things.{pause(20)}  Eat some [1C 01 04] and scoot up to bed.[03]{window_closeall}" call(data_24.l_0xc695ba) call(data_49.l_0xc91693) "[1F 21 C4]{set(flag 514)}" eob
+l_0xc51d20:
+    "@[B6 50 9E A0 94 A5 50 93 91 9E 50 A1 A0 9E A0 A9 C3][03]" eob
 
-/*l_0xc751f1:
-    "@You're hungry already?" next
-    "@Why don't you have some" linebreak
-    "  [1C 01 04]?" next
-    "@Pokey,{pause(15)} you don't like" linebreak
-    "  [1C 01 04],{pause(10)} do you?" next
-    "[1F 04 03]@[1F 04 01]T[1F 04 03]#{pause(15)}[1F 04 01]O[1F 04 03]#{pause(15)}[1F 04 01]O[1F 04 03]#{pause(15)}[1F 04 01]BAD!{wait}" call(data_49.l_0xc915d6) call(data_49.l_0xc91582) eob*/
-l_0xc751f1:
-    "@Ты уже проголодался?" next
-    "@Почему бы тебе не поесть" linebreak
-    "  [1C 01 04]?" next
-    "@Порки,{pause(15)} ты не любишь" linebreak
-    "  [1C 01 04],{pause(10)} не правда ли?" next
-    "[1F 04 03]@[1F 04 01]О[1F 04 03]#{pause(15)}[1F 04 01]Ч[1F 04 03]#{pause(15)}[1F 04 01]Е[1F 04 03]#{pause(15)}[1F 04 01]НЬ[1F 04 03]#{pause(15)}[1F 04 01]ЖАЛЬ!{wait}" call(data_49.l_0xc915d6) call(data_49.l_0xc91582) eob
+l_0xc51d31:
+    "@[1C 05 00]?" next
+    eob
 
-l_0xc75262:
-    "[1D 19 02][1B 02 {e(l_0xc752ce)}][06 02 00 {e(l_0xc752a3)}]@Good morning,{pause(15)} sleepy bones!{pause(20)}  Are you ready to start your adventure?" next
-    goto(l_0xc752a3)
+l_0xc51d39:
+    "@[7C A4 A0 50 A3 A0 92 9A A2 91 96 A4 A3 C6 50 9F 96 A3 A4 9A 50 C4 A4 A0]?[03]" eob
 
-l_0xc752a3:
-    "@I'm so proud of you!{pause(20)}  My little man is growing up too fast...{wait}{set(flag 2)}" eob
+l_0xc51d45:
+    "@[73 C2 50 A7 A0 A4 9A A4 96], [9F A5], <[9F 91 95 96 A4 C3]> [C4 A4 A5 50 93 96 C0 C3 50 99 95 96 A3 C3]?" linebreak
+    eob
 
-l_0xc752ce:
-    "[06 02 00 {e(l_0xc7531d)}]@Good morning everyone!{pause(20)}  Are you ready for your adventure?" next
-    "@I think all of you are the bee's knees.{pause(20)}  Yes,{pause(10)} I do!" next
-    goto(l_0xc7531d)
+l_0xc51d5b:
+    "@[1C 05 00] [A3 A4 A0 9A A4]" linebreak
+    " {swap}$[1C 0A 00 00 00 00]." next
+    eob
 
-l_0xc7531d:
-    "@You are all so... cool!{pause(20)}  Yes,{pause(10)} you're hip!" end
+l_0xc51d7b:
+    "@[1C 02 00]  [A0 A4 9C 91 99 C2 93 91 96 A4 A3 C6 50 A1 A2 9A 9E 96 A2 C6 A4 C3 50 C4 A4 A5 50 93 96 C0 C3]." next
+    "@[73 A3 97 50 A2 91 93 9F A0 50 A7 A0 A4 9A A4 96 50 96 97 50 9C A5 A1 9A A4 C3]?" linebreak
+    eob
 
-l_0xc7533c:
-    "[06 0A 00 {e(data_31.l_0xc7546f)}]@Oh,{pause(10)} [1C 02 01]!{pause(20)}  You finally showed up..." next
-    "@There are plenty of creepy monsters running around Onett now." next
-    "@The townspeople are barricaded in their homes,{pause(15)} afraid to go out." next
-    "@I'm fine...{pause(20)}  But I am a bit scared." next
-    "@Everything will be okay if we just sit here quietly in the dark." next
-    "@Are you hungry?" next
-    "@Do you want to eat some" linebreak
-    "  [1C 01 04]?" linebreak
-    "[19 02]Yes" eob
+l_0xc51d96:
+    "@[73 91 9E 50 C4 A4 A0 50 9F 96 50 9F A5 98 9F A0], [94 A0 93 A0 A2 9A A4 96]... [7F A5 50 9D 91 95 9F A0]..." next
+    eob
 
-l_0xc75418:
-    "[19 02]No" eob
+l_0xc51db0:
+    "@[80 50 9F 96 A4]!" linebreak
+    "  [84 A0 9D C3 9C A0 50 9F 96 50 94 A0 93 A0 A2 9A A4 96 50 9E 9F 96], [A9 A4 A0 50 A5 50 93 91 A3 50 9F 96 95 A0 A3 A4 91 A4 A0 A9 9F A0 50 95 96 9F 96 94]!!" next
+    eob
 
-l_0xc7541d:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc7544a)} {e(l_0xc7542c)}]" goto(l_0xc7542c)
+l_0xc51dcb:
+    "@[80 50 A9 97 A2 A4]!" next
+    "@[B6 50 9F 96 50 95 A5 9E 91 C5], [A9 A4 A0 50 93 C2 50 93 50 A3 A0 A3 A4 A0 C6 9F 9A 9A 50 9F 96 A3 A4 9A 50 A3 A4 A0 9D C3 9C A0 50 93 96 C0 96 9B]." next
+    "@[76 A3 9D 9A 50 A7 A0 A4 9A A4 96], [C6 50 9E A0 94 A5], [9F A5], [9C A5 A1 9A A4 C3 50 A4 A0], [A9 A4 A0 50 93 91 9E 50 9F 96 50 9F A5 98 9F A0]." next
+    eob
 
-l_0xc7542c:
-    "@I agree.{pause(20)}  It's not good for you to eat too much...{wait}{set(flag 10)}" eob
+l_0xc51e14:
+    "@[89 A4 A0 50 A7 A0 A4 9A A4 96 50 A1 A2 A0 95 91 A4 C3]?[03]" eob
 
-l_0xc7544a:
-    "{window_closeall}[1F 01 00]" call(data_23.l_0xc685da) call(data_49.l_0xc915d6) call(data_49.l_0xc91582) "{window_open(1)}@Are you more relaxed?" next
-    goto(data_31.l_0xc7546f)
+l_0xc51e1f:
+    "@[1C 05 00]?" linebreak
+    " [B6 50 95 91 9E 50 93 91 9E] {swap}$[1C 0A 00 00 00 00]." next
+    "@[73 91 A3 50 A5 A3 A4 A2 91 9A 93 91 96 A4]?" linebreak
+    eob
+
+l_0xc51e4a:
+    "@[71], [93 C2 50 A1 96 A2 96 95 A5 9E 91 9D 9A]?" linebreak
+    "  [7F A5 50 A7 A0 A2 A0 AA A0]." next
+    eob
+
+l_0xc51e67:
+    "@[7E 9E], [A1 A0 A7 A0 98 96 50 93 91 9E 50 9F 96 A9 96 9E 50 9F 91 A3 50 99 91 9A 9F A4 96 A2 96 A3 A0 93 91 A4 C3]." next
+    eob
+
+l_0xc51e81:
+    "@[73 C2 50 A9 A4 A0]?!" linebreak
+    "  [73 C2 50 9F 96 50 9E A0 98 96 A4 96 50 C4 A4 A0 50 A1 A2 A0 95 91 A4 C3]." next
+    eob
+
+l_0xc51e95:
+    "@[A0 94 A2 A0 9E 9F A0 96 50 A3 A1 91 A3 9A 92 A0]!" next
+    eob
+
+l_0xc51ea1:
+    "@[76 C0 97 50 A2 91 99 50 A3 A1 91 A3 9A 92 A0]." next
+    eob
+
+l_0xc51ea9:
+    "@[73 91 9E 50 9F A5 98 9F A0 50 96 C0 97 50 A9 A4 A0 5D 9F 9A 92 A5 95 C3]?" linebreak
+    eob
+
+l_0xc51eb6:
+    "@[89 96 9E 50 9E A0 94 A5 50 93 91 9E 50 A1 A0 9E A0 A9 C3]?" linebreak
+    eob
+
+l_0xc51ec4:
+    "@[1C 02 00] [A5 98 96 50 9F 96 A3 97 A4 50 A3 9D 9A AA 9C A0 9E 50 9E 9F A0 94 A0 50 93 96 C0 96 9B]." next
+    "@[7E A0 98 96 A4], [9C A4 A0 5D 9F 9A 92 A5 95 C3 50 95 A2 A5 94 A0 9B 50 A1 A0 9F 96 A3 97 A4 50 C4 A4 A0]?" linebreak
+    eob
+
+l_0xc51eea:
+    "@[82 96 92 C6 A4 91]!  [A3 96 9B A9 91 A3 50 98 96 50 9D 96 A4 A0]!" linebreak
+    "  [83 91 9E A0 96 50 9E A5 98 96 A3 A4 93 96 9F 9F A0 96 50 93 A2 96 9E C6 50 94 A0 95 91]!" linebreak
+    "  [83 91 9E A0 96 50 93 A2 96 9E C6 50 95 9D C6 50 A3 A1 A0 A2 A4 91], [A2 96 92 C6 A4 91]!" next
+    "@[89 96 9E 50 9E A0 94 A5 50 93 91 9E 50 A1 A0 9E A0 A9 C3]?" linebreak
+    eob
+
+l_0xc51f2c:
+    "@[83 A1 91 A3 9A 92 A0], [A1 A2 9A C6 A4 96 9D C3]!" linebreak
+    "  [76 C0 97 50 A5 93 9A 95 9A 9E A3 C6]!" end
+
+l_0xc51f45:
+    "@[73 A0 99 93 A2 91 C0 91 9B A4 96 A3 C3], [9C 91 9C 50 A4 A0 9D C3 9C A0 50 93 91 9E 50 A9 A4 A0 5D 9F 9A 92 A5 95 C3 50 A1 A0 9F 91 95 A0 92 9A A4 A3 C6]!" end
+
+l_0xc51f62:
+    "@[89 96 94 A0 50 98 96 9D 91 96 A4 96 50 A3 96 94 A0 95 9F C6]?[03]" eob
+
+l_0xc51f74:
+    "@[1C 05 00]?" next
+    eob
+
+l_0xc51f7c:
+    "@[7C A4 A0 50 9A 99 50 93 91 A3 50 A1 A0 9F 96 A3 97 A4 50 C4 A4 A0]?[03]" eob
+
+l_0xc51f91:
+    "@[81 A2 9A 9E 96 A2 9A A4 96 50 C4 A4 A0 50 99 95 96 A3 C3]?" linebreak
+    eob
+
+l_0xc51fa7:
+    "@[1C 05 00] [A3 A4 A0 9A A4]" linebreak
+    " {swap}$[1C 0A 00 00 00 00]?" linebreak
+    eob
+
+l_0xc51fc8:
+    "@[1C 02 00] [9A 50 C4 A4 91 50 93 96 C0 C3 50 9F 96 50 A3 A0 99 95 91 9F C2 50 95 A2 A5 94 50 95 9D C6 50 95 A2 A5 94 91]." next
+    "  [73 A3 97 50 A2 91 93 9F A0 50 A7 A0 A4 9A A4 96 50 96 97 50 9C A5 A1 9A A4 C3]?" linebreak
+    eob
+
+l_0xc51fe7:
+    "@[75 A0 50 A3 9C A0 A2 A0 94 A0]!" next
+    eob
+
+l_0xc51ff8:
+    "@[85 98 91 A3]!" linebreak
+    "  [85 50 93 91 A3 50 9F 96 A3 50 9F 91 50 C4 A4 A0 50 95 96 9F 95 94], [A2 96 92 C6 A4 91]." next
+    eob
+
+l_0xc5201d:
+    "@[A2 96 92 C6 A4 91]!" linebreak
+    "  [85 50 93 91 A3 50 A1 A2 A0 A3 A4 A0 50 A3 9D 9A AA 9C A0 9E 50 9E 9F A0 94 A0 50 93 96 C0 96 9B]!" next
+    "@[7F A0 50 93 A3 97 50 93 50 A1 A0 A2 C6 95 9C 96], [C6 50 98 96 50 9E A0 94 A5 50 9C A5 A1 9A A4 C3 50 A4 A0], [A9 A4 A0 50 93 91 9E 50 9F 96 50 9F A5 98 9F A0]." linebreak
+    eob
+
+l_0xc52059:
+    "@[85 93 96 A2 96 9F C2], [A9 A4 A0 50 A7 A0 A4 9A A4 96 50 9E 9F 96 50 A7 A4 A0 50 A1 A2 A0 95 91 A4 C3]?..[03]" eob
+
+l_0xc5206d:
+    "@[1C 05 00]?" linebreak
+    "  [B6 50 95 91 9E 50 93 91 9E] {swap}$[1C 0A 00 00 00 00]." next
+    "@[73 C2 50 A3 A0 94 9D 91 A3 9F C2]?" linebreak
+    eob
+
+l_0xc5209b:
+    "@[80 9C 96 9B]." next
+    eob
+
+l_0xc520a2:
+    "@[7F A0], [A1 A2 9A C6 A4 96 9D C3], [A4 96 92 96 50 98 96 50 9F 96 A9 96 94 A0 50 A1 A2 A0 95 91 93 91 A4 C3]!" next
+    eob
+
+l_0xc520b9:
+    "@[81 A2 A0 A3 A4 9A], [A1 A2 9A C6 A4 96 9D C3], [C6 50 9F 96 50 9E A0 94 A5 50 C4 A4 A0 50 9C A5 A1 9A A4 C3]." next
+    eob
+
+l_0xc520cf:
+    "@[83 A1 91 A3 9A 92 A0]!" next
+    eob
+
+l_0xc520d5:
+    "@[83 A1 91 A3 9A 92 A0], [A1 A2 9A C6 A4 96 9D C3]!" next
+    eob
+
+l_0xc520e1:
+    "@[7E A0 94 A5 50 96 C0 97 50 A9 96 9E 5D 9F 9A 92 A5 95 C3 50 93 91 9E 50 A1 A0 9E A0 A9 C3]?" linebreak
+    eob
+
+l_0xc520f1:
+    "@[89 96 9E 50 98 96]?" linebreak
+    eob
+
+l_0xc520fa:
+    "@[1C 02 00] [9F 96 50 A3 9E A0 98 96 A4 50 9F 96 A3 A4 9A 50 A3 A4 A0 9D C3 9C A0 50 93 96 C0 96 9B]." next
+    "@[7E A0 98 96 A4], [9C A4 A0 5D 9F 9A 92 A5 95 C3 50 95 A2 A5 94 A0 9B 50 C4 A4 A0 50 A1 A0 9F 96 A3 97 A4]?" linebreak
+    eob
+
+l_0xc5211e:
+    "@[81 A2 9A 93 96 A4]!" next
+    "@[89 96 9E 5D 9F 9A 92 A5 95 C3 50 A1 A0 9E A0 A9 C3]?" linebreak
+    eob
+
+l_0xc52130:
+    "@[72 A0 9D C3 AA A0 96 50 A3 A1 91 A3 9A 92 A0]!" end
+
+l_0xc52139:
+    "@[84 C2 50 99 91 AA 97 9D 50 A1 A2 A0 A3 A4 A0 50 A9 A4 A0 92 C2 50 A3 9C 91 99 91 A4 C3 50] <[81 A2 9A 93 96 A4]>?  [7F A5 50 9A 50 9F 96 A5 95 91 A9 9F 9A 9C]!" end
+
+l_0xc52154:
+    "@[89 A4 A0 50 9C A5 A1 9A A4 96]?[03]" eob
+
+l_0xc52163:
+    "@[1C 05 00]?" next
+    eob
+
+l_0xc5216b:
+    "@[9C A4 A0 50 C4 A4 A0 50 A1 A0 9F 96 A3 97 A4]?[03]" eob
+
+l_0xc5217a:
+    "@[7F 91 95 96 9F 96 A4 96 50 C4 A4 A0 50 99 95 96 A3 C3]?" linebreak
+    eob
+
+l_0xc52189:
+    "@[1C 05 00] [A3 A4 A0 9A A4]" linebreak
+    " {swap}$[1C 0A 00 00 00 00]?" next
+    eob
+
+l_0xc521aa:
+    "@[87 A0 A4 C3] [1C 02 00] [9A 50 9F 96 50 9E A0 98 96 A4 50 9F 91 95 96 A4 C3 50 C4 A4 A5 50 93 96 C0 C3]," next
+    "@[93 C2 50 93 A3 97 50 A2 91 93 9F A0 50 99 91 50 9F 96 97 50 99 91 A1 9D 91 A4 9A A4 96]?" linebreak
+    eob
+
+l_0xc521d3:
+    "@[81 A2 9A A7 A0 95 9A A4 96 50 96 C0 97]." next
+    eob
+
+l_0xc521dc:
+    "@[7A 99 93 9A 9F 9A A4 96], [A5 50 93 91 A3 50 9F 96 95 A0 A3 A4 91 A4 A0 A9 9F A0 50 95 96 9F 96 94]." next
+    eob
+
+l_0xc521ec:
+    "@[7A 50 9C 91 9C 50 93 C2 50 C4 A4 A0 50 A5 9F 96 A3 97 A4 96]?  [85 50 93 91 A3 50 98 96 50 A3 9D 9A AA 9C A0 9E 50 9E 9F A0 94 A0 50 93 96 C0 96 9B]!" next
+    "@[B6 50 95 A5 9E 91 C5], [A9 A4 A0 50 9E A0 94 A5 50 9C A5 A1 9A A4 C3 50 9F 96 9F A5 98 9F C2 96 50 93 91 9E 50 93 96 C0 9A]." next
+    "@[73 C2 50 A7 A0 A4 9A A4 96 50 A9 A4 A0 5D 9F 9A 92 A5 95 C3 50 A1 A2 A0 95 91 A4 C3]?" linebreak
+    eob
+
+l_0xc5222e:
+    "@[7A 50 A9 A4 A0 50 98 96]?[03]" eob
 

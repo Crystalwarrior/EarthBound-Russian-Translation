@@ -126,7 +126,7 @@ l_0xc66f90:
     "@Onett police are infamous for closing roads if something is going on." next
     "@We are going for the world record..." end*/
 l_0xc66fe2:
-    "@Полиция Онетт славится закрытием дороги по малейшему поводу." next
+    "@Полиция Одинна славится закрытием дороги по малейшему поводу." next
     "@Мы идём на мировой рекорд..." end
 
 /*l_0xc67026:
@@ -392,7 +392,7 @@ l_0xc67b5e:
 /*l_0xc67b67:
     "@(Treasure Hunter!{pause(20)}  This is Lier X. Agerate's house!)" end*/
 l_0xc67b67:
-    "@(Искатель Сокровищ!{pause(20)}  Дом Лгуна Приврательского!)" end
+    "@(Искатель Сокровищ!{pause(20)}  Дом Боба Манщика!)" end
 
 l_0xc67b91:
     "@(Looks like quite a piece of work...)" end

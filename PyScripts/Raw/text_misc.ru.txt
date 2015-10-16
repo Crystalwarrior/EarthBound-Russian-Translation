@@ -27,12 +27,12 @@ Equip Menu:
   Body: '      Тело'
   Body Window Title: "Тело"
   Defense: "Защита"
-  No Equip: '(...)'
+  No Equip: '(....)'
   Offense: "Атака"
   Other: '     Проч.'
   Other Window Title: 'Другие'#Others
   To: 'До:'
-  Unequip: "..."
+  Unequip: "...."
   Weapon: '  Оружие'
   Weapon Window Title: "Оружия"
 Item Menu:
@@ -53,7 +53,7 @@ Other:
   Player Name Prompt: "Пожалуйста, введите ваше имя."#Register your name, please
 Out of Battle Menu:
   Check: "Проверить"#Check
-  Equip: "Надеть"#Equip
+  Equip: "Экипер."#Equip
   Goods: "Вещи"#Goods
   PSI: "ПСИ"#PSI
   Status: "Статус"#Status

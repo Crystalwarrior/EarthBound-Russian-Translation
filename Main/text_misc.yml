@@ -27,12 +27,12 @@ Equip Menu:
   Body: '      [84][96][9D][A0]'
   Body Window Title: "[84][96][9D][A0]"
   Defense: "[79][91][C0][9A][A4][91]"
-  No Equip: '(...)'
+  No Equip: '(....)'
   Offense: "[71][A4][91][9C][91]"
   Other: '     [81][A2][A0][A9].'
   Other Window Title: '[75][A2][A5][94][9A][96]'#Others
   To: '[75][A0]:'
-  Unequip: "..."
+  Unequip: "...."
   Weapon: '  [80][A2][A5][98][9A][96]'
   Weapon Window Title: "[80][A2][A5][98][9A][C6]"
 Item Menu:
@@ -53,7 +53,7 @@ Other:
   Player Name Prompt: "[81][A0][98][91][9D][A5][9B][A3][A4][91], [93][93][96][95][9A][A4][96] [93][91][AA][96] [9A][9E][C6]."#Register your name, please
 Out of Battle Menu:
   Check: "[81][A2][A0][93][96][A2][9A][A4][C3]"#Check
-  Equip: "[7F][91][95][96][A4][C3]"#Equip
+  Equip: "[B4][9C][9A][A1][96][A2]."#Equip
   Goods: "[73][96][C0][9A]"#Goods
   PSI: "[81][83][7A]"#PSI
   Status: "[83][A4][91][A4][A5][A3]"#Status

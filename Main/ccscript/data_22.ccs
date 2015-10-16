@@ -126,7 +126,7 @@ l_0xc66f90:
     "@Onett police are infamous for closing roads if something is going on." next
     "@We are going for the world record..." end*/
 l_0xc66fe2:
-    "@[81][A0][9D][9A][A8][9A][C6] [80][9F][96][A4][A4] [A3][9D][91][93][9A][A4][A3][C6] [99][91][9C][A2][C2][A4][9A][96][9E] [95][A0][A2][A0][94][9A] [A1][A0] [9E][91][9D][96][9B][AA][96][9E][A5] [A1][A0][93][A0][95][A5]." next
+    "@[81][A0][9D][9A][A8][9A][C6] [80][95][9A][9F][9F][91] [A3][9D][91][93][9A][A4][A3][C6] [99][91][9C][A2][C2][A4][9A][96][9E] [95][A0][A2][A0][94][9A] [A1][A0] [9E][91][9D][96][9B][AA][96][9E][A5] [A1][A0][93][A0][95][A5]." next
     "@[7E][C2] [9A][95][97][9E] [9F][91] [9E][9A][A2][A0][93][A0][9B] [A2][96][9C][A0][A2][95]..." end
 
 /*l_0xc67026:
@@ -392,7 +392,7 @@ l_0xc67b5e:
 /*l_0xc67b67:
     "@(Treasure Hunter!{pause(20)}  This is Lier X. Agerate's house!)" end*/
 l_0xc67b67:
-    "@([7A][A3][9C][91][A4][96][9D][C3] [83][A0][9C][A2][A0][93][9A][C0]!{pause(20)}  [75][A0][9E] [7D][94][A5][9F][91] [81][A2][9A][93][A2][91][A4][96][9D][C3][A3][9C][A0][94][A0]!)" end
+    "@([7A][A3][9C][91][A4][96][9D][C3] [83][A0][9C][A2][A0][93][9A][C0]!{pause(20)}  [75][A0][9E] [72][A0][92][91] [7E][91][9F][C0][9A][9C][91]!)" end
 
 l_0xc67b91:
     "@(Looks like quite a piece of work...)" end

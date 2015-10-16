@@ -142,20 +142,20 @@ l_0xc75929:
 	"@What?{pause(10)}  Well,{pause(10)} the father of a hero,{pause(10)} at least.  Wa ha ha!" next
 	"@Slam!{pause(20)}  Beeeeeeeep!{wait}{sound(11)}{set(flag 98)}{unset(flag 95)}{unset(flag 753)}{unset(flag 467)}{set(flag 199)}[1D 06 1E 00 00 00]{save}[19 26 01]" eob*/
 l_0xc75936:
-	"@[1C 01 08] ответил на звонок." next
+	"@[1C 01 08] поднял трубку." next
 	"{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "@Привет,{pause(10)} это я,{pause(10)} твой отец." next
 	"@<Работай до изнеможения, пока ты молод...>" next
-	"@Ты когда-нибудь слышал об этакой странной поговорке?" next
-	"@Просто запомни,{pause(15)} Я всегда за тобой 100%.  Ничего не бойся." next
-	"@Я знаю что ты храбрый.{pause(20)}  Ты сделаешь это!" next
-	"@Не забуть звонить мне периодически на своём приключении." next
-	"@I can make a record of your progress when you call me." next
-	"@Oh yeah,{pause(15)} I deposited $30 into your bank account." next
-	"@Do you have your ATM card?" next
-	"@Withdraw your money from any cash machine and buy whatever you need." next
-	"@Good Luck,{pause(15)} m'boy!{pause(20)}  I feel like such a hero!" next
-	"@What?{pause(10)}  Well,{pause(10)} the father of a hero,{pause(10)} at least.  Wa ha ha!" next
-	"@Slam!{pause(20)}  Beeeeeeeep!{wait}{sound(11)}{set(flag 98)}{unset(flag 95)}{unset(flag 753)}{unset(flag 467)}{set(flag 199)}[1D 06 1E 00 00 00]{save}[19 26 01]" eob
+	"@Ты когда-нибудь слышал о такой странной поговорке?" next
+	"@Просто запомни,{pause(15)} Я всегда за тобой на все сто. Ничего не бойся." next
+	"@Я знаю, что ты храбрый.{pause(20)}  Ты сделаешь это!" next
+	"@Не забуть мне иногда звонить на своём приключении." next
+	"@Я могу записывать твой прогресс при каждом твоём звонке." next
+	"@Ах да,{pause(15)} я внёс $30 на твою банковскую карту." next
+	"@У тебя твоя карта с собой?" next
+	"@Сними свои деньги с любого банкомата и купи всё, что тебе надо." next
+	"@Удачи,{pause(15)} сынок!{pause(20)}  Я чувствую себя таким героем!" next
+	"@Что?{pause(10)}  Ну,{pause(10)} отцом героя,{pause(10)} по крайней мере.  Вах хах хах!" next
+	"@Хлоп!{pause(20)}  Биииииииип!{wait}{sound(11)}{set(flag 98)}{unset(flag 95)}{unset(flag 753)}{unset(flag 467)}{set(flag 199)}[1D 06 1E 00 00 00]{save}[19 26 01]" eob
 
 l_0xc75b0f:
 	"{isset(flag 753)}[1B 02 {e(l_0xc75910)}]{isset(flag 654)}[1B 02 {e(l_0xc75910)}]{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "{window_open(1)}@Hello?{pause(20)}  Is this [1C 02 01]'s residence?{pause(20)}  Is [1C 02 01] around?" next
@@ -168,7 +168,7 @@ l_0xc75b0f:
 	"@Gotta go now--{pause(15)}busy,{pause(10)} busy,{pause(10)} busy!" next
 	"@Slam.{pause(20)}  Beeeeep!{wait}{sound(11)}{window_closeall}{unset(flag 654)}{unset(flag 753)}" eob
 
-l_0xc75c33:
+/*l_0xc75c33:
 	"[06 60 00 {e(l_0xc75f3b)}]{window_closeall}{pause(30)}{music(177)}{pause(120)}{pause(120)}{music_resume}{window_open(1)}@Hey!{pause(15)}  L-{pause(15)}L-{pause(15)}Listen to what I've got to say!" next
 	"@When I took Picky to the place where the meteorite landed..." next
 	"[19 23 11 00 02 0E 00][1F 16 11 00 00]@Oh!{pause(20)}  Good evening ma'am.{pause(20)}  You're looking lovely as usual.  *snicker*" next
@@ -180,74 +180,135 @@ l_0xc75c33:
 	"@When my dad gets back,{pause(15)} I know I'm gonna get it..." next
 	"@You're my bestest friend.{pause(20)}  Won't YOU help me find Picky?" next
 	"[19 02]Yes" eob
-
 l_0xc75e07:
-	" [19 02]No" eob
+	" [19 02]No" eob*/
+l_0xc75c33:
+	"[06 60 00 {e(l_0xc75f3b)}]{window_closeall}{pause(30)}{music(177)}{pause(120)}{pause(120)}{music_resume}{window_open(1)}@Эй!{pause(15)}  П-{pause(15)}П-{pause(15)}Послушай, что я хочу сказать!" next
+	"@Когда я отвёл Пики туда, где упал метеорит..." next
+	"[19 23 11 00 02 0E 00][1F 16 11 00 00]@Ах!{pause(20)}  Добрый вечер, мадам.{pause(20)}  Вы выглядите как всегда прекрсано.  *смешок*" next
+	"[19 23 11 00 01 01 00][1F 16 11 00 00]@Ну да ладно,{pause(15)} как я говорил," next
+	"@полицейские, что охраняли метеорит, внезапно уехали" next
+	"@чтобы разобраться с Акулами.{pause(15)}  Ты знаешь Акул,{pause(10)} они местные хулиганы," next
+	"@и они совсем одичали.{pause(20)}  Вдруг,{pause(20)} я заметил,{pause(10)} что Пики пропал." next
+	"@Я виню копов... в этом нет ни капли моей вины." next
+	"@Когда мой отец вернётся,{pause(15)} я получу по полной..." next
+	"@Ты мой наилучший лучший друг.{pause(20)}  ТЫ же мне поможешь найти Пики?" next
+	"[19 02]Да" eob
+l_0xc75e07:
+	" [19 02]Нет" eob
 
 l_0xc75e0d:
 	"[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e1c)}]" goto(l_0xc75e1c)
 
-l_0xc75e1c:
+/*l_0xc75e1c:
 	"@If you refuse me,{pause(15)} I'll say something that'll cut you like a knife." next
 	"@Will you come with me?" linebreak
 	"[19 02]Yes" eob
 
 l_0xc75e58:
 	" [19 02]No" eob
+*/
+l_0xc75e1c:
+	"@Если ты мне откажешь,{pause(15)} я тебе так сострю!{pause(20)} Остро!{pause(10)} Как нож!" next
+	"@Ты же пойдёшь со мной?" linebreak
+	"[19 02]Да" eob
+
+l_0xc75e58:
+	" [19 02]Нет" eob
 
 l_0xc75e5e:
 	"[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e6d)}]" goto(l_0xc75e6d)
 
-l_0xc75e6d:
+/*l_0xc75e6d:
 	"@Okay, okay... I won't say anything to hurt you." next
 	"@Will you please come with me?" linebreak
 	"[19 02]Yes" eob
 
 l_0xc75ea2:
-	" [19 02]No" eob
+	" [19 02]No" eob*/
+l_0xc75e6d:
+	"@Ладно, ладно... я не буду тебя обижать." next
+	"@Пожалуйста, ты пойдёшь со мной?" linebreak
+	"[19 02]Да" eob
+
+l_0xc75ea2:
+	" [19 02]Нет" eob
 
 l_0xc75ea8:
 	"[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e1c)}]" goto(l_0xc75e1c)
 
-l_0xc75ebc:
+/*l_0xc75ebc:
 	"{set(flag 96)}@Ok,{pause(15)} good buddy!{pause(20)}  Let's blow this popsicle stand..." next
 	"@Before we go,{pause(15)} why don't you say <goodbye> to your mom.{pause(15)}" linebreak
-	"[19 23 11 00 02 0E 00][1F 16 11 00 00]  Don't you agree,{pause(15)} ma'am?[03]{window_closeall}{pause(1)}[1F F1 0E 00 2B 00]" eob
+	"[19 23 11 00 02 0E 00][1F 16 11 00 00]  Don't you agree,{pause(15)} ma'am?[03]{window_closeall}{pause(1)}[1F F1 0E 00 2B 00]" eob*/
+l_0xc75ebc:
+	"{set(flag 96)}@Отлично,{pause(15)} приятель!{pause(20)}  Давай смоемся отсюда..." next
+	"@Пока мы ещё здесь,{pause(15)} почему бы тебе не попращаться со своей мамой?{pause(15)}" linebreak
+	"[19 23 11 00 02 0E 00][1F 16 11 00 00]  Разве я не прав,{pause(15)} мадам?[03]{window_closeall}{pause(1)}[1F F1 0E 00 2B 00]" eob
 
-l_0xc75f3b:
+/*l_0xc75f3b:
 	"[06 5E 00 {e(l_0xc75f73)}]@Before we go,{pause(15)} why don't you say <goodbye> to your mom.{wait}{window_closeall}{pause(1)}[1F F1 13 00 2B 00]" eob
+*/
+l_0xc75f3b:
+	"[06 5E 00 {e(l_0xc75f73)}]@Пока мы ещё здесь,{pause(15)} почему бы тебе не попращаться со своей мамой?{wait}{window_closeall}{pause(1)}[1F F1 13 00 2B 00]" eob
 
-l_0xc75f73:
+/*l_0xc75f73:
 	"[1D 04 01 11][1B 03 {e(l_0xc760b7)}][06 25 03 {e(l_0xc75fb6)}]@You're not taking anything on our big adventure?" next
-	"@Why don't you look around for your [1C 05 11] or something?" end
+	"@Why don't you look around for your [1C 05 11] or something?" end*/
+l_0xc75f73:
+	"[1D 04 01 11][1B 03 {e(l_0xc760b7)}][06 25 03 {e(l_0xc75fb6)}]@Ты ничего не берёшь на наше большое приключение?" next
+	"@Почему бы тебе не найти свою <[1C 05 11]>?" end
 
-l_0xc75fb6:
+/*l_0xc75fb6:
 	"@Sorry about giving you this game-type advice,{pause(15)}[19 22 01 03 2C 00][1F 13 01 00] but you should equip your weapon!" next
 	"@Do you know what <equip> means?" linebreak
 	"[19 02]Yes" eob
 
 l_0xc76005:
 	" [19 02]No" eob
+*/
+l_0xc75fb6:
+	"@Извини, что я тебе даю этот очень игровой совет,{pause(15)}[19 22 01 03 2C 00][1F 13 01 00]" next
+	"@но тебе стоит экиперовать своё оружие!" next
+	"@Ты же знаешь, что значит <экиперовать>?" linebreak
+	"[19 02]Да" eob
+
+l_0xc76005:
+	" [19 02]Нет" eob
 
 l_0xc7600b:
 	"[1C 07 02][11]{clearline}[09 02 {e(l_0xc76080)} {e(l_0xc7601a)}]" goto(l_0xc7601a)
 
-l_0xc7601a:
+/*l_0xc7601a:
 	"@It means <use> or <wear.>" next
 	"@You must equip items in order to use or wear them." next
 	"@<Equip> is used a lot in games like this," next
-	"@but you already knew that...[03]" goto(l_0xc760b7)
+	"@but you already knew that...[03]" goto(l_0xc760b7)*/
+l_0xc7601a:
+	"@Это значит <взять в руки> или <надеть> что-либо на себя." next
+	"@Тебе нужно надевать на себя вещи, чтобы их использовать." next
+	"@<Экиперовать> часто используется в играх такого типа," next
+	"@но ты уже это знал...[03]" goto(l_0xc760b7)
 
-l_0xc76080:
+/*l_0xc76080:
 	"@Okay,{pause(15)} that's good.{pause(20)}  Be sure to pay attention to details like that." next
+	goto(l_0xc760b7)*/
+l_0xc76080:
+	"@Окей,{pause(15)} это хорошо.{pause(20)}  Не забывай оброщать своё внимание на такие детали." next
 	goto(l_0xc760b7)
 
+/*
 l_0xc760b7:
 	newline
 	"@All right!{pause(20)}  You go out in front,{pause(15)} and I'll follow at a safe distance." next
 	"@Let's get going![03]{window_closeall}{set(flag 30)}{set(flag 21)}{set(flag 466)}" call(data_22.l_0xc68174) "{unset(flag 310)}{unset(flag 301)}{unset(flag 530)}{unset(flag 531)}" eob
+*/
+l_0xc760b7:
+	newline
+	"@Отлично!{pause(20)}  Ты иди вперёд,{pause(15)} я буду следовать за тобой на безопасном расстоянии." next
+	"@Пошли уже![03]{window_closeall}{set(flag 30)}{set(flag 21)}{set(flag 466)}" call(data_22.l_0xc68174) "{unset(flag 310)}{unset(flag 301)}{unset(flag 530)}{unset(flag 531)}" eob
 
-l_0xc76112:
+/*l_0xc76112:
 	"[06 49 00 {e(l_0xc7625e)}][06 73 02 {e(l_0xc761eb)}][06 4C 00 {e(data_19.l_0xc64672)}]@I'll do everything I can to help you!{pause(20)}  Good luck on your adventure." next
 	"@You might get hungry along the way,{pause(15)} so here is a [1C 05 58]." next
 	"[1D 03 FF][1B 02 {e(l_0xc761dd)}][1D 0E 00 58]{set(flag 76)}" call(data_36.l_0xc7dccf) next
@@ -257,19 +318,35 @@ l_0xc76112:
 
 l_0xc761b7:
 	" [19 02]No" eob
+*/
+l_0xc76112:
+	"[06 49 00 {e(l_0xc7625e)}][06 73 02 {e(l_0xc761eb)}][06 4C 00 {e(data_19.l_0xc64672)}]@Я сделаю всё, чтобы тебе помочь!{pause(20)}  Удачи на своём приключении." next
+	"@Ты можешь проголодаться по пути,{pause(15)} поэтому возьми [1C 05 58]." next
+	"[1D 03 FF][1B 02 {e(l_0xc761dd)}][1D 0E 00 58]{set(flag 76)}" call(data_36.l_0xc7dccf) next
+	"@Ещё я могу присмотреть за твоими вещами." next
+	"@Ты хочешь мне что-либо отдать?" linebreak
+	"[19 02]Да" eob
+
+l_0xc761b7:
+	" [19 02]Нет" eob
 
 l_0xc761bd:
 	"[1C 07 02][11]{clearline}[09 02 {e(l_0xc761d7)} {e(l_0xc761cc)}]" goto(l_0xc761cc)
 
+/*l_0xc761cc:
+	"@Be careful!" end*/
 l_0xc761cc:
-	"@Be careful!" end
+	"@Будь осторожен!" end
 
 l_0xc761d7:
 	call(data_20.l_0xc6474f) eob
 
+/*l_0xc761dd:
+	newline
+	"{sound(5)}@You have too much stuff." end*/
 l_0xc761dd:
 	newline
-	"{sound(5)}@You have too much stuff." end
+	"{sound(5)}@У тебя слишком много вещей." end
 
 l_0xc761eb:
 	"@What?{pause(20)}  The Sound Stone?" next

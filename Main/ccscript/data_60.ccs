@@ -233,14 +233,20 @@ l_0xe10000:
 l_0xe10652:
     "[ 09 ][ 09 ][ 01 0C ]Like a great tapestry, vertical and[ 09 ][ 01 0C ]horizontal threads have met and[ 09 ][ 01 0C ]become intertwined, creating a[ 09 ][ 01 0C ]huge, beautiful image.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]You may have cursed this never-[ 09 ][ 01 0C ]ending journey.  You have known[ 09 ][ 01 0C ]injury and defeat, but you have[ 09 ][ 01 0C ]struggled on to reach this place.[ 09 ][ 01 0C ]Your in-born intelligence and[ 09 ][ 01 0C ]courage have helped bring you[ 09 ][ 01 0C ]here.  You have believed in your[ 09 ][ 01 0C ]friends, and as a group, you have[ 09 ][ 01 0C ]supported each other.  Have you[ 09 ][ 01 0C ]ever stopped to consider how[ 09 ][ 01 0C ]much your power has grown?[ 09 ][ 01 0C ]Now, you could fell enemies in[ 09 ][ 01 0C ]Onett and Twoson with one[ 09 ][ 01 0C ]blow.  As you certainly know,[ 09 ][ 01 0C ]you cannot turn back.  Giygas,[ 09 ][ 01 0C ]the arch fiend of the universe, is[ 09 ][ 01 0C ]growing frightened of you and[ 09 ][ 01 0C ]your power.  He is searching for[ 09 ][ 01 0C ]ways to end your journey.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]From here, the challenge grows[ 09 ][ 01 0C ]and your adventure will take you[ 09 ][ 01 0C ]beyond anything you ever[ 09 ][ 01 0C ]imagined.  You are drawing near[ 09 ][ 01 0C ]to Giygas.  Remember, when you[ 09 ][ 01 0C ]are suffering hardships, your[ 09 ][ 01 0C ]enemy is also struggling.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]By the way, do you know where[ 09 ][ 01 0C ]Pokey went?  When this cup of[ 09 ][ 01 0C ]tea is finished, your adventure will[ 09 ][ 01 0C ]continue.  Your destiny pulls you[ 09 ][ 01 0C ]in the right direction.  Believe in[ 09 ][ 01 0C ]yourself and press forward.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 02 ][ 08 01 ]![ 09 ][ 01 02 ]           [ 08 02 ]![ 09 ][ 01 02 ]                      [ 08 03 ]![ 09 ][ 01 02 ]                                 [ 08 04 ]![ 09 ][ 09 ][ 09 ][ 01 0C ]I wish you luck...[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 00 ]"
 
+/*l_0xe10b86:
+    "[ 02 0C ][ 01 32 ]The year is 199X[ 09 ][ 00 ]"*/
 l_0xe10b86:
-    "[ 02 0C ][ 01 32 ]The year is 199X[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 32 ]199X [94][A0][95][ 09 ][ 00 ]"
 
+/*l_0xe10b9c:
+    "[ 02 0C ][ 01 0C ]Onett, a small town in Eagleland[ 09 ][ 00 ]"*/
 l_0xe10b9c:
-    "[ 02 0C ][ 01 0C ]Onett, a small town in Eagleland[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 0C ][80][95][9A][9F][9F], [9F][96][92][A0][9D][C3][AA][A0][9B] [94][A0][A2][A0][95] [93] [80][A2][9D][C6][9F][95][9A][9A][ 09 ][ 00 ]"
 
+/*l_0xe10bc2:
+    "[ 02 0C ][ 01 3D ][ 08 01 ]'s house[ 09 ][ 00 ]"*/
 l_0xe10bc2:
-    "[ 02 0C ][ 01 3D ][ 08 01 ]'s house[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 3D ][75][A0][9E], [94][95][96] [98][9A][93][97][A4] [ 08 01 ][ 09 ][ 00 ]"
 
 l_0xe10bd2:
     "[ 02 0C ][ 01 00 ]Winters, a small country to the north[ 09 ][ 00 ]"
@@ -254,8 +260,10 @@ l_0xe10c1b:
 l_0xe10c38:
     "[ 02 0B ][ 01 25 ]The palace of [ 08 04 ][ 09 ][ 01 30 ]The Crown Prince[ 09 ][ 00 ]"
 
+/*l_0xe10c61:
+    "[ 02 0C ][ 01 30 ]Later that night...[ 09 ][ 00 ]"*/
 l_0xe10c61:
-    "[ 02 0C ][ 01 30 ]Later that night...[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 30 ][B4][A4][A0][9B] [98][96] [9F][A0][A9][C3][C5]...[ 09 ][ 00 ]"
 
 l_0xe1413f:
     "[ 03 02 ][ 02 ][ A3 A4 81 86 86 ][ 00 ]"

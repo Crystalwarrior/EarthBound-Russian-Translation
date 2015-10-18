@@ -146,7 +146,7 @@ l_0xc67026:
     "  I hate my job!" end*/
 l_0xc67089:
     "@Только что упал метеорит,{pause(15)} Акулы терроризируют наш город," next
-    "@вы детишки тут бродите,{pause(15)} и,{pause(15)} я голодный...{pause(20)}" linebreak
+    "@вы,{pause(5)} детишки,{pause(5)} тут бродите,{pause(15)} и,{pause(15)} я голодный...{pause(20)}" linebreak
     "  Ненавижу свою работу!" end
 
 /*l_0xc670e6:
@@ -154,7 +154,8 @@ l_0xc67089:
     "@Even if I advise you not to go,{pause(15)} it won't stop you,{pause(15)} will it?" end*/
 l_0xc670e6:
     "[06 D8 01 {e(l_0xc67130)}]@Идти на вершину холма слишком опасно." next
-    "@Но даже если я тебе посоветую туда не идти,{pause(15)} тебя это не остановит,{pause(15)} неправда ли?" end
+    "@Но даже если я тебе посоветую туда не идти,{pause(15)} тебя это не остановит,{pause(15)}" next
+    "@не правда ли?" end
 
 /*l_0xc67130:
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." next
@@ -197,7 +198,7 @@ l_0xc67229:
     "@He's driving me nuts.{pause(20)}  Are you two friends?" linebreak
     "[19 02]Yes" eob*/
 l_0xc67237:
-    "@Как раз кстати,{pause(15)} [1C 02 01].{pause(20)}  Можешь сделать что-нибудь насчёт Порки?" next
+    "@Как раз кстати,{pause(15)} [1C 02 01].{pause(20)}  Можешь сделать что-нибудь с Порки?" next
     "@Он меня с ума сводит.{pause(20)}  Вы же друзья, да?" linebreak
     "[19 02]Да" eob
 
@@ -219,7 +220,7 @@ l_0xc6729b:
 /*l_0xc672cc:
     "@And you live in the house next to his...{pause(20)}  I see..." end*/
 l_0xc672cc:
-    "@И ты так же его сосед...{pause(20)}  Понятно..." end
+    "@И ты его же сосед...{pause(20)}  Я понял..." end
 
 
 /*l_0xc672eb:

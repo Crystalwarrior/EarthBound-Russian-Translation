@@ -53,7 +53,7 @@ Other:
   Player Name Prompt: "Пожалуйста, введите ваше имя."#Register your name, please
 Out of Battle Menu:
   Check: "Проверить"#Check
-  Equip: "Экипер."#Equip
+  Equip: "Экипир."#Equip
   Goods: "Вещи"#Goods
   PSI: "ПСИ"#PSI
   Status: "Статус"#Status

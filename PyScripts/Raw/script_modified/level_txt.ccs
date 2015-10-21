@@ -1,0 +1,7 @@
+import asm65816
+
+ROM[0xC1EE9B] = ASMLoadAddress12 (level)
+
+level:
+
+"Уров.:[00]"

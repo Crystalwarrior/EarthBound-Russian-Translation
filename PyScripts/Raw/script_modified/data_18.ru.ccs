@@ -457,8 +457,10 @@ l_0xc632e2:
     "@$[1C 01 07] in the bank." next
     "[1D 24 02]" goto(l_0xc6333c)
 
+/*l_0xc6333c:
+    "{counter(1)}@Well, exp to get to the next level,[03]" goto(l_0xc63352)*/
 l_0xc6333c:
-    "{counter(1)}@Well, exp to get to the next level,[03]" goto(l_0xc63352)
+    "{counter(1)}@Опыта до следующего уровня,[03]" goto(l_0xc63352)
 
 l_0xc63352:
     "{ctoarg}[1D 19 00][1B 03 {e(data_19.l_0xc633c9)}][19 10 00][1B 02 {e(data_19.l_0xc633c9)}]{rtoarg}[19 18 00][1B 02 {e(l_0xc63388)}]" newline
@@ -467,11 +469,19 @@ l_0xc63352:
 l_0xc63382:
     "{inc}" goto(l_0xc63352)
 
-l_0xc63388:
+/*l_0xc63388:
     newline
     "@[1C 02 00]..." linebreak
     "  has already reached {swap}" call(data_37.l_0xc7e660) " maximum level." next
     "@That's just fine, but..." next
+    next
+    next
+    goto(l_0xc63382)*/
+l_0xc63388:
+    newline
+    "@[1C 02 00]..." linebreak
+    "  уже достиг {swap}" call(data_37.l_0xc7e660) " максимального уровня." next
+    "@Это просто отлично, но..." next
     next
     next
     goto(l_0xc63382)

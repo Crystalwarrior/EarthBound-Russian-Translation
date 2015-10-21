@@ -8,7 +8,7 @@ Compilation statistics
 Compilation start:           $f10000
 Compilation end:             $f89bd2
 Total compiled size:         498642 bytes
-Fragmented space:            1206 bytes
+Fragmented space:            1208 bytes
 -----------------------------------------------------------------
 
 
@@ -16,7 +16,7 @@ Module information
 =================================================================
 Name                         Address     Size
 -----------------------------------------------------------------
-asm65816                     $f2ff6c      0      bytes
+asm65816                     $f1fffe      0      bytes
 data_00                      $f2ad77      10442  bytes
 data_01                      $f7ce4c      5089   bytes
 data_02                      $f7b9d3      5241   bytes
@@ -86,13 +86,13 @@ data_65                      $f7e22d      5009   bytes
 data_66                      $f85cfb      3025   bytes
 data_gender                  $f2feff      73     bytes
 File_Select                  $f2ff48      36     bytes
-level_text                   $f1fff7      9      bytes
-main                         $f2ff6c      0      bytes
-naming_screen_characters     $f2ff6c      0      bytes
+level_text                   $f1fff7      7      bytes
+main                         $f1fffe      0      bytes
+naming_screen_characters     $f1fffe      0      bytes
 naming_screen_misc_text      $f2fe98      103    bytes
 StatusMenuText               $f1ff4e      169    bytes
-stdarg                       $f2ff6c      0      bytes
-std                          $f2ff6c      0      bytes
+stdarg                       $f1fffe      0      bytes
+std                          $f1fffe      0      bytes
 -----------------------------------------------------------------
 
 

@@ -146,7 +146,7 @@ l_0xc67026:
     "  I hate my job!" end*/
 l_0xc67089:
     "@Только что упал метеорит,{pause(15)} Акулы терроризируют наш город," next
-    "@вы,{pause(5)} детишки,{pause(5)} тут бродите,{pause(15)} и,{pause(15)} я голодный...{pause(20)}" linebreak
+    "@вы,{pause(5)} детишки,{pause(5)} тут бродите,{pause(15)} и{pause(15)} я голодный...{pause(20)}" linebreak
     "  Ненавижу свою работу!" end
 
 /*l_0xc670e6:
@@ -407,9 +407,12 @@ l_0xc67bb9:
     "@I heard there's a guy who stops to read each bulletin board he encounters." next
     "@Then he says,{pause(15)} <check-a-roony!>{pause(20)}  Is that you?" end
 
-l_0xc67c0c:
+/*l_0xc67c0c:
     "@Oh,{pause(15)} oh...{pause(20)}  The road's closed again." next
-    "@It's Onett's claim to fame!" end
+    "@It's Onett's claim to fame!" end*/
+l_0xc67c0c:
+    "@Ой,{pause(15)} ой...{pause(20)}  Дорога опять закрыта." next
+    "@Это путь Одинна к славе!" end
 
 l_0xc67c40:
     "@You've found an old magazine." next
@@ -453,16 +456,24 @@ l_0xc68008:
 l_0xc68016:
     eob
 
-l_0xc68017:
+/*l_0xc68017:
     "[19 10 01]{rtoarg}@[1C 02 00] picked up the receiver." next
+    "{sound(11)}" call(data_18.l_0xc63029) eob*/
+l_0xc68017:
+    "[19 10 01]{rtoarg}@[1C 02 00] поднял трубку." next
     "{sound(11)}" call(data_18.l_0xc63029) eob
 
-l_0xc6803d:
+/*l_0xc6803d:
     "{open_wallet}[1D 14 01 00 00 00][1B 03 {e(l_0xc68077)}][19 10 01]{swap}@[1C 02 00] picked up the receiver." next
+    "[1D 09 01 00]{open_wallet}{sound(11)}" call(data_18.l_0xc63033) eob*/
+l_0xc6803d:
+    "{open_wallet}[1D 14 01 00 00 00][1B 03 {e(l_0xc68077)}][19 10 01]{swap}@[1C 02 00] поднял трубку." next
     "[1D 09 01 00]{open_wallet}{sound(11)}" call(data_18.l_0xc63033) eob
 
+/*l_0xc68077:
+    "@(The pay phone costs one dollar.)" end*/
 l_0xc68077:
-    "@(The pay phone costs one dollar.)" end
+    "@(Таксофон стоит один доллар.)" end
 
 l_0xc68091:
     "[06 0E 00 {e(l_0xc6809e)}]" call(data_18.l_0xc630ae) eob
@@ -470,11 +481,15 @@ l_0xc68091:
 l_0xc6809e:
     "{counter(6)}" call(l_0xc68017) eob
 
+/*l_0xc680a6:
+    "[1D 05 FF B1][1B 03 {e(data_18.l_0xc62d30)}]@Please insert your ATM card." end*/
 l_0xc680a6:
-    "[1D 05 FF B1][1B 03 {e(data_18.l_0xc62d30)}]@Please insert your ATM card." end
+    "[1D 05 FF B1][1B 03 {e(data_18.l_0xc62d30)}]@Пожалуйста, вставьте свою банковскую карту." end
 
+/*l_0xc680c2:
+    "[19 19 00 00]{swap}{result_is(177)}[1B 03 {e(l_0xc680dc)}]@Nothing happened." end*/
 l_0xc680c2:
-    "[19 19 00 00]{swap}{result_is(177)}[1B 03 {e(l_0xc680dc)}]@Nothing happened." end
+    "[19 19 00 00]{swap}{result_is(177)}[1B 03 {e(l_0xc680dc)}]@Ничего не произошло." end
 
 l_0xc680dc:
     call(data_18.l_0xc62d30) eob
@@ -493,17 +508,28 @@ l_0xc680f0:
     newline
     eob
 
-l_0xc680f2:
+/*l_0xc680f2:
     "{window_closeall}[06 30 01 {e(l_0xc68139)}][1F 1E 10 00 06][1F 15 28 00 2F 00 01][1F 11 07][1F EB 07 06][1F 61][1F 1F 28 00 06][1F EC 07 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@[1C 01 03] joins you.[03]{window_closeall}{set(flag 19)}" eob
+*/
+l_0xc680f2:
+    "{window_closeall}[06 30 01 {e(l_0xc68139)}][1F 1E 10 00 06][1F 15 28 00 2F 00 01][1F 11 07][1F EB 07 06][1F 61][1F 1F 28 00 06][1F EC 07 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@[1C 01 03] присоединяется к тебе.[03]{window_closeall}{set(flag 19)}" eob
 
-l_0xc68139:
+/*l_0xc68139:
     "[1F 1E 12 00 06][1F 15 28 00 2F 00 01][1F 11 07][1F EB 07 06][1F 61][1F 1F 28 00 06][1F EC 07 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@[1C 01 03] joins you.[03]{window_closeall}" eob
+*/
+l_0xc68139:
+    "[1F 1E 12 00 06][1F 15 28 00 2F 00 01][1F 11 07][1F EB 07 06][1F 61][1F 1F 28 00 06][1F EC 07 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@[1C 01 03] присоединяется к тебе.[03]{window_closeall}" eob
 
-l_0xc68174:
+/*l_0xc68174:
     "{window_closeall}[1F 11 05][1F EB 05 06][06 2D 01 {e(l_0xc681b5)}][1F F1 13 00 2F 00][1F 61][1F 1E 13 00 06][1F EC 05 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Pokey joins you.)[03]{window_closeall}" eob
+*/
+l_0xc68174:
+    "{window_closeall}[1F 11 05][1F EB 05 06][06 2D 01 {e(l_0xc681b5)}][1F F1 13 00 2F 00][1F 61][1F 1E 13 00 06][1F EC 05 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Порки присоединяется к тебе.)[03]{window_closeall}" eob
 
+/*l_0xc681b5:
+    "[1F F1 11 00 2F 00][1F 61][1F 1E 11 00 06][1F EC 05 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Pokey joins you.)[03]{window_closeall}" eob*/
 l_0xc681b5:
-    "[1F F1 11 00 2F 00][1F 61][1F 1E 11 00 06][1F EC 05 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Pokey joins you.)[03]{window_closeall}" eob
+    "[1F F1 11 00 2F 00][1F 61][1F 1E 11 00 06][1F EC 05 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Порки присоединяется к тебе.)[03]{window_closeall}" eob
 
 l_0xc681e6:
     newline
@@ -513,6 +539,10 @@ l_0xc681eb:
     newline
     "[1F 12 06]" eob
 
-l_0xc681f0:
+
+/*l_0xc681f0:
     "{window_closeall}[1F 11 06][1F EB 06 06][1F F2 2D 00 30 00][1F 61][1F 1F 2D 00 06][1F EC 06 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Picky joins you.)[03]{window_closeall}" eob
+    */
+l_0xc681f0:
+    "{window_closeall}[1F 11 06][1F EB 06 06][1F F2 2D 00 30 00][1F 61][1F 1F 2D 00 06][1F EC 06 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(Пики присоединяется к тебе.)[03]{window_closeall}" eob
 

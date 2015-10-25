@@ -442,7 +442,7 @@ l_0xc7d947:
     "@[1C 02 00] takes it.{swap}" end*/
 l_0xc7d958:
     newline
-    "@[1C 02 00] кладёт [1C 05 00] в рюкзак.{swap}" end
+    "@[1C 02 00] кладёт это в рюкзак.{swap}" end
 
 /*l_0xc7d967:
     "[19 10 01]{swap}" newline

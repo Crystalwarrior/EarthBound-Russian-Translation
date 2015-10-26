@@ -1,545 +1,3987 @@
-/*
- * EarthBound Text Dump
- * Time: 17:20:59 - 27/09/2015
- * Generated using CCScriptWriter.
- */
-
-command e(label) "{long label}"
-
-// Text Data
-l_0xc5e633:
-    "[1F E5 FF][1F EB FF 06][1F 21 B1][1F 15 CD 00 1B 02 01][1F 15 FE 00 1C 02 01]{pause(1)}[1F EF CD 00][1F E8 FF]" eob
-
-l_0xc5e655:
-    "[1F 11 02][1F 11 03][1F 11 04][1F E5 FF][1F 21 B2][1F 15 6A 00 1D 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e675:
-    "[1F E5 FF][1F 21 B3][1F F0][1F E5 01][1F 15 6A 00 1E 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e691:
-    "[1F 11 02][1F 11 03][1F E5 FF][1F 21 B4][1F 15 6A 00 1F 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e6ae:
-    "{set(flag 60)}[1F 11 03][1F E5 FF][1F 21 B5][1F 15 6A 00 20 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e6cb:
-    "[1F 16 BA 03 07][1F F1 BA 03 08 00]" eob
-
-l_0xc5e6d7:
-    "[1F 11 02][1F 11 03][1F E5 FF][1F 21 B6][1F 15 6A 00 21 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e6f4:
-    "[1F E5 FF][1F 21 B7][1F 15 6A 00 22 02 01]{pause(1)}[1F EF 6A 00][1F E8 FF]" eob
-
-l_0xc5e70b:
-    "{set(flag 469)}{set(flag 11)}[1F EB FF 06][1F 15 6A 00 DC 01 01]" call(data_57.l_0xc9b4b8) "[1F 21 96][1F E6 BA 00][1F 15 6A 00 DD 01 01]" call(data_57.l_0xc9b4b8) "[1F 21 97][1F 15 6A 00 DE 01 01]" call(data_57.l_0xc9b4b8) "{set(flag 477)}{set(flag 532)}{set(flag 749)}[1F 21 0A][1F E9 1A 00][1F E9 1B 00]{pause(120)}{pause(120)}{pause(120)}{pause(120)}{pause(120)}{pause(60)}[1F 1E 1B 00 06][1F 15 6A 00 24 00 01]{unset(flag 532)}{set(flag 533)}{music_resume}[1F 61][1F 1E 1A 00 06][1F EC FF 01][1F F2 6A 00 72 02][1F EF 6A 00][1F E8 FF][1F 61][1F ED]{set(flag 476)}{unset(flag 477)}{unset(flag 469)}{save}" eob
-
-l_0xc5e79f:
-    "{set(flag 375)}{music_resume}[1F 17 16 00 26 00 01]" eob
-
-l_0xc5e7ac:
-    "[06 FB 02 {e(data_58.l_0xc9c85d)}][1F 01 00]{sound(8)}[1F 15 6A 00 27 00 01]" call(data_57.l_0xc9b4b8) "[1F 17 11 00 0B 00 01][1F 1E 16 00 06]{sound(9)}[1F ED][19 23 11 00 01 01 00][1F 16 11 00 00][19 22 01 02 11 00][1F 13 01 00][1F E5 FF]{pause(1)}[1F E6 11 00]{set(flag 97)}{set(flag 301)}{unset(flag 295)}{set(flag 467)}{set(flag 531)}{unset(flag 473)}{window_open(1)}" call(data_31.l_0xc75c33) "{window_closeall}" eob
-
-l_0xc5e812:
-    "[1F F1 15 00 08 00]" eob
-
-l_0xc5e819:
-    "[1F F1 15 00 29 00]" eob
-
-l_0xc5e820:
-    "[1F E9 13 00][1F 61][1F E6 13 00]{window_open(1)}" goto(data_31.l_0xc75c33)
-
-l_0xc5e832:
-    eob
-
-l_0xc5e833:
-    "[1F 1E 10 00 06][1F 17 12 00 2B 00 01]" eob
-
-/*l_0xc5e840:
-    "[1F 1C 05 03]{pause(60)}[1F 1D 05]{window_open(1)}@Hey [1C 01 08]!{pause(20)}[19 22 01 01 05 00][1F 13 01 00]  So, are you just gonna wander around wherever you please?" next
-    "@Don't you think we should focus on getting Picky home?[03]{window_closeall}" eob*/
-l_0xc5e840:
-    "[1F 1C 05 03]{pause(60)}[1F 1D 05]{window_open(1)}@Эй [1C 01 08]!{pause(20)}[19 22 01 01 05 00][1F 13 01 00]  Так что, ты так и будешь бродить где попало?" next
-    "@Разве нам не стоит сосредоточиться на поисках Пики?[03]{window_closeall}" eob
-
-/*l_0xc5e8a0:
-    "[1F 1A 7C 00 03]{pause(60)}[1F 1B 7C 00][1F 1E 7C 00 06][1F 15 2D 00 08 00 01]@Wha-!" next
-    "[19 24 2D 00 01 01 00][1F E4 2D 00 00]@Oh!" next
-    "@You woke me up..." next
-    "@Pokey!{pause(15)}  I've been looking all over for you..." next
-    "@You see,{pause(15)} Pokey got scared and ran away..." next
-    "@Well, I'm glad that you're okay at least..." next
-    "@Let's go home now.{pause(20)}  I bet Mom and Dad are worried sick about us." next
-    "@Geez!{pause(15)}  Sometimes I wonder which one of us is the real big brother.[03]{sound(16)}" call(data_22.l_0xc681f0) "{set(flag 20)}{set(flag 37)}{set(flag 742)}[1F 66 01 0F 45 EA C5 00]{set(flag 100)}{unset(flag 466)}{unset(flag 468)}{set(flag 11)}" eob
-*/
-l_0xc5e8a0:
-    "[1F 1A 7C 00 03]{pause(60)}[1F 1B 7C 00][1F 1E 7C 00 06][1F 15 2D 00 08 00 01]@Что-!" next
-    "[19 24 2D 00 01 01 00][1F E4 2D 00 00]@Ох!" next
-    "@Вы меня разбудили..." next
-    "@Порки!{pause(15)}  Я повсюду искал тебя..." next
-    "@Видишь ли,{pause(15)} Порки испугался и убежал..." next
-    "@Ну, я рад, что ты в порядке, по крайней мере..." next
-    "@Пойдём уже домой.{pause(20)}  Я уверен, что наши папа с мамой сильно за нас волнуются." next
-    "@Боже!{pause(15)}  Иногда я задумываюсь, кто из нас старше.[03]{sound(16)}" call(data_22.l_0xc681f0) "{set(flag 20)}{set(flag 37)}{set(flag 742)}[1F 66 01 0F 45 EA C5 00]{set(flag 100)}{unset(flag 466)}{unset(flag 468)}{set(flag 11)}" eob
-
-/*l_0xc5e9a8:
-    "[19 10 03]{result_is(7)}[1B 02 {e(data_55.l_0xc9992f)}]{window_open(1)}[19 22 01 01 07 00][1F 13 01 00][19 22 05 01 07 00][1F 13 05 00]@Awo{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}of!" next
-    "@(If I knew this was going to be such a scary place," next
-    "@I wouldn't have come along...{pause(20)}  I'm outta here!){wait}" call(data_23.l_0xc683d5) "{window_closeall}[1F 15 28 00 2E 00 01][1F 61][1F F1 7C 00 73 02]{set(flag 304)}" eob
-*/
-l_0xc5e9a8:
-    "[19 10 03]{result_is(7)}[1B 02 {e(data_55.l_0xc9992f)}]{window_open(1)}[19 22 01 01 07 00][1F 13 01 00][19 22 05 01 07 00][1F 13 05 00]@Аву{pause(5)}у{pause(5)}у{pause(5)}у{pause(5)}у!" next
-    "@(Если бы я знал, что здесь будет так страшно," next
-    "@я бы не пошёл с тобой...{pause(20)}  Я смываюсь отсюда!){wait}" call(data_23.l_0xc683d5) "{window_closeall}[1F 15 28 00 2E 00 01][1F 61][1F F1 7C 00 73 02]{set(flag 304)}" eob
-
-l_0xc5ea35:
-    "[06 12 00 {e(l_0xc5ea3d)}]" eob
-
-l_0xc5ea3d:
-    "[1F 15 5B 01 33 00 01]" eob
-
-/*l_0xc5ea45:
-    "[1F 67 01][19 22 05 01 01 00][1F 13 05 00]{window_open(1)}[19 22 01 01 05 00][1F 13 01 00]@[1C 02 01]!" next
-    "@Do you hear a buzzing that sounds like a bee flying around?" next
-    "[19 02]Yes" eob*/
-l_0xc5ea45:
-    "[1F 67 01][19 22 05 01 01 00][1F 13 05 00]{window_open(1)}[19 22 01 01 05 00][1F 13 01 00]@[1C 02 01]!" next
-    "@Ты слышишь жужжание, словно пчела летает поблизости?" next
-    "[19 02]Да" eob
-
-/*l_0xc5ea8e:
-    " [19 02]No" eob*/
-l_0xc5ea8e:
-    " [19 02]Нет" eob
-
-l_0xc5ea94:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5eabf)} {e(l_0xc5eaa3)}]" goto(l_0xc5eaa3)
-
-/*l_0xc5eaa3:
-    "@Oh, c'mon...{pause(20)}  You must hear it..." next
-    goto(l_0xc5eacf)*/
-l_0xc5eaa3:
-    "@О, да ладно...{pause(20)}  Как же ты не слышишь..." next
-    goto(l_0xc5eacf)
-
-/*l_0xc5eabf:
-    "@Yes!  You can hear it!" next
-    goto(l_0xc5eacf)*/
-l_0xc5eabf:
-    "@Да!  Ты тоже слышишь это!" next
-    goto(l_0xc5eacf)
-
-l_0xc5eacf:
-    "{window_closeall}{music(118)}{pause(60)}[19 22 01 02 C6 00][1F 13 01 00][19 22 05 02 C6 00][1F 13 05 00][19 22 06 02 C6 00][1F 13 06 00][1F EA C5 00][1F 15 6A 00 36 00 01][1F 61][1F 15 5B 01 32 00 01][1F 61]" goto(l_0xc5eb0b)
-
-/*l_0xc5eb0b:
-    "{window_open(1)}@A bee I am" next
-    "@not..." next
-    "@I'm from 10 years in the future." next
-    "@And," next
-    "@in the future,{pause(15)} all is devastation..." next
-    "@Giygas, the universal cosmic destroyer," next
-    "@sent all to the horror of eternal darkness..." next
-    "@....." next
-    "@However,{pause(20)} you must listen!" next
-    "@Where I am from," next
-    "@there is a well-known legend that has been handed down from ancient times." next
-    "@It says <When the chosen boy reaches the point,{pause(15)} he will find the light." next
-    "@The passing of time will shatter the nightmare rock" next
-    "@and will reveal the path of light.>" next
-    "@You see,{pause(15)} it is my opinion that you are that boy, [1C 02 01]." next
-    "@This I believe..." next
-    "@....." next
-    "@Giygas' monstrous plan must have been set in motion somewhere on Earth..." next
-    "@If you start to confront the enemy immediately," next
-    "@you may have time to counter the evil intentions of Giygas." next
-    "@Three things are of the utmost importance:{pause(30)} wisdom,{pause(15)} courage,{pause(20)} and friendship." next
-    "@...The legends from the ancient times tell of three boys and a girl" next
-    "@who defeat Giygas." next
-    "@...I will tell you more later." next
-    "@Go now!{pause(20)}  And do not be anxious about the future." next
-    "@You have much work to do, [1C 02 01]." next
-    "@Did you listen to what I told you?" linebreak
-    "[19 02]Yes" eob*/
-l_0xc5eb0b:
-    "{window_open(1)}@Пчела я..." next
-    "@или нет..." next
-    "@Я из 10 лет в будушем." next
-    "@И," next
-    "@в будущем,{pause(15)} всё в опустошении..." next
-    "@Гийгас, межгалактический разрушитель миров," next
-    "@обрёк всё на ужасы бесконечной тьмы..." next
-    "@....." next
-    "@Как бы то ни было,{pause(20)} вы должны выслушать!" next
-    "@Там, откуда я родом," next
-    "@хорошо известна легенда, передаваемая из поколения в поколение." next
-    "@Она гласит <Когда избранный мальчик достигнет места,{pause(15)} он найдёт свет." next
-    "@Течение времени разобьёт кошмарный валун" next
-    "@и выявит путь света.>" next
-    "@Видишь ли,{pause(15)} я упорно считаю, что именно ты этот мальчик, [1C 02 01]." next
-    "@В это я верю..." next
-    "@....." next
-    "@Чудовищный план Гийгаса берёт своё начало где-то на земле..." next
-    "@Если ты начнёшь борьбу с врагом прямо сейчас," next
-    "@возможно, у тебя будет шанс противостоять злым намерениям Гийгаса." next
-    "@Три вещи имеют первостепенное значение:{pause(30)} мудрость,{pause(15)} отвага{pause(20)} и дружба." next
-    "@...Древняя легенда гласит о трёх мальчиках и одной девочке," next
-    "@которые одержат вверх над Гийгасом." next
-    "@...Я продолжу свой рассказ позже." next
-    "@А теперь иди!{pause(20)}  И не тревожся о будущем." next
-    "@У тебя столько много работы, [1C 02 01]." next
-    "@Ты услышал всё, что я тебе сказал?" linebreak
-    "[19 02]Да" eob
-
-/*l_0xc5edbf:
-    " [19 02]No" eob*/
-l_0xc5edbf:
-    " [19 02]Нет" eob
-
-l_0xc5edc5:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5ee13)} {e(l_0xc5edd4)}]" goto(l_0xc5edd4)
-
-/*l_0xc5edd4:
-    "@I hate to go over it again,{pause(15)} but I guess I'll start over..." next
-    "@We'll be here 'til sunrise!" next
-    goto(l_0xc5eb0b)*/
-l_0xc5edd4:
-    "@I hate to go over it again,{pause(15)} but I guess I'll start over..." next
-    "@Мы будем здесь до утра!" next
-    goto(l_0xc5eb0b)
-
-l_0xc5ee13:
-    "@Thank you for listening to my long story." next
-    "@You are as exceptional as I expected you to be...[03]{window_closeall}{music(11)}{pause(120)}{pause(60)}{pause(120)}{pause(120)}{window_open(1)}@Buzz Buzz now joins you.[03]{window_closeall}[1F EA 5B 01]{set(flag 18)}{music_resume}[1F EA 5B 01]{pause(60)}[1F 1C 05 03]{pause(60)}[1F 1D 05][1F E7 5B 01]{window_open(1)}@[1C 02 01]!" next
-    "@It looks like you're really in a lot of trouble this time..." next
-    "@Three boys,{pause(15)} he said?  ...Uhhh..." next
-    "@I'm not one of those three, am I?..." next
-    "@...'Cause... I'm not into this kind of thing at all..." next
-    "@Geez.{pause(20)}  My heart is almost pounding right out of my chest!...[03]{window_closeall}[1F 66 01 2B 01 75 C6 00]" eob
-
-l_0xc5ef3e:
-    "[06 68 00 {e(l_0xc5f1d1)}]@I'm really sorry that my kids troubled you so much..." next
-    "@Both of you are really going to get it now![03]{window_closeall}[1F EA 5B 01][1F E9 2D 00][1F 12 05][1F 15 2C 00 51 00 01][1F 12 06][1F 15 2D 00 52 00 01][1F 61][1F F1 2C 00 53 00][1F 61][1F E6 2D 00][19 22 01 02 2C 00][1F 13 01 00]{window_open(1)}@By the way, I would be happy if you left sometime soon." next
-    "@I'm tired of your family living next door." next
-    "@We've loaned your father a lot of money." next
-    "@It may have been a hundred thousand dollars or more..." next
-    "@Well, I guess it really could have been less," next
-    "@but because of the loan,{pause(15)} my family and I now live in poverty![03]{window_closeall}[1F EA 5B 01][1F F1 2C 00 0C 00][1F F1 2D 00 54 00][1F 61][1F E6 2C 00][19 22 01 02 2D 00][1F 13 01 00]{window_open(1)}@My husband is much too lenient with the children." next
-    "@Oh well,{pause(15)} nice guys finish last.{pause(20)}  That's the story of our life..." next
-    "{window_closeall}[1F EA 5B 01][1F E9 2C 00][1F E9 2D 00][1F F2 5B 01 34 00]{unset(flag 2)}[1F 61]{pause(120)}[1F E7 5B 01][1F E6 2C 00][1F E6 2D 00]{window_open(1)}@Aya{pause(5)}a{pause(5)}a{pause(5)}e{pause(5)}e{pause(5)}e!" next
-    "@I think it's a dung beetle!{pause(15)}  I'll smash your guts out![03]{window_closeall}[1F EA 5B 01][1F F1 2D 00 76 02][1F 61]{music(113)}{set(flag 2)}[1F 61]{set(flag 104)}[1F 1F 5B 01 06][1F 17 2E 00 08 00 01][1F E9 2C 00][1F F1 2D 00 0C 00]{set(flag 303)}{set(flag 31)}{set(flag 35)}{set(flag 34)}{set(flag 633)}{unset(flag 21)}{unset(flag 20)}{unset(flag 18)}{unset(flag 11)}{set(flag 107)}[1F 66 01 2A FB F1 C5 00]{set(flag 479)}{set(flag 480)}{set(flag 481)}{set(flag 487)}{set(flag 488)}{set(flag 493)}{set(flag 495)}{set(flag 496)}{set(flag 500)}{set(flag 501)}{set(flag 502)}{set(flag 503)}{set(flag 505)}{set(flag 506)}" eob
-
-l_0xc5f1d1:
-    "@*Sigh*{pause(15)} ...I'm so tired... nag,{pause(5)} nag,{pause(5)} nag..." end
-
-l_0xc5f1fb:
-    "{isset(flag 303)}[1B 02 {e(data_35.l_0xc7c588)}][1F 1A 2E 00 03]{pause(60)}[1F 1B 2E 00][19 22 01 02 2E 00][1F 13 01 00][1F 01 00]{window_open(1)}@Agh!{pause(15)} *Gasp*{pause(30)}" linebreak
-    "  I was..." next
-    "@...much weaker than I thought..." next
-    "@So you must now begin your adventure..." next
-    "@see..." next
-    "@you...{wait}{window_closeall}{pause(60)}" linebreak
-    "{pause(60)}" linebreak
-    "{window_open(1)}@Oh,{pause(15)} I just remembered..." next
-    "@Listen to my final words..." next
-    "{pause(60)}" linebreak
-    "{pause(60)}" linebreak
-    "{music(119)}" goto(l_0xc5f2ad)
-
-l_0xc5f2ad:
-    "@To defeat Giygas, your own power must unite with the Earth's..." next
-    "@the Earth will then channel your power and multiply it..." next
-    "@There are eight points that you must visit.{pause(20)}  Make these places your own..." next
-    "@Each of these locations is <Your Sanctuary.>" next
-    "@One of them is near Onett.{pause(20)}  It is called <Giant Step.>" next
-    "@Go there first..." next
-    "@Do you understand?" linebreak
-    "[19 02]Yes" eob
-
-l_0xc5f388:
-    " [19 02]No" eob
-
-l_0xc5f38e:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5f3d2)} {e(l_0xc5f39d)}]" goto(l_0xc5f39d)
-
-l_0xc5f39d:
-    "@...I see." next
-    "@I apologize.{pause(20)}  I guess I didn't explain it well enough..." next
-    goto(l_0xc5f2ad)
-
-l_0xc5f3d2:
-    "@All right." next
-    "@You are a very intelligent young man...{pause(15)} and..." next
-    "@Oh!{pause(15)}  The pain!...{pause(20)} Everything is getting dark..." next
-    "@urgh!...{pause(15)} *Gasp*..." next
-    "@Before I pass on,{pause(15)} I want to give you something..." next
-    "@It is the Sound Stone." next
-    "@You can record the melodies from the eight <Your Sanctuary> locations" next
-    "@into this stone.{pause(20)}  It is an awesome item..." next
-    "@By the way...{pause(15)} I'm almost gone," next
-    "@but did you want to hear the story one more time?" linebreak
-    "[19 02]Yes" eob
-
-l_0xc5f4df:
-    " [19 02]No" eob
-
-l_0xc5f4e5:
-    "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5f564)} {e(l_0xc5f4f4)}]" goto(l_0xc5f4f4)
-
-l_0xc5f4f4:
-    "@Good!" next
-    "[1D 03 FF][1B 02 {e(l_0xc5f575)}]@It's already dawn outside..." next
-    "@But it doesn't matter to me.{pause(20)}  I'm fading fast..." next
-    "@Argh!{pause(15)} *Gasp*[03][1D 0E 00 C4]" call(data_36.l_0xc7dcb6) "{wait}" goto(l_0xc5f551)
-
-l_0xc5f551:
-    "{window_closeall}{pause(1)}[1F F1 2E 00 7B 02]{unset(flag 303)}[1F 67 01]{music_resume}" eob
-
-l_0xc5f564:
-    "@Oh,{pause(20)} okay..." next
-    goto(l_0xc5f2ad)
-
-l_0xc5f575:
-    "@What the...?" next
-    "@It seems that you have too many things to carry already..." next
-    "@Since you can't take it,{pause(15)} I'll give it to your sister." next
-    "@In the blink of an eye,{pause(15)} like magic,{pause(15)} she'll have it." next
-    "@Ee{pause(5)}eyah!" next
-    "@....." next
-    "@It's already dawn outside..." next
-    "@but it doesn't matter to me.{pause(15)}  I'm fading fast...{pause(20)}  Argh!{pause(15)} *Gasp*{wait}{set(flag 627)}" goto(l_0xc5f551)
-
-l_0xc5f639:
-    "[1F F1 77 00 38 00][1F 61]" eob
-
-l_0xc5f642:
-    eob
-
-l_0xc5f643:
-    "[1F E9 CD 00]{pause(20)}{set(flag 307)}{unset(flag 306)}" eob
-
-l_0xc5f650:
-    "[1F E9 65 00][1F 61]" eob
-
-l_0xc5f657:
-    "{window_open(1)}@Be quiet!!" linebreak
-    "  Don't get so upset!{wait}{window_closeall}" eob
-
-l_0xc5f679:
-    "{window_open(1)}@Doesn't it seem like restrooms in bookstores and libraries are always crowded?{wait}{window_closeall}" eob
-
-l_0xc5f6b2:
-    "[06 02 00 {e(l_0xc5f6fa)}][06 67 00 {e(l_0xc5f72e)}]@'Scuse me!  Just ten more minutes, please!" next
-    "@Show some self control, will ya!{wait}{set(flag 103)}{set(flag 2)}" eob
-
-l_0xc5f6fa:
-    "@'Scuse me!  Just ten more minutes, please!" next
-    "@Show some self control, will ya!" end
-
-l_0xc5f72e:
-    "[03]" eob
-
-l_0xc5f730:
-    "@Sorry for keeping your waiting!" next
-    "@Do you need a change of pants?@Ah ha ha ha!" end
-
-l_0xc5f760:
-    "[1F 1A 58 00 03]{pause(60)}[1F 1B 58 00][1F F1 58 00 3D 00][1F 61][1F E6 58 00]{window_open(1)}@The Mayor is busting his butt with all the troubles in town," next
-    "@like the Sharks and the meteorite..." next
-    "@Hey, are you the guy who's trying to reform the Sharks?" next
-    "@Wa ho!  Wa ho!  Wa ho!" next
-    "@You've got to be kidding!" next
-    "@Scram![03]{window_closeall}[1F E9 58 00][1F 15 ED 00 3E 00 01]{pause(1)}[1F EF ED 00][1F E8 FF][1F 61][1F ED][1F 21 40]{set(flag 2)}" eob
-
-l_0xc5f828:
-    "@Thank you so much for all of your help..." end
-
-l_0xc5f83b:
-    "[1F 13 01 03]{pause(30)}[1F F1 7E 00 85 00][1F 61][1F E6 7E 00]" call(data_30.l_0xc743b0) "[1F E9 7E 00]{pause(80)}" eob
-
-l_0xc5f859:
-    "{unset(flag 449)}[1F F1 47 00 DE 00][1F 15 6A 00 E1 00 01]" call(data_57.l_0xc9b4b8) "[1F 15 4B 00 DF 00 FF][1F 21 43][1F 15 6A 00 E2 00 01]" call(data_57.l_0xc9b4b8) "[1F 15 4B 00 E0 00 FF][1F 21 44][1F 15 6A 00 E3 00 01]" call(data_57.l_0xc9b4b8) "[1F 1F 6A 00 06][1F E7 4B 00][1F 07 02]{pause(10)}{window_open(1)}@Show me what you got..." next
-    "{pause(20)}" linebreak
-    "{set(flag 6)}{music_resume}@See if you can get past five of my best men...[03]{window_closeall}[1F EA 4B 00][1F 61][1F F1 4D 00 E8 00][1F F1 4C 00 E7 00][1F F1 4B 00 E6 00][1F F1 4A 00 E5 00][1F F1 49 00 E4 00][1F 61]{pause(30)}[1F F1 49 00 E9 00][1F 61]{window_open(1)}" goto(l_0xc5f914)
-
-l_0xc5f914:
-    "@Eeeeyah!" next
-    "@Hey, small fry!" linebreak
-    "  You must be shaking in your boots![03]" call(data_23.l_0xc68441) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
-    "@You're tough.  You should join the police force!{wait}{set(flag 289)}{window_closeall}[1F F1 49 00 EE 00][1F 61]{pause(30)}[1F F1 4A 00 EA 00][1F 61]{window_open(1)}" goto(l_0xc5f984)
-
-l_0xc5f984:
-    "@Your average policeman is stronger than any super hero![03]" call(data_23.l_0xc68448) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
-    "@Oh... you won...{wait}{set(flag 290)}{window_closeall}[1F F1 4A 00 EE 00][1F 61]{pause(30)}[1F F1 4B 00 EB 00][1F 61]{window_open(1)}" goto(l_0xc5f9dd)
-
-l_0xc5f9dd:
-    "@Don't let the Mayor's compliments give you a big head..." next
-    "@Bring it on, fat boy![03]" call(data_23.l_0xc6844f) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
-    "@Let's do this again sometime..." next
-    "@Next time, I'll take you out with my nuclear suplex attack!{wait}{set(flag 291)}{window_closeall}[1F F1 4B 00 EE 00][1F 61]{pause(30)}[1F F1 4C 00 EC 00][1F 61]{window_open(1)}" goto(l_0xc5fa72)
-
-l_0xc5fa72:
-    "@C'mon!" linebreak
-    "  I'm going to take you apart right here, right now, baby![03]" call(data_23.l_0xc68456) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
-    "@Grrr..." linebreak
-    "  I lost...{wait}{set(flag 292)}{window_closeall}[1F F1 4C 00 EE 00][1F 61]{pause(30)}[1F F1 4D 00 ED 00][1F 61]{window_open(1)}@That's it, buddy..." next
-    "@You can forget about me, I'm going to call for my boss!" next
-    "{set(flag 293)}{window_closeall}[1F F1 4D 00 EE 00][1F 61]{pause(30)}[1F F2 4B 00 EF 00][1F 61]{window_open(1)}@There is no way I can beat you in a straight competition, so..." next
-    "@get ready for my <Super Ultra Mambo-Tango-Foxtrot martial arts!>{wait}" call(data_23.l_0xc68464) "[1B 03 {e(data_23.l_0xc683de)}][1F 01 00]{pause(60)}{window_open(1)}" newline
-    "@I didn't think you would do so well against the mighty Onett police force..." next
-    "@You want me to open the road to Twoson?" next
-    "@Hang on for a sec, I'll radio my staff and give them the word..." next
-    "{window_closeall}{unset(flag 38)}{unset(flag 39)}[1F E4 4B 00 05][1F F3 4B 00 02]{pause(60)}{window_open(1)}@*Beep, beep* ...*Click*... *Rrrr*" next
-    "@*Click*  Strong here... do you read me?" next
-    "@...*Krrrr* ...Hey!..." next
-    "@...It's me, Captain Strong!..." next
-    "@Okay, listen, a kid named [1C 02 01] will be there in a few minutes..." next
-    "@He's a kid in a red cap... I want you to open the road to Twoson for him..." next
-    "@I know that..." next
-    "@I know that!..." next
-    "@Don't ask me why, just do it!  That's an order! ...Strong out...{wait}{window_closeall}{pause(60)}[1F F4 4B 00]{pause(30)}{unset(flag 6)}{music_resume}{pause(60)}[19 24 4B 00 01 01 00][1F E4 4B 00 00]{window_open(1)}@Well kid, I'm not going to question you now," next
-    "@but I do want to see you again..." next
-    "@Good luck!{wait}{window_closeall}[1F F2 4B 00 6B 02][1F 61]{set(flag 105)}{unset(flag 450)}{unset(flag 35)}{unset(flag 37)}{unset(flag 742)}" eob
-
-l_0xc5fd72:
-    call(l_0xc5ff12) "[1B 03 {e(l_0xc5ff4e)}][19 10 01]{rtoarg}@([1C 02 00] checked the bus schedule.)" next
-    "[06 0A 00 {e(l_0xc5fdca)}]@(It looks like the next bus will come pretty soon.)[03]{window_closeall}[1F 15 CD 00 40 00 01][1F 61]{set(flag 10)}" eob
-
-l_0xc5fdca:
-    "@(It looks like it's going to be a while before the next bus comes.)" end
-
-l_0xc5fdea:
-    "{isset(flag 71)}[1B 02 {e(l_0xc5feac)}]" call(l_0xc5fef4) "[1B 03 {e(l_0xc5ff4e)}][19 10 01]{rtoarg}@([1C 02 00] checked the bus schedule.)" next
-    "[06 0A 00 {e(l_0xc5fdca)}]@(It looks like the next bus will come pretty soon.)[03]{window_closeall}[1F 15 CD 00 CA 00 01][1F 61]{set(flag 10)}" eob
-
-l_0xc5fe4b:
-    "{isset(flag 71)}[1B 02 {e(l_0xc5feac)}]" call(l_0xc5ff03) "[1B 03 {e(l_0xc5ff4e)}][19 10 01]{rtoarg}@([1C 02 00] checked the bus schedule.)" next
-    "[06 0A 00 {e(l_0xc5fdca)}]@(It looks like the next bus will come pretty soon.)[03]{window_closeall}[1F 15 CD 00 CE 00 01][1F 61]{set(flag 10)}" eob
-
-l_0xc5feac:
-    "@Due to hazardous conditions," linebreak
-    "  bus service has been canceled in this area." next
-    "@(Zombie Relief Corps.)" end
-
-l_0xc5fef4:
-    "[19 10 01][19 22 00 02 3A 02]" call(l_0xc5ffb7) eob
-
-l_0xc5ff03:
-    "[19 10 01][19 22 00 02 44 02]" call(l_0xc5ff82) eob
-
-l_0xc5ff12:
-    "[19 10 01][19 22 00 02 60 01]" call(l_0xc5ff82) eob
-
-l_0xc5ff21:
-    "[19 10 01][19 22 00 02 16 03]" call(l_0xc5ffb7) eob
-
-l_0xc5ff30:
-    "[19 10 01][19 22 00 02 17 03]" call(l_0xc5ff82) eob
-
-l_0xc5ff3f:
-    "[19 10 01][19 22 00 02 CC 03]" call(l_0xc5ffb7) eob
-
-l_0xc5ff4e:
-    "@Danger!" next
-    "@Do not stand in the street." next
-    "@(Read the schedule from the sidewalk.)" end
-
-l_0xc5ff82:
-    "{swap}{store_registers}{result_is(4)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(5)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(6)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(3)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(7)}[1B 03 {e(data_55.l_0xc9992f)}]" eob
-
-l_0xc5ffb7:
-    "{swap}{store_registers}{result_is(1)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(2)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(8)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(3)}[1B 03 {e(data_55.l_0xc9992f)}]{load_registers}{result_is(7)}[1B 03 {e(data_55.l_0xc9992f)}]" eob
-
-l_0xc60000:
-    call(data_13.l_0xc5d3a1) eob
-
-l_0xc60006:
-    "[19 10 01]@" call(data_37.l_0xc7e6c5) ", we also have motel facilities." call(data_49.l_0xc91693) eob
-
-l_0xc6002c:
-    "@It's a small house, but please stay the night.[03]" call(data_48.l_0xc90f7d) call(data_49.l_0xc915d6) call(data_49.l_0xc91582) "[1F 21 2C][06 F5 02 {e(l_0xc6005f)}]" eob
-
-l_0xc6005f:
-    "[1F E5 FF][1D 03 FF][1B 02 {e(l_0xc600a4)}]{window_open(1)}@Here, I'll give you this now... for sure." next
-    "[1D 03 FF][1B 02 {e(l_0xc600a4)}][1D 0E 00 B6]{set(flag 90)}{unset(flag 757)}" call(data_36.l_0xc7dcb6) "{wait}{window_closeall}[1F E8 FF]" eob
-
-l_0xc600a4:
-    "{window_open(1)}@Come on!{pause(20)}  You haven't got room again!" next
-    "@Please take care of it right away.{wait}{window_closeall}[1F E8 FF]" eob
-
-l_0xc600d5:
-    "@This traffic jam is taking forever." next
-    "@...Man, do I need to go..." end
-
-l_0xc60100:
-    "@I heard that a little ways ahead a herd of buffalo is running across the road." next
-    "@I can't move an inch!" end
-
-l_0xc60140:
-    "@I feel sorry for the guys behind me, but I'm so bent," next
-    "@I'm leaving my car here and walking instead!" end
-
-l_0xc60180:
-    "@I was going to see my girlfriend in Fourside..." next
-    "@At this pace I'll be 100 years old by the time I get there!" end
-
-l_0xc601c0:
-    "@We sleep in the desert, so we're often mistaken for corpses." next
-    "@But a corpse doesn't usually wear a bathing suit, right?" next
-    "@...Hey,{pause(15)} stop staring at my tan lines...{pause(20)} Go away." end
-
-l_0xc60239:
-    "@Annoying kids...{pause(20)}  What a group of brats!..." next
-    "@Scat you little monsters!" end
-
-l_0xc6026c:
-    "@(I lost a pair of contact lenses here in the Dusty Dunes Desert." next
-    "@They were a momento from my grandma, and very important to me." next
-    "@If you find them, bring them to me and I'll give you a reward." next
-    "@I'm Penetella Giovanni." next
-    "@Find me at the Fourside Bakery, second floor.)[06 E0 02 {e(l_0xc60322)}]" end
-
-l_0xc60322:
-    next
-    "@(Thank you, I found them.{pause(20)}  Thanks again for all your help.)" end
-
-l_0xc60349:
-    "[06 F5 02 {e(l_0xc6058f)}][06 5A 00 {e(l_0xc6058f)}][06 48 00 {e(l_0xc6050b)}][06 89 00 {e(l_0xc604db)}]@This hole's great!{pause(20)}  Good hole, good hole, good hole..." next
-    "@First,{pause(15)} someone asked me to dig for buried gold." next
-    "@I began to feel like I was obligated to find it." next
-    "@Man, am I starving." next
-    "@Do you have any food you can spare?" linebreak
-    call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc6044c)} {e(l_0xc60400)}]" goto(l_0xc60400)
-
-l_0xc60400:
-    "@The humanitarian thing is to help people out when they're hungry." next
-    "@Although I hate it, [1C 05 5F] would work for me..." goto(l_0xc605d9)
-
-l_0xc6044c:
-    "@Seems like you have a lot of stuff." next
-    "@What are you gonna give me?[03]{open_hp}" call(data_15.l_0xc5e456) newline
-    "[1B 02 {e(l_0xc60400)}]{store_registers}[19 19 00 00][1D 02 03][1B 02 {e(l_0xc604c9)}]{load_registers}[1D 0F 00 00]{sound(118)}@Thank you.{pause(20)}  If I find the gold, I'll give it to you.{wait}{set(flag 137)}{set(flag 55)}{set(flag 54)}[06 5F 02 {e(l_0xc604c5)}]" eob
-
-l_0xc604c5:
-    "{set(flag 608)}" eob
-
-l_0xc604c9:
-    "@Come on!{pause(20)}  I can't eat this!" eob
-
-l_0xc604db:
-    "@I'm still hard at work digging and digging.{pause(20)}  Hey, wait a second." goto(l_0xc605d9)
-
-l_0xc6050b:
-    "@You've gotten rid of the monster?!" next
-    "@Good job." next
-    "@Ok, from here on, just let me dig...{pause(15)}  You'll see,{pause(15)} I'll find the buried gold!" next
-    "@Before I start digging I'm going to set a careful plan of action...{wait}{set(flag 272)}{set(flag 55)}" eob
-
-l_0xc6058f:
-    "@If we could just find a diamond even..." next
-    "@It's a shame that a digger like me can't find buried gold." next
-    "@I'll try even harder." goto(l_0xc605d9)
-
-l_0xc605d9:
-    end
-
+0:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_02.l_0xc539c4
+  Misc Flags: []
+  Name: 'Null'
+  Type: 255
+1:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53711
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Медаль[90]Франклина"#Franklin badge
+  Type: 0
+2:
+  Action: 1
+  Argument:
+  - 16
+  - 1
+  - 2
+  - 0
+  Cost: 178
+  Help Text Pointer: data_02.l_0xc53750
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Плюшевый[90]мишка"#Teddy bear
+  Type: 4
+3:
+  Action: 1
+  Argument:
+  - 17
+  - 1
+  - 1
+  - 0
+  Cost: 1198
+  Help Text Pointer: data_02.l_0xc53761
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Супер[90]плюш[90]мишка"#Super plush bear
+  Type: 4
+4:
+  Action: 1
+  Argument:
+  - 0
+  - 1
+  - 131
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53772
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Разбитый[90]механизм"#Broken machine
+  Type: 8
+5:
+  Action: 1
+  Argument:
+  - 0
+  - 34
+  - 215
+  - 0
+  Cost: 109
+  Help Text Pointer: data_02.l_0xc537bc
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанная[90]безделушка"#Broken gadget
+  Type: 8
+6:
+  Action: 1
+  Argument:
+  - 0
+  - 12
+  - 39
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53809
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Неиспр[90]духовое[90]ружье"#Broken air gun
+  Type: 8
+7:
+  Action: 1
+  Argument:
+  - 0
+  - 1
+  - 161
+  - 0
+  Cost: 189
+  Help Text Pointer: data_02.l_0xc5382a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанн.[90]баллончик"#Broken spray can
+  Type: 8
+8:
+  Action: 1
+  Argument:
+  - 0
+  - 24
+  - 41
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc5384d
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанн.[90]лазер"#Broken laser
+  Type: 8
+9:
+  Action: 1
+  Argument:
+  - 0
+  - 10
+  - 138
+  - 0
+  Cost: 149
+  Help Text Pointer: data_02.l_0xc53870
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанн.[90]утюг"#Broken iron
+  Type: 8
+10:
+  Action: 1
+  Argument:
+  - 0
+  - 30
+  - 132
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53897
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Изогнутая[90]труба"#Broken pipe
+  Type: 8
+11:
+  Action: 1
+  Argument:
+  - 0
+  - 32
+  - 44
+  - 0
+  Cost: 218
+  Help Text Pointer: data_02.l_0xc538bc
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанная[90]пушка"#Broken cannon
+  Type: 8
+12:
+  Action: 1
+  Argument:
+  - 0
+  - 36
+  - 136
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc538e0
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Поломанн.[90]тюбик"#Broken tube
+  Type: 8
+13:
+  Action: 1
+  Argument:
+  - 0
+  - 45
+  - 134
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53908
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Неисправная[90]базука"#Broken bazooka
+  Type: 8
+14:
+  Action: 1
+  Argument:
+  - 0
+  - 40
+  - 157
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53929
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Неисправн.[90]тромбон"#Broken trumpet
+  Type: 8
+15:
+  Action: 1
+  Argument:
+  - 0
+  - 55
+  - 46
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53960
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Поломанная[90]гормошка"#Broken harmonica
+  Type: 8
+16:
+  Action: 1
+  Argument:
+  - 0
+  - 65
+  - 48
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc5398e
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сломанная[90]антенна"#Broken antenna
+  Type: 8
+17:
+  Action: 239
+  Argument:
+  - 4
+  - 0
+  - 0
+  - 1
+  Cost: 18
+  Help Text Pointer: data_02.l_0xc539c4
+  Misc Flags:
+  - ness can use
+  Name: "Треснувш.[90]бита"#Cracked bat
+  Type: 16
+18:
+  Action: 239
+  Argument:
+  - 8
+  - 0
+  - 0
+  - 1
+  Cost: 48
+  Help Text Pointer: data_02.l_0xc539d4
+  Misc Flags:
+  - ness can use
+  Name: "Детская[90]бита"#Tee ball bat
+  Type: 16
+19:
+  Action: 239
+  Argument:
+  - 15
+  - 0
+  - 0
+  - 1
+  Cost: 98
+  Help Text Pointer: data_02.l_0xc539e4
+  Misc Flags:
+  - ness can use
+  Name: "Пустырная[90]бита"#Sand lot bat
+  Type: 16
+20:
+  Action: 239
+  Argument:
+  - 26
+  - 0
+  - 0
+  - 1
+  Cost: 399
+  Help Text Pointer: data_02.l_0xc539f4
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]низш.[90]лиги"#Minor league bat
+  Type: 16
+21:
+  Action: 239
+  Argument:
+  - 38
+  - 0
+  - 0
+  - 1
+  Cost: 498
+  Help Text Pointer: data_02.l_0xc53a04
+  Misc Flags:
+  - ness can use
+  Name: "Бита <Мстр.[90]Бейсбол>"#Mr. Baseball bat
+  Type: 16
+22:
+  Action: 239
+  Argument:
+  - 54
+  - 0
+  - 0
+  - 1
+  Cost: 3080
+  Help Text Pointer: data_02.l_0xc53a14
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]высш.[90]лиги"#Big league bat
+  Type: 16
+23:
+  Action: 239
+  Argument:
+  - 62
+  - 0
+  - 0
+  - 1
+  Cost: 1880
+  Help Text Pointer: data_02.l_0xc53a47
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]зала[90]славы"#Hall of fame bat
+  Type: 16
+24:
+  Action: 239
+  Argument:
+  - 80
+  - 0
+  - 0
+  - 1
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53a57
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]Магинета"#Magicant bat
+  Type: 16
+25:
+  Action: 239
+  Argument:
+  - 110
+  - 0
+  - 0
+  - 1
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53a67
+  Misc Flags:
+  - ness can use
+  Name: "Легендарн.[90]бита"#Legendary bat
+  Type: 16
+26:
+  Action: 239
+  Argument:
+  - 100
+  - 0
+  - 127
+  - 1
+  Cost: 2980
+  Help Text Pointer: data_02.l_0xc53a77
+  Misc Flags:
+  - ness can use
+  Name: "Бесстрашн.[90]бита"#Gutsy bat
+  Type: 16
+27:
+  Action: 239
+  Argument:
+  - 125
+  - 0
+  - 0
+  - 12
+  Cost: 38
+  Help Text Pointer: data_02.l_0xc53a9f
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]Кейси"#Casey bat
+  Type: 16
+28:
+  Action: 239
+  Argument:
+  - 10
+  - 0
+  - 0
+  - 1
+  Cost: 56
+  Help Text Pointer: data_02.l_0xc53ae6
+  Misc Flags:
+  - paula can use
+  Name: "Сковородка"#Fry pan
+  Type: 16
+29:
+  Action: 239
+  Argument:
+  - 20
+  - 0
+  - 0
+  - 1
+  Cost: 198
+  Help Text Pointer: data_02.l_0xc53af6
+  Misc Flags:
+  - paula can use
+  Name: "Толст.[90]сковородка"#Thick fry pan
+  Type: 16
+30:
+  Action: 239
+  Argument:
+  - 30
+  - 0
+  - 0
+  - 1
+  Cost: 598
+  Help Text Pointer: data_02.l_0xc53b06
+  Misc Flags:
+  - paula can use
+  Name: "Роскошн.[90]сковородка"#Deluxe fry pan
+  Type: 16
+31:
+  Action: 239
+  Argument:
+  - 40
+  - 0
+  - 0
+  - 1
+  Cost: 1198
+  Help Text Pointer: data_02.l_0xc53b16
+  Misc Flags:
+  - paula can use
+  Name: "Сковородка[90]шефа"#Chef's fry pan
+  Type: 16
+32:
+  Action: 239
+  Argument:
+  - 60
+  - 0
+  - 0
+  - 1
+  Cost: 1790
+  Help Text Pointer: data_02.l_0xc53b26
+  Misc Flags:
+  - paula can use
+  Name: "Французк.[90]сковородка"#French fry pan
+  Type: 16
+33:
+  Action: 239
+  Argument:
+  - 50
+  - 0
+  - 100
+  - 4
+  Cost: 4790
+  Help Text Pointer: data_02.l_0xc53b36
+  Misc Flags:
+  - paula can use
+  Name: "Магич.[90]сковородка"#Magic fry pan
+  Type: 16
+34:
+  Action: 239
+  Argument:
+  - 80
+  - 0
+  - 10
+  - 1
+  Cost: 3480
+  Help Text Pointer: data_02.l_0xc53b46
+  Misc Flags:
+  - paula can use
+  Name: "Святая[90]сковородка"#Holy fry pan
+  Type: 16
+35:
+  Action: 239
+  Argument:
+  - 10
+  - 30
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_02.l_0xc53b56
+  Misc Flags:
+  - poo can use
+  Name: "Меч[90]Королей"#Sword of kings
+  Type: 16
+36:
+  Action: 239
+  Argument:
+  - 16
+  - 0
+  - 0
+  - 0
+  Cost: 110
+  Help Text Pointer: data_03.l_0xc53b76
+  Misc Flags:
+  - jeff can use
+  Name: "Пугач"#Pop gun
+  Type: 17
+37:
+  Action: 239
+  Argument:
+  - 24
+  - 0
+  - 0
+  - 0
+  Cost: 150
+  Help Text Pointer: data_03.l_0xc53b86
+  Misc Flags:
+  - jeff can use
+  Name: "Электрошокер"#Stun gun
+  Type: 17
+38:
+  Action: 239
+  Argument:
+  - 32
+  - 0
+  - 0
+  - 0
+  Cost: 215
+  Help Text Pointer: data_03.l_0xc53b96
+  Misc Flags:
+  - jeff can use
+  Name: "Игрушечн.[90]пистолет"#Toy air gun
+  Type: 17
+39:
+  Action: 239
+  Argument:
+  - 36
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53ba6
+  Misc Flags:
+  - jeff can use
+  Name: "Пневматич.[90]Магнум"#Magnum air gun
+  Type: 17
+40:
+  Action: 239
+  Argument:
+  - 40
+  - 0
+  - 0
+  - 0
+  Cost: 425
+  Help Text Pointer: data_03.l_0xc53bb6
+  Misc Flags:
+  - jeff can use
+  Name: "Почтовый[90]пистолет"#Zip gun
+  Type: 17
+41:
+  Action: 239
+  Argument:
+  - 48
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53bc6
+  Misc Flags:
+  - jeff can use
+  Name: "Лазерн.[90]пистолет"#Laser gun
+  Type: 17
+42:
+  Action: 239
+  Argument:
+  - 58
+  - 0
+  - 0
+  - 0
+  Cost: 850
+  Help Text Pointer: data_03.l_0xc53bd6
+  Misc Flags:
+  - jeff can use
+  Name: "Гипер[90]луч"#Hyper beam
+  Type: 17
+43:
+  Action: 239
+  Argument:
+  - 72
+  - 0
+  - 0
+  - 0
+  Cost: 1150
+  Help Text Pointer: data_03.l_0xc53be6
+  Misc Flags:
+  - jeff can use
+  Name: "Дробильн.[90]луч"#Crusher beam
+  Type: 17
+44:
+  Action: 239
+  Argument:
+  - 78
+  - 0
+  - 0
+  - 0
+  Cost: 1650
+  Help Text Pointer: data_03.l_0xc53bf6
+  Misc Flags:
+  - jeff can use
+  Name: "Спектральн.[90]луч"#Spectrum beam
+  Type: 17
+45:
+  Action: 239
+  Argument:
+  - 90
+  - 0
+  - 0
+  - 0
+  Cost: 2300
+  Help Text Pointer: data_03.l_0xc53c06
+  Misc Flags:
+  - jeff can use
+  Name: "Смертельн.[90]луч"#Death ray
+  Type: 17
+46:
+  Action: 239
+  Argument:
+  - 98
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53c16
+  Misc Flags:
+  - jeff can use
+  Name: "Наикрутейший[90]луч"#Baddest beam
+  Type: 17
+47:
+  Action: 239
+  Argument:
+  - 110
+  - 0
+  - 0
+  - 0
+  Cost: 4450
+  Help Text Pointer: data_03.l_0xc53c26
+  Misc Flags:
+  - jeff can use
+  Name: "Лунная[90]лучепушка"#Moon beam gun
+  Type: 17
+48:
+  Action: 239
+  Argument:
+  - 125
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53c36
+  Misc Flags:
+  - jeff can use
+  Name: "Гайя[90]луч"#Gaia beam
+  Type: 17
+49:
+  Action: 239
+  Argument:
+  - 6
+  - 250
+  - 0
+  - 3
+  Cost: 29
+  Help Text Pointer: data_03.l_0xc53c46
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Йо-йо"#Yo-yo
+  Type: 17
+50:
+  Action: 239
+  Argument:
+  - 12
+  - 244
+  - 0
+  - 3
+  Cost: 89
+  Help Text Pointer: data_03.l_0xc53c5f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Рогатка"#Slingshot
+  Type: 17
+51:
+  Action: 239
+  Argument:
+  - 32
+  - 224
+  - 0
+  - 3
+  Cost: 449
+  Help Text Pointer: data_03.l_0xc53c7a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Бионич.[90]рогатка"#Bionic slingshot
+  Type: 17
+52:
+  Action: 239
+  Argument:
+  - 46
+  - 210
+  - 0
+  - 3
+  Cost: 998
+  Help Text Pointer: data_03.l_0xc53c95
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Трюковая[90]йо-йо"#Trick yo-yo
+  Type: 17
+53:
+  Action: 239
+  Argument:
+  - 54
+  - 202
+  - 0
+  - 3
+  Cost: 1148
+  Help Text Pointer: data_03.l_0xc53caf
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Боевое[90]йо-йо"#Combat yo-yo
+  Type: 17
+54:
+  Action: 240
+  Argument:
+  - 0
+  - 216
+  - 0
+  - 64
+  Cost: 60
+  Help Text Pointer: data_03.l_0xc53cc8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Дорожн.[90]брелок"#Travel charm
+  Type: 20
+55:
+  Action: 240
+  Argument:
+  - 1
+  - 216
+  - 5
+  - 128
+  Cost: 400
+  Help Text Pointer: data_03.l_0xc53cd8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Великий[90]брелок"#Great charm
+  Type: 20
+56:
+  Action: 240
+  Argument:
+  - 2
+  - 216
+  - 15
+  - 192
+  Cost: 600
+  Help Text Pointer: data_03.l_0xc53d00
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Кристальн.[90]брелок"#Crystal charm
+  Type: 20
+57:
+  Action: 240
+  Argument:
+  - 3
+  - 216
+  - 40
+  - 192
+  Cost: 1800
+  Help Text Pointer: data_03.l_0xc53d21
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Кроличья[90]лапа"#Rabbit's foot
+  Type: 20
+58:
+  Action: 240
+  Argument:
+  - 15
+  - 216
+  - 0
+  - 3
+  Cost: 3000
+  Help Text Pointer: data_03.l_0xc53d46
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пламенн.[90]кулон"#Flame pendant
+  Type: 20
+59:
+  Action: 240
+  Argument:
+  - 15
+  - 216
+  - 0
+  - 12
+  Cost: 3000
+  Help Text Pointer: data_03.l_0xc53d6a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Дождевой[90]кулон"#Rain pendant
+  Type: 20
+60:
+  Action: 240
+  Argument:
+  - 15
+  - 216
+  - 0
+  - 48
+  Cost: 3000
+  Help Text Pointer: data_03.l_0xc53d8f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ночной[90]кулон"#Night pendant
+  Type: 20
+61:
+  Action: 240
+  Argument:
+  - 20
+  - 216
+  - 0
+  - 63
+  Cost: 5000
+  Help Text Pointer: data_03.l_0xc53db8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Морской[90]кулон"#Sea pendant
+  Type: 20
+62:
+  Action: 240
+  Argument:
+  - 30
+  - 216
+  - 0
+  - 255
+  Cost: 7000
+  Help Text Pointer: data_03.l_0xc53de8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Звёздн.[90]кулон"#Star pendant
+  Type: 20
+63:
+  Action: 240
+  Argument:
+  - 176
+  - 20
+  - 40
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53e23
+  Misc Flags:
+  - poo can use
+  Name: "Плащ[90]Королей"#Cloak of kings
+  Type: 20
+64:
+  Action: 240
+  Argument:
+  - 5
+  - 216
+  - 0
+  - 0
+  Cost: 98
+  Help Text Pointer: data_03.l_0xc53e4f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Дешёвый[90]браслет"#Cheap bracelet
+  Type: 24
+65:
+  Action: 240
+  Argument:
+  - 10
+  - 216
+  - 0
+  - 0
+  Cost: 349
+  Help Text Pointer: data_03.l_0xc53e5f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Медн.[90]браслет"#Copper bracelet
+  Type: 24
+66:
+  Action: 240
+  Argument:
+  - 15
+  - 216
+  - 0
+  - 0
+  Cost: 599
+  Help Text Pointer: data_03.l_0xc53e6f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Серебрянн.[90]браслет"#Silver bracelet
+  Type: 24
+67:
+  Action: 240
+  Argument:
+  - 30
+  - 216
+  - 0
+  - 0
+  Cost: 2799
+  Help Text Pointer: data_03.l_0xc53e7f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Золотой[90]браслет"#Gold bracelet
+  Type: 24
+68:
+  Action: 240
+  Argument:
+  - 40
+  - 216
+  - 0
+  - 0
+  Cost: 6899
+  Help Text Pointer: data_03.l_0xc53e8f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Платин.[90]браслет"#Platinum band
+  Type: 24
+69:
+  Action: 240
+  Argument:
+  - 50
+  - 216
+  - 0
+  - 0
+  Cost: 9998
+  Help Text Pointer: data_03.l_0xc53e9f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Алмазн.[90]браслет"#Diamond band
+  Type: 24
+70:
+  Action: 240
+  Argument:
+  - 60
+  - 216
+  - 10
+  - 1
+  Cost: 1590
+  Help Text Pointer: data_03.l_0xc53eaf
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Фейский[90]браслет"#Pixie's bracelet
+  Type: 24
+71:
+  Action: 240
+  Argument:
+  - 70
+  - 216
+  - 20
+  - 2
+  Cost: 1790
+  Help Text Pointer: data_03.l_0xc53ec6
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Лента[90]Херувима"#Cherub's band
+  Type: 24
+72:
+  Action: 240
+  Argument:
+  - 80
+  - 216
+  - 30
+  - 2
+  Cost: 1980
+  Help Text Pointer: data_03.l_0xc53edd
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Лента[90]Богини"#Goddess band
+  Type: 24
+73:
+  Action: 240
+  Argument:
+  - 216
+  - 30
+  - 35
+  - 2
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc53ef4
+  Misc Flags:
+  - poo can use
+  Name: "Наручи[90]Королей"#Bracer of kings
+  Type: 24
+74:
+  Action: 240
+  Argument:
+  - 5
+  - 216
+  - 0
+  - 0
+  Cost: 19
+  Help Text Pointer: data_03.l_0xc53f58
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Бейсбольн.[90]кепка"#Baseball cap
+  Type: 28
+75:
+  Action: 240
+  Argument:
+  - 10
+  - 216
+  - 0
+  - 0
+  Cost: 59
+  Help Text Pointer: data_03.l_0xc53f89
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Шляпа[90]Холмс"#Holmes hat
+  Type: 28
+76:
+  Action: 240
+  Argument:
+  - 6
+  - 216
+  - 0
+  - 0
+  Cost: 199
+  Help Text Pointer: data_03.l_0xc53fc9
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Кепка <Мстр.[90]Бейсбол>"#Mr. Baseball cap
+  Type: 28
+77:
+  Action: 240
+  Argument:
+  - 15
+  - 216
+  - 0
+  - 0
+  Cost: 298
+  Help Text Pointer: data_03.l_0xc5400a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Строительн.[90]Каска"#Hard hat
+  Type: 28
+78:
+  Action: 240
+  Argument:
+  - 20
+  - 216
+  - 0
+  - 0
+  Cost: 89
+  Help Text Pointer: data_03.l_0xc54055
+  Misc Flags:
+  - paula can use
+  Name: "Ленточка"#Ribbon
+  Type: 28
+79:
+  Action: 240
+  Argument:
+  - 25
+  - 216
+  - 0
+  - 0
+  Cost: 179
+  Help Text Pointer: data_03.l_0xc54065
+  Misc Flags:
+  - paula can use
+  Name: "Красная[90]ленточка"#Red ribbon
+  Type: 28
+80:
+  Action: 240
+  Argument:
+  - 110
+  - 216
+  - 0
+  - 0
+  Cost: 6980
+  Help Text Pointer: data_03.l_0xc54075
+  Misc Flags:
+  - paula can use
+  Name: "Лента[90]богини"#Goddess ribbon
+  Type: 28
+81:
+  Action: 240
+  Argument:
+  - 30
+  - 216
+  - 10
+  - 0
+  Cost: 1500
+  Help Text Pointer: data_03.l_0xc54085
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Монета[90]сна"#Coin of slumber
+  Type: 28
+82:
+  Action: 240
+  Argument:
+  - 40
+  - 216
+  - 13
+  - 0
+  Cost: 2000
+  Help Text Pointer: data_03.l_0xc54095
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Монета[90]защиты"#Coin of defense
+  Type: 28
+83:
+  Action: 240
+  Argument:
+  - 50
+  - 216
+  - 20
+  - 0
+  Cost: 6000
+  Help Text Pointer: data_03.l_0xc540a5
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Счастливая[90]монета"#Lucky coin
+  Type: 28
+84:
+  Action: 240
+  Argument:
+  - 60
+  - 216
+  - 25
+  - 0
+  Cost: 3500
+  Help Text Pointer: data_03.l_0xc540b5
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Монета-талисман"#Talisman coin
+  Type: 28
+85:
+  Action: 240
+  Argument:
+  - 70
+  - 216
+  - 30
+  - 0
+  Cost: 4000
+  Help Text Pointer: data_03.l_0xc540c5
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Блестящая[90]монета"#Shiny coin
+  Type: 28
+86:
+  Action: 240
+  Argument:
+  - 80
+  - 216
+  - 35
+  - 0
+  Cost: 6000
+  Help Text Pointer: data_03.l_0xc540d5
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сувенирн.[90]монета"#Souvenir coin
+  Type: 28
+87:
+  Action: 240
+  Argument:
+  - 216
+  - 20
+  - 30
+  - 85
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc540e5
+  Misc Flags:
+  - poo can use
+  Name: "Диадема[90]Королей"#Diadem of kings
+  Type: 28
+88:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 7
+  Help Text Pointer: data_03.l_0xc54106
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Печенье"#Cookie
+  Type: 32
+89:
+  Action: 249
+  Argument:
+  - 0
+  - 4
+  - 1
+  - 0
+  Cost: 8
+  Help Text Pointer: data_03.l_0xc5411c
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Картошка[90]Фри"#Bag of fries
+  Type: 32
+90:
+  Action: 249
+  Argument:
+  - 0
+  - 8
+  - 1
+  - 0
+  Cost: 14
+  Help Text Pointer: data_03.l_0xc54133
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Гамбургер"#Hamburger
+  Type: 32
+91:
+  Action: 249
+  Argument:
+  - 0
+  - 7
+  - 1
+  - 0
+  Cost: 9
+  Help Text Pointer: data_03.l_0xc54156
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Варёное[90]Яйцо"#Boiled egg
+  Type: 32
+92:
+  Action: 249
+  Argument:
+  - 0
+  - 14
+  - 1
+  - 0
+  Cost: 12
+  Help Text Pointer: data_03.l_0xc5416d
+  Misc Flags:
+  - item can change
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Свежее[90]яйцо"#Fresh Egg
+  Type: 32
+93:
+  Action: 249
+  Argument:
+  - 0
+  - 14
+  - 1
+  - 0
+  Cost: 24
+  Help Text Pointer: data_03.l_0xc54197
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пикник"#Picnic lunch
+  Type: 32
+94:
+  Action: 249
+  Argument:
+  - 0
+  - 18
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_03.l_0xc541cb
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Паста[90]дель[90]Саммерс"#Pasta di Summers
+  Type: 32
+95:
+  Action: 249
+  Argument:
+  - 0
+  - 20
+  - 1
+  - 0
+  Cost: 48
+  Help Text Pointer: data_03.l_0xc54321
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пицца"#Pizza
+  Type: 32
+96:
+  Action: 249
+  Argument:
+  - 0
+  - 36
+  - 1
+  - 0
+  Cost: 298
+  Help Text Pointer: data_03.l_0xc54339
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Спец-блюдо[90]шеф-повара"#Chef's special
+  Type: 32
+97:
+  Action: 250
+  Argument:
+  - 0
+  - 40
+  - 1
+  - 0
+  Cost: 238
+  Help Text Pointer: data_03.l_0xc543a4
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Большая[90]пицца"#Large pizza
+  Type: 44
+98:
+  Action: 249
+  Argument:
+  - 1
+  - 20
+  - 20
+  - 0
+  Cost: 100
+  Help Text Pointer: data_03.l_0xc543da
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Карамелька[90]ПСИ"#PSI caramel
+  Type: 32
+99:
+  Action: 249
+  Argument:
+  - 1
+  - 80
+  - 80
+  - 0
+  Cost: 298
+  Help Text Pointer: data_03.l_0xc543f5
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Магический[90]трюфель"#Magic truffle
+  Type: 32
+100:
+  Action: 249
+  Argument:
+  - 2
+  - 50
+  - 0
+  - 0
+  Cost: 800
+  Help Text Pointer: data_03.l_0xc54451
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пища[90]для[90]мозга"#Brain food lunch
+  Type: 32
+101:
+  Action: 249
+  Argument:
+  - 3
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc54471
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Леденцовая[90]палочка"#Rock candy
+  Type: 32
+102:
+  Action: 249
+  Argument:
+  - 0
+  - 10
+  - 1
+  - 0
+  Cost: 18
+  Help Text Pointer: data_03.l_0xc544af
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Круассан"#Croissant
+  Type: 32
+103:
+  Action: 249
+  Argument:
+  - 0
+  - 5
+  - 1
+  - 0
+  Cost: 12
+  Help Text Pointer: data_03.l_0xc544c6
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Рулет"#Bread roll
+  Type: 32
+104:
+  Action: 188
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc544dd
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Жевательная[90]резинка"#Pak of bubble gum
+  Type: 56
+105:
+  Action: 189
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc5453e
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банка[90]Мушиного[90]Мёда"#Jar of Fly Honey
+  Type: 53
+106:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 4
+  Help Text Pointer: data_03.l_0xc545a1
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Фруктовый[90]сок"#Can of fruit juice
+  Type: 36
+107:
+  Action: 249
+  Argument:
+  - 0
+  - 10
+  - 1
+  - 0
+  Cost: 78
+  Help Text Pointer: data_03.l_0xc545b7
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Царский[90]чай[90]со[90]льдом"#Royal iced tea
+  Type: 36
+108:
+  Action: 249
+  Argument:
+  - 0
+  - 14
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc54660
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Протеиновый[90]напиток"#Protein drink
+  Type: 36
+109:
+  Action: 249
+  Argument:
+  - 0
+  - 0
+  - 1
+  - 0
+  Cost: 648
+  Help Text Pointer: data_03.l_0xc546bc
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Суп[90]из[90]Кракена"#Kraken soup
+  Type: 36
+110:
+  Action: 249
+  Argument:
+  - 1
+  - 1
+  - 10
+  - 0
+  Cost: 4
+  Help Text Pointer: data_03.l_0xc54733
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Бутылка[90]Воды"#Bottle of water
+  Type: 36
+111:
+  Action: 249
+  Argument:
+  - 9
+  - 0
+  - 0
+  - 0
+  Cost: 22
+  Help Text Pointer: data_03.l_0xc5475a
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Лекарство[90]от[90]простуды"#Cold remedy
+  Type: 36
+112:
+  Action: 249
+  Argument:
+  - 10
+  - 0
+  - 0
+  - 0
+  Cost: 58
+  Help Text Pointer: data_03.l_0xc54789
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Флакон[90]сыворотки"#Vial of serum
+  Type: 36
+113:
+  Action: 249
+  Argument:
+  - 4
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc547b0
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Капсула[90]Интеллекта"#IQ capsule
+  Type: 36
+114:
+  Action: 249
+  Argument:
+  - 5
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc547cb
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Капсула[90]Выдержки"#Guts capsule
+  Type: 36
+115:
+  Action: 249
+  Argument:
+  - 6
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc547e8
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Капсула[90]Скорости"#Speed capsule
+  Type: 36
+116:
+  Action: 249
+  Argument:
+  - 7
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc54806
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Капсула[90]Живучести"#Vital capsule
+  Type: 36
+117:
+  Action: 249
+  Argument:
+  - 8
+  - 1
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_03.l_0xc54826
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Капсула[90]Удачи"#Luck capsule
+  Type: 36
+118:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 2
+  Help Text Pointer: data_03.l_0xc54842
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пакетик[90]кетчупа"#Ketchup packet
+  Type: 40
+119:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 3
+  Help Text Pointer: data_03.l_0xc54852
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сахарн.[90]пакетик"#Sugar packet
+  Type: 40
+120:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 4
+  Help Text Pointer: data_03.l_0xc54862
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банка[90]какао"#Tin of Cocoa
+  Type: 40
+121:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 4
+  Help Text Pointer: data_03.l_0xc54872
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Коробка[90]со[90]сливками"#Carton of cream
+  Type: 40
+122:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 2
+  Help Text Pointer: data_03.l_0xc54882
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Веточка[90]петрушки"#"Sprig of parsley"
+  Type: 40
+123:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 3
+  Help Text Pointer: data_03.l_0xc54892
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банка[90]острого[90]соуса"#"Jar of hot sauce"
+  Type: 40
+124:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 2
+  Help Text Pointer: data_03.l_0xc548a2
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пакетик[90]соли"#"Salt packet"
+  Type: 40
+125:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc548b2
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пропуск[90]за[90]кулисы"#"Backstage pass"
+  Type: 59
+126:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 0
+  Cost: 300
+  Help Text Pointer: data_03.l_0xc548fc
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банка[90]вкусносоуса"#"Jar of delisauce"
+  Type: 40
+127:
+  Action: 149
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 24
+  Help Text Pointer: data_03.l_0xc54952
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Мокрое[90]полотенце"#"Wet towel"
+  Type: 48
+128:
+  Action: 150
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 80
+  Help Text Pointer: data_03.l_0xc54979
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Освяжающее[90]растение"#"Refreshing herb"
+  Type: 48
+129:
+  Action: 151
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 380
+  Help Text Pointer: data_03.l_0xc549c3
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тайное[90]растение"#"Secret herb"
+  Type: 48
+130:
+  Action: 152
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 1780
+  Help Text Pointer: data_03.l_0xc549ff
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Рог[90]жизни"#"Horn of life"
+  Type: 48
+131:
+  Action: 159
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc54a3a
+  Misc Flags:
+  - jeff can use
+  Name: "Прибор[90]Анти-ПСИ"#"Counter-PSI unit"
+  Type: 52
+132:
+  Action: 160
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc54a6c
+  Misc Flags:
+  - jeff can use
+  Name: "Щитобой"#"Shield killer"
+  Type: 52
+133:
+  Action: 310
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 950
+  Help Text Pointer: data_03.l_0xc54aa1
+  Misc Flags:
+  - jeff can use
+  Name: "Базука"#"Bazooka"
+  Type: 52
+134:
+  Action: 311
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_03.l_0xc54af5
+  Misc Flags:
+  - jeff can use
+  Name: "Тяжёлая[90]базука"#"Heavy bazooka"
+  Type: 52
+135:
+  Action: 161
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 800
+  Help Text Pointer: data_04.l_0xc54b67
+  Misc Flags:
+  - jeff can use
+  Name: "Жизнекрад"#"HP-sucker"
+  Type: 52
+136:
+  Action: 176
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc54bb0
+  Misc Flags:
+  - jeff can use
+  Name: "Голодн.[90]жизнекрад"#"Hungry HP-sucker"
+  Type: 52
+137:
+  Action: 179
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 630
+  Help Text Pointer: data_04.l_0xc54bfa
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Истребляющее[90]средство"#"Xterminator spray"
+  Type: 52
+138:
+  Action: 169
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 420
+  Help Text Pointer: data_04.l_0xc54c32
+  Misc Flags:
+  - jeff can use
+  Name: "Генератор[90]слизи"#"Slime generator"
+  Type: 52
+139:
+  Action: 170
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc54c6d
+  Misc Flags:
+  - jeff can use
+  Name: "Раздатчик[90]йогурта"#"Yogurt dispenser"
+  Type: 52
+140:
+  Action: 186
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_04.l_0xc54ceb
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Линейка"#"Ruler"
+  Type: 48
+141:
+  Action: 171
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 98
+  Help Text Pointer: data_04.l_0xc54d10
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Мешок[90]со[90]змеями"#"Snake bag"
+  Type: 52
+142:
+  Action: 162
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc54d99
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Обёртки[90]мумии"#"Mummy wrap"
+  Type: 52
+143:
+  Action: 187
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_04.l_0xc54ddc
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Транспортир"#"Protractor"
+  Type: 48
+144:
+  Action: 163
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 29
+  Help Text Pointer: data_04.l_0xc54e01
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  Name: "Ракета"#"Bottle rocket"
+  Type: 52
+145:
+  Action: 164
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 139
+  Help Text Pointer: data_04.l_0xc54e20
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  Name: "Большая[90]ракета"#"Big bottle rocket"
+  Type: 52
+146:
+  Action: 165
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2139
+  Help Text Pointer: data_04.l_0xc54e54
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  Name: "Мульти`ракета"#"Multi`bottle rocket"
+  Type: 52
+147:
+  Action: 167
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 149
+  Help Text Pointer: data_04.l_0xc54ea7
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Бомба"#"Bomb"
+  Type: 52
+148:
+  Action: 168
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 399
+  Help Text Pointer: data_04.l_0xc54ef7
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Супер[90]бомба"#"Super bomb"
+  Type: 52
+149:
+  Action: 178
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 19
+  Help Text Pointer: data_04.l_0xc54f6a
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Инсектицид"#"Insecticide spray"
+  Type: 52
+150:
+  Action: 180
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 89
+  Help Text Pointer: data_04.l_0xc54fa2
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ржавомёт"#"Rust promoter"
+  Type: 52
+151:
+  Action: 181
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 289
+  Help Text Pointer: data_04.l_0xc54ff0
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ржавомёт[90]Делюкс"#"Rust promoter DX"
+  Type: 52
+152:
+  Action: 172
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_04.l_0xc55057
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пара[90]грязных[90]носков"#"Pair`of dirty socks"
+  Type: 52
+153:
+  Action: 173
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 8
+  Help Text Pointer: data_04.l_0xc5509e
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Жук-рогач"#"Stag beetle"
+  Type: 52
+154:
+  Action: 174
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 3
+  Help Text Pointer: data_04.l_0xc550e3
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Зубная[90]щётка"#"Toothbrush"
+  Type: 52
+155:
+  Action: 166
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 39
+  Help Text Pointer: data_04.l_0xc55105
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ручка[90]от[90]сумки"#"Handbag strap"
+  Type: 52
+156:
+  Action: 175
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 290
+  Help Text Pointer: data_04.l_0xc5514f
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Проклятье[90]фараона"#"Pharaoh's curse"
+  Type: 52
+157:
+  Action: 184
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5519f
+  Misc Flags:
+  - jeff can use
+  Name: "Защитн.[90]душ"#"Defense shower"
+  Type: 53
+158:
+  Action: 287
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc551cd
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Письмо[90]от[90]мамы"#"Letter from mom"
+  Type: 59
+159:
+  Action: 182
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 500
+  Help Text Pointer: data_04.l_0xc551ea
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пилюля[90]внез[90]93]ыдержки"#"Sudden guts pill"
+  Type: 53
+160:
+  Action: 177
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 1000
+  Help Text Pointer: data_04.l_0xc55230
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Мешочек[90]Драконита"#"Bag of Dragonite"
+  Type: 53
+161:
+  Action: 183
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 500
+  Help Text Pointer: data_04.l_0xc5528d
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Защитн.[90]спрей"#"Defense spray"
+  Type: 53
+162:
+  Action: 190
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 300
+  Help Text Pointer: data_04.l_0xc552c4
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Свиной[90]пятачок"#"Piggy nose"
+  Type: 56
+163:
+  Action: 191
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc553d7
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Знак <Продаётся!>"#"For Sale sign"
+  Type: 56
+164:
+  Action: 192
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55409
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Книга[90]о[90]застенчивости"#"Shyness book"
+  Type: 59
+165:
+  Action: 193
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_04.l_0xc55433
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Худож[90]открытка"#"Picture postcard"
+  Type: 56
+166:
+  Action: 285
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5546c
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Королевский[90]банан"#"King banana"
+  Type: 56
+167:
+  Action: 288
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55496
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Письмо[90]от[90]Тони"#"Letter from Tony"
+  Type: 59
+168:
+  Action: 195
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 25
+  Help Text Pointer: data_04.l_0xc554b3
+  Misc Flags:
+  - item can change
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Цыплёнок"#"Chick"
+  Type: 56
+169:
+  Action: 196
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 220
+  Help Text Pointer: data_04.l_0xc554cf
+  Misc Flags:
+  - item can change
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Курица"#"Chicken"
+  Type: 56
+170:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc554f6
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ключ[90]от[90]хижины"#"Key to the shack"
+  Type: 59
+171:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5551d
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ключ[90]от[90]кабины"#"Key to the cabin"
+  Type: 59
+172:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55546
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Плохой[90]ключевой[90]аппарат"#"Bad key machine"
+  Type: 59
+173:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5558a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Временные[90]товары"#"Temporary goods"
+  Type: 56
+174:
+  Action: 198
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc555b8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Липк[90]бумага[90]от[90]зомби"#"Zombie paper"
+  Type: 58
+175:
+  Action: 199
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55602
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Соколин.[90]глаз"#"Hawk eye"
+  Type: 58
+176:
+  Action: 200
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55627
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Велосипед"#"Bicycle"
+  Type: 58
+177:
+  Action: 197
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5566b
+  Misc Flags:
+  - cannot be given away
+  - cannot be stored with escargo express
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банковская[90]карта"#"ATM card"
+  Type: 59
+178:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 12
+  Help Text Pointer: data_04.l_0xc5569c
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Билет[90]на[90]концерт"#"Show ticket"
+  Type: 59
+179:
+  Action: 289
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc556c1
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Письмо[90]от[90]детей"#"Letter from kids"
+  Type: 59
+180:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc556e3
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пачка[90]денег"#"Wad of bills"
+  Type: 59
+181:
+  Action: 286
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5570b
+  Misc Flags:
+  - cannot be given away
+  - cannot be stored with escargo express
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Радиоприёмник"#"Receiver phone"
+  Type: 59
+182:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55740
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Алмаз"#"Diamond"
+  Type: 59
+183:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5576a
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Подписанн.[90]банан"#"Signed banana"
+  Type: 59
+184:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55794
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ластик[90]для[90]карандашей"#"Pencil eraser"
+  Type: 59
+185:
+  Action: 270
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc557e7
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Копия[90]иероглифов"#"Hieroglyph copy"
+  Type: 59
+186:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 4000
+  Help Text Pointer: data_04.l_0xc55831
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Метеотит"#"Meteotite"
+  Type: 56
+187:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc5587e
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Контактные[90]линзы"#"Contact lens"
+  Type: 59
+188:
+  Action: 140
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 19
+  Help Text Pointer: data_04.l_0xc55897
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Рукопластырь"#"Hand-Aid"
+  Type: 48
+189:
+  Action: 249
+  Argument:
+  - 0
+  - 5
+  - 1
+  - 0
+  Cost: 48
+  Help Text Pointer: data_04.l_0xc558ca
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Форельн.[90]йогурт"#"Trout yogurt"
+  Type: 32
+190:
+  Action: 249
+  Argument:
+  - 0
+  - 4
+  - 1
+  - 0
+  Cost: 5
+  Help Text Pointer: data_04.l_0xc55915
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Банан"#"Banana"
+  Type: 32
+191:
+  Action: 249
+  Argument:
+  - 0
+  - 10
+  - 1
+  - 0
+  Cost: 18
+  Help Text Pointer: data_04.l_0xc5592c
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Хлебная[90]палочка"#"Calorie stick"
+  Type: 32
+192:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55943
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ключ[90]от[90]башни"#"Key to the tower"
+  Type: 59
+193:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55957
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Кусок[90]метеорита"#"Meteorite piece"
+  Type: 59
+194:
+  Action: 240
+  Argument:
+  - 16
+  - 216
+  - 0
+  - 42
+  Cost: 4000
+  Help Text Pointer: data_04.l_0xc559a8
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Земной[90]кулон"#"Earth pendant"
+  Type: 20
+195:
+  Action: 247
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc559d9
+  Misc Flags:
+  - jeff can use
+  Name: "Нейтрализатор"#"Neutralizer"
+  Type: 52
+196:
+  Action: 258
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55ad5
+  Misc Flags:
+  - cannot be given away
+  - cannot be stored with escargo express
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Поющий[90]камень"#"Sound Stone"
+  Type: 56
+197:
+  Action: 259
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55b21
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Мышка-путеводитель"#"Exit mouse"
+  Type: 56
+198:
+  Action: 249
+  Argument:
+  - 0
+  - 5
+  - 1
+  - 0
+  Cost: 49
+  Help Text Pointer: data_04.l_0xc55b79
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Джелато[90]дэ[90]курорт"#"Gelato de resort"
+  Type: 32
+199:
+  Action: 268
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 220
+  Help Text Pointer: data_04.l_0xc55bc1
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Змея"#"Snake"
+  Type: 52
+200:
+  Action: 269
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 550
+  Help Text Pointer: data_04.l_0xc55c03
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Гадюка"#"Viper"
+  Type: 52
+201:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55c46
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Головной[90]камень"#"Brain stone"
+  Type: 56
+202:
+  Action: 271
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55cce
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Карта[90]Города"#"Town map"
+  Type: 56
+203:
+  Action: 272
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55d2e
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Видео[90]релаксант"#"Video relaxant" #Can't be found normally in-game
+  Type: 56
+204:
+  Action: 281
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 50
+  Help Text Pointer: data_04.l_0xc55d46
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Супорма"#"Suporma" #Super Orange Machine
+  Type: 56
+205:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55d82
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ключ[90]от[90]шкафчика"#"Key to the locker"
+  Type: 59
+206:
+  Action: 282
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2
+  Help Text Pointer: data_04.l_0xc55da1
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Незначительная[90]вещь"#"Insignificant item"
+  Type: 59
+207:
+  Action: 249
+  Argument:
+  - 1
+  - 20
+  - 20
+  - 0
+  Cost: 480
+  Help Text Pointer: data_04.l_0xc55dc8
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Магический[90]тортик"#"Magic tart"
+  Type: 32
+208:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55de0
+  Misc Flags:
+  - cannot be given away
+  - cannot be stored with escargo express
+  - poo can use
+  Name: "Крошечн.[90]рубин"#"Tiny ruby"
+  Type: 59
+209:
+  Action: 283
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55dfe
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Обезьянья[90]любовь"#"Monkey's love"
+  Type: 52
+210:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55e28
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Ластик[90]для[90]ластиков"#"Eraser eraser"
+  Type: 59
+211:
+  Action: 284
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_04.l_0xc55e77
+  Misc Flags:
+  - cannot be stored with escargo express
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тендапуста"#"Tendakraut"
+  Type: 59
+212:
+  Action: 239
+  Argument:
+  - 48
+  - 0
+  - 0
+  - 1
+  Cost: 698
+  Help Text Pointer: data_04.l_0xc55eab
+  Misc Flags:
+  - ness can use
+  Name: "Тираннобита"#"T-rex's bat"
+  Type: 16
+213:
+  Action: 239
+  Argument:
+  - 54
+  - 0
+  - 0
+  - 1
+  Cost: 1380
+  Help Text Pointer: data_04.l_0xc55ebb
+  Misc Flags:
+  - ness can use
+  Name: "Бита[90]высшой[90]лиги"#"Big league bat"
+  Type: 16
+214:
+  Action: 239
+  Argument:
+  - 68
+  - 0
+  - 0
+  - 1
+  Cost: 2298
+  Help Text Pointer: data_04.l_0xc55ef6
+  Misc Flags:
+  - ness can use
+  Name: "Превосходная[90]бита"#"Ultimate bat"
+  Type: 16
+215:
+  Action: 239
+  Argument:
+  - 66
+  - 0
+  - 0
+  - 0
+  Cost: 1000
+  Help Text Pointer: data_04.l_0xc55f06
+  Misc Flags:
+  - jeff can use
+  Name: "Двойной[90]луч"#"Double beam"
+  Type: 17
+216:
+  Action: 240
+  Argument:
+  - 40
+  - 216
+  - 0
+  - 0
+  Cost: 3899
+  Help Text Pointer: data_04.l_0xc55f16
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Платиновый[90]браслет"#"Platinum band"
+  Type: 24
+217:
+  Action: 240
+  Argument:
+  - 50
+  - 216
+  - 0
+  - 0
+  Cost: 5198
+  Help Text Pointer: data_03.l_0xc53e9f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Алмазн.[90]браслет"#"Diamond band"
+  Type: 24
+218:
+  Action: 240
+  Argument:
+  - 40
+  - 216
+  - 15
+  - 0
+  Cost: 389
+  Help Text Pointer: data_04.l_0xc55f36
+  Misc Flags:
+  - paula can use
+  Name: "Защитная[90]ленточка"#"Defense ribbon"
+  Type: 28
+219:
+  Action: 240
+  Argument:
+  - 60
+  - 216
+  - 25
+  - 0
+  Cost: 3500
+  Help Text Pointer: data_04.l_0xc55f5d
+  Misc Flags:
+  - paula can use
+  Name: "Лента-талисман"#"Talisman ribbon"
+  Type: 28
+220:
+  Action: 240
+  Argument:
+  - 90
+  - 216
+  - 40
+  - 0
+  Cost: 3980
+  Help Text Pointer: data_04.l_0xc55f84
+  Misc Flags:
+  - paula can use
+  Name: "Сатурианская[90]лента"#"Saturn ribbon"
+  Type: 28
+221:
+  Action: 240
+  Argument:
+  - 45
+  - 216
+  - 16
+  - 0
+  Cost: 2500
+  Help Text Pointer: data_04.l_0xc55fcc
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Монета[90]безмолвия"#"Coin of silence"
+  Type: 28
+222:
+  Action: 240
+  Argument:
+  - 50
+  - 216
+  - 20
+  - 0
+  Cost: 3000
+  Help Text Pointer: data_04.l_0xc55fdc
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Монета[90]шарма"#"Charm coin"
+  Type: 28
+223:
+  Action: 249
+  Argument:
+  - 0
+  - 7
+  - 1
+  - 0
+  Cost: 98
+  Help Text Pointer: data_04.l_0xc55fec
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тарелка[90]лапши"#"Cup of noodles"
+  Type: 32
+224:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 100
+  Cost: 38
+  Help Text Pointer: data_04.l_0xc56011
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Быстроброд"#"Skip sandwich"
+  Type: 32
+225:
+  Action: 249
+  Argument:
+  - 0
+  - 1
+  - 1
+  - 200
+  Cost: 98
+  Help Text Pointer: data_04.l_0xc56054
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Быстроброд[90]Ди-Экс"#"Skip sandwich DX"
+  Type: 32
+226:
+  Action: 249
+  Argument:
+  - 0
+  - 10
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc56097
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+227:
+  Action: 249
+  Argument:
+  - 0
+  - 40
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc560d3
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+228:
+  Action: 249
+  Argument:
+  - 0
+  - 0
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc5610f
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+229:
+  Action: 249
+  Argument:
+  - 1
+  - 5
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc5614b
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+230:
+  Action: 249
+  Argument:
+  - 1
+  - 20
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc56187
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+231:
+  Action: 249
+  Argument:
+  - 2
+  - 0
+  - 1
+  - 0
+  Cost: 128
+  Help Text Pointer: data_04.l_0xc561c3
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
+  Type: 32
+232:
+  Action: 249
+  Argument:
+  - 0
+  - 2
+  - 1
+  - 0
+  Cost: 6
+  Help Text Pointer: data_04.l_0xc561ff
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тарелка[90]кофе"#"Cup of coffee"
+  Type: 36
+233:
+  Action: 249
+  Argument:
+  - 0
+  - 16
+  - 1
+  - 0
+  Cost: 24
+  Help Text Pointer: data_04.l_0xc56230
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Двойной[90]гамбургер"#"Double burger"
+  Type: 32
+234:
+  Action: 249
+  Argument:
+  - 0
+  - 18
+  - 1
+  - 0
+  Cost: 22
+  Help Text Pointer: data_05.l_0xc56253
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Арахисовый[90]чизкейк"#"Peanut cheese`bar"
+  Type: 32
+235:
+  Action: 249
+  Argument:
+  - 0
+  - 50
+  - 1
+  - 0
+  Cost: 222
+  Help Text Pointer: data_05.l_0xc5629b
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Холодец"#"Piggy jelly"
+  Type: 32
+236:
+  Action: 249
+  Argument:
+  - 0
+  - 36
+  - 1
+  - 0
+  Cost: 88
+  Help Text Pointer: data_05.l_0xc562dd
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тарелка[90]рисовой[90]каши"#"Bowl of rice gruel"
+  Type: 32
+237:
+  Action: 249
+  Argument:
+  - 0
+  - 7
+  - 1
+  - 0
+  Cost: 12
+  Help Text Pointer: data_05.l_0xc5630a
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Фасолевый[90]крокет"#"Bean croquette"
+  Type: 32
+238:
+  Action: 249
+  Argument:
+  - 0
+  - 14
+  - 1
+  - 0
+  Cost: 20
+  Help Text Pointer: data_05.l_0xc563a9
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Суп[90]молохея"#"Molokheiya soup"
+  Type: 36
+239:
+  Action: 249
+  Argument:
+  - 0
+  - 14
+  - 1
+  - 0
+  Cost: 38
+  Help Text Pointer: data_05.l_0xc56417
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: ""#"Plain roll"
+  Type: 32
+240:
+  Action: 249
+  Argument:
+  - 0
+  - 21
+  - 1
+  - 0
+  Cost: 54
+  Help Text Pointer: data_05.l_0xc5645d
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Кебоб"#"Kabob"
+  Type: 32
+241:
+  Action: 249
+  Argument:
+  - 0
+  - 28
+  - 1
+  - 0
+  Cost: 78
+  Help Text Pointer: data_05.l_0xc564d1
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Йогурт"#"Plain yogurt"
+  Type: 32
+242:
+  Action: 249
+  Argument:
+  - 0
+  - 25
+  - 1
+  - 0
+  Cost: 70
+  Help Text Pointer: data_05.l_0xc564ff
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Вяленая[90]говядина"#"Beef jerky"
+  Type: 32
+243:
+  Action: 249
+  Argument:
+  - 0
+  - 34
+  - 1
+  - 0
+  Cost: 98
+  Help Text Pointer: data_05.l_0xc565bc
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Мамонт-бургер"#"Mammoth burger"
+  Type: 32
+244:
+  Action: 249
+  Argument:
+  - 0
+  - 42
+  - 1
+  - 0
+  Cost: 140
+  Help Text Pointer: data_05.l_0xc565d4
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Пряное[90]вял[90]мясо"#"Spicy jerky"
+  Type: 32
+245:
+  Action: 249
+  Argument:
+  - 0
+  - 50
+  - 1
+  - 0
+  Cost: 210
+  Help Text Pointer: data_05.l_0xc566b7
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Роскошное[90]вял[90]мясо"#"Luxury jerky"
+  Type: 32
+246:
+  Action: 249
+  Argument:
+  - 1
+  - 1
+  - 40
+  - 0
+  Cost: 198
+  Help Text Pointer: data_05.l_0xc5678d
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Большая[90]бутылка[90]воды"#"Bottle of DXwater"
+  Type: 36
+247:
+  Action: 249
+  Argument:
+  - 1
+  - 40
+  - 40
+  - 0
+  Cost: 680
+  Help Text Pointer: data_05.l_0xc567dc
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Магический[90]пуддинг"#"Magic pudding"
+  Type: 32
+248:
+  Action: 239
+  Argument:
+  - 50
+  - 0
+  - 0
+  - 1
+  Cost: 1490
+  Help Text Pointer: data_05.l_0xc567f4
+  Misc Flags:
+  - paula can use
+  Name: "Антипригарная[90]сковородка"#"Non-stick frypan"
+  Type: 16
+249:
+  Action: 240
+  Argument:
+  - 47
+  - 216
+  - 18
+  - 0
+  Cost: 1000
+  Help Text Pointer: data_05.l_0xc56804
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Сатурианская[90]монетка"#"Mr. Saturn coin"
+  Type: 28
+250:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 2000
+  Help Text Pointer: data_05.l_0xc5682e
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Метеоринум"#"Meteornium"
+  Type: 56
+251:
+  Action: 249
+  Argument:
+  - 0
+  - 3
+  - 1
+  - 0
+  Cost: 7
+  Help Text Pointer: data_05.l_0xc5687b
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Эскимо"#"Popsicle"
+  Type: 32
+252:
+  Action: 152
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 178
+  Help Text Pointer: data_05.l_0xc56892
+  Misc Flags:
+  - item disappears when used
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Тарелка[90]лапши[90]жизни"#"Cup of Lifenoodles"
+  Type: 48
+253:
+  Action: 1
+  Argument:
+  - 0
+  - 0
+  - 0
+  - 0
+  Cost: 0
+  Help Text Pointer: data_05.l_0xc5689f
+  Misc Flags:
+  - jeff can use
+  - ness can use
+  - paula can use
+  - poo can use
+  Name: "Морковн.[90]ключ"#"Carrot key"
+  Type: 59

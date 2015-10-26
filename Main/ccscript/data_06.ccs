@@ -217,112 +217,111 @@ l_0xc57e1c:
 
 l_0xc58000:
     "{window_open(1)}" newline
-    "@NNW SMSK?[18 02]{open_hp}{open_wallet}{window_open(2)}[19 02]P-TiNStTI" eob
+    "@[89][A4][A0] [A4][C2] [92][A5][95][96][AA][C3] [95][96][9D][91][A4][C3]?[18 02]{open_hp}{open_wallet}{window_open(2)}[19 02][82][96][95][A0][9C][A4][9A][A2][A0][93][91][A4][C3] [9C][A0][9E][91][9F][95][A5]" eob
 
 l_0xc58023:
-    "[19 02]GtZStTI" eob
+    "[19 02][73][76][B0][7A]" eob
 
 l_0xc5802d:
-    "[19 02]TKSyZyUTI" eob
+    "[19 02][83][81][76][88]. [83][84][71][84][85][83]" eob
 
 l_0xc58039:
-    "[19 02]IDU" eob
+    "[19 02][81][76][82][76][7B][84][7A] [73] [7E][76][83][84][7F][80][83][84][B3]" eob
 
 l_0xc5803f:
-    "[19 02]OKNNStTI" eob
+    "[19 02][75][76][7F][B3][74][7A]" eob
 
 l_0xc5804a:
-    "[19 02]RBRAtP" eob
+    "[19 02][7D][76][73][76][7D]-[71][81]" eob
 
 l_0xc58053:
-    "[19 02]MSYUNSKRPT" eob
+    "[19 02][7F][76][7A][83][81]. [83][7C][82][7A][81][84]" eob
 
 l_0xc58060:
-    "[19 02]IBNT" eob
+    "[19 02][83][80][72][B2][84][7A][76]" eob
 
 l_0xc58067:
-    "[19 02]HNTY" eob
+    "[19 02][83][80][73][76][84][7F][B2][7B] [83][84][76][7F][75]" eob
 
 l_0xc5806e:
-    "[19 02]SUND" eob
+    "[19 02][79][73][85][7C]" eob
 
 l_0xc58075:
-    "[19 02]STMI" eob
+    "[19 02][80][81][7A][83][71][7F][7A][B6]" eob
 
 l_0xc5807c:
-    "[19 02]TRP-T" eob
+    "[19 02][84][76][7D][76][81][80][82][84]" eob
 
 l_0xc58084:
-    "[19 02]HNTTZ" eob
+    "[19 02][81][80][7C][71][79][71][84][B3] [83][80][73][76][84]. [83][84][76][7F][75][B2]" eob
 
 l_0xc5808c:
     "[1C 0C 02][11][1B 05]{window_closetop}{window_switch(1)}{clearline}" newline
-    "[1B 06][09 0D {e(l_0xc58103)} {e(l_0xc58262)} {e(data_07.l_0xc58718)} {e(data_08.l_0xc588cd)} {e(data_08.l_0xc58afb)} {e(data_08.l_0xc58a36)} {e(data_08.l_0xc58c88)} {e(data_09.l_0xc59895)} {e(data_08.l_0xc58e13)} {e(data_08.l_0xc58d09)} {e(data_10.l_0xc5a57f)} {e(data_09.l_0xc58e73)} {e(l_0xc580da)}]@YMMST." end
+    "[1B 06][09 0D {e(l_0xc58103)} {e(l_0xc58262)} {e(data_07.l_0xc58718)} {e(data_08.l_0xc588cd)} {e(data_08.l_0xc58afb)} {e(data_08.l_0xc58a36)} {e(data_08.l_0xc58c88)} {e(data_09.l_0xc59895)} {e(data_08.l_0xc58e13)} {e(data_08.l_0xc58d09)} {e(data_10.l_0xc5a57f)} {e(data_09.l_0xc58e73)} {e(l_0xc580da)}]@[84][76][83][84]1." end
 
 l_0xc580da:
     newline
-    "@HNTYW" linebreak
-    " TZNNSMS" next
+    "@[81][A0][98][91][9D][A5][9B][A3][A4][91], [93][93][96][95][9A][A4][96] [A1][96][A2][96][9E][96][9F][9F][A5][C5]." next
     "{set(flag 681)}{set(flag 682)}{set(flag 683)}{set(flag 684)}{set(flag 685)}{set(flag 686)}" goto(l_0xc58000)
 
 l_0xc58103:
-    "@NNW SMSK?" linebreak
-    "[19 02]KWER" eob
+    "@[89][A4][A0] [A4][C2] [92][A5][95][96][AA][C3] [95][96][9D][91][A4][C3]?" linebreak
+    "[19 02][75][80][72][71][73][7A][84][B3]" eob
 
 l_0xc58115:
-    "[19 02]HZS" eob
+    "[19 02][85][75][71][7D][7A][84][B3]" eob
 
 l_0xc5811b:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5812f)} {e(l_0xc581ee)}]" goto(l_0xc58000)
 
 l_0xc5812f:
-    "{open_hp}@KWER PR-Y-W" linebreak
+    "{open_hp}@[75][80][72][71][73][7A][84][B3] PR-Y-W" linebreak
     " ERNDKDSI." goto(l_0xc58148)
 
 l_0xc58148:
-    "{window_open(8)}[19 02]NS" eob
+    "{window_open(8)}[19 02][7F][96][A3][A3]" eob
 
 l_0xc58150:
-    "[19 02]P-R" eob
+    "[19 02][81][91][A5][9D][91]" eob
 
 l_0xc58156:
-    "[19 02]ZeF" eob
+    "[19 02][75][98][96][A6][A6]" eob
 
 l_0xc5815c:
-    "[19 02]P-" eob
+    "[19 02][81][A5]" eob
 
 l_0xc58161:
-    "[19 02]P-K-" eob
+    "[19 02][81][A0][A2][9C][9A]" eob
 
 l_0xc58168:
-    "[19 02]PtK-" eob
+    "[19 02][81][9A][9C][9A]" eob
 
 l_0xc5816f:
-    "[19 02]IN" eob
+    "[19 02][7C][9A][9F][94]" eob
 
 l_0xc58174:
-    "[19 02]TN-" eob
+    "[19 02][84][A0][9F][9A]" eob
 
 l_0xc5817a:
-    "[19 02]BR-NMNK-" eob
+    "[19 02][78][96][93][91][A9]. [80][92][96][99][C3][C6][9F]." eob
 
 l_0xc58185:
-    "[19 02]DNZyNMN" eob
+    "[19 02][89][96][9D][A0][93][96][9C]-[A1][A0][95][99][96][9E][96][9D][C3][96]" eob
 
 l_0xc5818f:
-    "[19 02]FRINGMN1" eob
+    "[19 02][7D][96][A4][C6][C0][9A][9B][89][96][9D][A0][93][96][9C]1" eob
 
 l_0xc5819a:
-    "[19 02]FRINGMN2" eob
+    "[19 02][7D][96][A4][C6][C0][9A][9B][89][96][9D][A0][93][96][9C]2" eob
 
 l_0xc581a5:
-    "[19 02]FRINGMN3" eob
+    "[19 02][7D][96][A4][C6][C0][9A][9B][89][96][9D][A0][93][96][9C]3" eob
 
 l_0xc581b0:
-    "[19 02]FRINGMN4" eob
+    "[19 02][7D][96][A4][C6][C0][9A][9B][89][96][9D][A0][93][96][9C]4" eob
 
 l_0xc581bb:
-    "[19 02]FRINGMN5" eob
+    "[19 02][7D][96][A4][C6][C0][9A][9B][89][96][9D][A0][93][96][9C]5" eob
 
 l_0xc581c6:
     "[1C 0C 03][11][1B 05][19 04]{window_closetop}{window_switch(1)}[1B 06][1B 02 {e(l_0xc581e7)}]{swap}[1F 11 00]{open_hp}" goto(l_0xc58148)
@@ -331,66 +330,65 @@ l_0xc581e7:
     "{window_closetop}" goto(l_0xc58000)
 
 l_0xc581ee:
-    "[19 10 02][1B 02 {e(l_0xc58250)}]@HZSPR-Y-NITW" linebreak
-    " NyURyKSTKDSI." linebreak
+    "[19 10 02][1B 02 {e(l_0xc58250)}]@[81][A0][98][91][9D][A5][9B][A3][A4][91] [93][93][96][95][9A][A4][96] [9F][A0][9E][96][A2] [9A][94][A2][A0][9C][91] [95][9D][C6] [A5][95][91][9D][96][9F][9A][C6]." linebreak
     goto(l_0xc58214)
 
 l_0xc58214:
-    "[19 10 02][1B 02 {e(l_0xc5824b)}]  [1F 52 01][1B 02 {e(l_0xc5824b)}]{clearline}{swap}[19 10 00][1B 02 {e(l_0xc58214)}]{swap}[1F 12 00]@[1C 02 00]W HZSMS." linebreak
+    "[19 10 02][1B 02 {e(l_0xc5824b)}]  [1F 52 01][1B 02 {e(l_0xc5824b)}]{clearline}{swap}[19 10 00][1B 02 {e(l_0xc58214)}]{swap}[1F 12 00]@[1C 02 00][84]2 - W HZSMS." linebreak
     goto(l_0xc58214)
 
 l_0xc5824b:
     goto(l_0xc58000)
 
 l_0xc58250:
-    "@0NNNHDKMSN.{wait}" goto(l_0xc58000)
+    "@[84]3 - 0NNNHDKMSN.{wait}" goto(l_0xc58000)
 
 l_0xc58262:
     newline
-    "@GtZNStTIWSMS.[18 02]{open_hp}{open_wallet}{window_open(7)}[19 02]GtZKWER" eob
+    "@[73][96][C0][9A].[18 02]{open_hp}{open_wallet}{window_open(7)}[19 02][75][A0][92][91][93][9A][A4][C3] [93][96][C0][9A]" eob
 
 l_0xc58284:
-    "[19 02]ZyUYUGtZ" eob
+    "[19 02][73][91][98][9F][C2][96] [93][96][C0][9A]" eob
 
 l_0xc5828f:
-    "[19 02]GtZMNTN" eob
+    "[19 02][79][91][A1][A0][9D][9F][9A][A4][C3] [9A][9F][93][96][9F][A4][91][A2][C3]" eob
 
 l_0xc58299:
-    "[19 02]GtZSKZy" eob
+    "[19 02][80][A4][A9][9A][A3][A4][9A][A4][C3] [9A][9F][93][96][9F][A4][91][A2][C3]" eob
 
 l_0xc582a3:
-    "[19 02]AZKRSyMNTN" eob
+    "[19 02][79][91][A1][A0][9D][9F][9A][A4][C3] [A7][A2][91][9F][9A][9D][9A][C0][96]" eob
 
 l_0xc582b0:
-    "[19 02]AZKRSyKR" eob
+    "[19 02][80][A4][A9][9A][A3][A4][9A][A4][C3] [A7][A2][91][9F][9A][9D][9A][C0][96]" eob
 
 l_0xc582bb:
-    "[19 02]SIKyUBK" eob
+    "[19 02][7D][A5][A9][AA][9A][96] [A0][A2][A5][98][9A][C6]" eob
 
 l_0xc582c5:
     "[1C 0C 01][11][1B 05]{window_closetop}[19 04]{window_switch(1)}" newline
     "[1B 06][09 07 {e(l_0xc582f8)} {e(l_0xc58369)} {e(data_07.l_0xc58539)} {e(data_07.l_0xc58568)} {e(data_07.l_0xc585dc)} {e(data_07.l_0xc58614)} {e(data_07.l_0xc5863c)}]" goto(l_0xc58000)
 
 l_0xc582f8:
-    "@GtZIDW NyURyK" linebreak
+    "[84]4 - @GtZIDW NyURyK" linebreak
     "   [1F 52 03]{clearline}[1B 02 {e(l_0xc58364)}]{swap}[1D 03 FF][1B 02 {e(l_0xc58358)}]{store_registers}@[1C 05 00]DS." linebreak
-    " DRNSMSK?" call(data_15.l_0xc5e52e) linebreak
+    " [7F][91] [9C][A0][94][A0]?" call(data_15.l_0xc5e52e) linebreak
     "[1B 02 {e(l_0xc582f8)}][1D 0E 00 00]" newline
     "@GtZRNN KWEMST." next
     goto(l_0xc582f8)
 
 l_0xc58358:
-    "@MTMNItPIDS." goto(l_0xc58364)
+    "@[84]5 - MTMNItPIDS." goto(l_0xc58364)
 
 l_0xc58364:
     goto(l_0xc58000)
 
 l_0xc58369:
-    "[18 02]{window_open(12)}[19 02]TBGYNKG" eob
+    "[18 02]{window_open(12)}[19 02][7C][9D][C5][A9] [A0][A4] [A7][9A][98][9A][9F][C2]" eob
 
 l_0xc58378:
-    "[19 02]ZySNDNW" eob
+    "[19 02][84][96][9D][96][A6][A0][9F][9F][91][C6] [A4][A2][A5][92][9C][91]" eob
 
 l_0xc58382:
-    "[19 02]TKKSMSN" eob
+    "[19 02][83][A4][9A][A2][91][A4][96][9D][C3] [9C][91][A2][91][9F][95][91][AA][96][9B]" eob
 

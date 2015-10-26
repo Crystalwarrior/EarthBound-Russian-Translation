@@ -24,7 +24,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Медаль Франклина"#Franklin badge
+  Name: "Медаль[90]Франклина"#Franklin badge
   Type: 0
 2:
   Action: 1
@@ -40,7 +40,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Плюшевый мишка"#Teddy bear
+  Name: "Плюшевый[90]мишка"#Teddy bear
   Type: 4
 3:
   Action: 1
@@ -56,7 +56,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Супер плюш. мишка"#Super plush bear
+  Name: "Супер[90]плюш[90]мишка"#Super plush bear
   Type: 4
 4:
   Action: 1
@@ -72,7 +72,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Разбитый механизм"#Broken machine
+  Name: "Разбитый[90]механизм"#Broken machine
   Type: 8
 5:
   Action: 1
@@ -88,7 +88,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанная безделушка"#Broken gadget
+  Name: "Сломанная[90]безделушка"#Broken gadget
   Type: 8
 6:
   Action: 1
@@ -104,7 +104,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Неиспр. духовое ружье"#Broken air gun
+  Name: "Неиспр[90]духовое[90]ружье"#Broken air gun
   Type: 8
 7:
   Action: 1
@@ -120,7 +120,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанный баллончик"#Broken spray can
+  Name: "Сломанн.[90]баллончик"#Broken spray can
   Type: 8
 8:
   Action: 1
@@ -136,7 +136,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанный лазер"#Broken laser
+  Name: "Сломанн.[90]лазер"#Broken laser
   Type: 8
 9:
   Action: 1
@@ -152,7 +152,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанный утюг"#Broken iron
+  Name: "Сломанн.[90]утюг"#Broken iron
   Type: 8
 10:
   Action: 1
@@ -168,7 +168,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Изогнутая труба"#Broken pipe
+  Name: "Изогнутая[90]труба"#Broken pipe
   Type: 8
 11:
   Action: 1
@@ -184,7 +184,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанная пушка"#Broken cannon
+  Name: "Сломанная[90]пушка"#Broken cannon
   Type: 8
 12:
   Action: 1
@@ -200,7 +200,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Поломанный тюбик"#Broken tube
+  Name: "Поломанн.[90]тюбик"#Broken tube
   Type: 8
 13:
   Action: 1
@@ -216,7 +216,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Неисправная базука"#Broken bazooka
+  Name: "Неисправная[90]базука"#Broken bazooka
   Type: 8
 14:
   Action: 1
@@ -232,7 +232,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Неисправный тромбон"#Broken trumpet
+  Name: "Неисправн.[90]тромбон"#Broken trumpet
   Type: 8
 15:
   Action: 1
@@ -248,7 +248,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Поломанная гормошка"#Broken harmonica
+  Name: "Поломанная[90]гормошка"#Broken harmonica
   Type: 8
 16:
   Action: 1
@@ -264,7 +264,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сломанная антенна"#Broken antenna
+  Name: "Сломанная[90]антенна"#Broken antenna
   Type: 8
 17:
   Action: 239
@@ -277,7 +277,7 @@
   Help Text Pointer: data_02.l_0xc539c4
   Misc Flags:
   - ness can use
-  Name: "Треснувшая бита"#Cracked bat
+  Name: "Треснувш.[90]бита"#Cracked bat
   Type: 16
 18:
   Action: 239
@@ -290,7 +290,7 @@
   Help Text Pointer: data_02.l_0xc539d4
   Misc Flags:
   - ness can use
-  Name: "Детская бита"#Tee ball bat
+  Name: "Детская[90]бита"#Tee ball bat
   Type: 16
 19:
   Action: 239
@@ -303,7 +303,7 @@
   Help Text Pointer: data_02.l_0xc539e4
   Misc Flags:
   - ness can use
-  Name: "Пустырная бита"#Sand lot bat
+  Name: "Пустырная[90]бита"#Sand lot bat
   Type: 16
 20:
   Action: 239
@@ -316,7 +316,7 @@
   Help Text Pointer: data_02.l_0xc539f4
   Misc Flags:
   - ness can use
-  Name: "Бита низшой лиги"#Minor league bat
+  Name: "Бита[90]низш.[90]лиги"#Minor league bat
   Type: 16
 21:
   Action: 239
@@ -329,7 +329,7 @@
   Help Text Pointer: data_02.l_0xc53a04
   Misc Flags:
   - ness can use
-  Name: "Бита <Мистер Бейсбол>"#Mr. Baseball bat
+  Name: "Бита <Мстр.[90]Бейсбол>"#Mr. Baseball bat
   Type: 16
 22:
   Action: 239
@@ -342,7 +342,7 @@
   Help Text Pointer: data_02.l_0xc53a14
   Misc Flags:
   - ness can use
-  Name: "Бита высшой лиги"#Big league bat
+  Name: "Бита[90]высш.[90]лиги"#Big league bat
   Type: 16
 23:
   Action: 239
@@ -355,7 +355,7 @@
   Help Text Pointer: data_02.l_0xc53a47
   Misc Flags:
   - ness can use
-  Name: "Бита зала славы"#Hall of fame bat
+  Name: "Бита[90]зала[90]славы"#Hall of fame bat
   Type: 16
 24:
   Action: 239
@@ -368,7 +368,7 @@
   Help Text Pointer: data_02.l_0xc53a57
   Misc Flags:
   - ness can use
-  Name: "Бита Магинета"#Magicant bat
+  Name: "Бита[90]Магинета"#Magicant bat
   Type: 16
 25:
   Action: 239
@@ -381,7 +381,7 @@
   Help Text Pointer: data_02.l_0xc53a67
   Misc Flags:
   - ness can use
-  Name: "Легендарная бита"#Legendary bat
+  Name: "Легендарн.[90]бита"#Legendary bat
   Type: 16
 26:
   Action: 239
@@ -394,7 +394,7 @@
   Help Text Pointer: data_02.l_0xc53a77
   Misc Flags:
   - ness can use
-  Name: "Бесстрашная бита"#Gutsy bat
+  Name: "Бесстрашн.[90]бита"#Gutsy bat
   Type: 16
 27:
   Action: 239
@@ -407,7 +407,7 @@
   Help Text Pointer: data_02.l_0xc53a9f
   Misc Flags:
   - ness can use
-  Name: "Бита Кейси"#Casey bat
+  Name: "Бита[90]Кейси"#Casey bat
   Type: 16
 28:
   Action: 239
@@ -433,7 +433,7 @@
   Help Text Pointer: data_02.l_0xc53af6
   Misc Flags:
   - paula can use
-  Name: "Толстая сковородка"#Thick fry pan
+  Name: "Толст.[90]сковородка"#Thick fry pan
   Type: 16
 30:
   Action: 239
@@ -446,7 +446,7 @@
   Help Text Pointer: data_02.l_0xc53b06
   Misc Flags:
   - paula can use
-  Name: "Роскошная сковородка"#Deluxe fry pan
+  Name: "Роскошн.[90]сковородка"#Deluxe fry pan
   Type: 16
 31:
   Action: 239
@@ -459,7 +459,7 @@
   Help Text Pointer: data_02.l_0xc53b16
   Misc Flags:
   - paula can use
-  Name: "Сковородка шев-повара"#Chef's fry pan
+  Name: "Сковородка[90]шефа"#Chef's fry pan
   Type: 16
 32:
   Action: 239
@@ -472,7 +472,7 @@
   Help Text Pointer: data_02.l_0xc53b26
   Misc Flags:
   - paula can use
-  Name: "Французкая сковородка"#French fry pan
+  Name: "Французк.[90]сковородка"#French fry pan
   Type: 16
 33:
   Action: 239
@@ -485,7 +485,7 @@
   Help Text Pointer: data_02.l_0xc53b36
   Misc Flags:
   - paula can use
-  Name: "Магическая сковородка"#Magic fry pan
+  Name: "Магич.[90]сковородка"#Magic fry pan
   Type: 16
 34:
   Action: 239
@@ -498,7 +498,7 @@
   Help Text Pointer: data_02.l_0xc53b46
   Misc Flags:
   - paula can use
-  Name: "Святая сковородка"#Holy fry pan
+  Name: "Святая[90]сковородка"#Holy fry pan
   Type: 16
 35:
   Action: 239
@@ -511,7 +511,7 @@
   Help Text Pointer: data_02.l_0xc53b56
   Misc Flags:
   - poo can use
-  Name: "Меч Королей"#Sword of kings
+  Name: "Меч[90]Королей"#Sword of kings
   Type: 16
 36:
   Action: 239
@@ -550,7 +550,7 @@
   Help Text Pointer: data_03.l_0xc53b96
   Misc Flags:
   - jeff can use
-  Name: "Игрушечный пистолет"#Toy air gun
+  Name: "Игрушечн.[90]пистолет"#Toy air gun
   Type: 17
 39:
   Action: 239
@@ -563,7 +563,7 @@
   Help Text Pointer: data_03.l_0xc53ba6
   Misc Flags:
   - jeff can use
-  Name: "Пневматический Магнум"#Magnum air gun
+  Name: "Пневматич.[90]Магнум"#Magnum air gun
   Type: 17
 40:
   Action: 239
@@ -576,7 +576,7 @@
   Help Text Pointer: data_03.l_0xc53bb6
   Misc Flags:
   - jeff can use
-  Name: "Почтовый пистолет"#Zip gun
+  Name: "Почтовый[90]пистолет"#Zip gun
   Type: 17
 41:
   Action: 239
@@ -589,7 +589,7 @@
   Help Text Pointer: data_03.l_0xc53bc6
   Misc Flags:
   - jeff can use
-  Name: "Лазерный пистолет"#Laser gun
+  Name: "Лазерн.[90]пистолет"#Laser gun
   Type: 17
 42:
   Action: 239
@@ -602,7 +602,7 @@
   Help Text Pointer: data_03.l_0xc53bd6
   Misc Flags:
   - jeff can use
-  Name: "Гипер луч"#Hyper beam
+  Name: "Гипер[90]луч"#Hyper beam
   Type: 17
 43:
   Action: 239
@@ -615,7 +615,7 @@
   Help Text Pointer: data_03.l_0xc53be6
   Misc Flags:
   - jeff can use
-  Name: "Дробильный луч"#Crusher beam
+  Name: "Дробильн.[90]луч"#Crusher beam
   Type: 17
 44:
   Action: 239
@@ -628,7 +628,7 @@
   Help Text Pointer: data_03.l_0xc53bf6
   Misc Flags:
   - jeff can use
-  Name: "Спектральный луч"#Spectrum beam
+  Name: "Спектральн.[90]луч"#Spectrum beam
   Type: 17
 45:
   Action: 239
@@ -641,7 +641,7 @@
   Help Text Pointer: data_03.l_0xc53c06
   Misc Flags:
   - jeff can use
-  Name: "Смертельный луч"#Death ray
+  Name: "Смертельн.[90]луч"#Death ray
   Type: 17
 46:
   Action: 239
@@ -654,7 +654,7 @@
   Help Text Pointer: data_03.l_0xc53c16
   Misc Flags:
   - jeff can use
-  Name: "Наикрутейший луч"#Baddest beam
+  Name: "Наикрутейший[90]луч"#Baddest beam
   Type: 17
 47:
   Action: 239
@@ -667,7 +667,7 @@
   Help Text Pointer: data_03.l_0xc53c26
   Misc Flags:
   - jeff can use
-  Name: "Лунная лучепушка"#Moon beam gun
+  Name: "Лунная[90]лучепушка"#Moon beam gun
   Type: 17
 48:
   Action: 239
@@ -680,7 +680,7 @@
   Help Text Pointer: data_03.l_0xc53c36
   Misc Flags:
   - jeff can use
-  Name: "Гайя луч"#Gaia beam
+  Name: "Гайя[90]луч"#Gaia beam
   Type: 17
 49:
   Action: 239
@@ -728,7 +728,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Бионическая рогатка"#Bionic slingshot
+  Name: "Бионич.[90]рогатка"#Bionic slingshot
   Type: 17
 52:
   Action: 239
@@ -744,7 +744,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Трюковая йо-йо"#Trick yo-yo
+  Name: "Трюковая[90]йо-йо"#Trick yo-yo
   Type: 17
 53:
   Action: 239
@@ -760,7 +760,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Боевое йо-йо"#Combat yo-yo
+  Name: "Боевое[90]йо-йо"#Combat yo-yo
   Type: 17
 54:
   Action: 240
@@ -776,7 +776,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Дорожный брелок"#Travel charm
+  Name: "Дорожн.[90]брелок"#Travel charm
   Type: 20
 55:
   Action: 240
@@ -792,7 +792,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Великий брелок"#Great charm
+  Name: "Великий[90]брелок"#Great charm
   Type: 20
 56:
   Action: 240
@@ -808,7 +808,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Кристальный брелок"#Crystal charm
+  Name: "Кристальн.[90]брелок"#Crystal charm
   Type: 20
 57:
   Action: 240
@@ -824,7 +824,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Кроличья лапа"#Rabbit's foot
+  Name: "Кроличья[90]лапа"#Rabbit's foot
   Type: 20
 58:
   Action: 240
@@ -840,7 +840,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пламенный кулон"#Flame pendant
+  Name: "Пламенн.[90]кулон"#Flame pendant
   Type: 20
 59:
   Action: 240
@@ -856,7 +856,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Дождевой кулон"#Rain pendant
+  Name: "Дождевой[90]кулон"#Rain pendant
   Type: 20
 60:
   Action: 240
@@ -872,7 +872,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ночной кулон"#Night pendant
+  Name: "Ночной[90]кулон"#Night pendant
   Type: 20
 61:
   Action: 240
@@ -888,7 +888,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Морской кулон"#Sea pendant
+  Name: "Морской[90]кулон"#Sea pendant
   Type: 20
 62:
   Action: 240
@@ -904,7 +904,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Звёздный кулон"#Star pendant
+  Name: "Звёздн.[90]кулон"#Star pendant
   Type: 20
 63:
   Action: 240
@@ -917,7 +917,7 @@
   Help Text Pointer: data_03.l_0xc53e23
   Misc Flags:
   - poo can use
-  Name: "Плащ Королей"#Cloak of kings
+  Name: "Плащ[90]Королей"#Cloak of kings
   Type: 20
 64:
   Action: 240
@@ -933,7 +933,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Дешёвый браслет"#Cheap bracelet
+  Name: "Дешёвый[90]браслет"#Cheap bracelet
   Type: 24
 65:
   Action: 240
@@ -949,7 +949,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Медный браслет"#Copper bracelet
+  Name: "Медн.[90]браслет"#Copper bracelet
   Type: 24
 66:
   Action: 240
@@ -965,7 +965,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Серебрянный браслет"#Silver bracelet
+  Name: "Серебрянн.[90]браслет"#Silver bracelet
   Type: 24
 67:
   Action: 240
@@ -981,7 +981,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Золотой браслет"#Gold bracelet
+  Name: "Золотой[90]браслет"#Gold bracelet
   Type: 24
 68:
   Action: 240
@@ -997,7 +997,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Платиновый браслет"#Platinum band
+  Name: "Платин.[90]браслет"#Platinum band
   Type: 24
 69:
   Action: 240
@@ -1013,7 +1013,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Алмазный браслет"#Diamond band
+  Name: "Алмазн.[90]браслет"#Diamond band
   Type: 24
 70:
   Action: 240
@@ -1029,7 +1029,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Фейский браслет"#Pixie's bracelet
+  Name: "Фейский[90]браслет"#Pixie's bracelet
   Type: 24
 71:
   Action: 240
@@ -1045,7 +1045,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Лента Херувима"#Cherub's band
+  Name: "Лента[90]Херувима"#Cherub's band
   Type: 24
 72:
   Action: 240
@@ -1061,7 +1061,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Лента Богини"#Goddess band
+  Name: "Лента[90]Богини"#Goddess band
   Type: 24
 73:
   Action: 240
@@ -1074,7 +1074,7 @@
   Help Text Pointer: data_03.l_0xc53ef4
   Misc Flags:
   - poo can use
-  Name: "Наручи Королей"#Bracer of kings
+  Name: "Наручи[90]Королей"#Bracer of kings
   Type: 24
 74:
   Action: 240
@@ -1090,7 +1090,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Бейсбольная кепка"#Baseball cap
+  Name: "Бейсбольн.[90]кепка"#Baseball cap
   Type: 28
 75:
   Action: 240
@@ -1106,7 +1106,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Шляпа Холмс"#Holmes hat
+  Name: "Шляпа[90]Холмс"#Holmes hat
   Type: 28
 76:
   Action: 240
@@ -1122,7 +1122,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Кепка <Мистер Бейсбол>"#Mr. Baseball cap
+  Name: "Кепка <Мстр.[90]Бейсбол>"#Mr. Baseball cap
   Type: 28
 77:
   Action: 240
@@ -1138,7 +1138,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Строительная Каска"#Hard hat
+  Name: "Строительн.[90]Каска"#Hard hat
   Type: 28
 78:
   Action: 240
@@ -1164,7 +1164,7 @@
   Help Text Pointer: data_03.l_0xc54065
   Misc Flags:
   - paula can use
-  Name: "Красная ленточка"#Red ribbon
+  Name: "Красная[90]ленточка"#Red ribbon
   Type: 28
 80:
   Action: 240
@@ -1177,7 +1177,7 @@
   Help Text Pointer: data_03.l_0xc54075
   Misc Flags:
   - paula can use
-  Name: "Лента богини"#Goddess ribbon
+  Name: "Лента[90]богини"#Goddess ribbon
   Type: 28
 81:
   Action: 240
@@ -1193,7 +1193,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Монета сна"#Coin of slumber
+  Name: "Монета[90]сна"#Coin of slumber
   Type: 28
 82:
   Action: 240
@@ -1209,7 +1209,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Монета защиты"#Coin of defense
+  Name: "Монета[90]защиты"#Coin of defense
   Type: 28
 83:
   Action: 240
@@ -1225,7 +1225,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Счастливая монета"#Lucky coin
+  Name: "Счастливая[90]монета"#Lucky coin
   Type: 28
 84:
   Action: 240
@@ -1257,7 +1257,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Блестящая монета"#Shiny coin
+  Name: "Блестящая[90]монета"#Shiny coin
   Type: 28
 86:
   Action: 240
@@ -1273,7 +1273,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сувенирная монета"#Souvenir coin
+  Name: "Сувенирн.[90]монета"#Souvenir coin
   Type: 28
 87:
   Action: 240
@@ -1286,7 +1286,7 @@
   Help Text Pointer: data_03.l_0xc540e5
   Misc Flags:
   - poo can use
-  Name: "Диадема Королей"#Diadem of kings
+  Name: "Диадема[90]Королей"#Diadem of kings
   Type: 28
 88:
   Action: 249
@@ -1320,7 +1320,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Картошка Фри"#Bag of fries
+  Name: "Картошка[90]Фри"#Bag of fries
   Type: 32
 90:
   Action: 249
@@ -1354,7 +1354,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Варёное Яйцо"#Boiled egg
+  Name: "Варёное[90]Яйцо"#Boiled egg
   Type: 32
 92:
   Action: 249
@@ -1372,7 +1372,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Свежее яйцо"#Fresh Egg
+  Name: "Свежее[90]яйцо"#Fresh Egg
   Type: 32
 93:
   Action: 249
@@ -1406,7 +1406,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Паста дель Саммерс"#Pasta di Summers
+  Name: "Паста[90]дель[90]Саммерс"#Pasta di Summers
   Type: 32
 95:
   Action: 249
@@ -1440,7 +1440,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Спец-блюдо шеф-повара"#Chef's special
+  Name: "Спец-блюдо[90]шеф-повара"#Chef's special
   Type: 32
 97:
   Action: 250
@@ -1457,7 +1457,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Большая пицца"#Large pizza
+  Name: "Большая[90]пицца"#Large pizza
   Type: 44
 98:
   Action: 249
@@ -1474,7 +1474,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Карамелька ПСИ"#PSI caramel
+  Name: "Карамелька[90]ПСИ"#PSI caramel
   Type: 32
 99:
   Action: 249
@@ -1491,7 +1491,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Магический трюфель"#Magic truffle
+  Name: "Магический[90]трюфель"#Magic truffle
   Type: 32
 100:
   Action: 249
@@ -1508,7 +1508,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пища для мозга"#Brain food lunch
+  Name: "Пища[90]для[90]мозга"#Brain food lunch
   Type: 32
 101:
   Action: 249
@@ -1525,7 +1525,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Леденцовая палочка"#Rock candy
+  Name: "Леденцовая[90]палочка"#Rock candy
   Type: 32
 102:
   Action: 249
@@ -1575,7 +1575,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Жевательная резинка"#Pak of bubble gum
+  Name: "Жевательная[90]резинка"#Pak of bubble gum
   Type: 56
 105:
   Action: 189
@@ -1591,7 +1591,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Банка Мушиного Мёда"#Jar of Fly Honey
+  Name: "Банка[90]Мушиного[90]Мёда"#Jar of Fly Honey
   Type: 53
 106:
   Action: 249
@@ -1608,7 +1608,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Фруктовый сок"#Can of fruit juice
+  Name: "Фруктовый[90]сок"#Can of fruit juice
   Type: 36
 107:
   Action: 249
@@ -1625,7 +1625,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Царский чай со льдом"#Royal iced tea
+  Name: "Царский[90]чай[90]со[90]льдом"#Royal iced tea
   Type: 36
 108:
   Action: 249
@@ -1642,7 +1642,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Протеиновый напиток"#Protein drink
+  Name: "Протеиновый[90]напиток"#Protein drink
   Type: 36
 109:
   Action: 249
@@ -1659,7 +1659,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Суп из Кракена"#Kraken soup
+  Name: "Суп[90]из[90]Кракена"#Kraken soup
   Type: 36
 110:
   Action: 249
@@ -1676,7 +1676,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Бутылка Воды"#Bottle of water
+  Name: "Бутылка[90]Воды"#Bottle of water
   Type: 36
 111:
   Action: 249
@@ -1693,7 +1693,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Лекарство от простуды"#Cold remedy
+  Name: "Лекарство[90]от[90]простуды"#Cold remedy
   Type: 36
 112:
   Action: 249
@@ -1710,7 +1710,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Флакон сыворотки"#Vial of serum
+  Name: "Флакон[90]сыворотки"#Vial of serum
   Type: 36
 113:
   Action: 249
@@ -1727,7 +1727,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Капсула Интеллекта"#IQ capsule
+  Name: "Капсула[90]Интеллекта"#IQ capsule
   Type: 36
 114:
   Action: 249
@@ -1744,7 +1744,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Капсула Выдержки"#Guts capsule
+  Name: "Капсула[90]Выдержки"#Guts capsule
   Type: 36
 115:
   Action: 249
@@ -1761,7 +1761,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Капсула Скорости"#Speed capsule
+  Name: "Капсула[90]Скорости"#Speed capsule
   Type: 36
 116:
   Action: 249
@@ -1778,7 +1778,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Капсула Живучести"#Vital capsule
+  Name: "Капсула[90]Живучести"#Vital capsule
   Type: 36
 117:
   Action: 249
@@ -1795,7 +1795,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Капсула Удачи"#Luck capsule
+  Name: "Капсула[90]Удачи"#Luck capsule
   Type: 36
 118:
   Action: 249
@@ -1812,7 +1812,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пакетик кетчупа"#Ketchup packet
+  Name: "Пакетик[90]кетчупа"#Ketchup packet
   Type: 40
 119:
   Action: 249
@@ -1829,7 +1829,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сахарный пакетик"#Sugar packet
+  Name: "Сахарн.[90]пакетик"#Sugar packet
   Type: 40
 120:
   Action: 249
@@ -1846,7 +1846,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Банка какао"#Tin of Cocoa
+  Name: "Банка[90]какао"#Tin of Cocoa
   Type: 40
 121:
   Action: 249
@@ -1863,7 +1863,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Коробка со сливками"#Carton of cream
+  Name: "Коробка[90]со[90]сливками"#Carton of cream
   Type: 40
 122:
   Action: 249
@@ -1880,7 +1880,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Веточка петрушки"#"Sprig of parsley"
+  Name: "Веточка[90]петрушки"#"Sprig of parsley"
   Type: 40
 123:
   Action: 249
@@ -1897,7 +1897,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Банка острого соуса"#"Jar of hot sauce"
+  Name: "Банка[90]острого[90]соуса"#"Jar of hot sauce"
   Type: 40
 124:
   Action: 249
@@ -1914,7 +1914,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пакетик соли"#"Salt packet"
+  Name: "Пакетик[90]соли"#"Salt packet"
   Type: 40
 125:
   Action: 1
@@ -1930,7 +1930,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пропуск за кулисы"#"Backstage pass"
+  Name: "Пропуск[90]за[90]кулисы"#"Backstage pass"
   Type: 59
 126:
   Action: 249
@@ -1947,7 +1947,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Банка вкусносоуса"#"Jar of delisauce"
+  Name: "Банка[90]вкусносоуса"#"Jar of delisauce"
   Type: 40
 127:
   Action: 149
@@ -1964,7 +1964,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Мокрое полотенце"#"Wet towel"
+  Name: "Мокрое[90]полотенце"#"Wet towel"
   Type: 48
 128:
   Action: 150
@@ -1981,7 +1981,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Освяжающее растение"#"Refreshing herb"
+  Name: "Освяжающее[90]растение"#"Refreshing herb"
   Type: 48
 129:
   Action: 151
@@ -1998,7 +1998,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Тайное растение"#"Secret herb"
+  Name: "Тайное[90]растение"#"Secret herb"
   Type: 48
 130:
   Action: 152
@@ -2015,7 +2015,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Рог жизни"#"Horn of life"
+  Name: "Рог[90]жизни"#"Horn of life"
   Type: 48
 131:
   Action: 159
@@ -2028,7 +2028,7 @@
   Help Text Pointer: data_03.l_0xc54a3a
   Misc Flags:
   - jeff can use
-  Name: "Прибор Анти-ПСИ"#"Counter-PSI unit"
+  Name: "Прибор[90]Анти-ПСИ"#"Counter-PSI unit"
   Type: 52
 132:
   Action: 160
@@ -2067,7 +2067,7 @@
   Help Text Pointer: data_03.l_0xc54af5
   Misc Flags:
   - jeff can use
-  Name: "Тяжёлая базука"#"Heavy bazooka"
+  Name: "Тяжёлая[90]базука"#"Heavy bazooka"
   Type: 52
 135:
   Action: 161
@@ -2093,7 +2093,7 @@
   Help Text Pointer: data_04.l_0xc54bb0
   Misc Flags:
   - jeff can use
-  Name: "Голодный жизнекрад"#"Hungry HP-sucker"
+  Name: "Голодн.[90]жизнекрад"#"Hungry HP-sucker"
   Type: 52
 137:
   Action: 179
@@ -2109,7 +2109,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Истребляющее средство"#"Xterminator spray"
+  Name: "Истребляющее[90]средство"#"Xterminator spray"
   Type: 52
 138:
   Action: 169
@@ -2122,7 +2122,7 @@
   Help Text Pointer: data_04.l_0xc54c32
   Misc Flags:
   - jeff can use
-  Name: "Генератор слизи"#"Slime generator"
+  Name: "Генератор[90]слизи"#"Slime generator"
   Type: 52
 139:
   Action: 170
@@ -2135,7 +2135,7 @@
   Help Text Pointer: data_04.l_0xc54c6d
   Misc Flags:
   - jeff can use
-  Name: "Раздатчик йогурта"#"Yogurt dispenser"
+  Name: "Раздатчик[90]йогурта"#"Yogurt dispenser"
   Type: 52
 140:
   Action: 186
@@ -2167,7 +2167,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Мешок со змеями"#"Snake bag"
+  Name: "Мешок[90]со[90]змеями"#"Snake bag"
   Type: 52
 142:
   Action: 162
@@ -2184,7 +2184,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Обёртки мумии"#"Mummy wrap"
+  Name: "Обёртки[90]мумии"#"Mummy wrap"
   Type: 52
 143:
   Action: 187
@@ -2228,7 +2228,7 @@
   Misc Flags:
   - item disappears when used
   - jeff can use
-  Name: "Большая ракета"#"Big bottle rocket"
+  Name: "Большая[90]ракета"#"Big bottle rocket"
   Type: 52
 146:
   Action: 165
@@ -2276,7 +2276,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Супер бомба"#"Super bomb"
+  Name: "Супер[90]бомба"#"Super bomb"
   Type: 52
 149:
   Action: 178
@@ -2327,7 +2327,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ржавомёт Делюкс"#"Rust promoter DX"
+  Name: "Ржавомёт[90]Делюкс"#"Rust promoter DX"
   Type: 52
 152:
   Action: 172
@@ -2344,7 +2344,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пара грязных носков"#"Pair`of dirty socks"
+  Name: "Пара[90]грязных[90]носков"#"Pair`of dirty socks"
   Type: 52
 153:
   Action: 173
@@ -2378,7 +2378,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Зубная щётка"#"Toothbrush"
+  Name: "Зубная[90]щётка"#"Toothbrush"
   Type: 52
 155:
   Action: 166
@@ -2395,7 +2395,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ручка от сумки"#"Handbag strap"
+  Name: "Ручка[90]от[90]сумки"#"Handbag strap"
   Type: 52
 156:
   Action: 175
@@ -2412,7 +2412,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Проклятье фараона"#"Pharaoh's curse"
+  Name: "Проклятье[90]фараона"#"Pharaoh's curse"
   Type: 52
 157:
   Action: 184
@@ -2425,7 +2425,7 @@
   Help Text Pointer: data_04.l_0xc5519f
   Misc Flags:
   - jeff can use
-  Name: "Защитный душ"#"Defense shower"
+  Name: "Защитн.[90]душ"#"Defense shower"
   Type: 53
 158:
   Action: 287
@@ -2441,7 +2441,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Письмо от мамы"#"Letter from mom"
+  Name: "Письмо[90]от[90]мамы"#"Letter from mom"
   Type: 59
 159:
   Action: 182
@@ -2458,7 +2458,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пилюля внез.выдержки"#"Sudden guts pill"
+  Name: "Пилюля[90]внез[90]93]ыдержки"#"Sudden guts pill"
   Type: 53
 160:
   Action: 177
@@ -2475,7 +2475,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Мешочек Драконита"#"Bag of Dragonite"
+  Name: "Мешочек[90]Драконита"#"Bag of Dragonite"
   Type: 53
 161:
   Action: 183
@@ -2492,7 +2492,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Защитный спрей"#"Defense spray"
+  Name: "Защитн.[90]спрей"#"Defense spray"
   Type: 53
 162:
   Action: 190
@@ -2508,7 +2508,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Свиной пятачок"#"Piggy nose"
+  Name: "Свиной[90]пятачок"#"Piggy nose"
   Type: 56
 163:
   Action: 191
@@ -2540,7 +2540,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Книга о застенчивости"#"Shyness book"
+  Name: "Книга[90]о[90]застенчивости"#"Shyness book"
   Type: 59
 165:
   Action: 193
@@ -2556,7 +2556,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Худож. открытка"#"Picture postcard"
+  Name: "Худож[90]открытка"#"Picture postcard"
   Type: 56
 166:
   Action: 285
@@ -2572,7 +2572,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Королевский банан"#"King banana"
+  Name: "Королевский[90]банан"#"King banana"
   Type: 56
 167:
   Action: 288
@@ -2588,7 +2588,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Письмо от Тони"#"Letter from Tony"
+  Name: "Письмо[90]от[90]Тони"#"Letter from Tony"
   Type: 59
 168:
   Action: 195
@@ -2640,7 +2640,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ключ от хижины"#"Key to the shack"
+  Name: "Ключ[90]от[90]хижины"#"Key to the shack"
   Type: 59
 171:
   Action: 1
@@ -2656,7 +2656,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ключ от кабины"#"Key to the cabin"
+  Name: "Ключ[90]от[90]кабины"#"Key to the cabin"
   Type: 59
 172:
   Action: 1
@@ -2672,7 +2672,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Плохой ключевой аппарат"#"Bad key machine"
+  Name: "Плохой[90]ключевой[90]аппарат"#"Bad key machine"
   Type: 59
 173:
   Action: 1
@@ -2688,7 +2688,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Временные товары"#"Temporary goods"
+  Name: "Временные[90]товары"#"Temporary goods"
   Type: 56
 174:
   Action: 198
@@ -2704,7 +2704,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Липк. бумага от зомби"#"Zombie paper"
+  Name: "Липк[90]бумага[90]от[90]зомби"#"Zombie paper"
   Type: 58
 175:
   Action: 199
@@ -2720,7 +2720,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Соколиный глаз"#"Hawk eye"
+  Name: "Соколин.[90]глаз"#"Hawk eye"
   Type: 58
 176:
   Action: 200
@@ -2754,7 +2754,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Банковская карта"#"ATM card"
+  Name: "Банковская[90]карта"#"ATM card"
   Type: 59
 178:
   Action: 1
@@ -2770,7 +2770,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Билет на концерт"#"Show ticket"
+  Name: "Билет[90]на[90]концерт"#"Show ticket"
   Type: 59
 179:
   Action: 289
@@ -2786,7 +2786,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Письмо от детей"#"Letter from kids"
+  Name: "Письмо[90]от[90]детей"#"Letter from kids"
   Type: 59
 180:
   Action: 1
@@ -2802,7 +2802,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пачка денег"#"Wad of bills"
+  Name: "Пачка[90]денег"#"Wad of bills"
   Type: 59
 181:
   Action: 286
@@ -2852,7 +2852,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Подписанный банан"#"Signed banana"
+  Name: "Подписанн.[90]банан"#"Signed banana"
   Type: 59
 184:
   Action: 1
@@ -2868,7 +2868,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ластик для карандашей"#"Pencil eraser"
+  Name: "Ластик[90]для[90]карандашей"#"Pencil eraser"
   Type: 59
 185:
   Action: 270
@@ -2884,7 +2884,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Копия иероглифов"#"Hieroglyph copy"
+  Name: "Копия[90]иероглифов"#"Hieroglyph copy"
   Type: 59
 186:
   Action: 1
@@ -2916,7 +2916,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Контактные линзы"#"Contact lens"
+  Name: "Контактные[90]линзы"#"Contact lens"
   Type: 59
 188:
   Action: 140
@@ -2950,7 +2950,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Форельный йогурт"#"Trout yogurt"
+  Name: "Форельн.[90]йогурт"#"Trout yogurt"
   Type: 32
 190:
   Action: 249
@@ -2984,7 +2984,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Хлебная палочка"#"Calorie stick"
+  Name: "Хлебная[90]палочка"#"Calorie stick"
   Type: 32
 192:
   Action: 1
@@ -3000,7 +3000,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ключ от башни"#"Key to the tower"
+  Name: "Ключ[90]от[90]башни"#"Key to the tower"
   Type: 59
 193:
   Action: 1
@@ -3016,7 +3016,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Кусок метеорита"#"Meteorite piece"
+  Name: "Кусок[90]метеорита"#"Meteorite piece"
   Type: 59
 194:
   Action: 240
@@ -3032,7 +3032,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Земной кулон"#"Earth pendant"
+  Name: "Земной[90]кулон"#"Earth pendant"
   Type: 20
 195:
   Action: 247
@@ -3063,7 +3063,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Поющий камень"#"Sound Stone"
+  Name: "Поющий[90]камень"#"Sound Stone"
   Type: 56
 197:
   Action: 259
@@ -3096,7 +3096,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Джелато дэ курорт"#"Gelato de resort"
+  Name: "Джелато[90]дэ[90]курорт"#"Gelato de resort"
   Type: 32
 199:
   Action: 268
@@ -3146,7 +3146,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Головной камень"#"Brain stone"
+  Name: "Головной[90]камень"#"Brain stone"
   Type: 56
 202:
   Action: 271
@@ -3162,7 +3162,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Карта Города"#"Town map"
+  Name: "Карта[90]Города"#"Town map"
   Type: 56
 203:
   Action: 272
@@ -3178,7 +3178,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Видео релаксант"#"Video relaxant" #Can't be found normally in-game
+  Name: "Видео[90]релаксант"#"Video relaxant" #Can't be found normally in-game
   Type: 56
 204:
   Action: 281
@@ -3211,7 +3211,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ключ от шкафчика"#"Key to the locker"
+  Name: "Ключ[90]от[90]шкафчика"#"Key to the locker"
   Type: 59
 206:
   Action: 282
@@ -3227,7 +3227,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Незначительная вещь"#"Insignificant item"
+  Name: "Незначительная[90]вещь"#"Insignificant item"
   Type: 59
 207:
   Action: 249
@@ -3244,7 +3244,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Магический тортик"#"Magic tart"
+  Name: "Магический[90]тортик"#"Magic tart"
   Type: 32
 208:
   Action: 1
@@ -3259,7 +3259,7 @@
   - cannot be given away
   - cannot be stored with escargo express
   - poo can use
-  Name: "Крошечный рубин"#"Tiny ruby"
+  Name: "Крошечн.[90]рубин"#"Tiny ruby"
   Type: 59
 209:
   Action: 283
@@ -3275,7 +3275,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Обезьянья любовь"#"Monkey's love"
+  Name: "Обезьянья[90]любовь"#"Monkey's love"
   Type: 52
 210:
   Action: 1
@@ -3291,7 +3291,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Ластик для ластиков"#"Eraser eraser"
+  Name: "Ластик[90]для[90]ластиков"#"Eraser eraser"
   Type: 59
 211:
   Action: 284
@@ -3334,7 +3334,7 @@
   Help Text Pointer: data_04.l_0xc55ebb
   Misc Flags:
   - ness can use
-  Name: "Бита высшой лиги"#"Big league bat"
+  Name: "Бита[90]высшой[90]лиги"#"Big league bat"
   Type: 16
 214:
   Action: 239
@@ -3347,7 +3347,7 @@
   Help Text Pointer: data_04.l_0xc55ef6
   Misc Flags:
   - ness can use
-  Name: "Превосходная бита"#"Ultimate bat"
+  Name: "Превосходная[90]бита"#"Ultimate bat"
   Type: 16
 215:
   Action: 239
@@ -3360,7 +3360,7 @@
   Help Text Pointer: data_04.l_0xc55f06
   Misc Flags:
   - jeff can use
-  Name: "Двойной луч"#"Double beam"
+  Name: "Двойной[90]луч"#"Double beam"
   Type: 17
 216:
   Action: 240
@@ -3376,7 +3376,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Платиновый браслет"#"Platinum band"
+  Name: "Платиновый[90]браслет"#"Platinum band"
   Type: 24
 217:
   Action: 240
@@ -3392,7 +3392,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Алмазный браслет"#"Diamond band"
+  Name: "Алмазн.[90]браслет"#"Diamond band"
   Type: 24
 218:
   Action: 240
@@ -3405,7 +3405,7 @@
   Help Text Pointer: data_04.l_0xc55f36
   Misc Flags:
   - paula can use
-  Name: "Защитная ленточка"#"Defense ribbon"
+  Name: "Защитная[90]ленточка"#"Defense ribbon"
   Type: 28
 219:
   Action: 240
@@ -3431,7 +3431,7 @@
   Help Text Pointer: data_04.l_0xc55f84
   Misc Flags:
   - paula can use
-  Name: "Сатурианская лента"#"Saturn ribbon"
+  Name: "Сатурианская[90]лента"#"Saturn ribbon"
   Type: 28
 221:
   Action: 240
@@ -3447,7 +3447,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Монета безмолвия"#"Coin of silence"
+  Name: "Монета[90]безмолвия"#"Coin of silence"
   Type: 28
 222:
   Action: 240
@@ -3463,7 +3463,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Монета шарма"#"Charm coin"
+  Name: "Монета[90]шарма"#"Charm coin"
   Type: 28
 223:
   Action: 249
@@ -3480,7 +3480,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Тарелка лапши"#"Cup of noodles"
+  Name: "Тарелка[90]лапши"#"Cup of noodles"
   Type: 32
 224:
   Action: 249
@@ -3514,7 +3514,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Быстроброд Делюкс"#"Skip sandwich DX"
+  Name: "Быстроброд[90]Супер"#"Skip sandwich DX"
   Type: 32
 226:
   Action: 249
@@ -3531,7 +3531,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 227:
   Action: 249
@@ -3548,7 +3548,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 228:
   Action: 249
@@ -3565,7 +3565,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 229:
   Action: 249
@@ -3582,7 +3582,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 230:
   Action: 249
@@ -3599,7 +3599,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 231:
   Action: 249
@@ -3616,7 +3616,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Везучий бутерброд"#"Lucky sandwich"
+  Name: "Везучий[90]бутерброд"#"Lucky sandwich"
   Type: 32
 232:
   Action: 249
@@ -3633,7 +3633,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Тарелка кофе"#"Cup of coffee"
+  Name: "Тарелка[90]кофе"#"Cup of coffee"
   Type: 36
 233:
   Action: 249
@@ -3650,7 +3650,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Двойной гамбургер"#"Double burger"
+  Name: "Двойной[90]гамбургер"#"Double burger"
   Type: 32
 234:
   Action: 249
@@ -3667,7 +3667,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Арахисовый чизкейк"#"Peanut cheese`bar"
+  Name: "Арахисовый[90]чизкейк"#"Peanut cheese`bar"
   Type: 32
 235:
   Action: 249
@@ -3701,7 +3701,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Тарелка рисовой каши"#"Bowl of rice gruel"
+  Name: "Тарелка[90]рисовой[90]каши"#"Bowl of rice gruel"
   Type: 32
 237:
   Action: 249
@@ -3718,7 +3718,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Фасолевый крокет"#"Bean croquette"
+  Name: "Фасолевый[90]крокет"#"Bean croquette"
   Type: 32
 238:
   Action: 249
@@ -3735,7 +3735,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Суп молохея"#"Molokheiya soup"
+  Name: "Суп[90]молохея"#"Molokheiya soup"
   Type: 36
 239:
   Action: 249
@@ -3803,7 +3803,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Вяленая говядина"#"Beef jerky"
+  Name: "Вяленая[90]говядина"#"Beef jerky"
   Type: 32
 243:
   Action: 249
@@ -3837,7 +3837,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Пряное вял. мясо"#"Spicy jerky"
+  Name: "Пряное[90]вял[90]мясо"#"Spicy jerky"
   Type: 32
 245:
   Action: 249
@@ -3854,7 +3854,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Роскошное вял. мясо"#"Luxury jerky"
+  Name: "Роскошное[90]вял[90]мясо"#"Luxury jerky"
   Type: 32
 246:
   Action: 249
@@ -3871,7 +3871,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Большая бутылка воды"#"Bottle of DXwater"
+  Name: "Большая[90]бутылка[90]воды"#"Bottle of DXwater"
   Type: 36
 247:
   Action: 249
@@ -3888,7 +3888,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Магический пуддинг"#"Magic pudding"
+  Name: "Магический[90]пуддинг"#"Magic pudding"
   Type: 32
 248:
   Action: 239
@@ -3901,7 +3901,7 @@
   Help Text Pointer: data_05.l_0xc567f4
   Misc Flags:
   - paula can use
-  Name: "Антипригарная сковородка"#"Non-stick frypan"
+  Name: "Антипригарная[90]сковородка"#"Non-stick frypan"
   Type: 16
 249:
   Action: 240
@@ -3917,7 +3917,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Сатурианская монетка"#"Mr. Saturn coin"
+  Name: "Сатурианская[90]монетка"#"Mr. Saturn coin"
   Type: 28
 250:
   Action: 1
@@ -3967,7 +3967,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Тарелка лапши жизни"#"Cup of Lifenoodles"
+  Name: "Тарелка[90]лапши[90]жизни"#"Cup of Lifenoodles"
   Type: 48
 253:
   Action: 1
@@ -3983,5 +3983,5 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "Морковный ключ"#"Carrot key"
+  Name: "Морковн.[90]ключ"#"Carrot key"
   Type: 59

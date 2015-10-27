@@ -38,13 +38,12 @@ l_0xef76c7:
     "  hitting the target![03]" eob*/
 l_0xef76d8:
     newline
-    "{sound(34)}@...narrowly missed" linebreak
-    "  hitting the target![03]" eob
+    "{sound(34)}@Промах![03]" eob
 
 l_0xef76fd:
     newline
-    "@But {target} was" linebreak
-    "  already gone...[03]" eob
+    "@Но {target} уже" linebreak
+    "  не было...[03]" eob
 
 l_0xef7710:
     newline

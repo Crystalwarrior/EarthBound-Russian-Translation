@@ -56,7 +56,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][A5][A1][96][A2][90][A1][9D][C5][AA][90][9E][9A][AA][9C][91]"#Super plush bear
+  Name: "[83][A5][A1][96][A2][90][9E][9A][AA][9C][91]"#Super plush bear
   Type: 4
 4:
   Action: 1
@@ -72,7 +72,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[82][91][99][92][9A][A4][C2][9B][90][9E][96][A7][91][9F][9A][99][9E]"#Broken machine
+  Name: "[82][91][99][92][9A][A4].[90][9E][96][A7][91][9F][9A][99][9E]"#Broken machine
   Type: 8
 5:
   Action: 1
@@ -88,7 +88,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F][91][C6][90][92][96][99][95][96][9D][A5][AA][9C][91]"#Broken gadget
+  Name: "[83][9D][A0][9E].[90][94][91][95][98][96][A4]"#Broken gadget
   Type: 8
 6:
   Action: 1
@@ -104,7 +104,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7F][96][9A][A3][A1][A2][90][95][A5][A7][A0][93][A0][96][90][A2][A5][98][C3][96]"#Broken air gun
+  Name: "[7F][96][9A][A3][A1][A2].[90][A1][9A][A3][A4][A0][9D][96][A4]"#Broken air gun
   Type: 8
 7:
   Action: 1
@@ -120,7 +120,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F].[90][92][91][9D][9D][A0][9F][A9][9A][9C]"#Broken spray can
+  Name: "[83][9D][A0][9E].[90][92][91][9D][9D][A0][9F][A9][9A][9C]"#Broken spray can
   Type: 8
 8:
   Action: 1
@@ -136,7 +136,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F].[90][9D][91][99][96][A2]"#Broken laser
+  Name: "[83][9D][A0][9E].[90][9D][91][99][96][A2]"#Broken laser
   Type: 8
 9:
   Action: 1
@@ -152,7 +152,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F].[90][A5][A4][C5][94]"#Broken iron
+  Name: "[83][9D][A0][9E].[90][A5][A4][C5][94]"#Broken iron
   Type: 8
 10:
   Action: 1
@@ -168,7 +168,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7A][99][A0][94][9F][A5][A4][91][C6][90][A4][A2][A5][92][91]"#Broken pipe
+  Name: "[7A][99][A0][94][9F].[90][A4][A2][A5][92][91]"#Broken pipe
   Type: 8
 11:
   Action: 1
@@ -184,7 +184,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F][91][C6][90][A1][A5][AA][9C][91]"#Broken cannon
+  Name: "[83][9D][A0][9E].[90][A1][A5][AA][9C][91]"#Broken cannon
   Type: 8
 12:
   Action: 1
@@ -200,7 +200,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][A0][9D][A0][9E][91][9F][9F].[90][A4][C5][92][9A][9C]"#Broken tube
+  Name: "[83][9D][A0][9E].[90][A4][A2][A5][92][9C][91]"#Broken tube
   Type: 8
 13:
   Action: 1
@@ -216,7 +216,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7F][96][9A][A3][A1][A2][91][93][9F][91][C6][90][92][91][99][A5][9C][91]"#Broken bazooka
+  Name: "[7F][96][9A][A3][A1][A2].[90][92][91][99][A5][9C][91]"#Broken bazooka
   Type: 8
 14:
   Action: 1
@@ -232,7 +232,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7F][96][9A][A3][A1][A2][91][93][9F].[90][A4][A2][A0][9E][92][A0][9F]"#Broken trumpet
+  Name: "[83][9D][A0][9E].[90][A4][A2][A0][9E][92][A0][9F]"#Broken trumpet
   Type: 8
 15:
   Action: 1
@@ -248,7 +248,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][A0][9D][A0][9E][91][9F][9F][91][C6][90][94][A0][A2][9E][A0][AA][9C][91]"#Broken harmonica
+  Name: "[81][A0][9D][A0][9E].[90][94][A0][A2][9E][A0][AA][9C][91]"#Broken harmonica
   Type: 8
 16:
   Action: 1
@@ -264,7 +264,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][9D][A0][9E][91][9F][9F][91][C6][90][91][9F][A4][96][9F][9F][91]"#Broken antenna
+  Name: "[83][9D][A0][9E].[90][91][9F][A4][96][9F][9F][91]"#Broken antenna
   Type: 8
 17:
   Action: 239
@@ -277,7 +277,7 @@
   Help Text Pointer: data_02.l_0xc539c4
   Misc Flags:
   - ness can use
-  Name: "[84][A2][96][A3][9F][A5][93][AA].[90][92][9A][A4][91]"#Cracked bat
+  Name: "[84][A2][96][A3][9F].[90][92][9A][A4][91]"#Cracked bat
   Type: 16
 18:
   Action: 239
@@ -303,7 +303,7 @@
   Help Text Pointer: data_02.l_0xc539e4
   Misc Flags:
   - ness can use
-  Name: "[81][A5][A3][A4][C2][A2][9F][91][C6][90][92][9A][A4][91]"#Sand lot bat
+  Name: "[81][A5][A3][A4][C2][A2].[90][92][9A][A4][91]"#Sand lot bat
   Type: 16
 20:
   Action: 239
@@ -316,7 +316,7 @@
   Help Text Pointer: data_02.l_0xc539f4
   Misc Flags:
   - ness can use
-  Name: "[72][9A][A4][91][90][9F][9A][99][AA].[90][9D][9A][94][9A]"#Minor league bat
+  Name: "[72][9A][A4][91][90][9F][9A][99][AA].[9D][9A][94][9A]"#Minor league bat
   Type: 16
 21:
   Action: 239
@@ -329,7 +329,7 @@
   Help Text Pointer: data_02.l_0xc53a04
   Misc Flags:
   - ness can use
-  Name: "[72][9A][A4][91] <[7E][A3][A4][A2].[90][72][96][9B][A3][92][A0][9D]>"#Mr. Baseball bat
+  Name: "[72][9A][A4][91][90][72][96][9B][A3][9E][C4][9F]"#Mr. Baseball bat
   Type: 16
 22:
   Action: 239
@@ -342,7 +342,7 @@
   Help Text Pointer: data_02.l_0xc53a14
   Misc Flags:
   - ness can use
-  Name: "[72][9A][A4][91][90][93][C2][A3][AA].[90][9D][9A][94][9A]"#Big league bat
+  Name: "[72][9A][A4][91][90][93][C2][A3][AA].[9D][9A][94][9A]"#Big league bat
   Type: 16
 23:
   Action: 239
@@ -394,7 +394,7 @@
   Help Text Pointer: data_02.l_0xc53a77
   Misc Flags:
   - ness can use
-  Name: "[72][96][A3][A3][A4][A2][91][AA][9F].[90][92][9A][A4][91]"#Gutsy bat
+  Name: "[72][96][A3][A3][A4][A2].[90][92][9A][A4][91]"#Gutsy bat
   Type: 16
 27:
   Action: 239
@@ -433,7 +433,7 @@
   Help Text Pointer: data_02.l_0xc53af6
   Misc Flags:
   - paula can use
-  Name: "[84][A0][9D][A3][A4].[90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#Thick fry pan
+  Name: "[84][A0][9D][A3][A4].[90][A3][9C][A0][93][A0][A2]."#Thick fry pan
   Type: 16
 30:
   Action: 239
@@ -446,7 +446,7 @@
   Help Text Pointer: data_02.l_0xc53b06
   Misc Flags:
   - paula can use
-  Name: "[82][A0][A3][9C][A0][AA][9F].[90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#Deluxe fry pan
+  Name: "[83][9C][A0][93][A0][A2].[90][75][96][9D][C5][9C][A3]"#Deluxe fry pan
   Type: 16
 31:
   Action: 239
@@ -459,7 +459,7 @@
   Help Text Pointer: data_02.l_0xc53b16
   Misc Flags:
   - paula can use
-  Name: "[83][9C][A0][93][A0][A2][A0][95][9C][91][90][AA][96][A6][91]"#Chef's fry pan
+  Name: "[83][9C][A0][93][A0][A2].[90][AA][96][A6][91]"#Chef's fry pan
   Type: 16
 32:
   Action: 239
@@ -472,7 +472,7 @@
   Help Text Pointer: data_02.l_0xc53b26
   Misc Flags:
   - paula can use
-  Name: "[86][A2][91][9F][A8][A5][99][9C].[90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#French fry pan
+  Name: "[86][A2][91][9F][A8].[90][A3][9C][A0][93][A0][A2]."#French fry pan
   Type: 16
 33:
   Action: 239
@@ -485,7 +485,7 @@
   Help Text Pointer: data_02.l_0xc53b36
   Misc Flags:
   - paula can use
-  Name: "[7E][91][94][9A][A9].[90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#Magic fry pan
+  Name: "[7E][91][94][9A][A9].[90][A3][9C][A0][93][A0][A2]."#Magic fry pan
   Type: 16
 34:
   Action: 239
@@ -498,7 +498,7 @@
   Help Text Pointer: data_02.l_0xc53b46
   Misc Flags:
   - paula can use
-  Name: "[83][93][C6][A4][91][C6][90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#Holy fry pan
+  Name: "[83][93][C6][A4][91][C6][90][A3][9C][A0][93][A0][A2]."#Holy fry pan
   Type: 16
 35:
   Action: 239
@@ -550,7 +550,7 @@
   Help Text Pointer: data_03.l_0xc53b96
   Misc Flags:
   - jeff can use
-  Name: "[7A][94][A2][A5][AA][96][A9][9F].[90][A1][9A][A3][A4][A0][9D][96][A4]"#Toy air gun
+  Name: "[7A][94][A2][A5][AA].[90][A1][9A][A3][A4][A0][9D][96][A4]"#Toy air gun
   Type: 17
 39:
   Action: 239
@@ -563,7 +563,7 @@
   Help Text Pointer: data_03.l_0xc53ba6
   Misc Flags:
   - jeff can use
-  Name: "[81][9F][96][93][9E][91][A4][9A][A9].[90][7E][91][94][9F][A5][9E]"#Magnum air gun
+  Name: "[81][9F][96][93].[90][7E][91][94][9F][A5][9E]"#Magnum air gun
   Type: 17
 40:
   Action: 239
@@ -576,7 +576,7 @@
   Help Text Pointer: data_03.l_0xc53bb6
   Misc Flags:
   - jeff can use
-  Name: "[81][A0][A9][A4][A0][93][C2][9B][90][A1][9A][A3][A4][A0][9D][96][A4]"#Zip gun
+  Name: "[81][A0][A9][A4].[90][A1][9A][A3][A4][A0][9D]."#Zip gun
   Type: 17
 41:
   Action: 239
@@ -589,7 +589,7 @@
   Help Text Pointer: data_03.l_0xc53bc6
   Misc Flags:
   - jeff can use
-  Name: "[7D][91][99][96][A2][9F].[90][A1][9A][A3][A4][A0][9D][96][A4]"#Laser gun
+  Name: "[7D][91][99][96][A2][9F].[90][A1][9A][A3][A4][A0][9D]."#Laser gun
   Type: 17
 42:
   Action: 239
@@ -654,7 +654,7 @@
   Help Text Pointer: data_03.l_0xc53c16
   Misc Flags:
   - jeff can use
-  Name: "[7F][91][9A][9C][A2][A5][A4][96][9B][AA][9A][9B][90][9D][A5][A9]"#Baddest beam
+  Name: "[7E][96][94][91][90][9D][A5][A9]"#Baddest beam
   Type: 17
 47:
   Action: 239
@@ -667,7 +667,7 @@
   Help Text Pointer: data_03.l_0xc53c26
   Misc Flags:
   - jeff can use
-  Name: "[7D][A5][9F][9F][91][C6][90][9D][A5][A9][96][A1][A5][AA][9C][91]"#Moon beam gun
+  Name: "[7D][A5][9F][A0][A1][A5][AA][9C][91]"#Moon beam gun
   Type: 17
 48:
   Action: 239
@@ -808,7 +808,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][A2][9A][A3][A4][91][9D][C3][9F].[90][92][A2][96][9D][A0][9C]"#Crystal charm
+  Name: "[7C][A2][9A][A3][A4].[90][92][A2][96][9D][A0][9C]"#Crystal charm
   Type: 20
 57:
   Action: 240
@@ -933,7 +933,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[75][96][AA][97][93][C2][9B][90][92][A2][91][A3][9D][96][A4]"#Cheap bracelet
+  Name: "[75][96][AA][97][93].[90][92][A2][91][A3][9D][96][A4]"#Cheap bracelet
   Type: 24
 65:
   Action: 240
@@ -965,7 +965,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][96][A2][96][92][A2][C6][9F][9F].[90][92][A2][91][A3][9D][96][A4]"#Silver bracelet
+  Name: "[83][96][A2][96][92].[90][92][A2][91][A3][9D][96][A4]"#Silver bracelet
   Type: 24
 67:
   Action: 240
@@ -1029,7 +1029,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[86][96][9B][A3][9C][9A][9B][90][92][A2][91][A3][9D][96][A4]"#Pixie's bracelet
+  Name: "[72][A2][91][A3][9D][96][A4][90][A6][96][9A]"#Pixie's bracelet
   Type: 24
 71:
   Action: 240
@@ -1090,7 +1090,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][96][9B][A3][92][A0][9D][C3][9F].[90][9C][96][A1][9C][91]"#Baseball cap
+  Name: "[72][96][9B][A3][92].[90][9C][96][A1][9C][91]"#Baseball cap
   Type: 28
 75:
   Action: 240
@@ -1122,7 +1122,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][96][A1][9C][91] <[7E][A3][A4][A2].[90][72][96][9B][A3][92][A0][9D]>"#Mr. Baseball cap
+  Name: "[7C][96][A1][9C][91][90][72][96][9B][A3][9E][C4][9F]"#Mr. Baseball cap
   Type: 28
 77:
   Action: 240
@@ -1138,7 +1138,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][A4][A2][A0][9A][A4][96][9D][C3][9F].[90][7C][91][A3][9C][91]"#Hard hat
+  Name: "[83][A4][A2][A0][9A][A4].[90][7C][91][A3][9C][91]"#Hard hat
   Type: 28
 78:
   Action: 240
@@ -1164,7 +1164,7 @@
   Help Text Pointer: data_03.l_0xc54065
   Misc Flags:
   - paula can use
-  Name: "[7C][A2][91][A3][9F][91][C6][90][9D][96][9F][A4][A0][A9][9C][91]"#Red ribbon
+  Name: "[7C][A2][91][A3][9F].[90][9D][96][9F][A4][A0][A9][9C][91]"#Red ribbon
   Type: 28
 80:
   Action: 240
@@ -1225,7 +1225,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][A9][91][A3][A4][9D][9A][93][91][C6][90][9E][A0][9F][96][A4][91]"#Lucky coin
+  Name: "[7E][A0][9F][96][A4][91][90][A5][95][91][A9][9A]"#Lucky coin
   Type: 28
 84:
   Action: 240
@@ -1241,7 +1241,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][A0][9F][96][A4][91]-[A4][91][9D][9A][A3][9E][91][9F]"#Talisman coin
+  Name: "[7E][A0][9F][96][A4][91][90][A4][91][9D][9A][A3][9E][91][9F]"#Talisman coin
   Type: 28
 85:
   Action: 240
@@ -1257,7 +1257,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][9D][96][A3][A4][C6][C0][91][C6][90][9E][A0][9F][96][A4][91]"#Shiny coin
+  Name: "[72][9D][96][A3][A4].[90][9E][A0][9F][96][A4][91]"#Shiny coin
   Type: 28
 86:
   Action: 240
@@ -1273,7 +1273,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][A5][93][96][9F][9A][A2][9F].[90][9E][A0][9F][96][A4][91]"#Souvenir coin
+  Name: "[83][A5][93][96][9F].[90][9E][A0][9F][96][A4][91]"#Souvenir coin
   Type: 28
 87:
   Action: 240
@@ -1286,7 +1286,7 @@
   Help Text Pointer: data_03.l_0xc540e5
   Misc Flags:
   - poo can use
-  Name: "[75][9A][91][95][96][9E][91][90][7C][A0][A2][A0][9D][96][9B]"#Diadem of kings
+  Name: "[75][9A][91][95][96][9E].[90][7C][A0][A2][A0][9D][96][9B]"#Diadem of kings
   Type: 28
 88:
   Action: 249
@@ -1406,7 +1406,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][91][A3][A4][91][90][95][96][9D][C3][90][83][91][9E][9E][96][A2][A3]"#Pasta di Summers
+  Name: "[81][91][A3][A4][91][90][95][96][9D][C3][90][9E][91][A2]"#Pasta di Summers
   Type: 32
 95:
   Action: 249
@@ -1440,7 +1440,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][A1][96][A8]-[92][9D][C5][95][A0][90][AA][96][A6]-[A1][A0][93][91][A2][91]"#Chef's special
+  Name: "[83][A1][96][A8][92][9D][C5][95][A0][90][AA][96][A6][91]"#Chef's special
   Type: 32
 97:
   Action: 250
@@ -1491,7 +1491,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][91][94][9A][A9][96][A3][9C][9A][9B][90][A4][A2][C5][A6][96][9D][C3]"#Magic truffle
+  Name: "[7E][91][94][9A][A9].[90][A4][A2][C5][A6][96][9D][C3]"#Magic truffle
   Type: 32
 100:
   Action: 249
@@ -1525,7 +1525,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7D][96][95][96][9F][A8][A0][93][91][C6][90][A1][91][9D][A0][A9][9C][91]"#Rock candy
+  Name: "[7D][96][95][96][9F][A8].[90][A1][91][9D][A0][A9][9C][91]"#Rock candy
   Type: 32
 102:
   Action: 249
@@ -1575,7 +1575,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[78][96][93][91][A4][96][9D][C3][9F][91][C6][90][A2][96][99][9A][9F][9C][91]"#Pak of bubble gum
+  Name: "[78][96][93][91][A4].[90][A2][96][99][9A][9F][9C][91]"#Pak of bubble gum
   Type: 56
 105:
   Action: 189
@@ -1591,7 +1591,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][91][9F][9C][91][90][7E][A5][AA][9A][9F][A0][94][A0][90][7E][97][95][91]"#Jar of Fly Honey
+  Name: "[72][91][9F][9C][91][90][7E][A5][A7][A0][9E][97][95][91]"#Jar of Fly Honey
   Type: 53
 106:
   Action: 249
@@ -1625,7 +1625,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[88][91][A2][A3][9C][9A][9B][90][A9][91][9B][90][A3][A0][90][9D][C3][95][A0][9E]"#Royal iced tea
+  Name: "[7C][A0][A2][A0][9D].[90][A7][A0][9D].[90][A9][91][9B]"#Royal iced tea
   Type: 36
 108:
   Action: 249
@@ -1642,7 +1642,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][A2][A0][A4][96][9A][9F][A0][93][C2][9B][90][9F][91][A1][9A][A4][A0][9C]"#Protein drink
+  Name: "[81][A2][A0][A4][96][9A][9F].[90][9F][91][A1][9A][A4][A0][9C]"#Protein drink
   Type: 36
 109:
   Action: 249
@@ -1693,7 +1693,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7D][96][9C][91][A2][A3][A4][93][A0][90][A0][A4][90][A1][A2][A0][A3][A4][A5][95][C2]"#Cold remedy
+  Name: "[7C][91][A1][9D][9A][90][93][90][9F][A0][A3]"#Cold remedy
   Type: 36
 112:
   Action: 249
@@ -1727,7 +1727,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][91][A1][A3][A5][9D][91][90][7A][9F][A4][96][9D][9D][96][9C][A4][91]"#IQ capsule
+  Name: "[7C][91][A1][A3][A5][9D][91][90][9A][9F][A4][96][9D]."#IQ capsule
   Type: 36
 114:
   Action: 249
@@ -1744,7 +1744,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][91][A1][A3][A5][9D][91][90][73][C2][95][96][A2][98][9C][9A]"#Guts capsule
+  Name: "[7C][91][A1][A3][A5][9D][91][90][93][C2][95][96][A2]."#Guts capsule
   Type: 36
 115:
   Action: 249
@@ -1761,7 +1761,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][91][A1][A3][A5][9D][91][90][83][9C][A0][A2][A0][A3][A4][9A]"#Speed capsule
+  Name: "[7C][91][A1][A3][A5][9D][91][90][A3][9C][A0][A2][A0][A3][A4][9A]"#Speed capsule
   Type: 36
 116:
   Action: 249
@@ -1778,7 +1778,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][91][A1][A3][A5][9D][91][90][78][9A][93][A5][A9][96][A3][A4][9A]"#Vital capsule
+  Name: "[7C][91][A1][A3][A5][9D][91][90][98][9A][93][A5][A9]."#Vital capsule
   Type: 36
 117:
   Action: 249
@@ -1795,7 +1795,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][91][A1][A3][A5][9D][91][90][85][95][91][A9][9A]"#Luck capsule
+  Name: "[7C][91][A1][A3][A5][9D][91][90][A5][95][91][A9][9A]"#Luck capsule
   Type: 36
 118:
   Action: 249
@@ -1863,7 +1863,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][A0][A2][A0][92][9C][91][90][A3][A0][90][A3][9D][9A][93][9C][91][9E][9A]"#Carton of cream
+  Name: "[7C][A0][A2][A0][92][9C][91][90][A3][9D][9A][93][A0][9C]"#Carton of cream
   Type: 40
 122:
   Action: 249
@@ -1897,7 +1897,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][91][9F][9C][91][90][A0][A3][A4][A2][A0][94][A0][90][A3][A0][A5][A3][91]"#"Jar of hot sauce"
+  Name: "[72][91][9F][9C][91][90][A0][A3][A4][A2].[90][A3][A0][A5][A3][91]"#"Jar of hot sauce"
   Type: 40
 124:
   Action: 249
@@ -1930,7 +1930,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][A2][A0][A1][A5][A3][9C][90][99][91][90][9C][A5][9D][9A][A3][C2]"#"Backstage pass"
+  Name: "[81][A2][A0][A1][A5][A3][9C][90][99][91][9C][A5][9D][9A][A3][C2]"#"Backstage pass"
   Type: 59
 126:
   Action: 249
@@ -1947,7 +1947,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][91][9F][9C][91][90][93][9C][A5][A3][9F][A0][A3][A0][A5][A3][91]"#"Jar of delisauce"
+  Name: "[72][91][9F][9C][91][90][A1][A2][96][9D][96][A3][A0][A5][A3][91]"#"Jar of delisauce"
   Type: 40
 127:
   Action: 149
@@ -1981,7 +1981,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[80][A3][93][C6][98][91][C5][C0][96][96][90][A2][91][A3][A4][96][9F][9A][96]"#"Refreshing herb"
+  Name: "[80][A3][93][C6][98].[90][A2][91][A3][A4][96][9F][9A][96]"#"Refreshing herb"
   Type: 48
 129:
   Action: 151
@@ -2109,7 +2109,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7A][A3][A4][A2][96][92][9D][C6][C5][C0][96][96][90][A3][A2][96][95][A3][A4][93][A0]"#"Xterminator spray"
+  Name: "[7A][A3][A4][A2][96][92][9D].[90][A3][A2][96][95][A3][A4][93][A0]"#"Xterminator spray"
   Type: 52
 138:
   Action: 169
@@ -2135,7 +2135,7 @@
   Help Text Pointer: data_04.l_0xc54c6d
   Misc Flags:
   - jeff can use
-  Name: "[82][91][99][95][91][A4][A9][9A][9C][90][9B][A0][94][A5][A2][A4][91]"#"Yogurt dispenser"
+  Name: "[82][91][99][95][91][A4][A9].[90][9B][A0][94][A5][A2][A4][91]"#"Yogurt dispenser"
   Type: 52
 140:
   Action: 186
@@ -2344,7 +2344,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][91][A2][91][90][94][A2][C6][99][9F][C2][A7][90][9F][A0][A3][9C][A0][93]"#"Pair`of dirty socks"
+  Name: "[74][A2][C6][99][9F][C2][96][90][9F][A0][A3][9C][9A]"#"Pair`of dirty socks"
   Type: 52
 153:
   Action: 173
@@ -2412,7 +2412,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][A2][A0][9C][9D][C6][A4][C3][96][90][A6][91][A2][91][A0][9F][91]"#"Pharaoh's curse"
+  Name: "[81][A2][A0][9C][9D][C6][A4].[90][A6][91][A2][91][A0][9F][91]"#"Pharaoh's curse"
   Type: 52
 157:
   Action: 184
@@ -2458,7 +2458,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][9A][9D][C5][9D][C6][90][93][9F][96][99][90]93][C2][95][96][A2][98][9C][9A]"#"Sudden guts pill"
+  Name: "[7C][91][A1][A3].[90][93][9F][96][99].[93][C2][95][96][A2]."#"Sudden guts pill"
   Type: 53
 160:
   Action: 177
@@ -2475,7 +2475,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][96][AA][A0][A9][96][9C][90][75][A2][91][9C][A0][9F][9A][A4][91]"#"Bag of Dragonite"
+  Name: "[7E][96][AA][A0][9C][90][75][A2][91][9C][A0][9F][9A][A4][91]"#"Bag of Dragonite"
   Type: 53
 161:
   Action: 183
@@ -2540,7 +2540,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][9F][9A][94][91][90][A0][90][99][91][A3][A4][96][9F][A9][9A][93][A0][A3][A4][9A]"#"Shyness book"
+  Name: "[7C][9F][9A][94][91][90][A0][90][99][91][A3][A4][96][9F][A9]."#"Shyness book"
   Type: 59
 165:
   Action: 193
@@ -2572,7 +2572,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7C][A0][A2][A0][9D][96][93][A3][9C][9A][9B][90][92][91][9F][91][9F]"#"King banana"
+  Name: "[7C][A0][A2][A0][9D][96][93][A3][9C].[90][92][91][9F][91][9F]"#"King banana"
   Type: 56
 167:
   Action: 288
@@ -2672,7 +2672,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][9D][A0][A7][A0][9B][90][9C][9D][C5][A9][96][93][A0][9B][90][91][A1][A1][91][A2][91][A4]"#"Bad key machine"
+  Name: "[81][9D][A0][A7].[90][9C][9D][C5][A9].[90][91][A1][A1]."#"Bad key machine"
   Type: 59
 173:
   Action: 1
@@ -2688,7 +2688,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][A2][96][9E][96][9F][9F][C2][96][90][A4][A0][93][91][A2][C2]"#"Temporary goods"
+  Name: "[73][A2][96][9E][96][9F].[90][A4][A0][93][91][A2][C2]"#"Temporary goods"
   Type: 56
 174:
   Action: 198
@@ -2704,7 +2704,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7D][9A][A1][9C][90][92][A5][9E][91][94][91][90][A0][A4][90][99][A0][9E][92][9A]"#"Zombie paper"
+  Name: "[72][A5][9E][91][94][91][90][A0][A4][90][99][A0][9E][92][9A]"#"Zombie paper"
   Type: 58
 175:
   Action: 199
@@ -2868,7 +2868,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7D][91][A3][A4][9A][9C][90][95][9D][C6][90][9C][91][A2][91][9F][95][91][AA][96][9B]"#"Pencil eraser"
+  Name: "[83][A4][97][A2][9C][91][90][9C][91][A2][91][9F][95]."#"Pencil eraser"
   Type: 59
 185:
   Action: 270
@@ -3079,7 +3079,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][C2][AA][9C][91]-[A1][A5][A4][96][93][A0][95][9A][A4][96][9D][C3]"#"Exit mouse"
+  Name: "[7E][C2][AA][9C][91]-[A1][A5][A4][96][93][A0][95]."#"Exit mouse"
   Type: 56
 198:
   Action: 249
@@ -3227,7 +3227,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7F][96][99][9F][91][A9][9A][A4][96][9D][C3][9F][91][C6][90][93][96][C0][C3]"#"Insignificant item"
+  Name: "[7F][96][99][9F][91][A9][9A][A4].[90][93][96][C0][C3]"#"Insignificant item"
   Type: 59
 207:
   Action: 249
@@ -3244,7 +3244,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][91][94][9A][A9][96][A3][9C][9A][9B][90][A4][A0][A2][A4][9A][9C]"#"Magic tart"
+  Name: "[7E][91][94][9A][A9].[90][A4][A0][A2][A4][9A][9C]"#"Magic tart"
   Type: 32
 208:
   Action: 1
@@ -3291,7 +3291,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7D][91][A3][A4][9A][9C][90][95][9D][C6][90][9D][91][A3][A4][9A][9C][A0][93]"#"Eraser eraser"
+  Name: "[7D][91][A3][A4].[90][A0][A4][90][9D][91][A3][A4][9A][9C][A0][93]"#"Eraser eraser"
   Type: 59
 211:
   Action: 284
@@ -3334,7 +3334,7 @@
   Help Text Pointer: data_04.l_0xc55ebb
   Misc Flags:
   - ness can use
-  Name: "[72][9A][A4][91][90][93][C2][A3][AA][A0][9B][90][9D][9A][94][9A]"#"Big league bat"
+  Name: "[72][9A][A4][91][90][93][C2][A3][AA].[9D][9A][94][9A]"#"Big league bat"
   Type: 16
 214:
   Action: 239
@@ -3347,7 +3347,7 @@
   Help Text Pointer: data_04.l_0xc55ef6
   Misc Flags:
   - ness can use
-  Name: "[81][A2][96][93][A0][A3][A7][A0][95][9F][91][C6][90][92][9A][A4][91]"#"Ultimate bat"
+  Name: "[81][A2][96][93][A0][A3][A7].[90][92][9A][A4][91]"#"Ultimate bat"
   Type: 16
 215:
   Action: 239
@@ -3376,7 +3376,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[81][9D][91][A4][9A][9F][A0][93][C2][9B][90][92][A2][91][A3][9D][96][A4]"#"Platinum band"
+  Name: "[81][9D][91][A4][9A][9F].[90][92][A2][91][A3][9D][96][A4]"#"Platinum band"
   Type: 24
 217:
   Action: 240
@@ -3405,7 +3405,7 @@
   Help Text Pointer: data_04.l_0xc55f36
   Misc Flags:
   - paula can use
-  Name: "[79][91][C0][9A][A4][9F][91][C6][90][9D][96][9F][A4][A0][A9][9C][91]"#"Defense ribbon"
+  Name: "[79][91][C0].[90][9D][96][9F][A4][A0][A9][9C][91]"#"Defense ribbon"
   Type: 28
 219:
   Action: 240
@@ -3431,7 +3431,7 @@
   Help Text Pointer: data_04.l_0xc55f84
   Misc Flags:
   - paula can use
-  Name: "[83][91][A4][A5][A2][9A][91][9F][A3][9C][91][C6][90][9D][96][9F][A4][91]"#"Saturn ribbon"
+  Name: "[7D][96][9F][A4][91][90][83][91][A4][A5][A2][9F][A0][93]"#"Saturn ribbon"
   Type: 28
 221:
   Action: 240
@@ -3447,7 +3447,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][A0][9F][96][A4][91][90][92][96][99][9E][A0][9D][93][9A][C6]"#"Coin of silence"
+  Name: "[7E][A0][9F][96][A4][91][90][92][96][99][9E][A0][9D]."#"Coin of silence"
   Type: 28
 222:
   Action: 240
@@ -3514,7 +3514,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][C2][A3][A4][A2][A0][92][A2][A0][95][90][75][9A]-[B4][9C][A3]"#"Skip sandwich DX"
+  Name: "[72][C2][A3][A4][A2][A0][92][A2][A0][95][90][83][A5][A1][96][A2]"#"Skip sandwich DX"
   Type: 32
 226:
   Action: 249
@@ -3531,7 +3531,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 227:
   Action: 249
@@ -3548,7 +3548,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 228:
   Action: 249
@@ -3565,7 +3565,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 229:
   Action: 249
@@ -3582,7 +3582,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 230:
   Action: 249
@@ -3599,7 +3599,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 231:
   Action: 249
@@ -3616,7 +3616,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[73][96][99][A5][A9][9A][9B][90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
+  Name: "[73][96][99][A5][A9].[90][92][A5][A4][96][A2][92][A2][A0][95]"#"Lucky sandwich"
   Type: 32
 232:
   Action: 249
@@ -3650,7 +3650,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[75][93][A0][9B][9F][A0][9B][90][94][91][9E][92][A5][A2][94][96][A2]"#"Double burger"
+  Name: "[75][93][A0][9B][9F][A0][9B][90][92][A5][A2][94][96][A2]"#"Double burger"
   Type: 32
 234:
   Action: 249
@@ -3667,7 +3667,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[71][A2][91][A7][9A][A3][A0][93][C2][9B][90][A9][9A][99][9C][96][9B][9C]"#"Peanut cheese`bar"
+  Name: "[71][A2][91][A7][9A][A3].[90][A9][9A][99][9C][96][9B][9C]"#"Peanut cheese`bar"
   Type: 32
 235:
   Action: 249
@@ -3701,7 +3701,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[84][91][A2][96][9D][9C][91][90][A2][9A][A3][A0][93][A0][9B][90][9C][91][AA][9A]"#"Bowl of rice gruel"
+  Name: "[84][91][A2][96][9D][9C][91][90][A2][9A][A3].[9C][91][AA][9A]"#"Bowl of rice gruel"
   Type: 32
 237:
   Action: 249
@@ -3854,7 +3854,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[82][A0][A3][9C][A0][AA][9F][A0][96][90][93][C6][9D][90][9E][C6][A3][A0]"#"Luxury jerky"
+  Name: "[73][C6][9D][96][9F].[90][9E][C6][A3][A0][90][9D][C5][9C][A3]"#"Luxury jerky"
   Type: 32
 246:
   Action: 249
@@ -3871,7 +3871,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[72][A0][9D][C3][AA][91][C6][90][92][A5][A4][C2][9D][9C][91][90][93][A0][95][C2]"#"Bottle of DXwater"
+  Name: "[74][A0][A2][9F][91][C6][90][9E][9A][9F][96][A2][91][9D][9C][91]"#"Bottle of DXwater"
   Type: 36
 247:
   Action: 249
@@ -3888,7 +3888,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[7E][91][94][9A][A9][96][A3][9C][9A][9B][90][A1][A5][95][95][9A][9F][94]"#"Magic pudding"
+  Name: "[7E][91][94][9A][A9].[90][A1][A5][95][95][9A][9F][94]"#"Magic pudding"
   Type: 32
 248:
   Action: 239
@@ -3901,7 +3901,7 @@
   Help Text Pointer: data_05.l_0xc567f4
   Misc Flags:
   - paula can use
-  Name: "[71][9F][A4][9A][A1][A2][9A][94][91][A2][9F][91][C6][90][A3][9C][A0][93][A0][A2][A0][95][9C][91]"#"Non-stick frypan"
+  Name: "[72][96][99][A1][A2][9A][94].[A3][9C][A0][93][A0][A2]."#"Non-stick frypan"
   Type: 16
 249:
   Action: 240
@@ -3917,7 +3917,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[83][91][A4][A5][A2][9A][91][9F][A3][9C][91][C6][90][9E][A0][9F][96][A4][9C][91]"#"Mr. Saturn coin"
+  Name: "[7E][A0][9F][96][A4][91][90][83][91][A4][A5][A2][9F]"#"Mr. Saturn coin"
   Type: 28
 250:
   Action: 1
@@ -3967,7 +3967,7 @@
   - ness can use
   - paula can use
   - poo can use
-  Name: "[84][91][A2][96][9D][9C][91][90][9D][91][A1][AA][9A][90][98][9A][99][9F][9A]"#"Cup of Lifenoodles"
+  Name: "[7D][91][A1][AA][91][90][98][9A][99][9F][9A]"#"Cup of Lifenoodles"
   Type: 48
 253:
   Action: 1
